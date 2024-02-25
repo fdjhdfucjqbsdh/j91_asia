@@ -1,10 +1,10 @@
-baseURL: "https://my.j91.asia"
+baseURL: "https://j91.asia"
 title: Javsubs91
 paginate: 20
 theme: coyote
 
 enableRobotsTXT: true
-googleAnalytics: G-TSY59ZM1W1
+googleAnalytics: G-XJDQFLQCWR
 
 sitemap:
   changeFreq: "hourly"
