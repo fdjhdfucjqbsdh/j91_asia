@@ -1,0 +1,21 @@
+---
+author: j91.asia
+title: code_title
+date: 2023-07-05
+image: "isi_image.jpg"
+---
+
+### title_full
+___
+
+{{< youtubepl streamsb_fileid >}}
+___
+
+{{% button href="https://streamsb.net/d/streamsb_fileid" icon="fas fa-download" %}}download this video{{% /button %}}
+### About
+
+`Release date: 2023-07-05`
+
+`Duration: isi_duration`
+
+`Maker:	isi_maker`
