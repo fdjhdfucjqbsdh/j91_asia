@@ -1,0 +1,66 @@
+.article-list {
+  display: grid;
+  gap: 2.4rem 1.6rem;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 3.2rem 1.6rem;
+
+  @media screen and (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.article {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px -2px #000a3c1a;
+  background-color: #F7F7F7;
+  overflow: hidden;
+  transition: box-shadow .2s;
+
+  &:hover {
+  box-shadow: 0 0 3px #515151;
+  }
+
+  &__inner {
+    color: #111111;
+    text-decoration: none;
+    flex: 1;
+  }
+
+  &__header {
+    position: relative;
+    padding-top: 67%;
+  }
+
+  &__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  &__text {
+	 padding-top: 1.2rem;
+	 padding-right: 0.5rem;
+	 padding-left: 0.5rem;
+  }
+
+  &__title {
+	 font-size: 1.2rem;
+	 font-weight: 600;
+	 line-height: 1.1;
+	 overflow: hidden;
+  }
+
+  &__footer {
+    text-align: right;
+    padding: 1rem 1.4rem 1.6rem;
+    color: #93a5b1;
+    font-size: 1.2rem;
+  }
+}

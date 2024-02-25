@@ -1,0 +1,65 @@
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, viewport-fit=cover"> 
+<meta name="google-site-verification" content="xEFT-zdbX0vqljwzrhBieoyo6OmHhVYyylR7PytJoeo" />
+<meta name="google-site-verification" content="isSWpwKWT1VbV7fPGxSRVXsKM7tYwUtDBi1S84jKlqs" />
+<meta name="juicyads-site-verification" content="8dfa463f90d0a124081985a0e09b5df5">
+<link rel="icon" href="https://j91.asia/asset/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="https://j91.asia/asset/apple-touch-icon-120x120.svg">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+<link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css'>
+<meta name="6a97888e-site-verification" content="c75db8b38530615dd784c929371b83ee">
+<!-- Add other content here -->
+
+  {{ if .HasShortcode "github_button" }}
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  {{end}}
+
+  {{ template "_internal/google_analytics.html" . }}
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(95208493, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/95208493" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<title>
+ {{- if .IsHome -}}
+   Home | {{ .Site.Title }}
+ {{- else if .Params.hide_site_title -}}
+   {{ .Page.Title }}
+ {{- else if .Page.Title -}}
+   {{ .Page.Title }} | {{ .Site.Title }}
+ {{- else -}}
+   {{ .Site.Title }}
+ {{- end -}}
+</title> 
+{{ $sass := resources.Get "scss/style.scss" }}
+{{ $style := $sass | resources.ToCSS | minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+{{- if (eq .Layout "search") }}
+  {{ $ikljs := resources.Get "js/ikl.js" }}
+  {{ $fusejs := resources.Get "js/fuse.basic.min.js" }}
+  {{ $markjs := resources.Get "js/mark.min.js" }}
+  {{ $search := resources.Get "js/search.js" }}
+  {{ $fetch := resources.Get "js/iecompat/fetch.min.js" }}
+  {{ $promises := resources.Get "js/iecompat/promises.min.js" }}
+  {{ $remove := resources.Get "js/iecompat/remove.min.js" }}
+  {{ $template := resources.Get "js/iecompat/template.min.js" }}
+  {{ $js := slice $ikljs $fusejs $search $markjs $fetch $promises $remove $template | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
+  <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{- end }}

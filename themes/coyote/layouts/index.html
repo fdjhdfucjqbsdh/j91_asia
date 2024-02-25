@@ -1,0 +1,29 @@
+{{ define "main" }}
+  {{- partial "profile.html" }}
+
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $paginator := .Paginate $pages }}
+
+  <section class="article-list">
+    {{ range $paginator.Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </section>
+
+  {{- if gt $paginator.TotalPages 1 }}
+    {{- partial "pagination.html" . -}}
+  {{- end }}
+
+<center><script type="text/javascript">
+	atOptions = {
+		'key' : 'e145eaa981f274b7a33ae08ba80c417c',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/e145eaa981f274b7a33ae08ba80c417c/invoke.js"></scr' + 'ipt>');
+</script></center>
+
+  
+{{ end }}

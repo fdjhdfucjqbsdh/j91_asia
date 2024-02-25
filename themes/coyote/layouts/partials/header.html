@@ -1,0 +1,72 @@
+  <header class="header" id="header">
+   <nav class="navbar container">
+     <a href="/" class="brand"><img src="/j91-logo.png" alt="Javsubs91" width="120"></a>
+      <div class="burger" id="burger">
+         <span class="burger-line"></span>
+         <span class="burger-line"></span>
+         <span class="burger-line"></span>
+      </div>
+      <span class="overlay"></span>
+      <div class="menu" id="menu">
+         <ul class="menu-inner">
+            <li class="menu-item"><a class="menu-link" href="/"><h3>Home</h3></a></li>
+            <li class="menu-item"><a class="menu-link" href="/tags/censored/"><h3>Censored</h3></a></li>
+            <li class="menu-item"><a class="menu-link" href="/tags/uncensored/"><h3>Uncensored</h3></a></li>
+            <li class="menu-item"><a class="menu-link" href="/tags/old-releases/"><h3>Old Releases (PROJECT)</h3></a></li>
+            <li class="menu-item"><a class="menu-link" href="/tags/upcoming-releases/"><h3>Upcoming Releases</h3></a></li>
+         </ul>
+      </div>
+        <a href="{{ "search" | absURL }}">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </a>
+      </nav>
+</header>
+
+
+        <script id="rendered-js" >
+// Open and Close Navbar Menu
+const navbarMenu = document.getElementById("menu");
+const burgerMenu = document.getElementById("burger");
+const bgOverlay = document.querySelector(".overlay");
+
+if (burgerMenu && bgOverlay) {
+  burgerMenu.addEventListener("click", () => {
+    navbarMenu.classList.add("is-active");
+    bgOverlay.classList.toggle("is-active");
+  });
+
+  bgOverlay.addEventListener("click", () => {
+    navbarMenu.classList.remove("is-active");
+    bgOverlay.classList.toggle("is-active");
+  });
+}
+
+// Close Navbar Menu on Links Click
+document.querySelectorAll(".menu-link").forEach(link => {
+  link.addEventListener("click", () => {
+    navbarMenu.classList.remove("is-active");
+    bgOverlay.classList.remove("is-active");
+  });
+});
+
+// Open and Close Search Bar Toggle
+const searchBlock = document.querySelector(".search-block");
+const searchToggle = document.querySelector(".search-toggle");
+const searchCancel = document.querySelector(".search-cancel");
+
+if (searchToggle && searchCancel) {
+  searchToggle.addEventListener("click", () => {
+    searchBlock.classList.add("is-active");
+  });
+
+  searchCancel.addEventListener("click", () => {
+    searchBlock.classList.remove("is-active");
+  });
+}
+//# sourceURL=pen.js
+    </script>
+<br><br>

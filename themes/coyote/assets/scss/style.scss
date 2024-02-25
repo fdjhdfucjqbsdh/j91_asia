@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@700&display=swap');
+
+@import "external/reset.scss";
+@import "article.scss";
+@import "footer.scss";
+@import "header.scss";
+@import "post.scss";
+@import "profile.scss";
+@import "pagination.scss";
+@import "search.scss";
+@import "tags.scss";
+@import "video-ondemand.scss";
+
+html {
+  font-size: 62.50%;
+}
+a {
+  color: #1e1e1e;
+  text-decoration: none;
+}
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+.main {
+  min-height: calc(100vh - 87px - 48.5px);
+}
+.not-found {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12rem;
+
+  span {
+    font-size: 2.4rem;
+  }
+}
+span.fontawesome-inline-svg {
+  display: inline-block;
+  height: 0.9em;
+  width: 0.9em;
+  top: 0.1em;
+  position: relative;
+}
+
+/* Style buttons */
+.bbtn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.bbtn:hover {
+  background-color: RoyalBlue;
+}
+* {
+  box-sizing: border-box;
+}
+
+.max-800px {
+    max-width: 800px;
+}
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+
+/* Block ADB */
+.popSc {
+	 position: fixed;
+	 top: 0;
+	 bottom: 0;
+	 left: 0;
+	 right: 0;
+	 padding: 20px;
+	 background: rgba(255, 255, 255, 0.1);
+	 z-index: 99980;
+	 -webkit-backdrop-filter: blur(10px);
+	 backdrop-filter: blur(10px);
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+}
+ .popSc.hidden {
+	 display: none;
+}
+ .popSc .popBo {
+	 position: relative;
+	 background: rgba(255, 255, 255, 0.8);
+	 -webkit-backdrop-filter: blur(10px);
+	 backdrop-filter: blur(10px);
+	 max-width: 400px;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 flex-direction: column;
+	 padding: 30px;
+	 border-radius: 20px;
+	 box-shadow: 0 5px 25px #000;
+}
+ .popSc .popBo svg {
+	 display: block;
+	 width: 50px;
+	 height: 50px;
+	 fill: none !important;
+	 stroke: #08102b;
+	 stroke-linecap: round;
+	 stroke-linejoin: round;
+	 stroke-width: 1.5;
+}
+ .popSc .popBo h2 {
+	 margin: 10px 0 15px 0;
+	 font-size: 1.2rem;
+	 font-weight: 800;
+	 color: #08102b;
+}
+ .popSc .popBo p {
+	 margin: 0;
+	 line-height: 1.7em;
+	 font-size: 0.9rem;
+	 color: #08102b;
+}
+ .popSc .popBo .popBtn {
+	 display: inline-flex;
+	 justify-content: center;
+	 align-items: center;
+	 height: 50px;
+	 width: 50px;
+	 outline: none;
+	 border: none;
+	 background: #482dff;
+	 border-radius: 50%;
+	 margin-top: 20px;
+	 transition: all 0.2s ease;
+	 -webkit-transition: all 0.2s ease;
+}
+ .popSc .popBo .popBtn:hover {
+	 transform: scale(1.05);
+	 -webkit-transform: scale(1.05);
+}
+ .popSc .popBo .popBtn svg {
+	 width: 24px;
+	 height: 24px;
+	 stroke: #fff;
+	 flex-shrink: 0;
+}
+ .popSc .popBo .popBtn svg.r {
+	 animation: rotateIcn 1.5s infinite linear;
+	 -webkit-animation: rotateIcn 1.5s infinite linear;
+}
+ .popSc {
+	 animation: popupBlur 0.3s ease-in;
+	 -webkit-animation: popupBlur 0.3s;
+}
+ .popSc > * {
+	 animation: popupScale 0.3s ease-in;
+	 -webkit-animation: popupScale 0.3s;
+}
+ .darkMode .popSc {
+	 background: rgba(0, 0, 0, 0.1);
+}
+ .darkMode .popSc .popBo {
+	 background: rgba(50, 50, 50, 0.8);
+}
+ .darkMode .popSc .popBo svg {
+	 stroke: #fefefe;
+}
+ .darkMode .popSc .popBo p, .darkMode .popSc .popBo h2 {
+	 color: #fefefe;
+}
+ @keyframes popupBlur {
+	 from {
+		 opacity: 0;
+	}
+	 to {
+		 opacity: 1;
+	}
+}
+ @-webkit-keyframes popupBlur {
+	 from {
+		 opacity: 0;
+	}
+	 to {
+		 opacity: 1;
+	}
+}
+ @keyframes popupScale {
+	 from {
+		 transform: scale(0);
+		 animation-timing-function: ease-in;
+		 opacity: 0;
+	}
+	 to {
+		 transform: scale(1);
+		 opacity: 1;
+	}
+}
+ @-webkit-keyframes popupScale {
+	 from {
+		 -webkit-transform: scale(0);
+		 -webkit-animation-timing-function: ease-in;
+		 opacity: 0;
+	}
+	 to {
+		 -webkit-transform: scale(1);
+		 opacity: 1;
+	}
+}
+ @keyframes rotateIcn {
+	 from {
+		 transform: rotate(0deg);
+	}
+	 to {
+		 transform: rotate(359deg);
+	}
+}
+ @-webkit-keyframes rotateIcn {
+	 from {
+		 -webkit-transform: rotate(0deg);
+	}
+	 to {
+		 -webkit-transform: rotate(359deg);
+	}
+}
+ 

@@ -1,0 +1,44 @@
+baseURL: "https://my.j91.asia"
+title: Javsubs91
+paginate: 20
+theme: coyote
+
+enableRobotsTXT: true
+googleAnalytics: G-TSY59ZM1W1
+
+sitemap:
+  changeFreq: "hourly"
+  filename: sitemap.xml
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: search/
+outputs:
+    home:
+        - HTML
+        - JSON
+
+taxonomies:
+  tag: "tags"
+  category: "maker"
+  series: "actress"
+
+related:
+  includeNewer: true
+  indices:
+  - name: title
+    weight: 30
+  - name: actress
+    weight: 30
+  - name: maker
+    weight: 30
+  - name: description
+    weight: 30
+  - name: tags
+    weight: 30
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false

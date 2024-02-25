@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /maker/
+Disallow: /adxad/
+Disallow: /tags/
+Disallow: /adb/
+Sitemap: {{ "sitemap.xml" | absLangURL }}

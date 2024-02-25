@@ -1,0 +1,87 @@
+baseURL = 'https://my.j91.asia' # TODO: Replace it with your site title
+languageCode = 'en-us'
+title = 'Javsubs91' # TODO: Replace it with your site title
+paginate = '16'
+theme = 'coyote'
+
+# Speciific config for the coder theme. Read more https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md
+[params]
+author = "John Doe" # Replace it with your name
+color_theme = "coffee"
+description = "John Doe's personal website" # Metadata description
+gravatar = "k@kazakov.xyz"
+#avatarURL = "images/avatar.jpg" # Or use local image
+info = ["Full Stack DevOps", "Magician"]
+keywords = "blog,developer,personal"
+
+# TODO: Replace it with your own social links
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/<your account name>/"
+target = "_blank"
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/<your account name>/"
+target = "_blank"
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram fa-2x"
+weight = 3
+url = "https://www.instagram.com/<your account name>/"
+target = "_blank"
+[[params.social]]
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 5
+url = "https://www.linkedin.com/in/<your account name>/"
+target = "_blank"
+[[params.social]]
+name = "k@kazakov.xyz"
+icon = "fa fa-envelope fa-2x"
+weight = 6
+url = "mailto:bbbbbb@gmail.com"
+target = "_blank"
+to = "/npmjs/"
+status = 200
+
+[outputs]
+home = ['HTML', 'JSON']
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "title"
+    weight = 30
+
+  [[related.indices]]
+    name = "description"
+    weight = 30
+
+  [[related.indices]]
+    name = "tags"
+    weight = 30
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "maker"
+  series = "actress"
+
+[module]
+  [module.hugoVersion]
+    min = "0.81.0"
+
+[sitemap]
+  changeFreq = 'always'
+  filename = 'sitemap.xml'

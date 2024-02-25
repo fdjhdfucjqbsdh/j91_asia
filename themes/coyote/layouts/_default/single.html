@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="post">
+    <h1 style="font-size:25px;">{{ .Title | safeHTML | truncate 40 }}</h1>
+	<br>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+
+<div class="content">
+    {{ $image := .Resources.GetMatch .Params.image }}
+<img id="myImg" src="{{ $image.RelPermalink }}" alt="{{ .Title | truncate 20 }}" style="width:100%;max-width:250px">
+  <div class="text">
+<p><b>Published</b>: <time datetime="{{ .Date }}">{{ .Date.Format "2006/01/02" }}</time></p>
+<hr>
+<p><b>Maker</b>:
+{{ range .Params.maker }}
+<a href='{{ "/maker/" | relLangURL }}{{ . | urlize }}'>{{ . | humanize }}</a>,
+{{ end }}
+<hr>
+<p><b>Actress</b>:
+{{ range .Params.actress }}
+<a href='{{ "/actress/" | relLangURL }}{{ . | urlize }}'>{{ . | humanize }}</a>,
+{{ end }}
+<hr>
+
+</div></div>
+<p><b>Tags</b>:
+{{ range .Params.tags }}
+<a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . | humanize }}</a>,
+{{ end }}
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+<br>
+<center><script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+  <ins class="eas6a97888e37" data-zoneid="5015714"></ins> 
+  <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script></center>
+<!-- JuicyAds PopUnders v3 Start -->
+<script type="text/javascript" src="https://js.juicyads.com/jp.php?c=34d43303x2a4u4q2x26413a464&u=http%3A%2F%2Fwww.juicyads.rocks"></script>
+<!-- JuicyAds PopUnders v3 End -->
+  
+<br>
+  <section class="post__content">
+    <div>
+      <article>
+	      <p><b> {{ .Title }} </b></p>
+          {{ .Content }}
+      </article>
+    </div>
+  </section>
+<br><br><hr style="height:2.2px;border-width:0;color:gray;background-color:gray"><br><br>
+<script data-cfasync="false" type="text/javascript" src="//6v41p4bsq.com/lv/esnk/1995976/code.js" async class="__clb-1995976"></script>	
+<br>
+	
+{{ $related := .Site.RegularPages.Related . | first 8 }}
+{{ with $related }}
+<h3>See Also</h3>
+
+  <section class="article-list">
+ {{ range . }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </section>
+{{ end }}
+
+</div>
+<hr style="height:1.5px;border-width:0;color:gray;background-color:gray">
+{{ end }}

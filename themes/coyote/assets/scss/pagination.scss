@@ -1,0 +1,78 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 1.6rem auto 3.2rem;
+
+  &__item {
+    text-align: center;
+  }
+
+  &__link {
+    display: block;
+    min-width: 40px;
+    padding: 12px;
+    color: #111;
+    background-color: #ebeef2;
+    border-radius: 8px;
+
+    &--current {
+      background-color: #5486cc;
+      color: #fff;
+    }
+  }
+}
+
+body {
+    color: #212121;
+    background: #FAFAFA;
+    font: normal 16px/1.5 "Open Sans", Helvetica, sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    padding: 0 15px;
+    span { color: red;}
+}
+/*************************************************/
+/* USE THE FOLLOWING CSS TO STYLE YOUR PAGINATOR */
+/*************************************************/
+.pagination {
+  display: flex;
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: .75rem 0.7rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #007bff;
+  background-color: #F8F9F9;
+  border: 1px solid #dee2e6;
+}
+
+.homepage .page-link,
+.listing .page-link {
+  background-color: #fff;
+}
+
+.page-item.disabled .page-link {
+  color: #6c757d;
+  pointer-events: none;
+  cursor: auto;
+  background-color: #fff;
+  border-color: #dee2e6;
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+.pagination a:hover:not(.active) {background-color: #ddd;}
