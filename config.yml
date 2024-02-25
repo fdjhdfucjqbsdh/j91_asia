@@ -4,7 +4,7 @@ paginate: 20
 theme: coyote
 
 enableRobotsTXT: true
-googleAnalytics: G-TSY59ZM1W1
+googleAnalytics: G-XJDQFLQCWR
 
 sitemap:
   changeFreq: "hourly"
