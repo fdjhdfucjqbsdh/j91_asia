@@ -3,9 +3,9 @@ author: j91
 title: SAME-081 The Female Manager Of The Baseball Team Is Forced To Perform Sex Treatment Every Day For Her Advisor Teacher. Konatsu Kashiwagi
 
 url: /v/same081pl
-date: 0000-03-01T01:45:00Z
+date: 2024-03-01T01:45:00Z
 image: "same081pl.jpg"
-tags: [Upcoming releases, Solowork, Abuse, Drama, Club Activities - Manager	]
+tags: [Censored, Solowork, Abuse, Drama, Club Activities - Manager	]
 maker: [Attackers]
 actress: [ Kashiwagi Konatsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YyyPev178LHvJa4">
     <a href="javascript:;">
         <img src="/v/same081pl/same081pl.jpg" width="WIDTH" height="HEIGHT" alt="same081pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/YyyPev178LHvJa4" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/5elldk5avxhj" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

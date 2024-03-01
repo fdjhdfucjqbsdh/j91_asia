@@ -3,9 +3,9 @@ author: j91
 title: DVMM-072 Ordinary Male And Female Monitoring AV A Lovey-dovey College Student Couple Is Separated Into Men And Women In A Special Magic Mirror Room And Challenges The AV Actress And Actor's Amazing Technique! ! 111cm Super Big Breasts M Cup Yuria Yoshine X Amateur Male College Student (boyfriend)/(girlfriend) Amateur Female College Student X Big Dick Hard Piston Actor Edition
 
 url: /v/dvmm072pl
-date: 0000-03-01T01:20:00Z
+date: 2024-03-01T01:20:00Z
 image: "dvmm072pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Amateur, Slut, 4HR+, Female College Student, Cuckold	]
+tags: [Censored, Creampie, Solowork, Amateur, Slut, 4HR+, Female College Student, Cuckold	]
 maker: [Deeps]
 actress: [ Yoshine Yuria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yoshine Yuria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mDrpPrRQPlsGdO">
     <a href="javascript:;">
         <img src="/v/dvmm072pl/dvmm072pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/mDrpPrRQPlsGdO" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/sk88qikm3t96" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

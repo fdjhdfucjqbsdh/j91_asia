@@ -3,9 +3,9 @@ author: j91
 title: ADN-537 Teacher, Will You Go On A Date With Me After You Graduate? Airi Kijima
 
 url: /v/adn537pl
-date: 0000-03-01T01:45:00Z
+date: 2024-03-01T01:45:00Z
 image: "adn537pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Cuckold, Date, Hotel	]
+tags: [Censored, Solowork, Female Teacher, Cuckold, Date, Hotel	]
 maker: [Attackers]
 actress: [ Kijima Airi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kijima Airi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wYVWb0jxbdFVYq">
     <a href="javascript:;">
         <img src="/v/adn537pl/adn537pl.jpg" width="WIDTH" height="HEIGHT" alt="adn537pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kijima Airi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/wYVWb0jxbdFVYq" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/dfow1axed9sq" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kijima Airi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

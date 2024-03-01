@@ -3,9 +3,9 @@ author: j91
 title: HZGD-269 I Don't Have Anything To Do In The Countryside...Minaho Ariga Has A Sweaty Midsummer Affair Where She Indulges In Impregnating Sex With The God-bodied And Beautiful Big-breasted Wife Who Lives Next Door.
 
 url: /v/hzgd269pl
-date: 0000-03-01T01:32:00Z
+date: 2024-03-01T01:32:00Z
 image: "hzgd269pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Bride, Young Wife, Affair, Drama, Bride	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Bride, Young Wife, Affair, Drama, Bride	]
 maker: [Hitodzuma Hanazono Gekijou]
 actress: [ Ariga Minaho ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ariga Minaho ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6eGZMvK1m0h9zmz">
     <a href="javascript:;">
         <img src="/v/hzgd269pl/hzgd269pl.jpg" width="WIDTH" height="HEIGHT" alt="hzgd269pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Ariga Minaho ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/6eGZMvK1m0h9zmz" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/r7ptpubjnh27" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Ariga Minaho ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

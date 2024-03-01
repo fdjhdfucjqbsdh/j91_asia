@@ -3,9 +3,9 @@ author: j91
 title: ADN-542 A Story About A Girl Who Finally Found Happiness And Was Dominated By Contaminated Semen. Drifting Girl EPISODE;03 Yura Kudo
 
 url: /v/adn542pl
-date: 0000-03-01T01:45:00Z
+date: 2024-03-01T01:45:00Z
 image: "adn542pl.jpg"
-tags: [Upcoming releases, Solowork, Abuse, Drama, Soapland	]
+tags: [Censored, Solowork, Abuse, Drama, Soapland	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kudou Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4dDzao2lz3IK0Wg">
     <a href="javascript:;">
         <img src="/v/adn542pl/adn542pl.jpg" width="WIDTH" height="HEIGHT" alt="adn542pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kudou Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/4dDzao2lz3IK0Wg" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/lc3v8rbr0221" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kudou Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
