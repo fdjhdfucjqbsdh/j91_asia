@@ -13,7 +13,7 @@ actress: [ Futaba Saa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="ajV0LwleQ9UxVA9">
+<div class="video" data-videoid="7wPvp7OAkRFAA1d">
     <a href="javascript:;">
         <img src="/v/midv647pl/midv647pl.jpg" width="WIDTH" height="HEIGHT" alt="midv647pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [ Futaba Saa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/ajV0LwleQ9UxVA9" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://streamtape.to/v/7wPvp7OAkRFAA1d" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
 <p><a href="https://cdnwish.com/e9mbjgdnti8b" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
