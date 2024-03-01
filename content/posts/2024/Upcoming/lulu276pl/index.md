@@ -13,7 +13,7 @@ actress: [Yayoi Mizuki  ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="D2Pv1Al3W4tGAj">
+<div class="video" data-videoid="ok8zrbvba3cJwjQ">
     <a href="javascript:;">
         <img src="/v/lulu276pl/lulu276pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu276pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [Yayoi Mizuki  ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/D2Pv1Al3W4tGAj" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://streamtape.to/v/ok8zrbvba3cJwjQ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
 <p><a href="https://cdnwish.com/92hiyidzizn2" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
