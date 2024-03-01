@@ -13,7 +13,7 @@ actress: [Shidara Yuuhi  ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="rKWdAdgMJDcbwvz">
+<div class="video" data-videoid="qM6r1XKgGwCzBAv">
     <a href="javascript:;">
         <img src="/v/cawd590pl/cawd590pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd590pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [Shidara Yuuhi  ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/rKWdAdgMJDcbwvz" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://streamtape.to/v/qM6r1XKgGwCzBAv" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
 <p><a href="https://flaswish.com/tbk1vn4pmyzl" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
@@ -44,7 +44,7 @@ actress: [Shidara Yuuhi  ]
 	      <br>
 <div class="buttons">
 <p><a href="https://filelions.site/f/oab8hwpg8ugi" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> FL</button></a></p>
-<p><a href="https://filemoon.sx/d/9cxegqs4ubqn" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://vidoza.net/jhtx32b5nmec.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>

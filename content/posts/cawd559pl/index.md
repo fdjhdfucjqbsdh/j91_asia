@@ -11,7 +11,7 @@ actress: [Shidara Yuuhi]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="6eamqXgm4Pu9w9a">
+<div class="video" data-videoid="4AZoAPJ31jIJb4">
     <a href="javascript:;">
         <img src="https://my.j91.asia/posts/cawd559pl/cawd559pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd559pl.mp4" loading="lazy">
     </a>
@@ -31,7 +31,7 @@ actress: [Shidara Yuuhi]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/6eamqXgm4Pu9w9a"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<a href="https://streamtape.to/v/4AZoAPJ31jIJb4"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@ actress: [Shidara Yuuhi]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/gj2epgdyw0w7"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></div>
+    <a href="https://vidoza.net/j32aqcn70gyx.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VDZ</button></a></div>
 <br><br>
       </div>
     </div>
