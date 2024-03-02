@@ -15,7 +15,7 @@ actress: [ Kikuno Ran ]
 
 <div class="video" data-videoid="RqZxJr3qb6iBlK">
     <a href="javascript:;">
-        <img src="https://img400.imagetwist.com//th/61495/qophimbd172e.jpg" width="WIDTH" height="HEIGHT" alt="nima027pl.mp4" loading="lazy">
+        <img src="https://cdn.imagedeliveries.com/1404309/8b42e5f3c6b23542c1a4ea847d4257eb8192cd1c/2.webp" width="WIDTH" height="HEIGHT" alt="nima027pl.mp4" loading="lazy">
     </a>
 </div>
 
