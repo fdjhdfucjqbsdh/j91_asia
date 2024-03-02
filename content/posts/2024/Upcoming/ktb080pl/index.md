@@ -3,9 +3,9 @@ author: j91
 title: KTB-080 Female Boss Likes Sperm! A Strong Ejaculation Office Lady With A Peach Butt Who Is Passionate About Ejaculation And Is Busy Researching Dicks Even While She Is At Work.My Female Boss, An, An Komatsu.
 
 url: /v/ktb080pl
-date: 0000-03-02T01:55:00Z
+date: 2024-03-02T01:55:00Z
 image: "ktb080pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Married Woman, Tall, Leg Fetish, Female Boss	]
+tags: [Censored, OL, Solowork, Married Woman, Tall, Leg Fetish, Female Boss	]
 maker: [ Kahanshin Tigers - Mousozoku  ]
 actress: [ Komatsu An ]
 ---
@@ -13,13 +13,13 @@ actress: [ Komatsu An ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9y91ymOrjBhyyz">
     <a href="javascript:;">
         <img src="/v/ktb080pl/ktb080pl.jpg" width="WIDTH" height="HEIGHT" alt="ktb080pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Komatsu An ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/9y91ymOrjBhyyz" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/appiq1fx0m5d" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Komatsu An ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

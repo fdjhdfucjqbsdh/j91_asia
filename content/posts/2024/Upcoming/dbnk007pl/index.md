@@ -3,9 +3,9 @@ author: j91
 title: DBNK-007 During The Semen Test, ``I'm So Nervous That My Sperm Doesn't Come Out...'' When I Ask A Nurse To Help Me Ejaculate, What Will Happen...! ? 4 Hours
 
 url: /v/dbnk007pl
-date: 0000-03-02T01:00:00Z
+date: 2024-03-02T01:00:00Z
 image: "dbnk007pl.jpg"
-tags: [Upcoming releases, Handjob, Uniform, Amateur, 4HR+, Nurse, Hospital - Clinic	]
+tags: [Censored, Handjob, Uniform, Amateur, 4HR+, Nurse, Hospital - Clinic	]
 maker: [ Dorobouneko - Emanuel  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4RRy2PPJO1HKqBg">
     <a href="javascript:;">
         <img src="/v/dbnk007pl/dbnk007pl.jpg" width="WIDTH" height="HEIGHT" alt="dbnk007pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/4RRy2PPJO1HKqBg" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/wayu7gccdq1c" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: SQTE-526 A Refreshing Beautiful Girl With A Short Cut Loves Licking & Has Tongue Out And Face Sex Riku Ichikawa
 
 url: /v/sqte526pl
-date: 0000-03-02T01:55:00Z
+date: 2024-03-02T01:55:00Z
 image: "sqte526pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Masturbation, Beautiful Girl, School Uniform	]
+tags: [Censored, Blow, Solowork, Masturbation, Beautiful Girl, School Uniform	]
 maker: [ S-cute  ]
 actress: [ Ichikawa Riku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ichikawa Riku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OAlrbWZOjXHZVDQ">
     <a href="javascript:;">
         <img src="/v/sqte526pl/sqte526pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte526pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Ichikawa Riku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/OAlrbWZOjXHZVDQ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/oec9vz5135pt" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Ichikawa Riku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
