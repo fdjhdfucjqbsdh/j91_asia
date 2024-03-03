@@ -1,21 +1,21 @@
 ---
 author: j91
-title: RCT-822 Mother and son secretly play an incest game at a kotatsu
+title: MRSS-095 Story of my wife being stolen by AI Haruna Kawakita
 
-url: /was/rct822
-date: 2020-08-25T23:47:00Z
-image: "rct822pl.jpg"
-tags: [Old Releases,Censored, Other Fetish, Planning, Incest, Footjob, Mother	]
-maker: [ Rocket  ]
-actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
+url: /was/mrss095pl
+date: 2020-09-24T00:50:00Z
+image: "mrss095pl.jpg"
+tags: [Old Releases,Censored, 3P, 4P, Big tits, Creampie, Cuckold, Married Woman, Solowork]
+maker: [ Misesu No Sugao - Emanuel]
+actress: [ Kawakita Haruna]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="79MM6eVG0McAXer">
+<div class="video" data-videoid="LpQpamZGZViRXg9">
     <a href="javascript:;">
-        <img src="/was/rct822pl/rct822.jpg" width="WIDTH" height="HEIGHT" alt="rct822.mp4" loading="lazy">
+        <img src="/was/mrss095pl/mrss095pl.jpg" width="WIDTH" height="HEIGHT" alt="mrss095pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/79MM6eVG0McAXer" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/LpQpamZGZViRXg9" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://vidoza.net/r11rkd2keujo" target="_blank"><button class="btn-hover color-1"><i class="fa fa-download"></i> VDZ</button></a></p></div>
+<p><a href="https://vidoza.net/onei877p2euc" target="_blank"><button class="btn-hover color-1"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>

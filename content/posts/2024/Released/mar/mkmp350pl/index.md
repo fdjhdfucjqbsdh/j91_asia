@@ -1,21 +1,21 @@
 ---
 author: j91
-title: RCT-822 Mother and son secretly play an incest game at a kotatsu
+title: MKMP-350 Rookie star Nako's AV debut
 
-url: /was/rct822
-date: 2020-08-25T23:47:00Z
-image: "rct822pl.jpg"
-tags: [Old Releases,Censored, Other Fetish, Planning, Incest, Footjob, Mother	]
-maker: [ Rocket  ]
-actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
+url: /was/mkmp350pl
+date: 2020-09-24T00:00:00Z
+image: "mkmp350pl.jpg"
+tags: [Old Releases,Censored, Blow, Solowork, Debut Production, Beautiful Girl, Breasts	]
+maker: [ K.M.Produce  ]
+actress: [ Amatsuki Azu]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="79MM6eVG0McAXer">
+<div class="video" data-videoid="Mo41WWD7gRsmvYk">
     <a href="javascript:;">
-        <img src="/was/rct822pl/rct822.jpg" width="WIDTH" height="HEIGHT" alt="rct822.mp4" loading="lazy">
+        <img src="/was/mkmp350pl/mkmp350pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp350pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/79MM6eVG0McAXer" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/Mo41WWD7gRsmvYk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Chie, Egami Shiho, Anzai Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://vidoza.net/r11rkd2keujo" target="_blank"><button class="btn-hover color-1"><i class="fa fa-download"></i> VDZ</button></a></p></div>
+<p><a href="https://vidoza.net/h1nwu4hvg3f6" target="_blank"><button class="btn-hover color-1"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>
