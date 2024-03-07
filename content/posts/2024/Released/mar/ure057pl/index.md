@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-302 Exchange Couple NTR Shocking Cheating Video Of Wife And Friend Who Witnessed Through The Window Rinko Kinoshita
-url: /v/jul302pl
-date: 2020-09-24T06:15:00Z
-image: "jul302pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Digital Mosaic,Cuckold,Huge Butt	 ]
+title: URE-057 Exclusive to Madonna A lewd live-action depiction of the lewd behavior of a married woman exposed to the desires of a young man! ! Original work, MILF Shobo Ayumi Miura cuckolding the aunt of her dreams
+
+url: /was/ure057pl
+date: 2020-09-24T06:20:00Z
+image: "ure057pl.jpg"
+tags: [Old Releases,Censored, Big tits, Digital Mosaic, Incest, Married Woman, Mature Woman, Original Collaboration, Solowork]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [ Ayumi Ryou]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="g2BAr2llbXfqDkB">
+<div class="video" data-videoid="2rgd1g9GD3fZOy4">
     <a href="javascript:;">
-        <img src="/v/jul302pl/jul302pl.jpg" width="WIDTH" height="HEIGHT" alt="jul302pl.mp4" loading="lazy">
+        <img src="/was/ure057pl/ure057pl.jpg" width="WIDTH" height="HEIGHT" alt="ure057pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/g2BAr2llbXfqDkB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/2rgd1g9GD3fZOy4" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/fukwiqntsxvv/JUL-302.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/80mx093f6mjh" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

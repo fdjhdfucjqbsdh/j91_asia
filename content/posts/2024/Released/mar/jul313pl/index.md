@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-302 Exchange Couple NTR Shocking Cheating Video Of Wife And Friend Who Witnessed Through The Window Rinko Kinoshita
-url: /v/jul302pl
+title: JUL-313 A training trip where a mid-career married woman employee who joined the company as a couple steals her husband's attention and turns her into a sex slave.Momoko Isshiki
+
+url: /was/jul313pl
 date: 2020-09-24T06:15:00Z
-image: "jul302pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Digital Mosaic,Cuckold,Huge Butt	 ]
+image: "jul313pl.jpg"
+tags: [Old Releases,Censored, Digital Mosaic, Drama, Married Woman, Mature Woman, Solowork, Various Professions]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [  Isshiki Momoko]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="g2BAr2llbXfqDkB">
+<div class="video" data-videoid="AqXmDO7094IX8QJ">
     <a href="javascript:;">
-        <img src="/v/jul302pl/jul302pl.jpg" width="WIDTH" height="HEIGHT" alt="jul302pl.mp4" loading="lazy">
+        <img src="/was/jul313pl/jul313pl.jpg" width="WIDTH" height="HEIGHT" alt="jul313pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/g2BAr2llbXfqDkB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/AqXmDO7094IX8QJ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/fukwiqntsxvv/JUL-302.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/5ofuoad4iyde" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

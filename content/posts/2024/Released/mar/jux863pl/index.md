@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-302 Exchange Couple NTR Shocking Cheating Video Of Wife And Friend Who Witnessed Through The Window Rinko Kinoshita
-url: /v/jul302pl
+title: JUX-863 Please, please don't tell my husband. ~Targeted Married Woman/Shameful Neighborhood Relationship~ Aimi Yoshikawa
+
+url: /was/jux863pl
 date: 2020-09-24T06:15:00Z
-image: "jul302pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Digital Mosaic,Cuckold,Huge Butt	 ]
+image: "jux863pl.jpg"
+tags: [Old Releases,Censored, Solowork, Humiliation, Big Tits, Married Woman, Abuse, Mature Woman, Digital Mosaic	]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [ Yoshikawa Aimi ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="g2BAr2llbXfqDkB">
+<div class="video" data-videoid="xPjzG316V9fjOD">
     <a href="javascript:;">
-        <img src="/v/jul302pl/jul302pl.jpg" width="WIDTH" height="HEIGHT" alt="jul302pl.mp4" loading="lazy">
+        <img src="/was/jux863pl/jux863pl.jpg" width="WIDTH" height="HEIGHT" alt="jux863pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/g2BAr2llbXfqDkB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/xPjzG316V9fjOD" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/fukwiqntsxvv/JUL-302.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/zlqa8h7551gv" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

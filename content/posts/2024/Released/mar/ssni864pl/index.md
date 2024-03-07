@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-302 Exchange Couple NTR Shocking Cheating Video Of Wife And Friend Who Witnessed Through The Window Rinko Kinoshita
-url: /v/jul302pl
-date: 2020-09-24T06:15:00Z
-image: "jul302pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Digital Mosaic,Cuckold,Huge Butt	 ]
-maker: [Madonna]
-actress: [Kinoshita Ririko]
+title: SSNI-864 Interchanging body fluids, intense sex Mayuki Ito S1 Dengeki Participation Special
+
+url: /was/ssni864pl
+date: 2020-09-24T06:00:00Z
+image: "ssni864pl.jpg"
+tags: [Old Releases,Censored, Beautiful Girl, Big tits, Hardcore, Kiss, Nasty, Risky Mosaic, Solowork]
+maker: [S1 NO.1 STYLE]
+actress: [ Itou Mayuki]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="g2BAr2llbXfqDkB">
+<div class="video" data-videoid="VabXDVAZpVhK1pY">
     <a href="javascript:;">
-        <img src="/v/jul302pl/jul302pl.jpg" width="WIDTH" height="HEIGHT" alt="jul302pl.mp4" loading="lazy">
+        <img src="/was/ssni864pl/ssni864pl.jpg" width="WIDTH" height="HEIGHT" alt="ssni864pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/g2BAr2llbXfqDkB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/VabXDVAZpVhK1pY" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/fukwiqntsxvv/JUL-302.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/2oxb1ecezqob" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

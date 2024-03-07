@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-302 Exchange Couple NTR Shocking Cheating Video Of Wife And Friend Who Witnessed Through The Window Rinko Kinoshita
-url: /v/jul302pl
+title: JUL-310 New Mother-in-law ~The woman I admire has become my immediate family~ Yumi Sakurai
+
+url: /was/jul310pl
 date: 2020-09-24T06:15:00Z
-image: "jul302pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Digital Mosaic,Cuckold,Huge Butt	 ]
+image: "jul310pl.jpg"
+tags: [Old Releases,Censored, Affair, Digital Mosaic, Married Woman, Mature Woman, Slender, Solowork, Stepmother]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [ Sakurai Yumi]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="g2BAr2llbXfqDkB">
+<div class="video" data-videoid="q8B38aDAYJtzpyW">
     <a href="javascript:;">
-        <img src="/v/jul302pl/jul302pl.jpg" width="WIDTH" height="HEIGHT" alt="jul302pl.mp4" loading="lazy">
+        <img src="/was/jul310pl/jul310pl.jpg" width="WIDTH" height="HEIGHT" alt="jul310pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/g2BAr2llbXfqDkB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/q8B38aDAYJtzpyW" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/fukwiqntsxvv/JUL-302.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/nfj0qn7avg06" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
