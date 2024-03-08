@@ -3,9 +3,9 @@ author: j91
 title: BONY-089 A beautiful woman living alone is targeted by a brutal criminal gang and gets creampied inside her home Honoka Tsujii
 
 url: /v/bony089pl
-date: 0000-03-08T01:10:00Z
+date: 2024-03-08T01:10:00Z
 image: "bony089pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Foreign Objects, Urination, Deep Throating, Evil	]
+tags: [Censored, Creampie, Solowork, Foreign Objects, Urination, Deep Throating, Evil	]
 maker: [ボニータ-妄想族]
 actress: [ Tsujii Honoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsujii Honoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6x94o2KDpRi9w48">
     <a href="javascript:;">
         <img src="/v/bony089pl/bony089pl.jpg" width="WIDTH" height="HEIGHT" alt="bony089pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tsujii Honoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/6x94o2KDpRi9w48" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tsujii Honoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/7zv9jcwgvbv9"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

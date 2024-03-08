@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-237 Unconsciously naughty ejaculation management of a new natural nurse who takes care of a lewd patient ~I won't leave you alone, so I'll do anything~ Light Blue Noah
 
 url: /v/ipzz237pl
-date: 0000-03-08T01:50:00Z
+date: 2024-03-08T01:50:00Z
 image: "ipzz237pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Cowgirl, Slender, Nurse	]
+tags: [Censored, Solowork, Older Sister, Cowgirl, Slender, Nurse	]
 maker: [IDEA POCKET]
 actress: [ Mizuiro Noa]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuiro Noa]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZoXMMgYx0yTqa0Y">
     <a href="javascript:;">
         <img src="/v/ipzz237pl/ipzz237pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz237pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Mizuiro Noa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ZoXMMgYx0yTqa0Y" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Mizuiro Noa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/zfuiaqpbawqd"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

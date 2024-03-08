@@ -3,9 +3,9 @@ author: j91
 title: BBAN-463 PREMIUM LESBIAN FUCK No explanation needed, no need for a man. Lesbian sex that gets you hooked and immersed. Sumire Kuramoto Natural Mizuki
 
 url: /v/bban463pl
-date: 0000-03-08T01:15:00Z
+date: 2024-03-08T01:15:00Z
 image: "bban463pl.jpg"
-tags: [Upcoming releases, Lesbian, Beautiful Girl, Nasty, Hardcore, Lesbian Kiss, Kiss	]
+tags: [Censored, Lesbian, Beautiful Girl, Nasty, Hardcore, Lesbian Kiss, Kiss	]
 maker: [Bibian]
 actress: [ Tennen Mizuki ,Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tennen Mizuki ,Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bKQ1rBb2qzIP8yQ">
     <a href="javascript:;">
         <img src="/v/bban463pl/bban463pl.jpg" width="WIDTH" height="HEIGHT" alt="bban463pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tennen Mizuki ,Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/bKQ1rBb2qzIP8yQ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tennen Mizuki ,Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/j35thqyatq2v"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

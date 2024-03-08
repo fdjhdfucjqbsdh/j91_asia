@@ -3,9 +3,9 @@ author: j91
 title: SONE-108 Shared room NTR A night on a business trip where an unfaithful boss and a new employee spend all their time having adulterous sex from morning till night. Rei Kuroshima
 
 url: /v/sone108pl
-date: 0000-03-08T01:55:00Z
+date: 2024-03-08T01:55:00Z
 image: "sone108pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Big Tits, Nasty, Hardcore, Cuckold	]
+tags: [Censored, OL, Solowork, Big Tits, Nasty, Hardcore, Cuckold	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kuroshima Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroshima Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xMZ2OL3VGbTk3wP">
     <a href="javascript:;">
         <img src="/v/sone108pl/sone108pl.jpg" width="WIDTH" height="HEIGHT" alt="sone108pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kuroshima Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/xMZ2OL3VGbTk3wP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kuroshima Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/7q9w5e1c3fwh"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

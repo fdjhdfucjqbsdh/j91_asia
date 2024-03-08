@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-236 I am indebted to you for picking me up, so I will do my best to my master, the master of aphrodisiacs, for the rest of my life Saki Sasaki
 
 url: /v/ipzz236pl
-date: 0000-03-08T01:50:00Z
+date: 2024-03-08T01:50:00Z
 image: "ipzz236pl.jpg"
-tags: [Upcoming releases, Maid, Solowork, Slender, Kiss, Acme · Orgasm	]
+tags: [Censored, Maid, Solowork, Slender, Kiss, Acme · Orgasm	]
 maker: [IDEA POCKET]
 actress: [ Sasaki Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sasaki Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pbxQ4JqW2xhr2MV">
     <a href="javascript:;">
         <img src="/v/ipzz236pl/ipzz236pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz236pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Sasaki Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/pbxQ4JqW2xhr2MV" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Sasaki Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/mmmc58n5czmb"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
