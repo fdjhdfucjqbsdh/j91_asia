@@ -34,7 +34,7 @@ actress: [ Ashitaba Mitsuha ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/1qaaBvYokKHdZ9" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/4syw59tt1m6t" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Ashitaba Mitsuha ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/tyxaaka8obua"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/m8fivcr7zdpc"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

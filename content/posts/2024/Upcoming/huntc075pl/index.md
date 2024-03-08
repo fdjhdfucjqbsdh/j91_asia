@@ -34,7 +34,7 @@ actress: [ Hoshizora Moa, Aino Hinata, Ichikawa Riku, Igarashi Mizuki, Natsushir
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/Z2xQle3VLmiq29K" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/7zx5fzcyx54j" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Hoshizora Moa, Aino Hinata, Ichikawa Riku, Igarashi Mizuki, Natsushir
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/0a5fqozqutzz"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/a5w8b9p22bde"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

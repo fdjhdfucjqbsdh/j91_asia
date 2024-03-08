@@ -34,7 +34,7 @@ actress: [ Kanade Kanon, Mori Hinako ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/g2k9lmKRwwiqjdP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/h99xr7jw1qhi" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Kanade Kanon, Mori Hinako ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/ifihjzqpny0m"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/a832lful8xl8"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

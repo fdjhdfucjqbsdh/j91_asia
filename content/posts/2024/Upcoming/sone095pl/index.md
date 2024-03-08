@@ -34,7 +34,7 @@ actress: [ Kiyohara Miyuu ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/7PAMmR8b2DTAL74" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/ro99r46hoz5m" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Kiyohara Miyuu ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/4h1d1a6b47rn"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/k7juah3ui9as"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

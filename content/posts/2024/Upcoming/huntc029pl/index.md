@@ -34,7 +34,7 @@ actress: [ Tsuno Miho ,Arimura Nozomi, Miura Maina, Shirakawa Mayumi, Kinoshita 
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/xr9MPYRjdPfkL4X" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/l9fga2r5h8sp" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Tsuno Miho ,Arimura Nozomi, Miura Maina, Shirakawa Mayumi, Kinoshita 
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/4jw8y49d2e6n"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/78lub6b0xc2q"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

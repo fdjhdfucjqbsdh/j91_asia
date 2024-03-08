@@ -34,7 +34,7 @@ actress: [ Minasuki Hikaru, Kagami Sara, Fukuda Momo, Ichii Yuka ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/aPegZ63ZwkUl2Y" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://cdnwish.com/w0roh5jcx9rn" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Minasuki Hikaru, Kagami Sara, Fukuda Momo, Ichii Yuka ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/kznr2flhmm2l"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/rrxnz1k28i89"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
