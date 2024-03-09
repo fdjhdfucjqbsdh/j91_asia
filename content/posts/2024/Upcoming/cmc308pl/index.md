@@ -1,21 +1,21 @@
 ---
 author: j91
-title: NASK-035 My Mother-in-law And I's Distorted Love VOL.02
+title: CMC-308 Cinemagic Catalog DVD 2022-2023
 
-url: /v/nask035pl
+url: /v/cmc308pl
 date: 2024-03-09T01:20:00Z
-image: "nask035pl.jpg"
-tags: [Censored, Best, Omnibus, Big Tits, 4HR+, Mature Woman, Stepmother	]
-maker: [ Nadeshiko  ]
-actress: [ Aoi Yurika, Okae Rin, Tokuyama Shouko, Himekawa Reiko]
+image: "cmc308pl.jpg"
+tags: [Censored, SM, Best, Omnibus, Nasty, Hardcore, Submissive Woman	]
+maker: [CineMagic  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="prlqqrPqrkUWWv">
+<div class="video" data-videoid="arg99aZKR8IxG4A">
     <a href="javascript:;">
-        <img src="/v/nask035pl/nask035pl.jpg" width="WIDTH" height="HEIGHT" alt="nask035pl.mp4" loading="lazy">
+        <img src="/v/cmc308pl/cmc308pl.jpg" width="WIDTH" height="HEIGHT" alt="cmc308pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,8 +33,8 @@ actress: [ Aoi Yurika, Okae Rin, Tokuyama Shouko, Himekawa Reiko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/prlqqrPqrkUWWv" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://cdnwish.com/q4ca0xru4ct2" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/arg99aZKR8IxG4A" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/6m9vj43hdq2t" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>

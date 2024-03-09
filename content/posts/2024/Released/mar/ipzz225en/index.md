@@ -34,8 +34,7 @@ actress: [Momonogi Kana ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/1pOzY7g9oXHeZV1" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://rapidgator.net/file/58008d97f4a99c6b426af35667f48d69/IPZZ-225-EN.mp4.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> FHD</button></a></p></div>
-</div>
+<p><a href="https://rapidgator.net/file/58008d97f4a99c6b426af35667f48d69/IPZZ-225-EN.mp4.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> FHD/RG</button></a></p></div>
     </div>
   </div>
 </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: NASK-035 My Mother-in-law And I's Distorted Love VOL.02
+title: JRBA-019 A High School Girl Who Lives With Her Father After School. A Video Where She Is Criticized For Forcing Herself On A J-type Duo Who Can't Refuse.
 
-url: /v/nask035pl
+url: /v/jrba019pl
 date: 2024-03-09T01:20:00Z
-image: "nask035pl.jpg"
-tags: [Censored, Best, Omnibus, Big Tits, 4HR+, Mature Woman, Stepmother	]
-maker: [ Nadeshiko  ]
-actress: [ Aoi Yurika, Okae Rin, Tokuyama Shouko, Himekawa Reiko]
+image: "jrba019pl.jpg"
+tags: [Censored, Uniform, School Girls, Squirting, Mini, Submissive Woman	]
+maker: [Usagi - Mousozoku  ]
+actress: [Minasuki Hikaru, Minami Tsubasa ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="prlqqrPqrkUWWv">
+<div class="video" data-videoid="bQALZex8d6iRWb">
     <a href="javascript:;">
-        <img src="/v/nask035pl/nask035pl.jpg" width="WIDTH" height="HEIGHT" alt="nask035pl.mp4" loading="lazy">
+        <img src="/v/jrba019pl/jrba019pl.jpg" width="WIDTH" height="HEIGHT" alt="jrba019pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,8 +33,8 @@ actress: [ Aoi Yurika, Okae Rin, Tokuyama Shouko, Himekawa Reiko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/prlqqrPqrkUWWv" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://cdnwish.com/q4ca0xru4ct2" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/bQALZex8d6iRWb" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/0hk4wuhielmb" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
