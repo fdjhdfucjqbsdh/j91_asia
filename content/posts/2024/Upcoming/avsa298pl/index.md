@@ -3,9 +3,9 @@ author: j91
 title: AVSA-298 'INGO' IN GOD ECSTASY Lewd Slut Whispers Dirty Talk To Men And Makes Their Lower Body Go Crazy With Her Explosive Body Maria Nagai
 
 url: /v/avsa298pl
-date: 0000-03-09T01:20:00Z
+date: 2024-03-09T01:20:00Z
 image: "avsa298pl.jpg"
-tags: [Upcoming releases, Solowork, Dirty Words, Big Tits, Married Woman, Slut, Huge Butt	]
+tags: [Censored, Solowork, Dirty Words, Big Tits, Married Woman, Slut, Huge Butt	]
 maker: [ Avs  ]
 actress: [Kashiwagi Kurumi ]
 ---
@@ -13,13 +13,13 @@ actress: [Kashiwagi Kurumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="oAPdxVKjaKUKlq">
     <a href="javascript:;">
         <img src="/v/avsa298pl/avsa298pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa298pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [Kashiwagi Kurumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/oAPdxVKjaKUKlq" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/o5y9r2qds2fn" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [Kashiwagi Kurumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

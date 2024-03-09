@@ -3,9 +3,9 @@ author: j91
 title: ALDN-289 Virgin Creampie Creampie For The First Time With My Brother's Wife Yuriko Takazono
 
 url: /v/aldn289pl
-date: 0000-03-09T01:50:00Z
+date: 2024-03-09T01:50:00Z
 image: "aldn289pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Takazono Yuriko]
 ---
@@ -13,13 +13,13 @@ actress: [ Takazono Yuriko]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wVK79Qw9WBHxAY">
     <a href="javascript:;">
         <img src="/v/aldn289pl/aldn289pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn289pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Takazono Yuriko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/wVK79Qw9WBHxAY" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/aj6sgsm0csbp" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Takazono Yuriko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

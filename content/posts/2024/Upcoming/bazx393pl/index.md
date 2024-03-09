@@ -3,9 +3,9 @@ author: j91
 title: BAZX-393 BAZOOKA 30 Big Breasts Uniform/OL/Gal Best Choice Collection By Genre 240 Minutes SP
 
 url: /v/bazx393pl
-date: 0000-03-09T01:20:00Z
+date: 2024-03-09T01:20:00Z
 image: "bazx393pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, Gal, Big Tits, Beautiful Girl, 4HR+	]
+tags: [Censored, Creampie, Uniform, Gal, Big Tits, Beautiful Girl, 4HR+	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Ye62y2pevmFvDrm">
     <a href="javascript:;">
         <img src="/v/bazx393pl/bazx393pl.jpg" width="WIDTH" height="HEIGHT" alt="bazx393pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/Ye62y2pevmFvDrm" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/015tpbufsq21" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

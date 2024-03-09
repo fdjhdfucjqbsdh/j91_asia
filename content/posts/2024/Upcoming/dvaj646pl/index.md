@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-646 From The Moment He Gets In The Shuttle Car, He Is Immediately Squeezed And Squeezed! Whether It's On A Lewd Chair Or On A Mat, She's Constantly Jerked Off And Creampied Before She Gets Thirsty And Leads To Ejaculation Non-stop Until She's Dropped Off In Front Of The Station. A Total Of 10 Shots At A Divine Soapland, Suzu Aiho.
 
 url: /v/dvaj646pl
-date: 0000-03-09T01:54:00Z
+date: 2024-03-09T01:54:00Z
 image: "dvaj646pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Car Sex, Big Tits, Soapland	]
+tags: [Censored, Creampie, Solowork, Car Sex, Big Tits, Soapland	]
 maker: [ Alice Japan  ]
 actress: [ Akane Suzu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akane Suzu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2DpbYMvvvBuZ2Av">
     <a href="javascript:;">
         <img src="/v/dvaj646pl/dvaj646pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj646pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Akane Suzu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/2DpbYMvvvBuZ2Av" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/805n0h5mrhct" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Akane Suzu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,7 +3,7 @@ author: j91
 title: IPZZ-225 [English Subtitle] On A School Trip, I Unexpectedly Ended Up Sharing A Room With A Sexually Harassing Teacher... Humiliating Sex Where The Disgusting Teacher I Despised Made Me Cum So Hard That I Almost Died Kana Momonogi
 
 url: /v/ipzz225en
-date: 2024-03-09T01:30:00Z
+date: 2024-03-09T03:00:00Z
 image: "ipzz225en.jpg"
 tags: [Censored, English Subtitles, Solowork, Female Teacher, Big Tits, Slender, Cuckold	]
 maker: [IDEA POCKET  ]
@@ -34,7 +34,7 @@ actress: [Momonogi Kana ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/1pOzY7g9oXHeZV1" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://rapidgator.net/file/58008d97f4a99c6b426af35667f48d69/IPZZ-225-EN.mp4.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> RG/FHD-1080P</button></a></p></div>
+<p><a href="https://rapidgator.net/file/58008d97f4a99c6b426af35667f48d69/IPZZ-225-EN.mp4.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> FHD</button></a></p></div>
 </div>
     </div>
   </div>
