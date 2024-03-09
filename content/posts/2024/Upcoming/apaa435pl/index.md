@@ -3,9 +3,9 @@ author: j91
 title: APAA-435 Amazing! A Lovely Girl Who Looks Good In A Uniform Yui Tojo
 
 url: /v/apaa435pl
-date: 0000-03-09T01:20:00Z
+date: 2024-03-09T01:20:00Z
 image: "apaa435pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, School Girls, POV, Facials	]
+tags: [Censored, Blow, Creampie, Solowork, School Girls, POV, Facials	]
 maker: [ Aurora Project Annex  ]
 actress: [ Toujou Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Toujou Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="69KJl4ZP2KF9J2g">
     <a href="javascript:;">
         <img src="/v/apaa435pl/apaa435pl.jpg" width="WIDTH" height="HEIGHT" alt="apaa435pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Toujou Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/69KJl4ZP2KF9J2g" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/o58gpm0o7hu4" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Toujou Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

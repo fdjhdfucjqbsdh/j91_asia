@@ -3,9 +3,9 @@ author: j91
 title: NASK-033 A Female Boss And Office Fornication. A Stormy Night That Upset The Rationality Of A Dull Subordinate And A Career Woman. 4 People, 240 Minutes.
 
 url: /v/nask033pl
-date: 0000-03-09T01:20:00Z
+date: 2024-03-09T01:20:00Z
 image: "nask033pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Big Tits, Affair, 4HR+, Female Boss	]
+tags: [Censored, Best, Omnibus, Big Tits, Affair, 4HR+, Female Boss	]
 maker: [ Nadeshiko  ]
 actress: [ Honma Yuri ,Natsuki Kaoru ,Kobayakawa Reiko, Hasumi Kurea ]
 ---
@@ -13,13 +13,13 @@ actress: [ Honma Yuri ,Natsuki Kaoru ,Kobayakawa Reiko, Hasumi Kurea ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rd0qpkLxQAhb1eo">
     <a href="javascript:;">
         <img src="/v/nask033pl/nask033pl.jpg" width="WIDTH" height="HEIGHT" alt="nask033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Honma Yuri ,Natsuki Kaoru ,Kobayakawa Reiko, Hasumi Kurea ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/rd0qpkLxQAhb1eo" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/tyex2eie252d" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Honma Yuri ,Natsuki Kaoru ,Kobayakawa Reiko, Hasumi Kurea ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
