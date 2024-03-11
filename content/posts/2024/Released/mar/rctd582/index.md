@@ -4,7 +4,7 @@ title: RCTD-582 Female Brat A cheeky loli with a wealth of sexual knowledge. Aka
 
 url: /v/rctd582
 date: 2024-03-11T22:15:00Z
-image: "rctd00582pl.jpg"
+image: "rctd582.jpg"
 tags: [Censored, 3P&4P, Beautiful Girl, Breasts, Creampie, Solowork]
 maker: [ Rocket]
 actress: [Kaise Akari]
