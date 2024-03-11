@@ -2,7 +2,7 @@
 author: j91
 title: RCTD-582 Female Brat A cheeky loli with a wealth of sexual knowledge. Akari Minase
 
-url: /v/rctd00582pl
+url: /v/rctd582
 date: 2024-03-11T22:15:00Z
 image: "rctd00582pl.jpg"
 tags: [Censored, 3P&4P, Beautiful Girl, Breasts, Creampie, Solowork]
@@ -15,7 +15,7 @@ actress: [Kaise Akari]
 
 <div class="video" data-videoid="8VKra9ywLwF4pk">
     <a href="javascript:;">
-        <img src="/v/rctd00582pl/rctd00582pl.jpg" width="WIDTH" height="HEIGHT" alt="rctd00582pl.mp4" loading="lazy">
+        <img src="/v/rctd00582pl/rctd582.jpg" width="WIDTH" height="HEIGHT" alt="rctd582.mp4" loading="lazy">
     </a>
 </div>
 
