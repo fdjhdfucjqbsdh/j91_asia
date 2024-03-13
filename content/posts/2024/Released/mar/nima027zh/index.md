@@ -42,7 +42,7 @@ actress: [Kikuno Ran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/3goxlw510mei" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://asnwish.com/4dufxc08sxha" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

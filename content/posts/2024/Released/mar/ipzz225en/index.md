@@ -43,7 +43,7 @@ actress: [Momonogi Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/dbxh3amjnih7" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://asnwish.com/f1cqugpssaak" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
