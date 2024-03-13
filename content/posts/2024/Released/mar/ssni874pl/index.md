@@ -42,7 +42,7 @@ actress: [ Maki Izuna]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://asnwish.com/sw_fileid" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://asnwish.com/ot378n8x8fza" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
