@@ -3,9 +3,9 @@ author: j91
 title: HJMO-641 Fixed Vibrator Shameful Housework Mission - Beautiful Wife Ordered To Clean The House! 1 Million Yen If You Complete All The Clicks! If You Fail, You Will Be Immediately Punished With Raw Sex! A Lewd Housewife Who Gives A Nasty Cleaning Blowjob And Begs For Creampie! ?
 
 url: /v/hjmo641pl
-date: 0000-03-15T01:08:00Z
+date: 2024-03-15T01:08:00Z
 image: "hjmo641pl.jpg"
-tags: [Upcoming releases, Creampie, Vibe, Humiliation, Married Woman, Urination	]
+tags: [Censored, Creampie, Vibe, Humiliation, Married Woman, Urination	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7GpoB9b6LWcAlbw">
     <a href="javascript:;">
         <img src="/v/hjmo641pl/hjmo641pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo641pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/7GpoB9b6LWcAlbw" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/t1a4yzy26825" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

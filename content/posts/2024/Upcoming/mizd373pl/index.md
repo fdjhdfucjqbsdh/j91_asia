@@ -3,9 +3,9 @@ author: j91
 title: MIZD-373 "Don't Lick That Part!" Lick The Adolescent Crack Overflowing With Young Female Juice! Rich Cunnilingus 70 Consecutive OverBEST
 
 url: /v/mizd373pl
-date: 0000-03-15T01:00:00Z
+date: 2024-03-15T01:00:00Z
 image: "mizd373pl.jpg"
-tags: [Upcoming releases, Other Fetish, Best, Omnibus, Cunnilingus, Beautiful Girl, Squirting, 4HR+, Close Up	]
+tags: [Censored, Other Fetish, Best, Omnibus, Cunnilingus, Beautiful Girl, Squirting, 4HR+, Close Up	]
 maker: [MOODYZ]
 actress: [ Miura Sakura, Nanasawa Mia, Yagi Nana, Mori Hinako, Asada Himari, Arai Rima, Ishikawa Mio, Kuramoto Sumire, Mori Chisato, Futaba Kurumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miura Sakura, Nanasawa Mia, Yagi Nana, Mori Hinako, Asada Himari, Ara
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MY6aJWL103FmbbM">
     <a href="javascript:;">
         <img src="/v/mizd373pl/mizd373pl.jpg" width="WIDTH" height="HEIGHT" alt="mizd373pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Miura Sakura, Nanasawa Mia, Yagi Nana, Mori Hinako, Asada Himari, Ara
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/MY6aJWL103FmbbM" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/54ry0fxpytyn" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Miura Sakura, Nanasawa Mia, Yagi Nana, Mori Hinako, Asada Himari, Ara
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
