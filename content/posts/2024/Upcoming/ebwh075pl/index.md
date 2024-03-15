@@ -3,9 +3,9 @@ author: j91
 title: EBWH-075 A Former Celebrity Who Was Featured In Weekly Pu● Has Gained Adult Sex Appeal And Returned To The Center Stage For The First Time In 8 Years.Gcup Genuine Gravure Idol Yamabuki Ai AV Debut
 
 url: /v/ebwh075pl
-date: 0000-03-15T01:25:00Z
+date: 2024-03-15T01:25:00Z
 image: "ebwh075pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Debut Production, Cowgirl, Entertainer	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Debut Production, Cowgirl, Entertainer	]
 maker: [E-body]
 actress: [ Yamabuki Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamabuki Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QWM6d3JadAtyXr">
     <a href="javascript:;">
         <img src="/v/ebwh075pl/ebwh075pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh075pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Yamabuki Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/QWM6d3JadAtyXr" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/72kwgofjh8qm" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Yamabuki Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

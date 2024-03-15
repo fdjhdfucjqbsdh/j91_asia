@@ -3,9 +3,9 @@ author: j91
 title: EBWH-076 Sayaka Matsuoka, A Former Miss Campus AV Debut With An Astounding Style Who Won The Final Swimsuit Examination In A Big Turn.Height; 172 Cm, B; 89 Cm (F), H; 93 Cm
 
 url: /v/ebwh076pl
-date: 0000-03-15T01:25:00Z
+date: 2024-03-15T01:25:00Z
 image: "ebwh076pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Cowgirl, Slender, Tall, Huge Butt	]
+tags: [Censored, Solowork, Debut Production, Cowgirl, Slender, Tall, Huge Butt	]
 maker: [E-body]
 actress: [ Matsuoka Sayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsuoka Sayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lrQB2z9zGwt7e2O">
     <a href="javascript:;">
         <img src="/v/ebwh076pl/ebwh076pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh076pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Matsuoka Sayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/lrQB2z9zGwt7e2O" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/0x2bbel9p0zt" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Matsuoka Sayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
