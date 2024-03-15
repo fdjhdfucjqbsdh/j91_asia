@@ -3,9 +3,9 @@ author: j91
 title: MIDV-641 When I Stayed At My Son's House With Whom I Was Engaged To Live Together... I Couldn't Resist The Temptation Of My Son's Girlfriend's Breasts Without Realizing It... I Had Sex Over And Over Again Until I Used Up 10 Condoms Per Box. Hina Kuno
 
 url: /v/midv641pl
-date: 0000-03-15T01:40:00Z
+date: 2024-03-15T01:40:00Z
 image: "midv641pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Drama, Cuckold	]
 maker: [MOODYZ]
 actress: [ Kuno Hinano ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuno Hinano ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MAqL0p3XZpcmgje">
     <a href="javascript:;">
         <img src="/v/midv641pl/midv641pl.jpg" width="WIDTH" height="HEIGHT" alt="midv641pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kuno Hinano ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/MAqL0p3XZpcmgje" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/cjvaqv0ninqn" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kuno Hinano ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

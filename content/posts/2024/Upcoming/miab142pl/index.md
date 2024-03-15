@@ -3,9 +3,9 @@ author: j91
 title: MIAB-142 ``Don't Just Look At Our Butts~'' A Naughty Bitch With A Naughty Ass Presses A Sexually Harassing Teacher By Staking Him Out And Sitting On His Face! Kantama Karapo Punishment 13 Ejaculation! Futaba Emma Mei Itsukaichi
 
 url: /v/miab142pl
-date: 0000-03-15T01:40:00Z
+date: 2024-03-15T01:40:00Z
 image: "miab142pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, School Girls, Cowgirl, Butt	]
+tags: [Censored, Creampie, 3P, 4P, School Girls, Cowgirl, Butt	]
 maker: [MOODYZ]
 actress: [ Futaba Ema, Itsukaichi Mei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema, Itsukaichi Mei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7bdX2mwRJJSALjr">
     <a href="javascript:;">
         <img src="/v/miab142pl/miab142pl.jpg" width="WIDTH" height="HEIGHT" alt="miab142pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Futaba Ema, Itsukaichi Mei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/7bdX2mwRJJSALjr" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/f41iuwx5fryy" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Futaba Ema, Itsukaichi Mei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MIAB-138 He's Erected So Much That His Paper Bread Is About To Burst... Yuma Sano, A Rejuvenating Men's Esthetician With A Tall, Big-breasted Body And Extreme Costumes, Makes You Cum Many Times.
 
 url: /v/miab138pl
-date: 0000-03-15T01:40:00Z
+date: 2024-03-15T01:40:00Z
 image: "miab138pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Big Tits, Slut, Slender	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Big Tits, Slut, Slender	]
 maker: [MOODYZ]
 actress: [ Sano Yuma ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sano Yuma ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2bBr28LVPAcZJ1k">
     <a href="javascript:;">
         <img src="/v/miab138pl/miab138pl.jpg" width="WIDTH" height="HEIGHT" alt="miab138pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/2bBr28LVPAcZJ1k" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/39g81y2gt4kk" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

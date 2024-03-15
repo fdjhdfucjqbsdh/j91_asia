@@ -3,9 +3,9 @@ author: j91
 title: PPPE-167 "Riho Will Give You The Best Jerking Experience And Will Make You Happy" A Dirty Talk Whispering Saliva Kiss That Will Make You Ejaculate With The Temptation Of Her Breasts! A Bewitching Ona Support That Stimulates The Five Senses! [ASMR Subjective That Will Melt Your Brain] Riho Fujimori
 
 url: /v/pppe167pl
-date: 0000-03-15T01:45:00Z
+date: 2024-03-15T01:45:00Z
 image: "pppe167pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Dirty Words, Big Tits, Masturbation Support	]
+tags: [Censored, Cosplay, Creampie, Solowork, Dirty Words, Big Tits, Masturbation Support	]
 maker: [Oppai]
 actress: [ Fujimori Riho]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujimori Riho]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pVpLQrOrjkfrOoX">
     <a href="javascript:;">
         <img src="/v/pppe167pl/pppe167pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe167pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/pVpLQrOrjkfrOoX" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://cdnwish.com/wnw00sxcoaum" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
