@@ -3,9 +3,9 @@ author: j91
 title: FLAV-352 HYPER FETISH High Leg Naughty Queen Ayumi Natsukawa
 
 url: /v/flav352pl
-date: 0000-03-16T01:50:00Z
+date: 2024-03-16T01:50:00Z
 image: "flav352pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Leotard, Slut, Butt, Race Queen	]
+tags: [Censored, Solowork, Pantyhose, Leotard, Slut, Butt, Race Queen	]
 maker: [ Digital Ark  ]
 actress: [ Natsukawa Ayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukawa Ayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="XbPAJwW7WjSDO47">
     <a href="javascript:;">
         <img src="/v/flav352pl/flav352pl.jpg" width="WIDTH" height="HEIGHT" alt="flav352pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/XbPAJwW7WjSDO47" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/mfzix6cs3nku" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

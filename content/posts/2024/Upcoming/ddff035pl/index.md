@@ -3,9 +3,9 @@ author: j91
 title: DDFF-035 Throat Fuck Interview Yura Hinata
 
 url: /v/ddff035pl
-date: 0000-03-16T01:20:00Z
+date: 2024-03-16T01:20:00Z
 image: "ddff035pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Nasty, Hardcore, Cum, Deep Throating, Confinement	]
+tags: [Censored, 3P, 4P, Solowork, Nasty, Hardcore, Cum, Deep Throating, Confinement	]
 maker: [ Dogma  ]
 actress: [ Hinata Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="gaYMXyB2JXtqdVL">
     <a href="javascript:;">
         <img src="/v/ddff035pl/ddff035pl.jpg" width="WIDTH" height="HEIGHT" alt="ddff035pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Hinata Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/gaYMXyB2JXtqdVL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/w10tr96j7avn" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Hinata Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

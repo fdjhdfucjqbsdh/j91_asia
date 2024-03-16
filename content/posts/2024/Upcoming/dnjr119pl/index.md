@@ -3,9 +3,9 @@ author: j91
 title: DNJR-119 I Became A Sex Toy For My Friend's Voluptuous Mother, Anna Tateoka
 
 url: /v/dnjr119pl
-date: 0000-03-16T01:59:00Z
+date: 2024-03-16T01:59:00Z
 image: "dnjr119pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Slut, BBW, Submissive Men	]
+tags: [Censored, Solowork, Big Tits, Slut, BBW, Submissive Men	]
 maker: [ Inu - Mousozoku  ]
 actress: [ Tateoka Anna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tateoka Anna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AXGARe6XJKsX704">
     <a href="javascript:;">
         <img src="/v/dnjr119pl/dnjr119pl.jpg" width="WIDTH" height="HEIGHT" alt="dnjr119pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tateoka Anna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/AXGARe6XJKsX704" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ij5tv9jpdcf4" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tateoka Anna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
