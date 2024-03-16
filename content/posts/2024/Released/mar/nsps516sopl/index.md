@@ -1,21 +1,21 @@
 ---
 author: j91
-title: BKYNB-037 [Chinese Subtitle] Fainting Creampie Intercourse With A Sonic Piston During Climax Sakura Mayi
+title: NSPS-516 Surrogate Sex An earnest request from a husband with erectile dysfunction due to sexual dysfunction. Shiho Egami
 
-url: /was/bkynb00037c
-date: 2024-03-16T07:10:00Z
-image: "bkynb00037c.jpg"
-tags: [Chinese Subtitle, Acme&Orgasm, Beautiful Girl, Big Tits, Creampie, Solowork, Squirting]
-maker: [ Bon Kyun Bon  ]
-actress: [Sakura Mahiru ]
+url: /was/nsps516sopl
+date: 2020-10-25T00:50:00Z
+image: "nsps516sopl.jpg"
+tags: [Old Releases,Censored, Creampie, Solowork, Married Woman, Affair, Drama, Cuckold	]
+maker: [ Nagae Style  ]
+actress: [ Egami Shiho ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="bwPmv3VQJrsPArK">
+<div class="video" data-videoid="4AxYBaRlM3UKY8Z">
     <a href="javascript:;">
-        <img src="/was/bkynb00037c/bkynb00037c.jpg" width="WIDTH" height="HEIGHT" alt="bkynb00037c.mp4" loading="lazy">
+        <img src="/was/nsps516sopl/nsps516sopl.jpg" width="WIDTH" height="HEIGHT" alt="nsps516sopl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Sakura Mahiru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/bwPmv3VQJrsPArK" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/4AxYBaRlM3UKY8Z" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Sakura Mahiru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/b9sonw1tqdqh" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://vidoza.net/w2kv072n7f4n" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>

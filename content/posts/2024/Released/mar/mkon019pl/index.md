@@ -1,21 +1,21 @@
 ---
 author: j91
-title: BKYNB-037 [Chinese Subtitle] Fainting Creampie Intercourse With A Sonic Piston During Climax Sakura Mayi
+title: MKON-019 I promised my naive girlfriend, "Next time we meet, let's have my first kiss," but she ended up getting into a waaaacome kiss for the first time the next time we meet''
 
-url: /was/bkynb00037c
-date: 2024-03-16T07:10:00Z
-image: "bkynb00037c.jpg"
-tags: [Chinese Subtitle, Acme&Orgasm, Beautiful Girl, Big Tits, Creampie, Solowork, Squirting]
-maker: [ Bon Kyun Bon  ]
-actress: [Sakura Mahiru ]
+url: /was/mkon019pl
+date: 2020-10-25T00:00:00Z
+image: "mkon019pl.jpg"
+tags: [Old Releases,Censored, Creampie, 3P, 4P, Solowork, Big Tits, Female College Student, Cuckold	]
+maker: [ Kaguya Hime Pt - Mousozoku  ]
+actress: [ Misono Waka ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="bwPmv3VQJrsPArK">
+<div class="video" data-videoid="myw7DKddwrUbj8X">
     <a href="javascript:;">
-        <img src="/was/bkynb00037c/bkynb00037c.jpg" width="WIDTH" height="HEIGHT" alt="bkynb00037c.mp4" loading="lazy">
+        <img src="/was/mkon019pl/mkon019pl.jpg" width="WIDTH" height="HEIGHT" alt="mkon019pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Sakura Mahiru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/bwPmv3VQJrsPArK" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/myw7DKddwrUbj8X" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Sakura Mahiru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/b9sonw1tqdqh" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://vidoza.net/zsam0slgwiy7" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>
