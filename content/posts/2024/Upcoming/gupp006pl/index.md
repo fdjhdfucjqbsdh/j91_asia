@@ -1,21 +1,21 @@
 ---
 author: j91
-title: SORA-519 Competitive Swimsuit J-type Brutal Group Water Torture Rape Shio Sato
+title: GUPP-006 Everything About An Komatsu, A Female Boss Seduces A Subordinate With A Wife And Child And Plays NTR & Slut Soap Training Play
 
-url: /v/sora519pl
-date: 2024-03-16T01:55:00Z
-image: "sora519pl.jpg"
-tags: [Censored, Solowork, School Girls, School Swimsuit, Documentary, Evil	]
-maker: [ Yama To Sora  ]
-actress: [ Satou Shio ]
+url: /v/gupp006pl
+date: 2024-03-16T01:20:00Z
+image: "gupp006pl.jpg"
+tags: [Censored, Creampie, Solowork, Cowgirl, Slut, Cuckold, Female Boss	]
+maker: [ GUPPI - Emanuel  ]
+actress: [Komatsu An ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="okXQqqLPr6CJe66">
+<div class="video" data-videoid="V0B0JVqJwbfKWAa">
     <a href="javascript:;">
-        <img src="/v/sora519pl/sora519pl.jpg" width="WIDTH" height="HEIGHT" alt="sora519pl.mp4" loading="lazy">
+        <img src="/v/gupp006pl/gupp006pl.jpg" width="WIDTH" height="HEIGHT" alt="gupp006pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,8 +33,8 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/okXQqqLPr6CJe66" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/26dwynoo6ial" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/V0B0JVqJwbfKWAa" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/5o8r7htiflq9" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>

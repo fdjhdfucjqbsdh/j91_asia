@@ -3,9 +3,9 @@ author: j91
 title: MASM-022 Ayai Nogi Was Imprisoned By A J-type Gal, Who Abused Her By Calling Her "Zakozakozaaaaa", Which Shattered Her Adult Pride And Forced Her To Cum In Reverse.
 
 url: /v/masm022pl
-date: 0000-03-16T01:55:00Z
+date: 2024-03-16T01:55:00Z
 image: "masm022pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Gal, Nasty, Hardcore, Submissive Men	]
+tags: [Censored, Creampie, Solowork, School Girls, Gal, Nasty, Hardcore, Submissive Men	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Nogi Ayame ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nogi Ayame ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="l0KKvGP13PU7Qbm">
     <a href="javascript:;">
         <img src="/v/masm022pl/masm022pl.jpg" width="WIDTH" height="HEIGHT" alt="masm022pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Nogi Ayame ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/l0KKvGP13PU7Qbm" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/hfkusgabqmpc" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Nogi Ayame ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

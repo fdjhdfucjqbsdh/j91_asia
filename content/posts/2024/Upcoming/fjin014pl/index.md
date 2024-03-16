@@ -1,21 +1,21 @@
 ---
 author: j91
-title: SORA-519 Competitive Swimsuit J-type Brutal Group Water Torture Rape Shio Sato
+title: FJIN-014 Live-action Version, Beautiful Teacher Is A Prisoner Of Shame Kasumi Tsukino
 
-url: /v/sora519pl
+url: /v/fjin014pl
 date: 2024-03-16T01:55:00Z
-image: "sora519pl.jpg"
-tags: [Censored, Solowork, School Girls, School Swimsuit, Documentary, Evil	]
-maker: [ Yama To Sora  ]
-actress: [ Satou Shio ]
+image: "fjin014pl.jpg"
+tags: [Censored, Solowork, Humiliation, Female Teacher, Drama, Original Collaboration	]
+maker: [ FunCity - Mousozoku  ]
+actress: [Tsukino Kasumi ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="okXQqqLPr6CJe66">
+<div class="video" data-videoid="J3MG2lq6kJIjMrj">
     <a href="javascript:;">
-        <img src="/v/sora519pl/sora519pl.jpg" width="WIDTH" height="HEIGHT" alt="sora519pl.mp4" loading="lazy">
+        <img src="/v/fjin014pl/fjin014pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin014pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,8 +33,8 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/okXQqqLPr6CJe66" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/26dwynoo6ial" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/J3MG2lq6kJIjMrj" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/m8tgd42tgekk" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>

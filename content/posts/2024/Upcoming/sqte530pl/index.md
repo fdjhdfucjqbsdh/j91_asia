@@ -3,9 +3,9 @@ author: j91
 title: SQTE-530 I Love Cock (heart) Cock Lover, His Eyes Shine At The Erection And He Licks It Shiki Hakuto
 
 url: /v/sqte530pl
-date: 0000-03-16T01:55:00Z
+date: 2024-03-16T01:55:00Z
 image: "sqte530pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Masturbation, Beautiful Girl	]
+tags: [Censored, Blow, Solowork, Masturbation, Beautiful Girl	]
 maker: [ S-cute  ]
 actress: [ Shirato Shiki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirato Shiki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RBKD7j4b99hdopV">
     <a href="javascript:;">
         <img src="/v/sqte530pl/sqte530pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte530pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Shirato Shiki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/RBKD7j4b99hdopV" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/8bg7zh63l3d3" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Shirato Shiki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: EVIS-520 Saliva Tongue Face Licking Lesbian
 
 url: /v/evis520pl
-date: 0000-03-16T01:00:00Z
+date: 2024-03-16T01:00:00Z
 image: "evis520pl.jpg"
-tags: [Upcoming releases, Lesbian, Other Fetish, Older Sister, Lesbian Kiss, Kiss	]
+tags: [Censored, Lesbian, Other Fetish, Older Sister, Lesbian Kiss, Kiss	]
 maker: [ Ebisusan - Mousou Zoku  ]
 actress: [ Mashiro An, Minasuki Hikaru, Minami Saya, Hirai Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mashiro An, Minasuki Hikaru, Minami Saya, Hirai Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kpBqwb4zlOCOvV3">
     <a href="javascript:;">
         <img src="/v/evis520pl/evis520pl.jpg" width="WIDTH" height="HEIGHT" alt="evis520pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Mashiro An, Minasuki Hikaru, Minami Saya, Hirai Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/kpBqwb4zlOCOvV3" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/1r9wr33tqxwb" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Mashiro An, Minasuki Hikaru, Minami Saya, Hirai Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
