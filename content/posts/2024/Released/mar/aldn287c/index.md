@@ -5,7 +5,7 @@ title: ALDN-287 [Chinese Subtitle] It's Only For You... An Komatsu
 url: /was/aldn287c
 date: 2024-03-07T00:10:00Z
 image: "aldn287c.jpg"
-tags: [Censored, Chinese Subtitle, Creampie,Solowork,Married Woman,Mature Woman,Cuckold	]
+tags: [Chinese Subtitle, Creampie,Solowork,Married Woman,Mature Woman,Cuckold	]
 maker: [ Takara Eizou  ]
 actress: [Komatsu An ]
 ---

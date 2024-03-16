@@ -5,7 +5,7 @@ title: BKYNB-037 [Chinese Subtitle] Fainting Creampie Intercourse With A Sonic P
 url: /was/bkynb00037c
 date: 2024-03-07T00:10:00Z
 image: "bkynb00037c.jpg"
-tags: [Censored, Chinese Subtitle, Acme&Orgasm, Beautiful Girl, Big Tits, Creampie, Solowork, Squirting]
+tags: [Chinese Subtitle, Acme&Orgasm, Beautiful Girl, Big Tits, Creampie, Solowork, Squirting]
 maker: [ Bon Kyun Bon  ]
 actress: [Mayi Sakura ]
 ---

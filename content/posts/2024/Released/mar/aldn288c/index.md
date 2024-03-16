@@ -5,7 +5,7 @@ title: ALDN-288 [Chinese Subtitle] I Can't Stand My Patience, Even Though I'm A 
 url: /was/aldn288c
 date: 2024-03-07T00:10:00Z
 image: "aldn288c.jpg"
-tags: [Censored, Chinese Subtitle, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Chinese Subtitle, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [ Takara Eizou  ]
 actress: [Shizuki Yukari ]
 ---
