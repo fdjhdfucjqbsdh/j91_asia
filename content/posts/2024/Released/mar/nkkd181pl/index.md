@@ -13,7 +13,7 @@ actress: [ Sezaki Ayane]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="Xbqv6KV3WWHWZk">
+<div class="video" data-videoid="rxo1WLjrWVsbbkx">
     <a href="javascript:;">
         <img src="/was/nkkd181pl/nkkd181pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd181pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [ Sezaki Ayane]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/Xbqv6KV3WWHWZk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/rxo1WLjrWVsbbkx" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sezaki Ayane]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://vidoza.net/7v242jlod0cf" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
+<p><a href="https://vidoza.net/9dtmtof51kyr" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>

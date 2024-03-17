@@ -13,7 +13,7 @@ actress: [ Jin Yuki, Sakuraba Hikari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="aqadqx80pLSxXW1">
+<div class="video" data-videoid="DqYOGlw7JvhkPvG">
     <a href="javascript:;">
         <img src="/was/nkkd180pl/nkkd180pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd180pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [ Jin Yuki, Sakuraba Hikari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/aqadqx80pLSxXW1" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/DqYOGlw7JvhkPvG" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Jin Yuki, Sakuraba Hikari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://vidoza.net/loojxhmzco9u" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
+<p><a href="https://vidoza.net/2r7w6cga6ywq" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> VDZ</button></a></p></div>
 <br><br>
       </div>
     </div>
