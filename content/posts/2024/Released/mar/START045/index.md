@@ -44,7 +44,7 @@ actress: [Tadai Mahiro]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/sh35n34bq8d9"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
+<p><a href="https://voe.sx/ncapbz0aeqqe"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
 <br><br>
       </div>
     </div>
