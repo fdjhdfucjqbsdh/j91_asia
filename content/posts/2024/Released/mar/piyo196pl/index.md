@@ -34,7 +34,7 @@ actress: [ Natsuki Hikaru, Yumeri Rika, Satou Shio ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/84ZaGxbr1rclrD" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/tpxh73nep0pp" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://asnwish.com/tnmo17lhtxqq" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Natsuki Hikaru, Yumeri Rika, Satou Shio ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/atuqch9xqm4s"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
+<p><a href="https://asnwish.com/tpxh73nep0pp"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
 <br><br>
       </div>
     </div>

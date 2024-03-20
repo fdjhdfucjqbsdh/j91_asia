@@ -44,7 +44,7 @@ actress: [ Taki Yuina ,Nakagawa Sora ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/0635jf1cqkzq"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
+<p><a href="https://voe.sx/wxko2pdqiysu"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p></div>
 <br><br>
       </div>
     </div>
