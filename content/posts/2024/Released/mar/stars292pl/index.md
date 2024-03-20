@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MSFH-028 I Want To Be Invited By Such A Woman. Kiyo Ami
+title: STARS-292 In The Futon All The Time ... Mahiro Tadai Can't Stop Vaginal Cum Shot With A Sticky Piston
 
-url: /was/msfh028pl
+url: /was/stars292pl
 date: 2020-10-25T03:00:00Z
-image: "msfh028pl.jpg"
-tags: [Old Releases,Censored, Dirty Words, Older sister, Slut, Solowork]
+image: "stars292pl.jpg"
+tags: [Old Releases,Censored, Creampie, Cuckold, Female College Student, Nurse, Solowork]
 maker: [ SOD Create]
-actress: [ Kitai Ami]
+actress: [ Tadai Mahiro]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="BaZ8a9YrrlUyeMk">
+<div class="video" data-videoid="wa3Q9PJg6JUGA8">
     <a href="javascript:;">
-        <img src="/was/msfh028pl/msfh028pl.jpg" width="WIDTH" height="HEIGHT" alt="msfh028pl.mp4" loading="lazy">
+        <img src="/was/stars292pl/stars292pl.jpg" width="WIDTH" height="HEIGHT" alt="stars292pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/BaZ8a9YrrlUyeMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/wa3Q9PJg6JUGA8" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/b6t2e0kbk1oo" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/b3ftcrr3dxpd" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

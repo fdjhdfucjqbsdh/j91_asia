@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MSFH-028 I Want To Be Invited By Such A Woman. Kiyo Ami
+title: STARS-293 Fire At Any Time! Athletics Club Female Teacher Advisor Passionate Facial Guidance, Pursuit Fellatio Honjo Suzu
 
-url: /was/msfh028pl
+url: /was/stars293pl
 date: 2020-10-25T03:00:00Z
-image: "msfh028pl.jpg"
-tags: [Old Releases,Censored, Dirty Words, Older sister, Slut, Solowork]
+image: "stars293pl.jpg"
+tags: [Old Releases,Censored, Blow, Facials, Female teacher, Slender, Solowork]
 maker: [ SOD Create]
-actress: [ Kitai Ami]
+actress: [ Honjou Suzu]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="BaZ8a9YrrlUyeMk">
+<div class="video" data-videoid="Va2gygaWdRHK6Kd">
     <a href="javascript:;">
-        <img src="/was/msfh028pl/msfh028pl.jpg" width="WIDTH" height="HEIGHT" alt="msfh028pl.mp4" loading="lazy">
+        <img src="/was/stars293pl/stars293pl.jpg" width="WIDTH" height="HEIGHT" alt="stars293pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/BaZ8a9YrrlUyeMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/Va2gygaWdRHK6Kd" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/b6t2e0kbk1oo" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/r153f15dmj5e" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

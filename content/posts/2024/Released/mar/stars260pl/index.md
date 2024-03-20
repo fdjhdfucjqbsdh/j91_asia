@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MSFH-028 I Want To Be Invited By Such A Woman. Kiyo Ami
+title: STARS-260 Hotel Shared Room With Virgin Subordinates On A Business Trip Yuna Ogura, A Cuckold Female Boss Of A Cosmetics Maker Who Continues To Be Fucked Until The Next Morning
 
-url: /was/msfh028pl
+url: /was/stars260pl
 date: 2020-10-25T03:00:00Z
-image: "msfh028pl.jpg"
-tags: [Old Releases,Censored, Dirty Words, Older sister, Slut, Solowork]
+image: "stars260pl.jpg"
+tags: [Old Releases,Censored, Cuckold, Kiss, Solowork, virgin man]
 maker: [ SOD Create]
-actress: [ Kitai Ami]
+actress: [ Ogura Yuna]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="BaZ8a9YrrlUyeMk">
+<div class="video" data-videoid="6Kz6pm3RqkuvR1">
     <a href="javascript:;">
-        <img src="/was/msfh028pl/msfh028pl.jpg" width="WIDTH" height="HEIGHT" alt="msfh028pl.mp4" loading="lazy">
+        <img src="/was/stars260pl/stars260pl.jpg" width="WIDTH" height="HEIGHT" alt="stars260pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/BaZ8a9YrrlUyeMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/6Kz6pm3RqkuvR1" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/b6t2e0kbk1oo" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/oiavq6orzgt4" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

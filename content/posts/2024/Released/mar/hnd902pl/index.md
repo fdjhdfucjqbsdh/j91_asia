@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MSFH-028 I Want To Be Invited By Such A Woman. Kiyo Ami
+title: HND-902 Rin Kira Who Was Seduced By Her Best Friend Who Was Excited About Her Flirting With Her And Her Best Friend And The River's Character Room At The Travel Destination
 
-url: /was/msfh028pl
+url: /was/hnd902pl
 date: 2020-10-25T03:00:00Z
-image: "msfh028pl.jpg"
-tags: [Old Releases,Censored, Dirty Words, Older sister, Slut, Solowork]
-maker: [ SOD Create]
-actress: [ Kitai Ami]
+image: "hnd902pl.jpg"
+tags: [Old Releases,Censored, Beautiful Girl, Creampie, Cuckold, Digital Mosaic, Drama, Girl, Mini, Solowork]
+maker: [ Honnaka]
+actress: [ Kira Rin, Nakao Meiko]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="BaZ8a9YrrlUyeMk">
+<div class="video" data-videoid="beA29pDkbxTPeKo">
     <a href="javascript:;">
-        <img src="/was/msfh028pl/msfh028pl.jpg" width="WIDTH" height="HEIGHT" alt="msfh028pl.mp4" loading="lazy">
+        <img src="/was/hnd902pl/hnd902pl.jpg" width="WIDTH" height="HEIGHT" alt="hnd902pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/BaZ8a9YrrlUyeMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/beA29pDkbxTPeKo" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/b6t2e0kbk1oo" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/f5wydf16j4dj" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

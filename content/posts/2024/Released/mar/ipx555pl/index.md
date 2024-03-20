@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MSFH-028 I Want To Be Invited By Such A Woman. Kiyo Ami
+title: IPX-555 Humiliation That Is Squid Many Times By My Father-in-law Who Wants Me To Die. Tsumugi Akari
 
-url: /was/msfh028pl
+url: /was/ipx555pl
 date: 2020-10-25T03:00:00Z
-image: "msfh028pl.jpg"
-tags: [Old Releases,Censored, Dirty Words, Older sister, Slut, Solowork]
-maker: [ SOD Create]
-actress: [ Kitai Ami]
+image: "ipx555pl.jpg"
+tags: [Old Releases,Censored, Digital Mosaic, Drama, Female College Student, Solowork]
+maker: [ IDEA POCKET]
+actress: [ Akari Tsumugi, Kobayashi Maiko]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="BaZ8a9YrrlUyeMk">
+<div class="video" data-videoid="gqZkxr2gVOHqA6y">
     <a href="javascript:;">
-        <img src="/was/msfh028pl/msfh028pl.jpg" width="WIDTH" height="HEIGHT" alt="msfh028pl.mp4" loading="lazy">
+        <img src="/was/ipx555pl/ipx555pl.jpg" width="WIDTH" height="HEIGHT" alt="ipx555pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/BaZ8a9YrrlUyeMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/gqZkxr2gVOHqA6y" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitai Ami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/b6t2e0kbk1oo" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/3rw6vjl8xu1v" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
