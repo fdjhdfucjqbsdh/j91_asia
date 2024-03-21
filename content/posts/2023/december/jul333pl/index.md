@@ -2,9 +2,9 @@
 author: j91
 title: JUL-333 Ririko Kinoshita Stays In A Shared Room With Her Female Boss Who Has Been Longing For A Business Hotel On A Business Trip
 url: /v/jul333pl
-date: 2023-06-25T01:00:00Z
+date: 2020-10-25T04:00:00Z
 image: "jul333pl.jpg"
-tags: [Censored,Solowork,Pantyhose,Married Woman,Various Professions,Mature Woman,Digital Mosaic,Cuckold,Female Boss	 ]
+tags: [Old Releases,Censored,Solowork,Pantyhose,Married Woman,Various Professions,Mature Woman,Digital Mosaic,Cuckold,Female Boss	 ]
 maker: [Madonna]
 actress: [Kinoshita Ririko]
 ---
@@ -12,7 +12,7 @@ actress: [Kinoshita Ririko]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="3WRlAmbK9eSdWMk">
+<div class="video" data-videoid="bw8Z69RJBLSDeJ">
     <a href="javascript:;">
         <img src="/v/jul333pl/jul333pl.jpg" width="WIDTH" height="HEIGHT" alt="jul333pl.mp4" loading="lazy">
     </a>
@@ -32,7 +32,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/3WRlAmbK9eSdWMk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<a href="https://streamtape.to/v/bw8Z69RJBLSDeJ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://filemoon.sx/d/bt70li13z29v" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></div>
+    <a href="https://wolfstream.tv/f253hitj3rsk/JUL-333.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
 <br><br>
       </div>
     </div>

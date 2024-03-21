@@ -3,9 +3,9 @@ author: j91
 title: WANZ-990 While My Wife On Maternal Leave, My Divorced And Horny Sister-In-Law Mounted My Cock And After 10months of Abstinence I Fucked Her Until I Impregnated Her – Ai Sayama
 
 url: /v/wanz990pl
-date: 2023-06-25T07:00:00Z
+date: 2020-10-25T04:55:00Z
 image: "wanz990pl.jpg"
-tags: [Censored,Creampie,Solowork,Big Tits,Titty Fuck,Slut,Cuckold	 ]
+tags: [Old Releases,Censored,Creampie,Solowork,Big Tits,Titty Fuck,Slut,Cuckold	 ]
 maker: [WANZ FACTORY   ]
 actress: [Sayama Ai]
 ---
@@ -13,7 +13,7 @@ actress: [Sayama Ai]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="2aw8WlLz99sWe9">
+<div class="video" data-videoid="Bv0rLv81jWuK1l">
     <a href="javascript:;">
         <img src="/v/wanz990pl/wanz990pl.jpg" width="WIDTH" height="HEIGHT" alt="wanz990pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [Sayama Ai]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/2aw8WlLz99sWe9" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<a href="https://streamtape.to/v/Bv0rLv81jWuK1l" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Sayama Ai]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://filemoon.sx/d/h65dgafp759d" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></div>
+    <a href="https://wolfstream.tv/5udcq37ym4vc/WANZ-990.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
 <br><br>
       </div>
     </div>
