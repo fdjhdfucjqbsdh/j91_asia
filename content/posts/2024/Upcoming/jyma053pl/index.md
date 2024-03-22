@@ -3,9 +3,9 @@ author: j91
 title: JYMA-053 A Middle-aged Man's Sexual Desire Documentary. Sweaty Sex Between A Fallen Beautiful Big-breasted Wife And An Old Man. Monami Takarada, A Wife With A Lustful Body Who Keeps Getting Fucked All Day Long.
 
 url: /v/jyma053pl
-date: 0000-03-22T01:17:00Z
+date: 2024-03-22T01:17:00Z
 image: "jyma053pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Documentary, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Documentary, Cuckold	]
 maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [ Takarada Monami]
 ---
@@ -13,13 +13,13 @@ actress: [ Takarada Monami]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OaVdKDZoMAiZyYo">
     <a href="javascript:;">
         <img src="/v/jyma053pl/jyma053pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma053pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Takarada Monami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/OaVdKDZoMAiZyYo" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/erryut899w34" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Takarada Monami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

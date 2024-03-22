@@ -3,9 +3,9 @@ author: j91
 title: JUQ-619 A Weekend When My Female Boss Around 40 Years Old Took Me Home After The Last Train And Continued To Squeeze My Sperm. Mariko Sada
 
 url: /v/juq619pl
-date: 0000-03-22T01:50:00Z
+date: 2024-03-22T01:50:00Z
 image: "juq619pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Slut, Mature Woman, Drama, Business Attire	]
+tags: [Censored, Solowork, Married Woman, Slut, Mature Woman, Drama, Business Attire	]
 maker: [Madonna]
 actress: [ Sata Mariko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sata Mariko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bv3dgMkg89UPbka">
     <a href="javascript:;">
         <img src="/v/juq619pl/juq619pl.jpg" width="WIDTH" height="HEIGHT" alt="juq619pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Sata Mariko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/bv3dgMkg89UPbka" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/9evd2bnx3mpb" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Sata Mariko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

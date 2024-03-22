@@ -3,9 +3,9 @@ author: j91
 title: ROYD-170 A Junior Female Employee Woke Up In The Morning With Her Yukata Exposed In Her Room! Even Though She's Always So Cocky And Always Curses At Me, I've Become Spoiled... Ema Futaba
 
 url: /v/royd170pl
-date: 0000-03-22T01:40:00Z
+date: 2024-03-22T01:40:00Z
 image: "royd170pl.jpg"
-tags: [Upcoming releases, OL, Blow, Solowork, Kimono, Mourning, Drinking Party, Subordinates - Colleagues	]
+tags: [Censored, OL, Blow, Solowork, Kimono, Mourning, Drinking Party, Subordinates - Colleagues	]
 maker: [ROYAL]
 actress: [ Futaba Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qrvAB2wVYvFaD6">
     <a href="javascript:;">
         <img src="/v/royd170pl/royd170pl.jpg" width="WIDTH" height="HEIGHT" alt="royd170pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/qrvAB2wVYvFaD6" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ri1n4frd5c9x" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

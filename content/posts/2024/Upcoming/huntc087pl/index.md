@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-087 As A Man, Cleaning The School By Myself Is Super Panty Shot Heaven! If You Look Around, You Will Be Very Excited To See The Endless Panty Shots That Spread Out In Your Field Of Vision! When I Transferred To A School That Was An All-girls School Until Last Year, I Was The Only Guy There!
 
 url: /v/huntc087pl
-date: 0000-03-22T01:07:00Z
+date: 2024-03-22T01:07:00Z
 image: "huntc087pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Mini Skirt, School Stuff, Promiscuity	]
+tags: [Censored, 3P, 4P, Mini Skirt, School Stuff, Promiscuity	]
 maker: [Hunter]
 actress: [ Kagami Sara, Masshiro Minori, Misumi Rei, Igarashi Mizuki, Shirahama Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagami Sara, Masshiro Minori, Misumi Rei, Igarashi Mizuki, Shirahama 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="b3PqXQbY68tPrxR">
     <a href="javascript:;">
         <img src="/v/huntc087pl/huntc087pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc087pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kagami Sara, Masshiro Minori, Misumi Rei, Igarashi Mizuki, Shirahama 
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/b3PqXQbY68tPrxR" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/877p4vt9anky" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kagami Sara, Masshiro Minori, Misumi Rei, Igarashi Mizuki, Shirahama 
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
