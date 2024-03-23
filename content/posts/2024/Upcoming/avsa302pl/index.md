@@ -3,9 +3,9 @@ author: j91
 title: AVSA-302 Voluptuous Gal With Big Areolas And A Big Ass Who Always Only Thinks About Erect Dicks Wets Men's Pussy And Squeezes Out Men's Semen With Her Voluptuous Body That Is Unlike Any Japanese Man. Nina Nishimura
 
 url: /v/avsa302pl
-date: 0000-03-23T01:50:00Z
+date: 2024-03-23T01:50:00Z
 image: "avsa302pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Slut, Ultra-Huge Tits, Huge Butt, Bitch	]
+tags: [Censored, Solowork, Big Tits, Slut, Ultra-Huge Tits, Huge Butt, Bitch	]
 maker: [ Avs  ]
 actress: [ Nishimura Nina]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimura Nina]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3p1Vp0xGyQfr1L">
     <a href="javascript:;">
         <img src="/v/avsa302pl/avsa302pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa302pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Nishimura Nina]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/3p1Vp0xGyQfr1L" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/z64nozvae9nm" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Nishimura Nina]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

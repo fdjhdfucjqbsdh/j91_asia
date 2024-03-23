@@ -3,9 +3,9 @@ author: j91
 title: KTRA-620 Shaved Girls' Naughty Curiosity 4 Hours
 
 url: /v/ktra620pl
-date: 0000-03-23T01:00:00Z
+date: 2024-03-23T01:00:00Z
 image: "ktra620pl.jpg"
-tags: [Upcoming releases, Other Fetish, Best, Omnibus, Beautiful Girl, 4HR+, Shaved	]
+tags: [Censored, Other Fetish, Best, Omnibus, Beautiful Girl, 4HR+, Shaved	]
 maker: [ Ke- . Toraibu  ]
 actress: [ Satou Chiaki, Yamai Suzu, Asahi Shizuku, Kagami Sara, Asahi Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satou Chiaki, Yamai Suzu, Asahi Shizuku, Kagami Sara, Asahi Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="eLdlpzWKkLHjlG">
     <a href="javascript:;">
         <img src="/v/ktra620pl/ktra620pl.jpg" width="WIDTH" height="HEIGHT" alt="ktra620pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Satou Chiaki, Yamai Suzu, Asahi Shizuku, Kagami Sara, Asahi Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/eLdlpzWKkLHjlG" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/yrr5kt6q8v01" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Satou Chiaki, Yamai Suzu, Asahi Shizuku, Kagami Sara, Asahi Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
