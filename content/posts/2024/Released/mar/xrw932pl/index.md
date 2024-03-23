@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EKDV-644 INSTANT LOVE ReiwaVer. HIMARI Himari Kinoshita
+title: XRW-932 Little devil older sister Renka Yamamoto's masochistic man sex training
 
-url: /was/ekdv644pl
+url: /was/xrw932pl
 date: 2020-10-25T23:00:00Z
-image: "ekdv644pl.jpg"
-tags: [Old Releases,Censored, Creampie, Facials, Masturbation, Solowork, Squirting, Swimsuit, Titty fuck, Uniform, Vibe]
-maker: [ Crystal Eizou]
-actress: [ Hanazawa Himari]
+image: "xrw932pl.jpg"
+tags: [Old Releases,Censored, Creampie, 3P, 4P, Solowork, POV, Slut, Breasts	]
+maker: [ K.M.Produce  ]
+actress: [ Yamamoto Renka]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="e2dpgYjOG8cYdGL">
+<div class="video" data-videoid="AQrbX6zk41SX0eg">
     <a href="javascript:;">
-        <img src="/was/ekdv644pl/ekdv644pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv644pl.mp4" loading="lazy">
+        <img src="/was/xrw932pl/xrw932pl.jpg" width="WIDTH" height="HEIGHT" alt="xrw932pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/e2dpgYjOG8cYdGL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/AQrbX6zk41SX0eg" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/azmukedt2gss" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/81uwdhzmaedb" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

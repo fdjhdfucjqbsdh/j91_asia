@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EKDV-644 INSTANT LOVE ReiwaVer. HIMARI Himari Kinoshita
+title: OKSN-304 Big Tits Married Woman Affair Trip I want to forget everything and spend all my time having sex from morning till night...
 
-url: /was/ekdv644pl
-date: 2020-10-25T23:00:00Z
-image: "ekdv644pl.jpg"
-tags: [Old Releases,Censored, Creampie, Facials, Masturbation, Solowork, Squirting, Swimsuit, Titty fuck, Uniform, Vibe]
-maker: [ Crystal Eizou]
-actress: [ Hanazawa Himari]
+url: /was/oksn304pl
+date: 2020-10-25T23:25:00Z
+image: "oksn304pl.jpg"
+tags: [Old Releases,Censored, Big tits, Digital Mosaic, Married Woman, Toy]
+maker: [ Abc- Mousou Zoku]
+actress: [ Tanaka Nene]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="e2dpgYjOG8cYdGL">
+<div class="video" data-videoid="xo1mDkZxPgTlPz">
     <a href="javascript:;">
-        <img src="/was/ekdv644pl/ekdv644pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv644pl.mp4" loading="lazy">
+        <img src="/was/oksn304pl/oksn304pl.jpg" width="WIDTH" height="HEIGHT" alt="oksn304pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/e2dpgYjOG8cYdGL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/xo1mDkZxPgTlPz" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/azmukedt2gss" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/arx24fa5ltp7" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

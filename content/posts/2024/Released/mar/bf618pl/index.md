@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EKDV-644 INSTANT LOVE ReiwaVer. HIMARI Himari Kinoshita
+title: BF-618 The ace of the swimming club reversely sexually harasses the advisor teacher of her dreams at school, Himari Kinoshita
 
-url: /was/ekdv644pl
+url: /was/bf618pl
 date: 2020-10-25T23:00:00Z
-image: "ekdv644pl.jpg"
-tags: [Old Releases,Censored, Creampie, Facials, Masturbation, Solowork, Squirting, Swimsuit, Titty fuck, Uniform, Vibe]
-maker: [ Crystal Eizou]
+image: "bf618pl.jpg"
+tags: [Old Releases,Censored, Beautiful Girl, Creampie, School Swimsuit, Slut, Solowork, Uniform]
+maker: [ Befree]
 actress: [ Hanazawa Himari]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="e2dpgYjOG8cYdGL">
+<div class="video" data-videoid="rKMZO3yRrmU87X">
     <a href="javascript:;">
-        <img src="/was/ekdv644pl/ekdv644pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv644pl.mp4" loading="lazy">
+        <img src="/was/bf618pl/bf618pl.jpg" width="WIDTH" height="HEIGHT" alt="bf618pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/e2dpgYjOG8cYdGL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/rKMZO3yRrmU87X" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/azmukedt2gss" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/y2nu56emu5al" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

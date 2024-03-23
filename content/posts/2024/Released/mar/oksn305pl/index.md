@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EKDV-644 INSTANT LOVE ReiwaVer. HIMARI Himari Kinoshita
+title: OKSN-305 Pleasant Sex, Big Tits, Innocent Married Woman, Intoxicated by Stimulation and Pleasure, Fallen Female
 
-url: /was/ekdv644pl
-date: 2020-10-25T23:00:00Z
-image: "ekdv644pl.jpg"
-tags: [Old Releases,Censored, Creampie, Facials, Masturbation, Solowork, Squirting, Swimsuit, Titty fuck, Uniform, Vibe]
-maker: [ Crystal Eizou]
-actress: [ Hanazawa Himari]
+url: /was/oksn305pl
+date: 2020-10-25T23:25:00Z
+image: "oksn305pl.jpg"
+tags: [Old Releases,Censored, Big Tits, Married Woman, Busty Fetish, Toy, Digital Mosaic	]
+maker: [ Abc- Mousou Zoku  ]
+actress: [ Sachiko ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="e2dpgYjOG8cYdGL">
+<div class="video" data-videoid="6kZ1jLB3zXI984l">
     <a href="javascript:;">
-        <img src="/was/ekdv644pl/ekdv644pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv644pl.mp4" loading="lazy">
+        <img src="/was/oksn305pl/oksn305pl.jpg" width="WIDTH" height="HEIGHT" alt="oksn305pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/e2dpgYjOG8cYdGL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/6kZ1jLB3zXI984l" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/azmukedt2gss" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/m7yjex9xisda" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EKDV-644 INSTANT LOVE ReiwaVer. HIMARI Himari Kinoshita
+title: LULU-037 For three days while her husband was on a business trip, Ami Kashiwagi loved her aunt's big ass so much that she fucked her raw and creampied her many times at home, just the two of them.
 
-url: /was/ekdv644pl
-date: 2020-10-25T23:00:00Z
-image: "ekdv644pl.jpg"
-tags: [Old Releases,Censored, Creampie, Facials, Masturbation, Solowork, Squirting, Swimsuit, Titty fuck, Uniform, Vibe]
-maker: [ Crystal Eizou]
-actress: [ Hanazawa Himari]
+url: /was/lulu037pl
+date: 2020-10-25T23:30:00Z
+image: "lulu037pl.jpg"
+tags: [Old Releases,Censored, butt, Creampie, Huge Butt, huge cock, Married Woman, Solowork]
+maker: [ LUNATICS]
+actress: [ Kashiwagi Ami]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="e2dpgYjOG8cYdGL">
+<div class="video" data-videoid="kb6wod1b04SOxjV">
     <a href="javascript:;">
-        <img src="/was/ekdv644pl/ekdv644pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv644pl.mp4" loading="lazy">
+        <img src="/was/lulu037pl/lulu037pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu037pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/e2dpgYjOG8cYdGL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/kb6wod1b04SOxjV" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/azmukedt2gss" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/iv4q3oqkd7c0" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
