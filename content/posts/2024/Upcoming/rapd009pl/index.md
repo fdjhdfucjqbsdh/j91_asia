@@ -3,9 +3,9 @@ author: j91
 title: RAPD-009 Targeted Model Photo Session! ! Event Venue Rape Big Orgy 9P Rape Shocking Leaked Video Of Rui Otokoto Crying Out While Being Raped By Multiple People And Writhing In Agony
 
 url: /v/rapd009pl
-date: 0000-03-23T01:45:00Z
+date: 2024-03-23T01:45:00Z
 image: "rapd009pl.jpg"
-tags: [Upcoming releases, Cosplay, 3P, 4P, Solowork, Abuse	]
+tags: [Censored, Cosplay, 3P, 4P, Solowork, Abuse	]
 maker: [ Global Media Entertainment  ]
 actress: [ Otogoto Rui]
 ---
@@ -13,13 +13,13 @@ actress: [ Otogoto Rui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="81zKMPRwK8TodmZ">
     <a href="javascript:;">
         <img src="/v/rapd009pl/rapd009pl.jpg" width="WIDTH" height="HEIGHT" alt="rapd009pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Otogoto Rui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/81zKMPRwK8TodmZ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/9z3um4ww28ti" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Otogoto Rui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

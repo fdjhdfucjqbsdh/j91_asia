@@ -3,9 +3,9 @@ author: j91
 title: BLOR-240 Muchier Lower Body Trained On Track And Field! A Bright And Sexually Active Gym Instructor Who Goes Crazy With His Big Cock And Sweats!
 
 url: /v/blor240pl
-date: 0000-03-23T01:20:00Z
+date: 2024-03-23T01:20:00Z
 image: "blor240pl.jpg"
-tags: [Upcoming releases, Facials, Massage, Huge Butt, Huge Cock, Athlete	]
+tags: [Censored, Facials, Massage, Huge Butt, Huge Cock, Athlete	]
 maker: [ Burokkori-  Mousou Zoku  ]
 actress: [ Uruki Sara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Uruki Sara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2P1PRpjPkOfZ0Ae">
     <a href="javascript:;">
         <img src="/v/blor240pl/blor240pl.jpg" width="WIDTH" height="HEIGHT" alt="blor240pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Uruki Sara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/2P1PRpjPkOfZ0Ae" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/95mxk7qvln5f" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Uruki Sara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
