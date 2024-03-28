@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-359 Exclusive Ririko Kinoshita Serious Estrus Copulation That Gets Wet With Passion! !! Close-knit Sex-The Pleasure Of A Woman Who Forgets The Actual Suffering-
-url: /v/jul359pl
+title: JUL-380 I can't even tell my girlfriend's wife that I impregnated her mother-in-law... -I was on a hot spring trip for 1 night and 2 days, and I lost myself and cum inside me. - Rin Okae
+
+url: /was/jul380pl
 date: 2020-11-25T04:55:00Z
-image: "jul359pl.jpg"
-tags: [Old Releases,Censored, Solowork,Big Tits,Married Woman,Affair,Mature Woman,Digital Mosaic,Sweat	 ]
+image: "jul380pl.jpg"
+tags: [Old Releases,Censored, Big tits, Creampie, Digital Mosaic, Hot Spring, Married Woman, Mature Woman, Solowork]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [ Okae Rin]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="6RRlx8QlwYi9De7">
+<div class="video" data-videoid="brlGMaoY8euP0MA">
     <a href="javascript:;">
-        <img src="/v/jul359pl/jul359pl.jpg" width="WIDTH" height="HEIGHT" alt="jul359pl.mp4" loading="lazy">
+        <img src="/was/jul380pl/jul380pl.jpg" width="WIDTH" height="HEIGHT" alt="jul380pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/6RRlx8QlwYi9De7" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/brlGMaoY8euP0MA" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/2nzih1azjdx3/JUL-359.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/yedeysf0kanm" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

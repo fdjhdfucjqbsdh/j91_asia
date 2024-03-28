@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-359 Exclusive Ririko Kinoshita Serious Estrus Copulation That Gets Wet With Passion! !! Close-knit Sex-The Pleasure Of A Woman Who Forgets The Actual Suffering-
-url: /v/jul359pl
+title: JUL-383 After the couple fights, her mother-in-law always comforts her. Juri Yamaguchi
+
+url: /was/jul383pl
 date: 2020-11-25T04:55:00Z
-image: "jul359pl.jpg"
-tags: [Old Releases,Censored, Solowork,Big Tits,Married Woman,Affair,Mature Woman,Digital Mosaic,Sweat	 ]
+image: "jul383pl.jpg"
+tags: [Old Releases,Censored, Big tits, Cuckold, Digital Mosaic, Married Woman, Mature Woman, Solowork, Stepmother]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [ Yamaguchi Syuri ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="6RRlx8QlwYi9De7">
+<div class="video" data-videoid="me29Wr977ys2QG">
     <a href="javascript:;">
-        <img src="/v/jul359pl/jul359pl.jpg" width="WIDTH" height="HEIGHT" alt="jul359pl.mp4" loading="lazy">
+        <img src="/was/jul383pl/jul383pl.jpg" width="WIDTH" height="HEIGHT" alt="jul383pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/6RRlx8QlwYi9De7" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/me29Wr977ys2QG" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/2nzih1azjdx3/JUL-359.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/m2t5w1h02623" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>

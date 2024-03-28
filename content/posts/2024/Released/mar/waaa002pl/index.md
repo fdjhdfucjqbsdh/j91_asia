@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-359 Exclusive Ririko Kinoshita Serious Estrus Copulation That Gets Wet With Passion! !! Close-knit Sex-The Pleasure Of A Woman Who Forgets The Actual Suffering-
-url: /v/jul359pl
-date: 2020-11-25T04:55:00Z
-image: "jul359pl.jpg"
-tags: [Old Releases,Censored, Solowork,Big Tits,Married Woman,Affair,Mature Woman,Digital Mosaic,Sweat	 ]
-maker: [Madonna]
-actress: [Kinoshita Ririko]
+title: WAAA-002 It was at a soapland that I ran into my sister-in-law who hated me. I will make you thoroughly serve me with ``free unlimited forced sex'' and cum over and over again! JULIA
+
+url: /was/waaa002pl
+date: 2020-11-25T04:45:00Z
+image: "waaa002pl.jpg"
+tags: [Old Releases,Censored, Big tits, Creampie, Cuckold, Prostitutes, Soapland, Solowork, Titty fuck]
+maker: [WANZ FACTORY]
+actress: [ Julia ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="6RRlx8QlwYi9De7">
+<div class="video" data-videoid="vpYqD0KRDPf49GQ">
     <a href="javascript:;">
-        <img src="/v/jul359pl/jul359pl.jpg" width="WIDTH" height="HEIGHT" alt="jul359pl.mp4" loading="lazy">
+        <img src="/was/waaa002pl/waaa002pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa002pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/6RRlx8QlwYi9De7" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/vpYqD0KRDPf49GQ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/2nzih1azjdx3/JUL-359.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/p2i3jkz4i3kd" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
