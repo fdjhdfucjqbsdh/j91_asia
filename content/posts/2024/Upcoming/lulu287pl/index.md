@@ -3,9 +3,9 @@ author: j91
 title: LULU-287 I Can't Stand The Defenseless Panty Shots Of My Fair-skinned, Big-assed J-type Sister, Who Is The Neatest Girl In The Class, So I Rub Her Panties And Ejaculate! When I Was Confused, I Inserted It All The Way And Made A Continuous Ejaculation With My Big Cock Piston, No Questions Asked. Konatsu Kashiwagi
 
 url: /v/lulu287pl
-date: 0000-03-29T01:25:00Z
+date: 2024-03-29T01:25:00Z
 image: "lulu287pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Underwear, Huge Butt	]
+tags: [Censored, Creampie, Solowork, School Girls, Underwear, Huge Butt	]
 maker: [LUNATICS]
 actress: [ Kashiwagi Konatsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZjYXwmwPw8SqL1b">
     <a href="javascript:;">
         <img src="/v/lulu287pl/lulu287pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu287pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ZjYXwmwPw8SqL1b" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ngybphvb6n4i" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
