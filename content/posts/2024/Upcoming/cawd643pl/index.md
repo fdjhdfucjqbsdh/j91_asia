@@ -43,8 +43,8 @@ actress: [ Nishimoto Meisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/ff9emz7x2bzt"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/bbrvthl7o20r"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

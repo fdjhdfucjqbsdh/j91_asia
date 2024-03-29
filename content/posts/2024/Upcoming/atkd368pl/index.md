@@ -43,8 +43,8 @@ actress: [ Oda Mako, Kobayakawa Reiko, Kano Hana, Niimura Akari, Miyazawa Chihar
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/580cnpivoxkd"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/6avvk62bb5l9"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

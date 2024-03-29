@@ -43,8 +43,8 @@ actress: [ Hanazawa Himari, Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/u31dtrzw8qva"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/wxpmza4r09in"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

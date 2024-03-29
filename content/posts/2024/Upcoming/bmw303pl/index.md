@@ -43,8 +43,8 @@ actress: [ Julia ,Tsubomi, Sayama Ai, Kiritani Matsuri, Mizukawa Sumire ,Matsuna
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/ruw2dr9g2awb"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/e3w6kduq6ylo"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
