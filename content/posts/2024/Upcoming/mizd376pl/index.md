@@ -3,9 +3,9 @@ author: j91
 title: MIZD-376 After All...I Love Girls Who Drink Sperm! Gulp! 70 Cum Shots BEST
 
 url: /v/mizd376pl
-date: 0000-03-29T01:00:00Z
+date: 2024-03-29T01:00:00Z
 image: "mizd376pl.jpg"
-tags: [Upcoming releases, Blow, Best, Omnibus, Beautiful Girl, Cum, Slut, 4HR+, Deep Throating	]
+tags: [Censored, Blow, Best, Omnibus, Beautiful Girl, Cum, Slut, 4HR+, Deep Throating	]
 maker: [MOODYZ]
 actress: [ Tsubomi, Iioka Kanako, Mitani Akari, Satsuki Ena, Saitou Marina, REMI, Yuzuriha Karen, Kagari Mai, Tenma Yui, Sano Natsu]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubomi, Iioka Kanako, Mitani Akari, Satsuki Ena, Saitou Marina, REMI
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pVYZQKzaaaIrPBa">
     <a href="javascript:;">
         <img src="/v/mizd376pl/mizd376pl.jpg" width="WIDTH" height="HEIGHT" alt="mizd376pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tsubomi, Iioka Kanako, Mitani Akari, Satsuki Ena, Saitou Marina, REMI
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/pVYZQKzaaaIrPBa" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/uedq8e8p9zkw" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tsubomi, Iioka Kanako, Mitani Akari, Satsuki Ena, Saitou Marina, REMI
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
