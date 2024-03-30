@@ -3,9 +3,9 @@ author: j91
 title: PKPD-292 A Simple Job Where You Just Have To Cum. A G-cup Beauty At The Front Desk Of A First-class Hotel Who Is Fucked Raw For Promotion. Yui, 26 Years Old, Yui Kanda.
 
 url: /v/pkpd292pl
-date: 0000-03-30T01:50:00Z
+date: 2024-03-30T01:50:00Z
 image: "pkpd292pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,POV,Beautiful Girl,Breasts,Slender	]
+tags: [Censored, Creampie,Solowork,POV,Beautiful Girl,Breasts,Slender	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Kanda Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanda Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1ObXbwLaMdCe3mP">
     <a href="javascript:;">
         <img src="/v/pkpd292pl/pkpd292pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd292pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kanda Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/1ObXbwLaMdCe3mP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kanda Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/t165w80sr59m"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

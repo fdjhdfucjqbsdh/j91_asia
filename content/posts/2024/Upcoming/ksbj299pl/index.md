@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-299 My Boss's Wife Was A Slutty Wife Who Looked Neat But Secretly Played Naughty Tricks On Me! ?
 
 url: /v/ksbj299pl
-date: 0000-03-30T01:20:00Z
+date: 2024-03-30T01:20:00Z
 image: "ksbj299pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Married Woman, Slut, 4HR+	]
+tags: [Censored, Creampie, Best, Omnibus, Married Woman, Slut, 4HR+	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Mizutani Kokone ,Yuuki Nono ,Hirose Narumi ,Horiuchi Mikako ,Kagari Mai, Tenma Yui]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizutani Kokone ,Yuuki Nono ,Hirose Narumi ,Horiuchi Mikako ,Kagari M
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="gr6dBWkw29UzJL">
     <a href="javascript:;">
         <img src="/v/ksbj299pl/ksbj299pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj299pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Mizutani Kokone ,Yuuki Nono ,Hirose Narumi ,Horiuchi Mikako ,Kagari M
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/gr6dBWkw29UzJL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Mizutani Kokone ,Yuuki Nono ,Hirose Narumi ,Horiuchi Mikako ,Kagari M
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/cwrxe4u96qez"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

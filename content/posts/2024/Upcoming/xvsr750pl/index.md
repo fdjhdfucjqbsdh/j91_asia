@@ -3,9 +3,9 @@ author: j91
 title: XVSR-750 A Highly Educated Beautiful Girl From The Northern Land, 148cm Tall, Made Of Natural Material, And Has An Infinite Sexual Desire. 20 Year Old Rough DEBUT Suzune Kiritani
 
 url: /v/xvsr750pl
-date: 0000-03-30T01:56:00Z
+date: 2024-03-30T01:56:00Z
 image: "xvsr750pl.jpg"
-tags: [Upcoming releases, Cosplay, 3P, 4P, Solowork, Masturbation, Debut Production, Shaved	]
+tags: [Censored, Cosplay, 3P, 4P, Solowork, Masturbation, Debut Production, Shaved	]
 maker: [ MAX-A  ]
 actress: [ Kirigaya Suzune ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kirigaya Suzune ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3rp7oLm9QbidObZ">
     <a href="javascript:;">
         <img src="/v/xvsr750pl/xvsr750pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr750pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kirigaya Suzune ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/3rp7oLm9QbidObZ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kirigaya Suzune ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/t8xf2wi8d87p"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
