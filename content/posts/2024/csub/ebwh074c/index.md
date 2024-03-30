@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-074 Yuma Inukai, An Iron-clad Libero Who Contributed To The Inter-High Competition And A Real F-cup Athlete With Slender And Long Legs, Makes Her AV Debut
+title: EBWH-074 [Chinese Subtitle] Yuma Inukai, An Iron-clad Libero Who Contributed To The Inter-High Competition And A Real F-cup Athlete With Slender And Long Legs, Makes Her AV Debut
 
 url: /was/ebwh074c
 date: 2024-03-30T06:10:00Z

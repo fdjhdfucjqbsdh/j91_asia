@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-075 A Former Celebrity Who Was Featured In Weekly Pu● Has Gained Adult Sex Appeal And Returned To The Center Stage For The First Time In 8 Years.Gcup Genuine Gravure Idol Yamabuki Ai AV Debut
+title: EBWH-075 [Chinese Subtitle] A Former Celebrity Who Was Featured In Weekly Pu● Has Gained Adult Sex Appeal And Returned To The Center Stage For The First Time In 8 Years.Gcup Genuine Gravure Idol Yamabuki Ai AV Debut
 
 url: /was/ebwh075c
 date: 2024-03-30T06:10:00Z

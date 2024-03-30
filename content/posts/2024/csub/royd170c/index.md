@@ -1,6 +1,6 @@
 ---
 author: j91
-title: ROYD-170 A Junior Female Employee Woke Up In The Morning With Her Yukata Exposed In Her Room! Even Though She's Always So Cocky And Always Curses At Me, I've Become Spoiled... Ema Futaba
+title: ROYD-170 [Chinese Subtitle] A Junior Female Employee Woke Up In The Morning With Her Yukata Exposed In Her Room! Even Though She's Always So Cocky And Always Curses At Me, I've Become Spoiled... Ema Futaba
 
 url: /was/royd170c
 date: 2024-03-30T06:10:00Z

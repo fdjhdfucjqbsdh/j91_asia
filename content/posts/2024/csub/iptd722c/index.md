@@ -1,6 +1,6 @@
 ---
 author: j91
-title: IPTD-722 Aino Kishi-chan Maid Student Body President
+title: IPTD-722 [Chinese Subtitle] Aino Kishi-chan Maid Student Body President
 
 url: /was/iptd722c
 date: 2024-03-30T06:00:00Z

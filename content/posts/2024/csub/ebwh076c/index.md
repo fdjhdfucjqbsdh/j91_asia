@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-076 Sayaka Matsuoka, A Former Miss Campus AV Debut With An Astounding Style Who Won The Final Swimsuit Examination In A Big Turn.Height; 172 Cm, B; 89 Cm (F), H; 93 Cm
+title: EBWH-076 [Chinese Subtitle] Sayaka Matsuoka, A Former Miss Campus AV Debut With An Astounding Style Who Won The Final Swimsuit Examination In A Big Turn.Height; 172 Cm, B; 89 Cm (F), H; 93 Cm
 
 url: /was/ebwh076c
 date: 2024-03-30T06:10:00Z
