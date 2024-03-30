@@ -34,7 +34,7 @@ actress: [ Sakura Mahiru ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/arzZbmk8kwuxVWP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://asnwish.com/jhm13pc9i3k2" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Sakura Mahiru ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/k7uqz7v46sps"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/70bodspg9sef"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

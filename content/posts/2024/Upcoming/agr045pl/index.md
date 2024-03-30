@@ -34,7 +34,7 @@ actress: [ Narumiya Iroha ]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/z7km8akjLzuYmxO" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="javascript:;" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://asnwish.com/jo7uvnkrcwqp" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ actress: [ Narumiya Iroha ]
 	      <br>
 <div class="buttons">
 <p><a href="https://wolfstream.tv/g5srp1lnro7f"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/flj7ail2dqlu"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
