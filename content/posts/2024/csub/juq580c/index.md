@@ -1,21 +1,21 @@
 ---
 author: j91
-title: START-038 [Chinese Subtitle] Immediate Blowjob After Lights Out Time! ? A Married Woman Licking And Sucking Nurse On The Night Shift Came To Destroy My Cock! ! Mana Sakura
+title: JUQ-580 [Chinese Subtitle] Exclusive Again. A J-cup Beauty Is Covered In Infidelity And Oil And Falls Into Full-fledged NTR. Nude Model NTR Shocking Cheating Video Of A Wife Drowning In Shame With Her Boss Kana Kusakabe
 
-url: /was/start038c
+url: /was/juq580c
 date: 2024-04-03T04:00:00Z
-image: "start038c.jpg"
-tags: [Chinese Subtitle, Blow, Solowork, Dirty Words, Married Woman, Slut, Nurse	]
-maker: [ SOD Create  ]
-actress: [ Sakura Mana ]
+image: "juq580c.jpg"
+tags: [Chinese Subtitle, 3P, 4P, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+maker: [ Madonna  ]
+actress: [ Kusakabe Kana ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="mrPDGrVLraub1Je">
+<div class="video" data-videoid="Jp2mRyY9v3FZRo">
     <a href="javascript:;">
-        <img src="/was/start038c/start038c.jpg" width="WIDTH" height="HEIGHT" alt="start038c.mp4" loading="lazy">
+        <img src="/was/juq580c/juq580c.jpg" width="WIDTH" height="HEIGHT" alt="juq580c.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/mrPDGrVLraub1Je" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/Jp2mRyY9v3FZRo" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/u627luxyukvg" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://rubystm.com/wbhhep2b29bx" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
 <br><br>
       </div>
     </div>

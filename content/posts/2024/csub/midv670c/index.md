@@ -1,21 +1,21 @@
 ---
 author: j91
-title: START-038 [Chinese Subtitle] Immediate Blowjob After Lights Out Time! ? A Married Woman Licking And Sucking Nurse On The Night Shift Came To Destroy My Cock! ! Mana Sakura
+title: MIDV-670 [Chinese Subtitle] When I Returned Home To The Countryside, My Childhood Friend Mio, Who Was Jealous Of My Tokyo Girlfriend, Sweat-dropped And Made Me Cum Out Of Her With Her Dirty Talk...Summer Memories. Mio Ishikawa
 
-url: /was/start038c
+url: /was/midv670c
 date: 2024-04-03T04:00:00Z
-image: "start038c.jpg"
-tags: [Chinese Subtitle, Blow, Solowork, Dirty Words, Married Woman, Slut, Nurse	]
-maker: [ SOD Create  ]
-actress: [ Sakura Mana ]
+image: "midv670c.jpg"
+tags: [Chinese Subtitle, Solowork, Dirty Words, Beautiful Girl, Cowgirl, Slut, Childhood Friend	]
+maker: [ MOODYZ  ]
+actress: [ Ishikawa Mio ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="mrPDGrVLraub1Je">
+<div class="video" data-videoid="j7zRwr9Br8czl7V">
     <a href="javascript:;">
-        <img src="/was/start038c/start038c.jpg" width="WIDTH" height="HEIGHT" alt="start038c.mp4" loading="lazy">
+        <img src="/was/midv670c/midv670c.jpg" width="WIDTH" height="HEIGHT" alt="midv670c.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/mrPDGrVLraub1Je" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/j7zRwr9Br8czl7V" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/u627luxyukvg" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://rubystm.com/ljkb7uxcaj5y" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
 <br><br>
       </div>
     </div>

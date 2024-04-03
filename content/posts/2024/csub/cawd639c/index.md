@@ -1,21 +1,21 @@
 ---
 author: j91
-title: START-038 [Chinese Subtitle] Immediate Blowjob After Lights Out Time! ? A Married Woman Licking And Sucking Nurse On The Night Shift Came To Destroy My Cock! ! Mana Sakura
+title: CAWD-639 [Chinese Subtitle] Legal Trainee Mayuki Ito Was Confined, Trained, And Sympathized With A Strange-smelling Middle-aged Man In The Neighbor's Garbage Room... 55 Consecutive Vaginal Cum Shots Without Pulling Out.
 
-url: /was/start038c
+url: /was/cawd639c
 date: 2024-04-03T04:00:00Z
-image: "start038c.jpg"
-tags: [Chinese Subtitle, Blow, Solowork, Dirty Words, Married Woman, Slut, Nurse	]
-maker: [ SOD Create  ]
-actress: [ Sakura Mana ]
+image: "cawd639c.jpg"
+tags: [Chinese Subtitle, Creampie, Solowork, Abuse, Drama, Confinement, Acme · Orgasm	]
+maker: [ Kawaii  ]
+actress: [ Itou Mayuki ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="mrPDGrVLraub1Je">
+<div class="video" data-videoid="AQWoPjMLrxtZez">
     <a href="javascript:;">
-        <img src="/was/start038c/start038c.jpg" width="WIDTH" height="HEIGHT" alt="start038c.mp4" loading="lazy">
+        <img src="/was/cawd639c/cawd639c.jpg" width="WIDTH" height="HEIGHT" alt="cawd639c.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/mrPDGrVLraub1Je" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/AQWoPjMLrxtZez" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Mana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/u627luxyukvg" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://rubystm.com/p7675p6ecu3u" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
 <br><br>
       </div>
     </div>
