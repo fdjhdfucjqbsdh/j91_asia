@@ -3,9 +3,9 @@ author: j91
 title: NKKD-327 Shameful Wife In A Man's Bath Ayumi Natsukawa's Voluptuous Female Body That Cannot Be Hidden With A Wet Towel
 
 url: /v/nkkd327pl
-date: 0000-04-05T01:30:00Z
+date: 2024-04-05T01:30:00Z
 image: "nkkd327pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Solowork, Humiliation, Big Tits, Married Woman, Cuckold	]
 maker: [JET Eizou]
 actress: [ Natsukawa Ayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukawa Ayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="g2BydGpyyliqozP">
     <a href="javascript:;">
         <img src="/v/nkkd327pl/nkkd327pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd327pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/g2BydGpyyliqozP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/m6iuzzk5m4zl" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
