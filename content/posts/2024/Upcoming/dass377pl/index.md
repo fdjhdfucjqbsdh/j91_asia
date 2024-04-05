@@ -3,9 +3,9 @@ author: j91
 title: DASS-377 Beautiful Mother And Daughter, Itadakimasu. I Came To See The Woman And Her Daughter That I Impregnated Decades Ago. AIKA Momo Shiraishi
 
 url: /v/dass377pl
-date: 0000-04-05T01:40:00Z
+date: 2024-04-05T01:40:00Z
 image: "dass377pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Incest, Mother, Adopted Daughter	]
+tags: [Censored, Creampie, Beautiful Girl, Incest, Mother, Adopted Daughter	]
 maker: [Das !]
 actress: [ AIKA, Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ AIKA, Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pj9Z41llvaFr3lZ">
     <a href="javascript:;">
         <img src="/v/dass377pl/dass377pl.jpg" width="WIDTH" height="HEIGHT" alt="dass377pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ AIKA, Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/pj9Z41llvaFr3lZ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/b0y8ngdsjjm0" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ AIKA, Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

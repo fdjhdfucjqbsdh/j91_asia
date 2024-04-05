@@ -3,9 +3,9 @@ author: j91
 title: DASS-365 My Private Parts Were Touched So Much By A Dispatched Masseuse That I Couldn't Bear The Pleasure And Ended Up Cuckolding Her. Riho Fujimori
 
 url: /v/dass365pl
-date: 0000-04-05T01:40:00Z
+date: 2024-04-05T01:40:00Z
 image: "dass365pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Massage, Lotion, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Massage, Lotion, Cuckold	]
 maker: [Das !]
 actress: [ Fujimori Riho]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujimori Riho]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kLvayz6OOohOGKa">
     <a href="javascript:;">
         <img src="/v/dass365pl/dass365pl.jpg" width="WIDTH" height="HEIGHT" alt="dass365pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/kLvayz6OOohOGKa" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/w7zitar55l2s" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

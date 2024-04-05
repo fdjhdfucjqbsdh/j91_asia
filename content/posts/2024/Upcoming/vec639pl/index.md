@@ -3,9 +3,9 @@ author: j91
 title: VEC-639 My Wife's Best Friend Ruisa Miyazuki Came To Lecture Her Unfaithful Husband Who Was Found Out To Be Cheating On Her.
 
 url: /v/vec639pl
-date: 0000-04-05T01:35:00Z
+date: 2024-04-05T01:35:00Z
 image: "vec639pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Venus]
 actress: [ Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mPv4w1yrzPHbY7r">
     <a href="javascript:;">
         <img src="/v/vec639pl/vec639pl.jpg" width="WIDTH" height="HEIGHT" alt="vec639pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/mPv4w1yrzPHbY7r" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ibz940xta951" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

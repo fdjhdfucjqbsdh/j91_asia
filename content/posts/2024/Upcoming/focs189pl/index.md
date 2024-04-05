@@ -3,9 +3,9 @@ author: j91
 title: FOCS-189 [Beware Of Watching Men With Small Dicks] My Boyfriend's Disappointing Punch Line Is Me...Continuous Creampie Sex With My Boyfriend (who Has A Big Penis With Slow Ejaculation) [NTR] Mirei Aoi
 
 url: /v/focs189pl
-date: 0000-04-05T01:20:00Z
+date: 2024-04-05T01:20:00Z
 image: "focs189pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Breasts, Cuckold, Huge Butt, Huge Cock	]
+tags: [Censored, Creampie, Solowork, Breasts, Cuckold, Huge Butt, Huge Cock	]
 maker: [Abc- Mousou Zoku]
 actress: [ Aoi Mirei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Mirei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KeVpX172jMT0R7Y">
     <a href="javascript:;">
         <img src="/v/focs189pl/focs189pl.jpg" width="WIDTH" height="HEIGHT" alt="focs189pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Aoi Mirei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/KeVpX172jMT0R7Y" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/bhi9d6cf6v8i" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Aoi Mirei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

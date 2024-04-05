@@ -3,9 +3,9 @@ author: j91
 title: RKI-665 Recommended For M Men! A Slut Sex Apartment Where The Highest Quality Sluts Serve You, Miki Horikita
 
 url: /v/rki665pl
-date: 0000-04-05T01:25:00Z
+date: 2024-04-05T01:25:00Z
 image: "rki665pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Beauty Shop, Big Tits, Titty Fuck, Slut	]
+tags: [Censored, Cosplay, Solowork, Beauty Shop, Big Tits, Titty Fuck, Slut	]
 maker: [Rookie]
 actress: [ Sakura Mahiru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakura Mahiru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gjmqJM3aV2Iq2B0">
     <a href="javascript:;">
         <img src="/v/rki665pl/rki665pl.jpg" width="WIDTH" height="HEIGHT" alt="rki665pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Sakura Mahiru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/gjmqJM3aV2Iq2B0" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/63a881mo6lbk" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Sakura Mahiru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
