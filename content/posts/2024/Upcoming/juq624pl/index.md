@@ -1,6 +1,6 @@
 ---
 author: j91
-title: JUQ-624 A Wife Who Commutes With Creampie On A Night Bus.A Story About A Healthy Married Woman Who Goes To Her Husband Who Is Waiting For Him At His New Place Of Work, And Turns Her Into An Obedient Woman Through Slow Sex And Unauthorized Creampie. Ririko Kinoshita
+title: JUQ-624 Wife Who Commutes By Night Bus And Gets Creampied By Another Guy - A Story of Turning a Devoted Housewife Heading to Her Husband Waiting at His New Job Location into a Submissive Woman with Slow Sex and Unauthorized Creampies.. Ririko Kinoshita
 
 url: /v/juq624pl
 date: 2024-04-05T01:45:00Z
