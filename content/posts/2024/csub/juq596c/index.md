@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MIDV-674 [Chinese Subtitle] My Ex-boss's Nipple Kneading Training Developed Me Into A Predisposition To Ejaculate Quickly, And My Reason And Love For My Husband Were Destroyed By Repeated Nipple Teasing... Nana Yagi
+title: JUQ-596 [Chinese Subtitle] Substitute Weekend Meat Urinal For My Beloved Husband. I Was Kept Creampied Over And Over Again By This Extremely Evil Old Man Until I Became Pregnant... Ririko Kinoshita
 
-url: /was/midv674c
+url: /was/juq596c
 date: 2024-04-05T06:00:00Z
-image: "midv674c.jpg"
-tags: [Chinese Subtitle, 3P, 4P, Solowork, Married Woman, Abuse, Cuckold	]
-maker: [MOODYZ  ]
-actress: [Yagi Nana ]
+image: "juq596c.jpg"
+tags: [Chinese Subtitle, Creampie, 3P, 4P, Solowork, Married Woman, Mature Woman, Conceived	]
+maker: [Madonna  ]
+actress: [Kinoshita Ririko ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="O6Jd3wOKZLSW96">
+<div class="video" data-videoid="ygDeOO4JXMf1DDq">
     <a href="javascript:;">
-        <img src="/was/midv674c/midv674c.jpg" width="WIDTH" height="HEIGHT" alt="midv674c.mp4" loading="lazy">
+        <img src="/was/juq596c/juq596c.jpg" width="WIDTH" height="HEIGHT" alt="juq596c.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Yagi Nana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/O6Jd3wOKZLSW96" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/ygDeOO4JXMf1DDq" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Yagi Nana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/ls26mcdlg1kf" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://rubystm.com/bjch06x4px8k" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
 <br><br>
       </div>
     </div>
