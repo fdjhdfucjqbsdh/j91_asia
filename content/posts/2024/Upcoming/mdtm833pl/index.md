@@ -13,7 +13,7 @@ actress: [ Akemi Kou ,Kururugi Aoi ,Ookawa Tsukino ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="2z01D3jYmotzvd">
+<div class="video" data-videoid="Pw7zKZ07rku0vDv">
     <a href="javascript:;">
         <img src="/v/mdtm833pl/mdtm833pl.jpg" width="WIDTH" height="HEIGHT" alt="mdtm833pl.mp4" loading="lazy">
     </a>
@@ -33,8 +33,8 @@ actress: [ Akemi Kou ,Kururugi Aoi ,Ookawa Tsukino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/2z01D3jYmotzvd" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/2n1cpigzstu6" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/Pw7zKZ07rku0vDv" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/bzadogv83h3r" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
