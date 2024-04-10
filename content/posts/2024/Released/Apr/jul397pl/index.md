@@ -1,20 +1,21 @@
 ---
 author: j91
-title: JUL-391 "Hey? Are You Really A Virgin?"-A Married Woman Who Continued To Be Squid By Virgin Fraud-Ririko Kinoshita
-url: /v/jul391pl
+title: JUL-397 I Want You To Fuck My Wife.. A Husband Has Cuckold Fantasies And Plans His Wife's Secret Creampie Adultery. Koizumi Hinata
+
+url: /was/jul397pl
 date: 2020-12-25T23:00:00Z
-image: "jul391pl.jpg"
-tags: [Old Releases,Censored,Solowork,Big Tits,Married Woman,Mature Woman,Drama,Digital Mosaic,Virgin Man	 ]
+image: "jul397pl.jpg"
+tags: [Old Releases,Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Digital Mosaic, Cuckold	]
 maker: [Madonna]
-actress: [Kinoshita Ririko]
+actress: [Koizumi Hinata]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="VWxlyba7keiKLPR">
+<div class="video" data-videoid="AMMkry1aWoiXo7A">
     <a href="javascript:;">
-        <img src="/v/jul391pl/jul391pl.jpg" width="WIDTH" height="HEIGHT" alt="jul391pl.mp4" loading="lazy">
+        <img src="/was/jul397pl/jul397pl.jpg" width="WIDTH" height="HEIGHT" alt="jul397pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +33,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/VWxlyba7keiKLPR" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="https://streamtape.to/v/AMMkry1aWoiXo7A" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +42,7 @@ actress: [Kinoshita Ririko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://wolfstream.tv/b85wyo0a0fpl/JUL-391.mp4.html" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></div>
+<p><a href="https://wolfstream.tv/c4w2jj4t3rub" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
