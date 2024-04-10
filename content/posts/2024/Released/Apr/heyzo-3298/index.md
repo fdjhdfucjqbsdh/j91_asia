@@ -1,0 +1,52 @@
+---
+author: j91
+title: HEYZO 3298 Mai Sensei's practice! Naughty Special Class ~Beauty Collection Vol.17~ – Mai Seta
+
+url: /v/heyzo-3298
+date: 2024-04-10T00:10:00Z
+image: "heyzo-3298.jpg"
+tags: [Uncensored, 3P&4P, Big Tits, Blowjob, Breasts, Cowgirl, Creampie, Female Teacher]
+maker: [Heyzo]
+actress: [Mai Seta]
+---
+
+
+{{< rawhtml >}}
+
+<div class="video" data-videoid="zQPomz6r29HYmdb">
+    <a href="javascript:;">
+        <img src="/v/heyzo-3298/heyzo-3298.jpg" width="WIDTH" height="HEIGHT" alt="heyzo-3298.mp4" loading="lazy">
+    </a>
+</div>
+
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
+
+<br>
+  <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
+  
+  <center>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2"><h2>Download</h2></button></center>
+</p>
+<div class="row">
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample1">
+      <div class="card card-body">
+	      	      <br>
+<div class="buttons">  
+<p><a href="https://streamtape.to/v/zQPomz6r29HYmdb" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+    </div>
+  </div>
+</div>
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample2">
+      <div class="card card-body">
+	      <br>
+<div class="buttons">
+<p><a href="https://wolfstream.tv/tmrj91mk3rxt" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<br><br>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{< /rawhtml >}}
