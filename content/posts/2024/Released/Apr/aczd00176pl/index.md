@@ -5,8 +5,8 @@ title: ACZD-176 MM couple who signed a contract
 url: /v/aczd00176pl
 date: 2024-04-11T16:00:00Z
 image: "aczd00176pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, SM, Amateur, User Submission, Evil, Submissive Woman	]
+maker: [ Sanwa Shuppan  ]
 actress: [ ]
 ---
 

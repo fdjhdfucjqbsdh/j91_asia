@@ -5,8 +5,8 @@ title: MFO-061 [Idol handshake event] The purchase bonus is a live creampie for 
 url: /v/mfo00061pl
 date: 2024-04-11T16:15:00Z
 image: "mfo00061pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Beautiful Girl, Cosplay, Creampie, Delusion, Planning]
+maker: [ FALENO TUBE]
 actress: [ ]
 ---
 

@@ -5,9 +5,9 @@ title: ACZD-175 Blue Sky and Diapers ~7 Days I Fell in Love with You~
 url: /v/aczd175pl
 date: 2024-04-11T16:00:00Z
 image: "aczd175pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Lesbian, Humiliation, Urination, Drama	]
+maker: [ Sanwa Shuppan  ]
+actress: [ Nanami Noa, Hibino Uta ]
 ---
 
 

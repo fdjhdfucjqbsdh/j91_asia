@@ -5,9 +5,9 @@ title: BANK-166 Creampie Outdoor Hot Spring Plump Big Tits K Cup Super Wet Pussy
 url: /v/bank166pl
 date: 2024-04-11T16:15:00Z
 image: "bank166pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Creampie, Outdoors, Big Tits, Titty Fuck, Facials, BBWHot Spring, Huge Butt	]
+maker: [ Ma￮ko Ginkou  ]
+actress: [Morisaki Shizune  ]
 ---
 
 

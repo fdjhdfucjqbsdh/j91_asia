@@ -5,9 +5,9 @@ title: FNTR-001 A high school girl was seduced by her girlfriend's big dick.My f
 url: /v/fntr001pl
 date: 2024-04-11T16:15:00Z
 image: "fntr001pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Creampie, Solowork, Girl, School Girls, School Uniform, Cuckold	]
+maker: [ First Star  ]
+actress: [ Sena Nanami ]
 ---
 
 

@@ -5,9 +5,9 @@ title: KNSM-010 Complete Raw STYLE@J-type Thin Mom Candidate 10 A tomboy idol wh
 url: /v/knsm010pl
 date: 2024-04-11T16:15:00Z
 image: "knsm010pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Creampie, Solowork, Girl, School Girls, Facials, School Uniform	]
+maker: [ First Star  ]
+actress: [ Nijiiro Gumi ]
 ---
 
 

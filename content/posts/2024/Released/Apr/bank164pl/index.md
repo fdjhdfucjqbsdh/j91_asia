@@ -5,9 +5,9 @@ title: BANK-164 Creampie Open-air Hot Spring, Bright and Cute Erotic Body H-Cup 
 url: /v/bank164pl
 date: 2024-04-11T16:15:00Z
 image: "bank164pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Creampie, 3P, 4P, Big Tits, Titty Fuck, Facials, Kimono, Mourning, BBW, Hot Spring	]
+maker: [ Ma￮ko Ginkou  ]
+actress: [ Hoshi Asuna ]
 ---
 
 

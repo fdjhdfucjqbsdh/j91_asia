@@ -5,8 +5,8 @@ title: RMSQ-008 Cruel footage of the humiliated heroine getting her divine secre
 url: /v/rmsq008pl
 date: 2024-04-11T16:15:00Z
 image: "rmsq008pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Torture, Shibari, 4HR+, Drug, Evil, Acme · Orgasm	]
+maker: [ MERCURY (Mercury)  ]
 actress: [ ]
 ---
 

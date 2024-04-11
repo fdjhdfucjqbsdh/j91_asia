@@ -5,8 +5,8 @@ title: PAKO-072 Cuckolding the current 〇extreme wife 02 Abandoning her husband
 url: /v/pako072pl
 date: 2024-04-11T16:15:00Z
 image: "pako072pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Creampie, Amateur, Affair, Cuckold	]
+maker: [ MERCURY (Mercury)  ]
 actress: [ ]
 ---
 
