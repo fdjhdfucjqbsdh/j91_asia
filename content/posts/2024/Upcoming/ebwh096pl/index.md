@@ -3,9 +3,9 @@ author: j91
 title: EBWH-096 Occupation, A Popular Lounge Lady Who Works In Ebisu. Sleepover Affair With A Charming Modern-day Big-breasted JD Who Is In Love With Me. Moka Haruyo.
 
 url: /v/ebwh096pl
-date: 0000-04-12T01:40:00Z
+date: 2024-04-12T01:40:00Z
 image: "ebwh096pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Nasty, Hardcore, Affair, Female College Student, Kiss	]
+tags: [Censored, Solowork, Big Tits, Nasty, Hardcore, Affair, Female College Student, Kiss	]
 maker: [E-body]
 actress: [ Haruhi Moka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruhi Moka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DZMvzOPYO3CDWY">
     <a href="javascript:;">
         <img src="/v/ebwh096pl/ebwh096pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh096pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/DZMvzOPYO3CDWY" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/45kd2oxgksz5" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

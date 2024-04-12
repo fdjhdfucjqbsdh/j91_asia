@@ -3,9 +3,9 @@ author: j91
 title: PPPE-208 Big Breasted Gal Breast Pinch Hold Reverse 3P Adult Entertainment Full Course! A Lewd Bitch Uses A Masochist Man As A Toy And Plays With His Penis! 5 Situations That Make You Writhe In Agony! Oto Alice Sena Rumina
 
 url: /v/pppe208pl
-date: 0000-04-12T01:45:00Z
+date: 2024-04-12T01:45:00Z
 image: "pppe208pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Gal, Big Tits, Slut, Prostitutes	]
+tags: [Censored, 3P, 4P, Gal, Big Tits, Slut, Prostitutes	]
 maker: [Oppai]
 actress: [ Seina Arisa ,Sena Rumina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seina Arisa ,Sena Rumina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2ow0lR1PQgTj32">
     <a href="javascript:;">
         <img src="/v/pppe208pl/pppe208pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe208pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Seina Arisa ,Sena Rumina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/2ow0lR1PQgTj32" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/f70u6w7s185l" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Seina Arisa ,Sena Rumina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

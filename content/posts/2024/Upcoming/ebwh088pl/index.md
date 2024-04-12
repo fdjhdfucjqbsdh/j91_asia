@@ -3,9 +3,9 @@ author: j91
 title: EBWH-088 I Feel Like I Can Live A Luxurious Life Thanks To My Daughter. On The Other Hand, The Daughter Seems To Have Taken A Liking To Her Father-in-law's Big Penis. Azu Amatsuki
 
 url: /v/ebwh088pl
-date: 0000-04-12T01:40:00Z
+date: 2024-04-12T01:40:00Z
 image: "ebwh088pl.jpg"
-tags: [Upcoming releases, Solowork, Uniform, Big Tits, Titty Fuck, Cowgirl, Cuckold	]
+tags: [Censored, Solowork, Uniform, Big Tits, Titty Fuck, Cowgirl, Cuckold	]
 maker: [E-body]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0r8bWQkzz6SblKR">
     <a href="javascript:;">
         <img src="/v/ebwh088pl/ebwh088pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh088pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/0r8bWQkzz6SblKR" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/d3d0rp2eot6n" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

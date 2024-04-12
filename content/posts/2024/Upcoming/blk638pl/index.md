@@ -3,9 +3,9 @@ author: j91
 title: BLK-638 Want To Have Sex With A Hot Gal! I Pick Her Up At A Club, Take Her To A Hotel, And Fuck Her Raw! Tipsy Rodeo Cowgirl Position Until The Dick Is Empty Until Morning And Continuous Creampie
 
 url: /v/blk638pl
-date: 0000-04-12T01:28:00Z
+date: 2024-04-12T01:28:00Z
 image: "blk638pl.jpg"
-tags: [Upcoming releases, Creampie, Gal, Slut, Nampa, Bitch	]
+tags: [Censored, Creampie, Gal, Slut, Nampa, Bitch	]
 maker: [Kira ★ Kira]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kKAY6G2gmqtOML2">
     <a href="javascript:;">
         <img src="/v/blk638pl/blk638pl.jpg" width="WIDTH" height="HEIGHT" alt="blk638pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/kKAY6G2gmqtOML2" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/u9o45xal1igr" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
