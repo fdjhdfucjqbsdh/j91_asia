@@ -3,9 +3,9 @@ author: j91
 title: MIDV-704 The Newly Appointed Mr. Tsukigumo Unexpectedly Shares A Room With An Otaku Teacher. I Was Shown In Front Of My Eyes How He Fell Into A Huge Cock, And I Got A Depressed Erection. Extremely Piss-crazy NTR Yoru Tsukigumo.
 
 url: /v/midv704pl
-date: 0000-04-12T01:55:00Z
+date: 2024-04-12T01:55:00Z
 image: "midv704pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Pantyhose, Cuckold, Huge Cock	]
+tags: [Censored, Solowork, Female Teacher, Pantyhose, Cuckold, Huge Cock	]
 maker: [MOODYZ]
 actress: [ Tsukumo Yoru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukumo Yoru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="a7Vzw4aPQoixg3J">
     <a href="javascript:;">
         <img src="/v/midv704pl/midv704pl.jpg" width="WIDTH" height="HEIGHT" alt="midv704pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tsukumo Yoru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/a7Vzw4aPQoixg3J" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/llw7kbbqcbx9" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tsukumo Yoru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
