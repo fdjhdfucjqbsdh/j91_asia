@@ -15,7 +15,7 @@ actress: [Ishibashi Satomi]
 
 <div class="video" data-videoid="l41QyA8o84tOd7">
     <a href="javascript:;">
-        <img src="/v/4371941/4371941.jpg" width="WIDTH" height="HEIGHT" alt="4371941.mp4" loading="lazy">
+        <img src="/v/4371941/4371941_cov.jpg" width="WIDTH" height="HEIGHT" alt="4371941.mp4" loading="lazy">
     </a>
 </div>
 
