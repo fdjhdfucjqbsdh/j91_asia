@@ -3,9 +3,9 @@ author: j91
 title: MRPA-006 Couldn't Resist The Temptation Of A Big-breasted Wife Who Came To Me For A Housekeeping Service, And When I Showed Her My Dick, She Got Horny, And Since Then, She's Been Coming Every Day And Getting My Sperm Squeezed Out Of Her. Satomi Mioka
 
 url: /v/mrpa006pl
-date: 0000-04-13T01:55:00Z
+date: 2024-04-13T01:55:00Z
 image: "mrpa006pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Busty Fetish, Submissive Men	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Busty Fetish, Submissive Men	]
 maker: [ Misesu No Sugao - Emanuel  ]
 actress: [ Tachibana Yuuka]
 ---
@@ -13,13 +13,13 @@ actress: [ Tachibana Yuuka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0eo8GOJAG1ibOmr">
     <a href="javascript:;">
         <img src="/v/mrpa006pl/mrpa006pl.jpg" width="WIDTH" height="HEIGHT" alt="mrpa006pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tachibana Yuuka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/0eo8GOJAG1ibOmr" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/vd5nidd4ak64" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Tachibana Yuuka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

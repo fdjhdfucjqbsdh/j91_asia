@@ -3,9 +3,9 @@ author: j91
 title: SORA-523 My Younger Sister, Who Was Licking Her Older Brother's Dick Despite Her Reluctance, Was Licking And Sucking It Deliciously To Her Gay Father... Scum Erect Chest Shit NTR Rika Yume
 
 url: /v/sora523pl
-date: 0000-04-13T01:55:00Z
+date: 2024-04-13T01:55:00Z
 image: "sora523pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, School Girls, Cunnilingus, Incest, Cuckold	]
+tags: [Censored, Blow, Solowork, School Girls, Cunnilingus, Incest, Cuckold	]
 maker: [ Yama To Sora  ]
 actress: [ Yumeri Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yumeri Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="oxBK88evW3tJQDX">
     <a href="javascript:;">
         <img src="/v/sora523pl/sora523pl.jpg" width="WIDTH" height="HEIGHT" alt="sora523pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Yumeri Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/oxBK88evW3tJQDX" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/d2x62qf7jbcu" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Yumeri Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
