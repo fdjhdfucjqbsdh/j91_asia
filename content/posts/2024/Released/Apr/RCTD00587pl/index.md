@@ -5,9 +5,9 @@ title: RCTD-587 Erika Ozaki's time, stop! Female teacher edition
 url: /v/RCTD00587pl
 date: 2024-04-15T15:15:00Z
 image: "RCTD00587pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Delusion, Female Teacher, Huge Butt, Humiliation, Solowork]
+maker: [ Rocket]
+actress: [ Ozaki Erika]
 ---
 
 

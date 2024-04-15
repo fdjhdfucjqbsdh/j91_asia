@@ -5,9 +5,9 @@ title: RCTD-588 Slimy Pantyhose Lesbian Fight 2
 url: /v/RCTD00588pl
 date: 2024-04-15T15:15:00Z
 image: "RCTD00588pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Butt, Leg Fetish, Lesbian, Other Fetish, Pantyhose, Slender]
+maker: [ Rocket]
+actress: [ Monami Suzu,Takeuchi Natsuki]
 ---
 
 

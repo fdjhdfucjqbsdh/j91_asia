@@ -5,9 +5,9 @@ title: RCTD-584 I want to fuck an RPG mob character who only says the same lines
 url: /v/RCTD00584pl
 date: 2024-04-15T15:15:00Z
 image: "RCTD00584pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Cosplay, Delusion, Fantasy, Other Fetish]
+maker: [  Rocket]
+actress: [ Ariga Minaho,Mizuki Mei,Nagisa Mitsuki]
 ---
 
 

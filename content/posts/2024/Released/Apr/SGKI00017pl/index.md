@@ -5,8 +5,8 @@ title: SGKI-017 Limited to Yankee couples in northern Kanto! If your big-breaste
 url: /v/SGKI00017pl
 date: 2024-04-15T15:40:00Z
 image: "SGKI00017pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Big Tits, Cuckold, Humiliation, Squirting]
+maker: [ SHIGEKI]
 actress: [ ]
 ---
 

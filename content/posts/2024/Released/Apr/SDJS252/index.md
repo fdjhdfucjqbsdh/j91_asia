@@ -5,9 +5,9 @@ title: SDJS-252 Izumi Mizutani (21), 1st year in the production department. The 
 url: /v/SDJS252
 date: 2024-04-15T15:45:00Z
 image: "SDJS252.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, 3P&4P, Creampie, Documentary, Shaved, Solowork]
+maker: [  SOD Create]
+actress: [ Mizutani Izumi ]
 ---
 
 

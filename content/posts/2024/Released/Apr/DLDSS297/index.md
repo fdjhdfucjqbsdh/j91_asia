@@ -5,9 +5,9 @@ title: DLDSS-297 I live at home with my parents, and while I'm a gravure idol, I
 url: /v/DLDSS297
 date: 2024-04-15T15:55:00Z
 image: "DLDSS297.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Deep Throating, Drama, Solowork]
+maker: [ DAHLIA]
+actress: [ Mine Reiko]
 ---
 
 

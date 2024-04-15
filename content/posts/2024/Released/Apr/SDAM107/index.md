@@ -5,8 +5,8 @@ title: SDAM-107 A young girl on a girls' trip I found at Isawa Onsen.Would you l
 url: /v/SDAM107
 date: 2024-04-15T15:45:00Z
 image: "SDAM107.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, 4HR+, Amateur, Hot Spring, Prank, Voyeur]
+maker: [ SOD Create]
 actress: [ ]
 ---
 

@@ -5,8 +5,8 @@ title: SDJS-223 A study report of multiple clothed SOD female employees taking a
 url: /v/SDJS223
 date: 2024-04-15T15:45:00Z
 image: "SDJS223.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Amateur, Humiliation, Planning, Submissive Men]
+maker: [  SOD Create]
 actress: [ ]
 ---
 
