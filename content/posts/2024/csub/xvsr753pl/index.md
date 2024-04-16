@@ -2,9 +2,9 @@
 author: j91
 title: XVSR-753 [Chinese Subtitle] Let's Have Sex All Day Long! From Morning Till Night, Enjoy Sex Anytime And Anywhere With Your Instincts! ! Yui Hatano
 
-url: /was/isi_image
+url: /was/xvsr753pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "xvsr753pl.jpg"
 tags: [Chinese Subtitle, Handjob, Creampie, Solowork, Big Tits, Naked Apron, Couple	]
 maker: [ MAX-A  ]
 actress: [ Hatano Yui ]
@@ -15,7 +15,7 @@ actress: [ Hatano Yui ]
 
 <div class="video" data-videoid="a7pYy2AYPyIxG4R">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/xvsr753pl/xvsr753pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr753pl.mp4" loading="lazy">
     </a>
 </div>
 

@@ -2,9 +2,9 @@
 author: j91
 title: SAME-103 [Chinese Subtitle] Hotel Woman, I, Nanami Tina, Was Required To Provide Lewd Customer Service.
 
-url: /was/isi_image
+url: /was/same103pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "same103pl.jpg"
 tags: [Chinese Subtitle, Solowork, Abuse, Drama	]
 maker: [ Attackers  ]
 actress: [ Nanami Tina ]
@@ -15,7 +15,7 @@ actress: [ Nanami Tina ]
 
 <div class="video" data-videoid="x3xBxdVkgDFvB9">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/same103pl/same103pl.jpg" width="WIDTH" height="HEIGHT" alt="same103pl.mp4" loading="lazy">
     </a>
 </div>
 

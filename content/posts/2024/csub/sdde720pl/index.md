@@ -2,9 +2,9 @@
 author: j91
 title: SDDE-720 [Chinese Subtitle] Sex Outpatient Clinic Specializing In Sexual Desire Treatment 22 A Close Look At Tsukino's Sincere Sexual Intercourse Treatment, A 'double Worker Nursery Teacher' Nurse.I Want To Face Both The Children In The Kindergarten And Those With Abnormal Sexual Desires Head On! Tsukino Luna
 
-url: /was/isi_image
+url: /was/sdde720pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "sdde720pl.jpg"
 tags: [Chinese Subtitle, Solowork, Planning, Slender, Nurse, Documentary, Deep Throating	]
 maker: [ SOD Create  ]
 actress: [ Tsukino Runa]
@@ -15,7 +15,7 @@ actress: [ Tsukino Runa]
 
 <div class="video" data-videoid="G60OV0WYMxT1Ryl">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/sdde720pl/sdde720pl.jpg" width="WIDTH" height="HEIGHT" alt="sdde720pl.mp4" loading="lazy">
     </a>
 </div>
 

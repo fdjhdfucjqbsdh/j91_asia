@@ -2,9 +2,9 @@
 author: j91
 title: IPTD-573 [Chinese Subtitle] Asami Ogawa Widow ... I'm Sorry You
 
-url: /was/isi_image
+url: /was/iptd573pl
 date: 2024-04-16T01:00:00Z
-image: "isi_image.jpg"
+image: "iptd573pl.jpg"
 tags: [Chinese Subtitle, Cowgirl, Abuse, Drama, Digital Mosaic, Widow	]
 maker: [ IDEA POCKET  ]
 actress: [ Ogawa Asami ]
@@ -15,7 +15,7 @@ actress: [ Ogawa Asami ]
 
 <div class="video" data-videoid="Ogo6PxYb2OFZZLJ">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/iptd573pl/iptd573pl.jpg" width="WIDTH" height="HEIGHT" alt="iptd573pl.mp4" loading="lazy">
     </a>
 </div>
 

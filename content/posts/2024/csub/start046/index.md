@@ -2,9 +2,9 @@
 author: j91
 title: START-046 [Chinese Subtitle] A Newlywed Wife Who Moved Into A Luxury Tower Apartment Becomes The Target Of Rich Men’s Debauchery And Is Turned Into A Sex Toy. At A Sexual Orgy Party, She Is Dripping With Saliva And Is Completely Pleasuring For Her Dick. Rei Kamiki
 
-url: /was/isi_image
+url: /was/start046
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "start046.jpg"
 tags: [Chinese Subtitle, Acme&Orgasm, Big Tits, Bride&Young Wife, Solowork]
 maker: [  SOD Create]
 actress: [ Kamiki Rei]
@@ -15,7 +15,7 @@ actress: [ Kamiki Rei]
 
 <div class="video" data-videoid="VVGK6pj8RPuKWL0">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/start046/start046.jpg" width="WIDTH" height="HEIGHT" alt="start046.mp4" loading="lazy">
     </a>
 </div>
 

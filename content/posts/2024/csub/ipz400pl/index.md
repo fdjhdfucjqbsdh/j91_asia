@@ -2,9 +2,9 @@
 author: j91
 title: IPZ-400 [Chinese Subtitle] Aino Kishi Should Be Made A Wife Out
 
-url: /was/isi_image
+url: /was/ipz400pl
 date: 2024-04-16T01:00:00Z
-image: "isi_image.jpg"
+image: "ipz400pl.jpg"
 tags: [Chinese Subtitle, Solowork, Outdoors, POV, Promiscuity, Drama, Digital Mosaic, Cuckold	]
 maker: [ IDEA POCKET  ]
 actress: [ Kishi Aino ]
@@ -15,7 +15,7 @@ actress: [ Kishi Aino ]
 
 <div class="video" data-videoid="6baDVeBb7ZSvm6">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/ipz400pl/ipz400pl.jpg" width="WIDTH" height="HEIGHT" alt="ipz400pl.mp4" loading="lazy">
     </a>
 </div>
 

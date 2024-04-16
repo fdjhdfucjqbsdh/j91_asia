@@ -2,9 +2,9 @@
 author: j91
 title: RKI-662 A [Chinese Subtitle] Masochist Wife Who Is Disturbed By The Cock Of Another Person. Free Rental Now. Cuckolded Wife For Rental Only. Married Person. Housewife. Aoi-san.
 
-url: /was/isi_image
+url: /was/rki662pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "rki662pl.jpg"
 tags: [Chinese Subtitle, 3P, 4P, Married Woman, Nasty, Hardcore, Couple, Cuckold	]
 maker: [ Rookie  ]
 actress: [ Nakajou Aoi ]
@@ -15,7 +15,7 @@ actress: [ Nakajou Aoi ]
 
 <div class="video" data-videoid="gj1MOw11kBU9b6">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/rki662pl/rki662pl.jpg" width="WIDTH" height="HEIGHT" alt="rki662pl.mp4" loading="lazy">
     </a>
 </div>
 

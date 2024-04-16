@@ -2,9 +2,9 @@
 author: j91
 title: PFAS-006 [Chinese Subtitle] Reiwa The Swap Husband Swapping Husband With Another Woman And Wife With Another Man In A Room
 
-url: /was/isi_image
+url: /was/pfas006pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "pfas006pl.jpg"
 tags: [Chinese Subtitle, Married Woman, Nasty, Hardcore, Mature Woman, Drama, Cuckold, Swingers	]
 maker: [ FA Pro . Platinum  ]
 actress: [ Takazono Yuriko ,Kurokawa Tamami, Miyanoki Shunka ,Tomitsuka Mizuki ]
@@ -15,7 +15,7 @@ actress: [ Takazono Yuriko ,Kurokawa Tamami, Miyanoki Shunka ,Tomitsuka Mizuki ]
 
 <div class="video" data-videoid="KQvGDDYDvds0660">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/pfas006pl/pfas006pl.jpg" width="WIDTH" height="HEIGHT" alt="pfas006pl.mp4" loading="lazy">
     </a>
 </div>
 

@@ -2,9 +2,9 @@
 author: j91
 title: NASK-045 [Chinese Subtitle] A 50-year-old Mother Who Sells Her Body In The Office For A Raise
 
-url: /was/isi_image
+url: /was/nask045pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "nask045pl.jpg"
 tags: [Chinese Subtitle, Creampie, Big Tits, Married Woman, Mature Woman, Huge Butt	]
 maker: [ Nadeshiko  ]
 actress: [ Kitajima Rei]
@@ -15,7 +15,7 @@ actress: [ Kitajima Rei]
 
 <div class="video" data-videoid="VdKl1z3k06CKRrw">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/nask045pl/nask045pl.jpg" width="WIDTH" height="HEIGHT" alt="nask045pl.mp4" loading="lazy">
     </a>
 </div>
 

@@ -2,9 +2,9 @@
 author: j91
 title: PFES-065 [Chinese Subtitle] Ka-Ge-Ki Temptation With A T-back That Bites In. A Female Employee Who Eats Men In The Company Is A Woman Who Seduces With A T-back That Bites In. Karen Kaede
 
-url: /was/isi_image
+url: /was/pfes065pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "pfes065pl.jpg"
 tags: [Chinese Subtitle, Solowork, Older Sister, Slut, Subjectivity, Kiss	]
 maker: [ IDEA POCKET  ]
 actress: [ Kaede Karen ]
@@ -15,7 +15,7 @@ actress: [ Kaede Karen ]
 
 <div class="video" data-videoid="M97bbDGzyohmkZK">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/pfes065pl/pfes065pl.jpg" width="WIDTH" height="HEIGHT" alt="pfes065pl.mp4" loading="lazy">
     </a>
 </div>
 

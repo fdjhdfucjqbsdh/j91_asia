@@ -2,9 +2,9 @@
 author: j91
 title: INSTV-551 [Chinese Subtitle] Beautiful Secretary Jun (27) Intense Secret Meeting With The President, Blowjob, Raw Creampie, Hotel Affair Sex
 
-url: /was/isi_image
+url: /was/instv551
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "instv551.jpg"
 tags: [Chinese Subtitle, Affair, Creampie, POV, Secretary]
 maker: [ Insta ]
 actress: [ ]
@@ -15,7 +15,7 @@ actress: [ ]
 
 <div class="video" data-videoid="zMZdJzDOQlUYz30">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/instv551/instv551.jpg" width="WIDTH" height="HEIGHT" alt="instv551.mp4" loading="lazy">
     </a>
 </div>
 

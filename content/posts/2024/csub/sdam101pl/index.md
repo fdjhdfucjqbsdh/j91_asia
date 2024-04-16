@@ -2,9 +2,9 @@
 author: j91
 title: SDAM-101 [Chinese Subtitle] On The Day Of The National Team Game, I Let The Supporter Girls Who Are Excited At The Sports Bar Live With The Energy, Momentum, And Power Of Alcohol! I Was So Confused That I Ejaculated In Large Quantities To 3 People In Total. . .
 
-url: /was/isi_image
+url: /was/sdam101pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "sdam101pl.jpg"
 tags: [Chinese Subtitle, Creampie, Older Sister, Big Tits, Beautiful Girl, Squirting	]
 maker: [ SOD Create  ]
 actress: [ Tsukino Runa ,Ayase Kokoro ,Sengoku Monaka ]
@@ -15,7 +15,7 @@ actress: [ Tsukino Runa ,Ayase Kokoro ,Sengoku Monaka ]
 
 <div class="video" data-videoid="6ovdaOyM2Xi98jD">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/sdam101pl/sdam101pl.jpg" width="WIDTH" height="HEIGHT" alt="sdam101pl.mp4" loading="lazy">
     </a>
 </div>
 

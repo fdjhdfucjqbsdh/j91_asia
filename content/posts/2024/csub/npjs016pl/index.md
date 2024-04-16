@@ -2,9 +2,9 @@
 author: j91
 title: NPJS-016 [Chinese Subtitle] Free Chance! An Older Sister Of The Right Age Who Just Broke Up With Her Boyfriend Misses Human Skin, So If You Push Her A Little, She'll Fuck You Right Away!
 
-url: /was/isi_image
+url: /was/npjs016pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "npjs016pl.jpg"
 tags: [Chinese Subtitle, Blow, Creampie, Older Sister, Amateur, Slender	]
 maker: [ Nampa JAPAN  ]
 actress: [ Iioka Kanako ]
@@ -15,7 +15,7 @@ actress: [ Iioka Kanako ]
 
 <div class="video" data-videoid="eVoR7xmZOKUORQ">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/npjs016pl/npjs016pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs016pl.mp4" loading="lazy">
     </a>
 </div>
 

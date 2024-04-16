@@ -2,9 +2,9 @@
 author: j91
 title: SAME-102 [Chinese Subtitle] When I Introduced My First Girlfriend To My Father, He Cuckolded Me During Insemination Sex. Miyu Oguri
 
-url: /was/isi_image
+url: /was/same102pl
 date: 2024-04-16T01:15:00Z
-image: "isi_image.jpg"
+image: "same102pl.jpg"
 tags: [Chinese Subtitle, Creampie, Solowork, Big Tits, Beautiful Girl, Cuckold	]
 maker: [ Attackers  ]
 actress: [ Oguri Miyu ]
@@ -15,7 +15,7 @@ actress: [ Oguri Miyu ]
 
 <div class="video" data-videoid="LVQbrkGk96I642">
     <a href="javascript:;">
-        <img src="/was/isi_image/isi_image.jpg" width="WIDTH" height="HEIGHT" alt="isi_image.mp4" loading="lazy">
+        <img src="/was/same102pl/same102pl.jpg" width="WIDTH" height="HEIGHT" alt="same102pl.mp4" loading="lazy">
     </a>
 </div>
 
