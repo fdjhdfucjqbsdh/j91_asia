@@ -3,9 +3,9 @@ author: j91
 title: JUQ-693 I Wanted My Wife To Admit My Love To Her, So I Left Her And My Unfaithful Junior Alone For 3 Hours...My NTR Story About How My Wife Was Stolen From Me With A Total Of 16 Vaginal Cum Shots Without Pulling Out. Fumino Satsuki
 
 url: /v/juq693pl
-date: 0000-04-19T01:50:00Z
+date: 2024-04-19T01:50:00Z
 image: "juq693pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Satsuki Fumino ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satsuki Fumino ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Vay4mBzpBxiKpAB">
     <a href="javascript:;">
         <img src="/v/juq693pl/juq693pl.jpg" width="WIDTH" height="HEIGHT" alt="juq693pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Satsuki Fumino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/Vay4mBzpBxiKpAB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/w6h6bqneshdg" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Satsuki Fumino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

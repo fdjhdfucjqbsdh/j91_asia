@@ -3,9 +3,9 @@ author: j91
 title: HMN-542 During A Drinking Party At Work, My Girlfriend Called Me Drunk And Seemed A Little Strange...I Got Worried And Rushed To Her Home, Where She Straddled The Cock Of A Slutty Junior At Work And Was Doing Reverse Insemination Press Azu Amazuki
 
 url: /v/hmn542pl
-date: 0000-04-19T01:45:00Z
+date: 2024-04-19T01:45:00Z
 image: "hmn542pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Big Tits, Cuckold, Conceived	]
+tags: [Censored, Creampie, Solowork, Older Sister, Big Tits, Cuckold, Conceived	]
 maker: [Honnaka]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3r2r8RL0rjIljX">
     <a href="javascript:;">
         <img src="/v/hmn542pl/hmn542pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn542pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/3r2r8RL0rjIljX" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/mmv0yz7yd6t6" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

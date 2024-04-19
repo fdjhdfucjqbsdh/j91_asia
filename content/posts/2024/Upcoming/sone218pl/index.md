@@ -3,9 +3,9 @@ author: j91
 title: SONE-218 Super Large Newcomer NO.1STYLE Sakura Shirakami AV Debut
 
 url: /v/sone218pl
-date: 0000-04-19T01:55:00Z
+date: 2024-04-19T01:55:00Z
 image: "sone218pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student	]
 maker: [S1 NO.1 STYLE]
 actress: [ Shiragami Sakihana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiragami Sakihana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="q9mZ1QeDZeS17a">
     <a href="javascript:;">
         <img src="/v/sone218pl/sone218pl.jpg" width="WIDTH" height="HEIGHT" alt="sone218pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Shiragami Sakihana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/q9mZ1QeDZeS17a" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/lyj0r98457z0" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Shiragami Sakihana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
