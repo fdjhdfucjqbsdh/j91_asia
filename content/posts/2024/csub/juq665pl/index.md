@@ -13,7 +13,7 @@ actress: [ Mihama Miki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="YG4o8bXvLXS6z8">
+<div class="video" data-videoid="JeKJ9RJ640IjBQ9">
     <a href="javascript:;">
         <img src="/was/juq665pl/juq665pl.jpg" width="WIDTH" height="HEIGHT" alt="juq665pl.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [ Mihama Miki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/YG4o8bXvLXS6z8" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/JeKJ9RJ640IjBQ9" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mihama Miki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://rubystm.com/oetoh5pohjg9" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
+<p><a href="https://rubystm.com/0gnbyfdkjo6i.html" target="_blank"><button class="btn-hover color-9"><i class="fa fa-download"></i> SR</button></a></p></div>
 <br><br>
       </div>
     </div>
