@@ -3,9 +3,9 @@ author: j91
 title: DASS-381 First Experience In The Ass With A Beautiful Girl With A Penis. Intense Lesbian Anal Sex In The Buttocks. Satsuki Ena Ichinose Ram
 
 url: /v/dass381pl
-date: 0000-04-19T01:01:00Z
+date: 2024-04-19T01:01:00Z
 image: "dass381pl.jpg"
-tags: [Upcoming releases, Transsexual, Anal, Lesbian, Beautiful Girl	]
+tags: [Censored, Transsexual, Anal, Lesbian, Beautiful Girl	]
 maker: [Das !]
 actress: [ Ichinose Ramu, Satsuki Ena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ichinose Ramu, Satsuki Ena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JbBWw412lzHe1e">
     <a href="javascript:;">
         <img src="/v/dass381pl/dass381pl.jpg" width="WIDTH" height="HEIGHT" alt="dass381pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Ichinose Ramu, Satsuki Ena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/JbBWw412lzHe1e" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/8apl041dvjb0" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Ichinose Ramu, Satsuki Ena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

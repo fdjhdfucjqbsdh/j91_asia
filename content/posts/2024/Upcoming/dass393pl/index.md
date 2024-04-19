@@ -3,9 +3,9 @@ author: j91
 title: DASS-393 Beautiful Mother And Daughter, Itadakimasu. I Came To See The Woman I Impregnated Decades Ago And Her Daughter. Ichika Matsumoto Maria Nagai
 
 url: /v/dass393pl
-date: 0000-04-19T01:25:00Z
+date: 2024-04-19T01:25:00Z
 image: "dass393pl.jpg"
-tags: [Upcoming releases, Creampie, Nasty, Hardcore, Incest, Mother, Adopted Daughter	]
+tags: [Censored, Creampie, Nasty, Hardcore, Incest, Mother, Adopted Daughter	]
 maker: [Das !]
 actress: [ Kashiwagi Kurumi ,Matsumoto Ichika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Kurumi ,Matsumoto Ichika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XW7G0o2eyOfDvKw">
     <a href="javascript:;">
         <img src="/v/dass393pl/dass393pl.jpg" width="WIDTH" height="HEIGHT" alt="dass393pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kashiwagi Kurumi ,Matsumoto Ichika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/XW7G0o2eyOfDvKw" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/w3intkmytt9c" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Kashiwagi Kurumi ,Matsumoto Ichika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
