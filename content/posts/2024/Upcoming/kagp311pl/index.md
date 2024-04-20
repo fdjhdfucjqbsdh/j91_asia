@@ -13,7 +13,7 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="qvrV6o8gPGUw8p">
+<div class="video" data-videoid="grAqyvKMvAuJdZ">
     <a href="javascript:;">
         <img src="/v/kagp311pl/kagp311pl.jpg" width="WIDTH" height="HEIGHT" alt="kagp311pl.mp4" loading="lazy">
     </a>
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/qvrV6o8gPGUw8p" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/4krxrq0m1ukg" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/grAqyvKMvAuJdZ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/7suw38a9no8b" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
