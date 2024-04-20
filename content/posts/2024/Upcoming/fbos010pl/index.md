@@ -3,9 +3,9 @@ author: j91
 title: FBOS-010 Hibiki Otsuki, Alone With Her Female Boss, Trapped In The Office On A Stormy Night
 
 url: /v/fbos010pl
-date: 0000-04-20T01:35:00Z
+date: 2024-04-20T01:35:00Z
 image: "fbos010pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Pantyhose, Slut, Female Boss	]
+tags: [Censored, OL, Solowork, Pantyhose, Slut, Female Boss	]
 maker: [ Global Media Entertainment  ]
 actress: [ Ootsuki Hibiki]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootsuki Hibiki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="26JkMwRL3GFQz0">
     <a href="javascript:;">
         <img src="/v/fbos010pl/fbos010pl.jpg" width="WIDTH" height="HEIGHT" alt="fbos010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Ootsuki Hibiki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/26JkMwRL3GFQz0" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/hj3g7f8oh754" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Ootsuki Hibiki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

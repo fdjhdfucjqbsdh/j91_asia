@@ -3,9 +3,9 @@ author: j91
 title: KYMI-039 Super High Leg Double Slut
 
 url: /v/kymi039pl
-date: 0000-04-20T01:35:00Z
+date: 2024-04-20T01:35:00Z
 image: "kymi039pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Leotard, Slut, Butt, Leg Fetish	]
+tags: [Censored, 3P, 4P, Leotard, Slut, Butt, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Ootsuki Hibiki ,Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootsuki Hibiki ,Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="7RMAjpVDbWSA1xe">
     <a href="javascript:;">
         <img src="/v/kymi039pl/kymi039pl.jpg" width="WIDTH" height="HEIGHT" alt="kymi039pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Ootsuki Hibiki ,Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/7RMAjpVDbWSA1xe" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/z1hs4xzflau0" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Ootsuki Hibiki ,Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

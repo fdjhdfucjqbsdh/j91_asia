@@ -3,9 +3,9 @@ author: j91
 title: NASK-054 Black Circle● Japanese Mature Women Writhe In Agony As They Are Raped By Big Black Cocks 4 People 4 Hours
 
 url: /v/nask054pl
-date: 0000-04-20T01:20:00Z
+date: 2024-04-20T01:20:00Z
 image: "nask054pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, 4HR+, Mature Woman, Black Actor	]
+tags: [Censored, Best, Omnibus, 4HR+, Mature Woman, Black Actor	]
 maker: [ Nadeshiko  ]
 actress: [ Misaki Yui, Kobayakawa Reiko, Akari Tomoka, Sakashita Maki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Yui, Kobayakawa Reiko, Akari Tomoka, Sakashita Maki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="oM6gzX7ab3sJl1p">
     <a href="javascript:;">
         <img src="/v/nask054pl/nask054pl.jpg" width="WIDTH" height="HEIGHT" alt="nask054pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Misaki Yui, Kobayakawa Reiko, Akari Tomoka, Sakashita Maki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/oM6gzX7ab3sJl1p" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/0bmviog6w987" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Misaki Yui, Kobayakawa Reiko, Akari Tomoka, Sakashita Maki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
