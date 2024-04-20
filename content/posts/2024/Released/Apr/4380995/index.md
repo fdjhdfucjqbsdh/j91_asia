@@ -13,7 +13,7 @@ actress: [Ishibashi Satomi]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="YPpBmBrQjeTvyop">
+<div class="video" data-videoid="b2PLAW3zvPUPw9O">
     <a href="javascript:;">
         <img src="/v/4380995/4380995.jpg" width="WIDTH" height="HEIGHT" alt="4380995.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [Ishibashi Satomi]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/YPpBmBrQjeTvyop" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/b2PLAW3zvPUPw9O" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Ishibashi Satomi]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://wolfstream.tv/nehv2wearmq9" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
+<p><a href="https://wolfstream.tv/wbvo6wmiisae" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> WS</button></a></p></div>
 <br><br>
       </div>
     </div>
