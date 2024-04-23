@@ -5,7 +5,7 @@ title: SDNM-453 A neat and clean wife from Nagasaki who stands out even in the h
 url: /v/SDNM453
 date: 2024-04-23T03:15:00Z
 image: "SDNM453.jpg"
-tags: [Censored, ]
+tags: [Censored, 3P&4P, Documentary, Married Woman, Mature Woman, Solowork]
 maker: [SOD Create]
 actress: [Adachi Yuri]
 ---
