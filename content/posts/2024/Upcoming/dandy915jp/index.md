@@ -3,9 +3,9 @@ author: j91
 title: DANDY-915 "Alone With A Handsome Patient In The Semen Collection Room! A Mature Nurse Who Was Surprised By The Sudden Ejaculation And Couldn't Collect The Sperm Apologized And Helped Me With The Second Semen Test" VOL.7
 
 url: /v/dandy915jp
-date: 0000-04-25T01:36:00Z
+date: 2024-04-24T15:36:00Z
 image: "dandy915jp.jpg"
-tags: [Upcoming releases, Handjob, Humiliation, Nurse, Mature Woman, Hospital - Clinic	]
+tags: [Censored, Handjob, Humiliation, Nurse, Mature Woman, Hospital - Clinic	]
 maker: [ Dandy  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="Zrqm9dlDAMFqzbV">
     <a href="javascript:;">
         <img src="/v/dandy915jp/dandy915jp.jpg" width="WIDTH" height="HEIGHT" alt="dandy915jp.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/Zrqm9dlDAMFqzbV" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/52qk5w68gjq1" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_3.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://wolfstream.tv/dqau1p5iypec"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
