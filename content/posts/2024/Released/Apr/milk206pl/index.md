@@ -5,9 +5,9 @@ title: MILK-206 Throat Meat Urinal X 2, Riona Minami & Yui Kawagoe, Close Influe
 url: /v/milk206pl
 date: 2024-04-24T15:50:00Z
 image: "milk206pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Creampie, 3P, 4P, Nasty, Hardcore, Evil, Submissive Woman	]
+maker: [ MILK  ]
+actress: [ Minami Riona, Kawagoe Yui]
 ---
 
 

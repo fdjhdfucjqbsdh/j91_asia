@@ -5,9 +5,9 @@ title: SILKU-105 You Are Only For Me… Sarara Uruki
 url: /v/silku105
 date: 2024-04-24T15:15:00Z
 image: "silku105.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Big Tits, Drama, For Women]
+maker: [ Silk Labo]
+actress: [ Uruki Sara]
 ---
 
 

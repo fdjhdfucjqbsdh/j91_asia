@@ -5,9 +5,9 @@ title: OKY-007 Kyoko Maki This Is The Royal Divine Bikini.The Bikini That Has Hi
 url: /v/oky007pl
 date: 2024-04-24T15:15:00Z
 image: "oky007pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Solowork, Voyeur, Beautiful Girl, Bukkake, Swimsuit, Lotion, Close Up	]
+maker: [ Oyaji No Kosatsu  ]
+actress: [ Maki Kyouko ]
 ---
 
 

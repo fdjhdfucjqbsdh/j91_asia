@@ -5,8 +5,8 @@ title: AKDL-276 "Is It Perverted If I Drink Semen?" My Classmates Who Go To The 
 url: /v/akdl00276pl
 date: 2024-04-24T15:45:00Z
 image: "akdl00276pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Beautiful Girl, Cum]
+maker: [ Akinori]
 actress: [ ]
 ---
 

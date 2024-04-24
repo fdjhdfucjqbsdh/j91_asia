@@ -5,8 +5,8 @@ title: DJN-011 [Big Breasts X Beautiful Legs X Big Butt] Beautiful Girl Cosplaye
 url: /v/djn011pl
 date: 2024-04-24T15:15:00Z
 image: "djn011pl.jpg"
-tags: [Censored, ]
-maker: [ ]
+tags: [Censored, Cosplay, Outdoors, Amateur, Big Tits, Promiscuity	]
+maker: [ MONSTERS  ]
 actress: [ ]
 ---
 

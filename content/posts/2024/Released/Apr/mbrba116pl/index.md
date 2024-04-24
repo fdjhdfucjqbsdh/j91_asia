@@ -5,9 +5,9 @@ title: MBRBA-116 Erotic Hot Spring 1/Aisakura Misa
 url: /v/mbrba116pl
 date: 2024-04-24T15:15:00Z
 image: "mbrba116pl.jpg"
-tags: [Censored, ]
-maker: [ ]
-actress: [ ]
+tags: [Censored, Solowork, Image Video, Entertainer	]
+maker: [ Spice Visual  ]
+actress: [ Aira Misa ]
 ---
 
 
