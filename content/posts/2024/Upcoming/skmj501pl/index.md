@@ -3,9 +3,9 @@ author: j91
 title: SKMJ-501 Awakening Of Sexual Desire Of A Female Teacher Who Continued To Tease Her Pure And Sensitive Body And Abstinent For More Than 30 Days. A Naughty Naked Creampie Hot Spring Trip That Continues To Have Sex All The Time.
 
 url: /v/skmj501pl
-date: 0000-04-26T01:50:00Z
+date: 2024-04-25T15:50:00Z
 image: "skmj501pl.jpg"
-tags: [Upcoming releases, Creampie, Female Teacher, Amateur, Big Tits, Beautiful Girl, Cowgirl, Breasts, Slender, Hot Spring, Bath	]
+tags: [Censored, Creampie, Female Teacher, Amateur, Big Tits, Beautiful Girl, Cowgirl, Breasts, Slender, Hot Spring, Bath	]
 maker: [ Sekimenjoshi  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ykjQ4veRZJcBkP">
     <a href="javascript:;">
         <img src="/v/skmj501pl/skmj501pl.jpg" width="WIDTH" height="HEIGHT" alt="skmj501pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ykjQ4veRZJcBkP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/c7uafzl0st6z" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/wzxc2u36ziz2"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>

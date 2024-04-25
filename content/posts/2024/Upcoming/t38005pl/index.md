@@ -3,9 +3,9 @@ author: j91
 title: T-38005 I'll Make You Understand The Pussy Of The Female Brat Sisters Who Are Licking Me, A Virgin, With Their Unparalleled Dicks. Yui Tenma Haru Kikuchi
 
 url: /v/t38005pl
-date: 0000-04-26T01:55:00Z
+date: 2024-04-25T15:55:00Z
 image: "t38005pl.jpg"
-tags: [Upcoming releases, Girl, Beautiful Girl, Incest, Mini, Sister	]
+tags: [Censored, Girl, Beautiful Girl, Incest, Mini, Sister	]
 maker: [ Tma  ]
 actress: [ Tenma Yui ,Kikuchi Haru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ,Kikuchi Haru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8voqV0bVjDFodxj">
     <a href="javascript:;">
         <img src="/v/t38005pl/t38005pl.jpg" width="WIDTH" height="HEIGHT" alt="t38005pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tenma Yui ,Kikuchi Haru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/8voqV0bVjDFodxj" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/sm3nxi48hvbx" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Tenma Yui ,Kikuchi Haru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/kfgx7eopssl9"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
