@@ -3,9 +3,9 @@ author: j91
 title: CAND-01226 Stupid In Love/Harumi Takagi
 
 url: /v/cand01226pl
-date: 0000-04-26T01:15:00Z
+date: 2024-04-26T01:15:00Z
 image: "cand01226pl.jpg"
-tags: [Upcoming releases, Solowork, Image Video, Entertainer	]
+tags: [Censored, Solowork, Image Video, Entertainer	]
 maker: [ TEEN’S CANDY  ]
 actress: [ Takagi Harumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takagi Harumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6pGm4AJzgkh9JY4">
     <a href="javascript:;">
         <img src="/v/cand01226pl/cand01226pl.jpg" width="WIDTH" height="HEIGHT" alt="cand01226pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Takagi Harumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/6pGm4AJzgkh9JY4" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/qn234p887nk1" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Takagi Harumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/4tg3p73hc0hj"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
