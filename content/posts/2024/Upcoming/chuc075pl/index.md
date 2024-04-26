@@ -3,9 +3,9 @@ author: j91
 title: CHUC-075 Curly Amateur GOLD A Collection Of Erotic Beauties Mary, Maya, Rumina, Minami Raw Sex OK, Creampie OK, Photography OK, Refill OK [4 People Uncut Compilation]
 
 url: /v/chuc075pl
-date: 0000-04-27T01:00:00Z
+date: 2024-04-26T15:00:00Z
 image: "chuc075pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, POV, Beautiful Girl, Breasts, 4HR+	]
+tags: [Censored, Creampie, Best, Omnibus, POV, Beautiful Girl, Breasts, 4HR+	]
 maker: [ First Star  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ValqpQZrbLcKB9D">
     <a href="javascript:;">
         <img src="/v/chuc075pl/chuc075pl.jpg" width="WIDTH" height="HEIGHT" alt="chuc075pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ValqpQZrbLcKB9D" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/lop5k44j5qx8" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/1lxguq31ppzd"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>

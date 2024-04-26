@@ -3,9 +3,9 @@ author: j91
 title: KNMB-075 Hina (18) Hina Hazuki, A J-type Girl Who Grew Up In A Wealthy Family But Can't Stop Being A Full-time Girl
 
 url: /v/knmb075pl
-date: 0000-04-27T01:55:00Z
+date: 2024-04-26T15:55:00Z
 image: "knmb075pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Beautiful Girl	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Beautiful Girl	]
 maker: [ First Star  ]
 actress: [ Hazuki Hina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hazuki Hina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="paLjMPqXmJsrkAx">
     <a href="javascript:;">
         <img src="/v/knmb075pl/knmb075pl.jpg" width="WIDTH" height="HEIGHT" alt="knmb075pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Hazuki Hina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/paLjMPqXmJsrkAx" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/9i3jpsb4c8kw" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Hazuki Hina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/46nlklyh5j3q"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>

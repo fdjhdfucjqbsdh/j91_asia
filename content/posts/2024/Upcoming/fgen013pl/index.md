@@ -3,9 +3,9 @@ author: j91
 title: FGEN-013 Office Lady X Devil, Unable To Resist, She Is Attacked By Her Respected Boss, And The Office Lady Is Turned Into A Sex Toy. 6 People, 240 Minutes
 
 url: /v/fgen013pl
-date: 0000-04-27T01:00:00Z
+date: 2024-04-26T15:00:00Z
 image: "fgen013pl.jpg"
-tags: [Upcoming releases, OL, Best, Omnibus, 4HR+, Evil, Business Attire	]
+tags: [Censored, OL, Best, Omnibus, 4HR+, Evil, Business Attire	]
 maker: [ First Star  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1qd7xAjrpBC1Ry">
     <a href="javascript:;">
         <img src="/v/fgen013pl/fgen013pl.jpg" width="WIDTH" height="HEIGHT" alt="fgen013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/1qd7xAjrpBC1Ry" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/1slosbm390br" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://wolfstream.tv/qrlggpkiidfu"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
