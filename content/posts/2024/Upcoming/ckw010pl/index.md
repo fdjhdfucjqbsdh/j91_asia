@@ -3,9 +3,9 @@ author: j91
 title: CKW-010 A Slutty Woman, A Criminal Man, And Us Watching From The Sidelines Ruisa Tozuki
 
 url: /v/ckw010pl
-date: 0000-04-26T01:55:00Z
+date: 2024-04-27T01:55:00Z
 image: "ckw010pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Solowork, Dirty Words, Big Tits, Cowgirl, Slut, Lingerie, Submissive Men, Kiss	]
+tags: [Censored, Blow, Handjob, Solowork, Dirty Words, Big Tits, Cowgirl, Slut, Lingerie, Submissive Men, Kiss	]
 maker: [ Waap Entertainment  ]
 actress: [ Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jg2ZygR63ohzXvk">
     <a href="javascript:;">
         <img src="/v/ckw010pl/ckw010pl.jpg" width="WIDTH" height="HEIGHT" alt="ckw010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/jg2ZygR63ohzXvk" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/2acothf8kvw8" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/jbryu9mytw1h"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: YSN-621 My New Sister-in-law, Who Is Dumb But Has A Strong Sex Drive, Is Keeping Me. Hamazaki Mao
 
 url: /v/ysn621pl
-date: 0000-04-26T01:55:00Z
+date: 2024-04-27T01:55:00Z
 image: "ysn621pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Nasty, Hardcore, Slut, Slender	]
+tags: [Censored, Creampie, Solowork, Big Tits, Nasty, Hardcore, Slut, Slender	]
 maker: [ Non  ]
 actress: [ Hamasaki Mao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ga1xQXm9Kaiqjja">
     <a href="javascript:;">
         <img src="/v/ysn621pl/ysn621pl.jpg" width="WIDTH" height="HEIGHT" alt="ysn621pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ga1xQXm9Kaiqjja" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ooziyaa8m4zl" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="https://filemoon.sx/d/avh0maco89em"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
