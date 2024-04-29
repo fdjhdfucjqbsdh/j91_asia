@@ -1,6 +1,6 @@
 ---
 author: j91
-title: MIDD-857 Idol and Dream Brush Wholesale Nonoka
+title: MIDD-857 [Chinese Subtitle] Idol and Dream Brush Wholesale Nonoka
 
 url: /was/midd857
 date: 2024-04-29T00:00:00Z

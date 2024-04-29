@@ -1,6 +1,6 @@
 ---
 author: j91
-title: VEC-639 My Wife's Best Friend Ruisa Miyazuki Came To Lecture Her Unfaithful Husband Who Was Found Out To Be Cheating On Her.
+title: VEC-639 [Chinese Subtitle] My Wife's Best Friend Ruisa Miyazuki Came To Lecture Her Unfaithful Husband Who Was Found Out To Be Cheating On Her.
 
 url: /was/vec639pl
 date: 2024-04-29T00:05:00Z
