@@ -43,7 +43,7 @@ actress: [Saitsuki Nanao]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p>
+<p><a href="https://voe.sx/29bany7ldsyf"><button class="btn-hover color-8"><i class="fa fa-download"></i> VOE</button></a></p>
 <p><a href="https://filemoon.sx/d/iv3qdktv2e8u/START-056.mp4"><button class="btn-hover color-9"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
