@@ -34,7 +34,7 @@ actress: [Saitsuki Nanao]
 	      	      <br>
 <div class="buttons">  
 <p><a href="https://streamtape.to/v/YLM2o4zrv0FvMDW" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/dkvy6la5avrv" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://asnwish.com/wt1mbcgoqipc" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
