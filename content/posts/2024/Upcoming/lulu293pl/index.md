@@ -3,9 +3,9 @@ author: j91
 title: LULU-293 AIKA, A Big-assed Gal Aunt Who Is A Former Slut Who Trains Her Prematurely Ejaculating Nephew Who Ejaculates Easily By Giving Her A Super Slow Blowjob And Teasing Her With Ejaculation Control, And Then Makes Her Drink Plenty Of Cum.
 
 url: /v/lulu293pl
-date: 0000-05-03T01:30:00Z
+date: 2024-05-03T01:30:00Z
 image: "lulu293pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Gal, Aunt	]
+tags: [Censored, Blow, Creampie, Solowork, Gal, Aunt	]
 maker: [LUNATICS]
 actress: [ AIKA ]
 ---
@@ -13,13 +13,13 @@ actress: [ AIKA ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kLRd3yr90yTOlop">
     <a href="javascript:;">
         <img src="/v/lulu293pl/lulu293pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu293pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/kLRd3yr90yTOlop" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/nf8k2j3au52y" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
