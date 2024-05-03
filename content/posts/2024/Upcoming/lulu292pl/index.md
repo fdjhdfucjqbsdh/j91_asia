@@ -3,9 +3,9 @@ author: j91
 title: LULU-292 When I Consulted Akari Snack's Carnivorous, Plump, Big-assed Mom About My Sexual Problems, She Gave Me Ass-technical Slut Sex And Let Me Cum Over And Over Again. Akari Niimura
 
 url: /v/lulu292pl
-date: 0000-05-03T01:30:00Z
+date: 2024-05-03T01:30:00Z
 image: "lulu292pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Butt, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Older Sister, Butt, Huge Butt	]
 maker: [LUNATICS]
 actress: [ Niimura Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Niimura Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ywG137Y6VpF1qVY">
     <a href="javascript:;">
         <img src="/v/lulu292pl/lulu292pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu292pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/ywG137Y6VpF1qVY" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/eazv889adm3t" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
