@@ -3,9 +3,9 @@ author: j91
 title: LULU-288 A Story About A 34-year-old Big-breasted Single Mother Who Came To A Religious Recruitment Party Because She Couldn't Resist Her Holstein Breasts, So She Pretended To Join The Church And Had A Horny NEET Dick Treat Her Like A Breast Masturbator And Creampied Her Raw. Yuria Yoshine
 
 url: /v/lulu288pl
-date: 0000-05-03T01:30:00Z
+date: 2024-05-03T01:30:00Z
 image: "lulu288pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Huge Cock	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Huge Cock	]
 maker: [LUNATICS]
 actress: [ Yoshine Yuria]
 ---
@@ -13,13 +13,13 @@ actress: [ Yoshine Yuria]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OgGVDzmDwptZj7M">
     <a href="javascript:;">
         <img src="/v/lulu288pl/lulu288pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu288pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Yoshine Yuria]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/OgGVDzmDwptZj7M" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ri2kp8krgabl" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Yoshine Yuria]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
