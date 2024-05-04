@@ -3,9 +3,9 @@ author: j91
 title: FJIN-020 Sexual Zombie Blindfolded Village A Story About How I Was Picked Up By A Villager And Offered To A Shrine Maiden As A Meat Masturbator Chitose Yuki With Huge Breasts J Cup 110cm
 
 url: /v/fjin020pl
-date: 0000-05-04T01:50:00Z
+date: 2024-05-04T01:50:00Z
 image: "fjin020pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Slut, Mature Woman, Virgin Man, Priestess	]
+tags: [Censored, Solowork, Big Tits, Slut, Mature Woman, Virgin Man, Priestess	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Saegusa Chitose]
 ---
@@ -13,13 +13,13 @@ actress: [ Saegusa Chitose]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MJ8dO3vOG7TmRzR">
     <a href="javascript:;">
         <img src="/v/fjin020pl/fjin020pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin020pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Saegusa Chitose]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/MJ8dO3vOG7TmRzR" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/jwcc2mivqcsm" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Saegusa Chitose]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>

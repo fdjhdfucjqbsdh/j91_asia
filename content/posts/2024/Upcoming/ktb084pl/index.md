@@ -3,9 +3,9 @@ author: j91
 title: KTB-084 ~ Big Ass Office Lady Yura Is So Sensitive That She Keeps Cumming While Serving Customers. Our Company's Punch Line Receptionist ~ Bukkake OL Suit Club 26 Yura Hinata
 
 url: /v/ktb084pl
-date: 0000-05-04T01:50:00Z
+date: 2024-05-04T01:50:00Z
 image: "ktb084pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Bukkake, Butt, Huge Butt	]
+tags: [Censored, OL, Solowork, Bukkake, Butt, Huge Butt	]
 maker: [ Kahanshin Tigers - Mousozoku  ]
 actress: [ Hinata Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RDxRRaZbQqUdrzj">
     <a href="javascript:;">
         <img src="/v/ktb084pl/ktb084pl.jpg" width="WIDTH" height="HEIGHT" alt="ktb084pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Hinata Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/RDxRRaZbQqUdrzj" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/mcnizdhzvh09" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Hinata Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
