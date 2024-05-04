@@ -3,9 +3,9 @@ author: j91
 title: SCD-234 My Favorite Aunt Urinates Outdoors 2
 
 url: /v/scd234pl
-date: 0000-05-04T01:50:00Z
+date: 2024-05-04T01:50:00Z
 image: "scd234pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Urination, Mature Woman, Aunt	]
+tags: [Censored, Creampie, Big Tits, Urination, Mature Woman, Aunt	]
 maker: [ Ruby  ]
 actress: [ Hamasaki Eri, Fukuyama Iroha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Eri, Fukuyama Iroha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Mo2PjBDVagsmkrL">
     <a href="javascript:;">
         <img src="/v/scd234pl/scd234pl.jpg" width="WIDTH" height="HEIGHT" alt="scd234pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Hamasaki Eri, Fukuyama Iroha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/Mo2PjBDVagsmkrL" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/o8kpcw2ttgvs" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Hamasaki Eri, Fukuyama Iroha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
