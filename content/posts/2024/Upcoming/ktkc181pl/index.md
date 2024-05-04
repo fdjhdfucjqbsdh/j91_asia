@@ -3,9 +3,9 @@ author: j91
 title: KTKC-181 During School Days, She Was Played With By Her Classmates As A Breast Urinal, And It Became A Hot Topic On SNS. She Is A Plain Girl With Huge Breasts And A K-cup Unfortunate Type, And Is A Second Virgin DEBUT Haruka (a Part-time Clerk At A Laundry Shop).
 
 url: /v/ktkc181pl
-date: 0000-05-04T01:50:00Z
+date: 2024-05-04T01:50:00Z
 image: "ktkc181pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, Titty Fuck, Ultra-Huge Tits	]
+tags: [Censored, Amateur, Big Tits, Titty Fuck, Ultra-Huge Tits	]
 maker: [ Kichikkusu - Mousou Zoku  ]
 actress: [ Morisaki Shizune ]
 ---
@@ -13,13 +13,13 @@ actress: [ Morisaki Shizune ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1x6aQxX3GqceP8z">
     <a href="javascript:;">
         <img src="/v/ktkc181pl/ktkc181pl.jpg" width="WIDTH" height="HEIGHT" alt="ktkc181pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Morisaki Shizune ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/1x6aQxX3GqceP8z" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/itgs3cuqtv1p" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ actress: [ Morisaki Shizune ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> WS</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
