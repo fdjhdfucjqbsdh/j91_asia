@@ -1,21 +1,21 @@
 ---
 author: j91
-title: FSDSS-794 My Kind And Sincere Homeroom Teacher Was A Shameless Female Teacher Who Preyed On Virgin Students… Ayami Mori
+title: DOKS-602 Splash Masturbation That Makes The Urethra Go Numb And The Pee Doesn't Stop
 
-url: /v/fsdss794
-date: 2024-05-05T02:30:00Z
-image: "fsdss794.jpg"
-tags: [Censored, Cowgirl,Female Teacher,Slut,Solowork]
-maker: [FALENO]
-actress: [Mori Ayami]
+url: /v/doks602pl
+date: 2024-05-05T01:15:00Z
+image: "doks602pl.jpg"
+tags: [Censored, Masturbation, Other Fetish, Dirty Words, Urination, Close Up	]
+maker: [ Office K S  ]
+actress: [ Tooyama Maki, Misumi Rei, Arisu Mai, Tateoka Anna ,Uruki Sara]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="GA8RkjVaA4soMB">
+<div class="video" data-videoid="RLD7bxXd8vIjPq">
     <a href="javascript:;">
-        <img src="/v/fsdss794/fsdss794.jpg" width="WIDTH" height="HEIGHT" alt="fsdss794.mp4" loading="lazy">
+        <img src="/v/doks602pl/doks602pl.jpg" width="WIDTH" height="HEIGHT" alt="doks602pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,8 +33,8 @@ actress: [Mori Ayami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/GA8RkjVaA4soMB" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://asnwish.com/u5b7s79z1od0" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/RLD7bxXd8vIjPq" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/776ttpotwvux" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [Mori Ayami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://vidhidevip.com/file/9qnw4ofag5ph"><button class="btn-hover color-8"><i class="fa fa-download"></i> VH</button></a></p>
+<p><a href="https://vidhidevip.com/file/ydd0vt4kj0o9"><button class="btn-hover color-8"><i class="fa fa-download"></i> VH</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>
