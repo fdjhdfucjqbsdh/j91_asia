@@ -5,9 +5,9 @@ title: FSDSS-794 My Kind And Sincere Homeroom Teacher Was A Shameless Female Tea
 url: /v/fsdss794
 date: 2024-05-04T16:30:00Z
 image: "fsdss794.jpg"
-tags: [Censored, Cowgirl, Dirty Words, Handjob, Slut, Solowork, Submissive Men]
+tags: [Censored, Cowgirl,Female Teacher,Slut,Solowork]
 maker: [FALENO]
-actress: [Yoshitaka Nene]
+actress: [Mori Ayami]
 ---
 
 
