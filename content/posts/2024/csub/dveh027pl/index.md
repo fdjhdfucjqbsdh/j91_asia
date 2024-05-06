@@ -1,6 +1,6 @@
 ---
 author: j91
-title: DVEH-027 Mesukatsu Aijou 20% Aishou 80% Convenient Relationship Yuria Yoshine
+title: DVEH-027 [Chinese Subtitle] Mesukatsu Aijou 20% Aishou 80% Convenient Relationship Yuria Yoshine
 
 url: /was/dveh027pl
 date: 2024-05-06T00:15:00Z

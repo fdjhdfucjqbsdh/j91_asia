@@ -1,6 +1,6 @@
 ---
 author: j91
-title: MIDV-678 My Girlfriend's Twin Sister Secretly Seduces Me By Telling Me She's OK With Sex Mayu Suzune
+title: MIDV-678 [Chinese Subtitle] My Girlfriend's Twin Sister Secretly Seduces Me By Telling Me She's OK With Sex Mayu Suzune
 
 url: /was/midv678pl
 date: 2024-05-06T00:15:00Z

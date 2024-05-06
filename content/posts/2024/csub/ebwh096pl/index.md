@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-096 Occupation, A Popular Lounge Lady Who Works In Ebisu. Sleepover Affair With A Charming Modern-day Big-breasted JD Who Is In Love With Me. Moka Haruyo.
+title: EBWH-096 [Chinese Subtitle] Occupation, A Popular Lounge Lady Who Works In Ebisu. Sleepover Affair With A Charming Modern-day Big-breasted JD Who Is In Love With Me. Moka Haruyo.
 
 url: /was/ebwh096pl
 date: 2024-05-06T00:15:00Z

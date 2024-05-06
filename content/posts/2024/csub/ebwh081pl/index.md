@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-081 The AV Actress Who Took The World By Storm Is Back With Even More Sexy Body And Erotica. Titty Fuck Queen Yura Takahashi Makes A Shocking Comeback After 10 Years
+title: EBWH-081 [Chinese Subtitle] The AV Actress Who Took The World By Storm Is Back With Even More Sexy Body And Erotica. Titty Fuck Queen Yura Takahashi Makes A Shocking Comeback After 10 Years
 
 url: /was/ebwh081pl
 date: 2024-05-06T00:15:00Z

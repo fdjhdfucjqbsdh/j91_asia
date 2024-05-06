@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-092 Takamine Hana, Who Everyone Looks Back On, Treats You Like A King All Night Long. Sweet And Erotic Service Affair Alice Nanase
+title: EBWH-092 [Chinese Subtitle] Takamine Hana, Who Everyone Looks Back On, Treats You Like A King All Night Long. Sweet And Erotic Service Affair Alice Nanase
 
 url: /was/ebwh092pl
 date: 2024-05-06T00:15:00Z

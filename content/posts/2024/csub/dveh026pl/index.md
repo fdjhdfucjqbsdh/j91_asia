@@ -1,6 +1,6 @@
 ---
 author: j91
-title: DVEH-026 She's Cute And Has Excellent Grades, But Behind The Scenes, She's A Reckless J○, And Her Childhood Friend And Private Tutor, The ``condescending Dick Duo'', Are Using An Aphrodisiac To Overwhelm Her! Complete Chin Pressure With Continuous Creampie Combination! Satsuki Ena
+title: DVEH-026 [Chinese Subtitle] She's Cute And Has Excellent Grades, But Behind The Scenes, She's A Reckless J○, And Her Childhood Friend And Private Tutor, The ``condescending Dick Duo'', Are Using An Aphrodisiac To Overwhelm Her! Complete Chin Pressure With Continuous Creampie Combination! Satsuki Ena
 
 url: /was/dveh026pl
 date: 2024-05-06T00:15:00Z

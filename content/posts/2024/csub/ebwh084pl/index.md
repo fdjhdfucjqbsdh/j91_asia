@@ -1,6 +1,6 @@
 ---
 author: j91
-title: EBWH-084 I Missed The Last Train And Had To Stay At My Junior's House... I Succumbed To The Unconscious Temptation Of An Athlete's Body That Got Wet From The Heavy Rain And Ended Up Having An Affair And Creampie Over And Over Again Until Morning. I'm The Worst, Hibiki Amemiya.
+title: EBWH-084 [Chinese Subtitle] I Missed The Last Train And Had To Stay At My Junior's House... I Succumbed To The Unconscious Temptation Of An Athlete's Body That Got Wet From The Heavy Rain And Ended Up Having An Affair And Creampie Over And Over Again Until Morning. I'm The Worst, Hibiki Amemiya.
 
 url: /was/ebwh084pl
 date: 2024-05-06T00:15:00Z

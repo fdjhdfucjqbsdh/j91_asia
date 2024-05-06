@@ -1,6 +1,6 @@
 ---
 author: j91
-title: MIDV-130 Seijin-shiki Alumni Association NTR-Reunion With Ex-boyfriend, One Night Without Communication-Mia Nanasawa
+title: MIDV-130 [Chinese Subtitle] Seijin-shiki Alumni Association NTR-Reunion With Ex-boyfriend, One Night Without Communication-Mia Nanasawa
 
 url: /was/midv130pl
 date: 2024-05-06T00:15:00Z

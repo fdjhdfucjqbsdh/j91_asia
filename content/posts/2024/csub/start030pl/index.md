@@ -1,6 +1,6 @@
 ---
 author: j91
-title: START-030 I Kept Giving Love Potions To The Lonely Girl Living Next Door And Had Sex With Her Over And Over Again, And Before I Knew It, I Was In Love With Her. Riko Hoshino
+title: START-030 [Chinese Subtitle] I Kept Giving Love Potions To The Lonely Girl Living Next Door And Had Sex With Her Over And Over Again, And Before I Knew It, I Was In Love With Her. Riko Hoshino
 
 url: /was/start030pl
 date: 2024-05-06T00:15:00Z
