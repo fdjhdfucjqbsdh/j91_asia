@@ -1,6 +1,6 @@
 ---
 author: j91
-title: ROE-205 Throwing Off The Veil And Exposing The 'beast' Instincts. Dengeki Transfer Saki Oishi
+title: ROE-205 [Chinese Subtitle] Throwing Off The Veil And Exposing The 'beast' Instincts. Dengeki Transfer Saki Oishi
 
 url: /was/roe205pl
 date: 2024-05-07T00:15:00Z

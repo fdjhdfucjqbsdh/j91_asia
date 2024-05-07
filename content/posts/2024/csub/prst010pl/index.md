@@ -1,6 +1,6 @@
 ---
 author: j91
-title: PRST-010 Ran Kosaka, A Woman Who Reaches Climax Overflowing With 150% Of Her Obscene Juices
+title: PRST-010 [Chinese Subtitle] Ran Kosaka, A Woman Who Reaches Climax Overflowing With 150% Of Her Obscene Juices
 
 url: /was/prst010pl
 date: 2024-05-07T00:15:00Z

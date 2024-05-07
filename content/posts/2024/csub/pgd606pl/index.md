@@ -1,6 +1,6 @@
 ---
 author: j91
-title: PGD-606 Asami Ogawa - thoroughly humiliated in front of husband - beautiful wife was committed
+title: PGD-606 [Chinese Subtitle] Asami Ogawa - thoroughly humiliated in front of husband - beautiful wife was committed
 
 url: /was/pgd606pl
 date: 2024-05-07T00:10:00Z
