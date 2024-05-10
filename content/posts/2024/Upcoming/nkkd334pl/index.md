@@ -3,9 +3,9 @@ author: j91
 title: NKKD-334 Call Center Wife The Sad Sigh Of The Receptionist's Wife Can Be Heard Over The Receiver Kana Morisawa
 
 url: /v/nkkd334pl
-date: 0000-05-10T01:35:00Z
+date: 2024-05-10T01:35:00Z
 image: "nkkd334pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Huge Butt	]
 maker: [JET Eizou]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BvrBPvV1jGS6RX">
     <a href="javascript:;">
         <img src="/v/nkkd334pl/nkkd334pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd334pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/BvrBPvV1jGS6RX" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/i2dcl9w4sy2y" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

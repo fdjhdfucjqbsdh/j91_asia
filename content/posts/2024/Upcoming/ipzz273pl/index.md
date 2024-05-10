@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-273 Don't Know The Joy Of Sex, But Due To My Father's Debt, I Was Imprisoned In A Gangster's House, Raped And Fucked, And After 10 Days, I Was Transformed Into A Premature Ejaculation Maid Who Couldn't Live Without Sex. Wakana Sakura
 
 url: /v/ipzz273pl
-date: 0000-05-10T01:43:00Z
+date: 2024-05-10T01:43:00Z
 image: "ipzz273pl.jpg"
-tags: [Upcoming releases, Maid, 3P, 4P, Solowork, Beautiful Girl, Slender	]
+tags: [Censored, Maid, 3P, 4P, Solowork, Beautiful Girl, Slender	]
 maker: [IDEA POCKET]
 actress: [ Sakura Wakana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakura Wakana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="B7V84wmwbLiyOY4">
     <a href="javascript:;">
         <img src="/v/ipzz273pl/ipzz273pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz273pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/B7V84wmwbLiyOY4" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/1aoycvm9n451" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

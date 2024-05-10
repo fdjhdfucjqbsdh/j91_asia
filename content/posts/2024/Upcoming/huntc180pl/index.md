@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-180 "eh! ? Hang On! What? ”Forcibly Fuck A Big Dick Immediately! Alone With My Friend's Sister And Sister At My Friend's House! Even Though We're Alone In A Closed Room, We're Acting Defenseless, So Gradually...
 
 url: /v/huntc180pl
-date: 0000-05-10T01:20:00Z
+date: 2024-05-10T01:20:00Z
 image: "huntc180pl.jpg"
-tags: [Upcoming releases, Creampie, Underwear, Nasty, Hardcore, Huge Cock, No Bra	]
+tags: [Censored, Creampie, Underwear, Nasty, Hardcore, Huge Cock, No Bra	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gqPKAq7zywCq0vx">
     <a href="javascript:;">
         <img src="/v/huntc180pl/huntc180pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc180pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/gqPKAq7zywCq0vx" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ql1021ptv6zd" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

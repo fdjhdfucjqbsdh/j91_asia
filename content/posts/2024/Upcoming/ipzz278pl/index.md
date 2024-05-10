@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-278 My Favorite Teacher Was Raped By Delinquents. Suzuno Uto
 
 url: /v/ipzz278pl
-date: 0000-05-10T01:43:00Z
+date: 2024-05-10T01:43:00Z
 image: "ipzz278pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Beautiful Girl, Facials, Abuse	]
+tags: [Censored, Solowork, Female Teacher, Beautiful Girl, Facials, Abuse	]
 maker: [IDEA POCKET]
 actress: [ Suzuno Uto ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzuno Uto ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m9YB2pkmLJuV2q">
     <a href="javascript:;">
         <img src="/v/ipzz278pl/ipzz278pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz278pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Suzuno Uto ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/m9YB2pkmLJuV2q" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/bfri5n6fnglv" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Suzuno Uto ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

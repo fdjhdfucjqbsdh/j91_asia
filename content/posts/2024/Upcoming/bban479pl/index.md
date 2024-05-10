@@ -3,9 +3,9 @@ author: j91
 title: BBAN-479 An Unexpected Reunion At University With The Secretive Girl I Used To Make Fun Of! Lesbian Campus Life Where A Simple Girl Suddenly Transforms Into A Famous Bimbo Gal And Continues To Be Turned Into A Slut.
 
 url: /v/bban479pl
-date: 0000-05-10T01:15:00Z
+date: 2024-05-10T01:15:00Z
 image: "bban479pl.jpg"
-tags: [Upcoming releases, Lesbian, Gal, Slut, Lesbian Kiss, Acme · Orgasm	]
+tags: [Censored, Lesbian, Gal, Slut, Lesbian Kiss, Acme · Orgasm	]
 maker: [Bibian]
 actress: [ Kagari Mai, Igarashi Kiyoka]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagari Mai, Igarashi Kiyoka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wPryApYP8ySov7">
     <a href="javascript:;">
         <img src="/v/bban479pl/bban479pl.jpg" width="WIDTH" height="HEIGHT" alt="bban479pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Kagari Mai, Igarashi Kiyoka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/wPryApYP8ySov7" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/1o3cffvv9pn6" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Kagari Mai, Igarashi Kiyoka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

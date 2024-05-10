@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-266 Are You Serious! ? Ironman “Kana Momonogi” Has Also Completely Ascended! ! The Ultimate HOW TO SEX Secret Technique Textbook To Absolutely Get Better At SEX 8th Anniversary Of Debut! ! 100th Work Commemorative Work! !
 
 url: /v/ipzz266pl
-date: 0000-05-10T01:43:00Z
+date: 2024-05-10T01:43:00Z
 image: "ipzz266pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Big Tits, How To, Acme · Orgasm	]
+tags: [Censored, Cosplay, Solowork, Big Tits, How To, Acme · Orgasm	]
 maker: [IDEA POCKET]
 actress: [ Momonogi Kana]
 ---
@@ -13,13 +13,13 @@ actress: [ Momonogi Kana]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QD3m643RxrsR4V">
     <a href="javascript:;">
         <img src="/v/ipzz266pl/ipzz266pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz266pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Momonogi Kana]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/QD3m643RxrsR4V" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/pnmae4bd223u" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Momonogi Kana]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-269 I Want To Be Treated As A Slut By A Sweet And Beautiful Legged Lady. "Sniff, Lick And Bury Yourself..." Tsumugi Akari
 
 url: /v/ipzz269pl
-date: 0000-05-10T01:43:00Z
+date: 2024-05-10T01:43:00Z
 image: "ipzz269pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Cowgirl, Slut	]
+tags: [Censored, Solowork, Older Sister, Cowgirl, Slut	]
 maker: [IDEA POCKET]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KzWaJ34grat03B4">
     <a href="javascript:;">
         <img src="/v/ipzz269pl/ipzz269pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz269pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/KzWaJ34grat03B4" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/1jsa91rz7euq" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>
