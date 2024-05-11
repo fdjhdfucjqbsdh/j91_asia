@@ -3,9 +3,9 @@ author: j91
 title: MKMP-554 If You Just Lick The Butthole... It's Not Against The Entertainment Industry Law ♪ Aya Konami, A Big-butt Men's Esthetician Who Confuses All The Customers With A Lewd Costume With A Bare Anus
 
 url: /v/mkmp554pl
-date: 0000-05-11T01:55:00Z
+date: 2024-05-11T01:55:00Z
 image: "mkmp554pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Beautiful Girl, Slut, Butt, Huge Butt	]
+tags: [Censored, Solowork, Beauty Shop, Beautiful Girl, Slut, Butt, Huge Butt	]
 maker: [ K.M.Produce  ]
 actress: [ Suzumiya Haruka]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8d8aLBqlg9toz24">
     <a href="javascript:;">
         <img src="/v/mkmp554pl/mkmp554pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp554pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/8d8aLBqlg9toz24" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/676fne67n4bh" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

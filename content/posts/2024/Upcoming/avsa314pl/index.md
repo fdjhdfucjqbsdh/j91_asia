@@ -3,9 +3,9 @@ author: j91
 title: AVSA-314 Super Close-up Shot, Bristly Reverse Bunny Gal, Big Breasted Plump Sex Addict, Mito Wakui
 
 url: /v/avsa314pl
-date: 0000-05-11T01:20:00Z
+date: 2024-05-11T01:20:00Z
 image: "avsa314pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Big Tits, Busty Fetish, Bunny Girl, BBW	]
+tags: [Censored, Solowork, Gal, Big Tits, Busty Fetish, Bunny Girl, BBW	]
 maker: [ Avs  ]
 actress: [ Wakui Mito ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakui Mito ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xlDdDPpeGzuk2qA">
     <a href="javascript:;">
         <img src="/v/avsa314pl/avsa314pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa314pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Wakui Mito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/xlDdDPpeGzuk2qA" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/8mfkbmzzigiy" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Wakui Mito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

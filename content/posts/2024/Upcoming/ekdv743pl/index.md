@@ -3,9 +3,9 @@ author: j91
 title: EKDV-743 The Pet My Senior Asked Me To Take Care Of Is A Masochist Woman Who Likes Deep Sex... Moist Eyes And Throat Orgasm...One Night And Two Days Living Together With A Silent, Fair-skinned Beauty With A Shaved Pussy Yui Tenma
 
 url: /v/ekdv743pl
-date: 0000-05-11T01:20:00Z
+date: 2024-05-11T01:20:00Z
 image: "ekdv743pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, 3P, 4P, Vibe,Solowork]
+tags: [Censored, Handjob, Creampie, 3P, 4P, Vibe,Solowork]
 maker: [ Crystal Eizou  ]
 actress: [ Tenma Yui]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="erAkadqmJOIYbvz">
     <a href="javascript:;">
         <img src="/v/ekdv743pl/ekdv743pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv743pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/erAkadqmJOIYbvz" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/paj5d1fhy0ax" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>

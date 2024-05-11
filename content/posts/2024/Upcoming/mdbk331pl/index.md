@@ -3,9 +3,9 @@ author: j91
 title: MDBK-331 A Freeloader NEET Female Friend Of My Sister's House Seduces Me, Who Is Unpopular, With An Unprotected Housecoat And Masturbates Me! !
 
 url: /v/mdbk331pl
-date: 0000-05-11T01:55:00Z
+date: 2024-05-11T01:55:00Z
 image: "mdbk331pl.jpg"
-tags: [Upcoming releases, Creampie, Masturbation, Breasts, Glasses, Otaku	]
+tags: [Censored, Creampie, Masturbation, Breasts, Glasses, Otaku	]
 maker: [ K.M.Produce  ]
 actress: [ Nagarekawa Rio, Ozaki Erika ,Misumi Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagarekawa Rio, Ozaki Erika ,Misumi Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qx1WwrVq97iZD8">
     <a href="javascript:;">
         <img src="/v/mdbk331pl/mdbk331pl.jpg" width="WIDTH" height="HEIGHT" alt="mdbk331pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Nagarekawa Rio, Ozaki Erika ,Misumi Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/qx1WwrVq97iZD8" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/p9dqw5563f60" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Nagarekawa Rio, Ozaki Erika ,Misumi Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>
