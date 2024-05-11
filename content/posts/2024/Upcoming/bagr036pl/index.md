@@ -3,9 +3,9 @@ author: j91
 title: BAGR-036 Completely Subjective, Hentai Brother Calls! Ena Satsuki, A Little Sister Who Wants To Show Off Her Sex To Her Older Brother, Who Is A Siscon, And Cums As A Devil With Her Masochistic Face
 
 url: /v/bagr036pl
-date: 0000-05-11T01:20:00Z
+date: 2024-05-11T01:20:00Z
 image: "bagr036pl.jpg"
-tags: [Upcoming releases, Solowork, Masturbation, Dirty Words, Beautiful Girl, Sister, Cuckold	]
+tags: [Censored, Solowork, Masturbation, Dirty Words, Beautiful Girl, Sister, Cuckold	]
 maker: [ Barutan  ]
 actress: [ Satsuki Ena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satsuki Ena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="y2qpmobaVZUBvm">
     <a href="javascript:;">
         <img src="/v/bagr036pl/bagr036pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr036pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,8 @@ actress: [ Satsuki Ena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://streamtape.to/v/y2qpmobaVZUBvm" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
+<p><a href="https://asnwish.com/ub3b034fpy9d" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [ Satsuki Ena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
+<p><a href="javascript:;"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
 <p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
 <br><br>
       </div>
