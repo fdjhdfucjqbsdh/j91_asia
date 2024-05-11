@@ -1,6 +1,6 @@
 ---
 author: j91
-title: FSDSS-773 Q. What Did We Three Guys Do To The Solo Cafe Girl At 3am? Chiharu Mitsuha
+title: FSDSS-773 [Chinese Subtitle] Q. What Did We Three Guys Do To The Solo Cafe Girl At 3am? Chiharu Mitsuha
 
 url: /was/fsdss773pl
 date: 2024-05-11T03:15:00Z

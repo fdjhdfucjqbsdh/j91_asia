@@ -1,6 +1,6 @@
 ---
 author: j91
-title: WAAA-370 Agony Cunnilingus MANIAX Kana Morisawa
+title: WAAA-370 [Chinese Subtitle] Agony Cunnilingus MANIAX Kana Morisawa
 
 url: /was/waaa370pl
 date: 2024-05-11T03:15:00Z
