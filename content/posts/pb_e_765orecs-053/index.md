@@ -12,9 +12,9 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="AMGyJkP24eUDpm">
+<div class="video" data-videoid="Dq4oOykwJJuD7w">
     <a href="javascript:;">
-        <img src="https://my.j91.asia/posts/pb_e_765orecs-053/pb_e_765orecs-053.jpg" width="WIDTH" height="HEIGHT" alt="pb_e_765orecs-053.mp4" loading="lazy">
+        <img src="/v/pb_e_765orecs-053/pb_e_765orecs-053.jpg" width="WIDTH" height="HEIGHT" alt="pb_e_765orecs-053.mp4" loading="lazy">
     </a>
 </div>
 
@@ -32,7 +32,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<a href="https://streamtape.to/v/AMGyJkP24eUDpm"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></div>
+<p><a href="/v/pb_e_765orecs-053/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-    <a href="https://filelions.online/f/t3u1if9q6f6q"><button class="btn-hover color-9"><i class="fa fa-download"></i> FL</button></a></div>
+<p><a href="/v/pb_e_765orecs-053/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
