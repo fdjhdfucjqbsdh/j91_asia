@@ -3,7 +3,7 @@ author: j91
 title: FC2PPV 4430742 2 works! Haruka-chan, a neat and gentle beauty who aspires to be an announcer ♪ The flow from her outstandingly styled pussy is an overwhelming success!
 
 url: /v/4430742
-date: 2024-05-11T05:15:00Z
+date: 2024-05-12T02:15:00Z
 image: "4430742.jpg"
 tags: [Uncensored, ]
 maker: [FC2PPV]
@@ -13,7 +13,7 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="KJdydp9Vx6t0qoP">
+<div class="video" data-videoid="8WJvRmRaPDuoB1O">
     <a href="javascript:;">
         <img src="/v/4430742/4430742.jpg" width="WIDTH" height="HEIGHT" alt="4430742.mp4" loading="lazy">
     </a>
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://streamtape.to/v/KJdydp9Vx6t0qoP" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://streamtape.to/v/8WJvRmRaPDuoB1O" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://filemoon.sx/d/2c89intnf1fp" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
+<p><a href="https://filemoon.sx/d/dkzwt21x64mr/FC2PPV-4430742.mp4" target="_blank"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p></div>
 <br><br>
       </div>
     </div>
