@@ -1,6 +1,6 @@
 ---
 author: j91
-title: SAME-106 Newly Married Teacher Shizuka Is Forced To Act As A Sex Toy For The School's Most Problematic Child. Gobasa
+title: SAME-106 [Chinese Subtitle] Newly Married Teacher Shizuka Is Forced To Act As A Sex Toy For The School's Most Problematic Child. Gobasa
 
 url: /v/same106pl
 date: 2024-05-13T01:15:00Z

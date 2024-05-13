@@ -1,6 +1,6 @@
 ---
 author: j91
-title: SAME-108 A Female Manager Who Was Repeatedly Raped During A Summer Training Camp Where She Shared A Room With A Sexual Harassment Advisor Teacher. Miyu Oguri
+title: SAME-108 [Chinese Subtitle] A Female Manager Who Was Repeatedly Raped During A Summer Training Camp Where She Shared A Room With A Sexual Harassment Advisor Teacher. Miyu Oguri
 
 url: /v/same108pl
 date: 2024-05-13T01:15:00Z

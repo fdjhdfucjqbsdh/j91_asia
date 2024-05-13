@@ -1,6 +1,6 @@
 ---
 author: j91
-title: SAME-105 A Wife's Lewd Secret That She Cannot Tell Her Husband; Only The Playing Card Knows...
+title: SAME-105 [Chinese Subtitle] A Wife's Lewd Secret That She Cannot Tell Her Husband; Only The Playing Card Knows...
 
 url: /v/same105pl
 date: 2024-05-13T01:15:00Z
