@@ -1,21 +1,21 @@
 ---
 author: j91
-title: FSDSS-783 I Had Sexual Intercourse With The Beautiful Big-Breasted Woman In The Opposite Room Without Telling Her Boyfriend Until She Obeyed And Fell Into The Sexual Desire Processing Meat Urinal… Rin Yamitsu
+title: SAME-106 Newly Married Teacher Shizuka Is Forced To Act As A Sex Toy For The School's Most Problematic Child. Gobasa
 
-url: /v/fsdss783
-date: 2024-05-13T07:00:00Z
-image: "fsdss783.jpg"
-tags: [Censored, Big Tits, Blowjob, Deep Throating, Solowork]
-maker: [FALENO]
-actress: [Hachimitsu Rin]
+url: /v/same106pl
+date: 2024-05-13T01:15:00Z
+image: "same106pl.jpg"
+tags: [Chinese Subtitle, Solowork, Female Teacher, Married Woman, Abuse, Cuckold	]
+maker: [ Attackers  ]
+actress: [ Itsuha ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="0VjJglBZg0Ib3kq">
+<div class="video" data-videoid="WDkp13RxvLhb72R">
     <a href="javascript:;">
-        <img src="/v/fsdss783/fsdss783.jpg" width="WIDTH" height="HEIGHT" alt="fsdss783.mp4" loading="lazy">
+        <img src="/v/same106pl/same106pl.jpg" width="WIDTH" height="HEIGHT" alt="same106pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Hachimitsu Rin]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/fsdss783/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/same106pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Hachimitsu Rin]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/fsdss783/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/same106pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
