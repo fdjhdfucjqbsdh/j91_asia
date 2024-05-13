@@ -1,8 +1,8 @@
 ---
 author: j91
-title: SAME-108 [Chinese Subtitle] A Female Manager Who Was Repeatedly Raped During A Summer Training Camp Where She Shared A Room With A Sexual Harassment Advisor Teacher. Miyu Oguri
+title: SAME-108 A Female Manager Who Was Repeatedly Raped During A Summer Training Camp Where She Shared A Room With A Sexual Harassment Advisor Teacher. Miyu Oguri
 
-url: /v/same108pl
+url: /ch/same108pl
 date: 2024-05-13T01:15:00Z
 image: "same108pl.jpg"
 tags: [Chinese Subtitle, Solowork, School Girls, Big Tits, Abuse	]
@@ -15,7 +15,7 @@ actress: [ Oguri Miyu ]
 
 <div class="video" data-videoid="YB0PooWdXgcdx7">
     <a href="javascript:;">
-        <img src="/v/same108pl/same108pl.jpg" width="WIDTH" height="HEIGHT" alt="same108pl.mp4" loading="lazy">
+        <img src="/ch/same108pl/same108pl.jpg" width="WIDTH" height="HEIGHT" alt="same108pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Oguri Miyu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/same108pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/same108pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Oguri Miyu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/same108pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/same108pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

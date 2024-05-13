@@ -1,8 +1,8 @@
 ---
 author: j91
-title: SAME-107 [Chinese Subtitle] She Is Raped Every Day By An Old Man Who Is Her Mother's New Husband. Momo Shiraishi
+title: SAME-107 She Is Raped Every Day By An Old Man Who Is Her Mother's New Husband. Momo Shiraishi
 
-url: /v/same107pl
+url: /ch/same107pl
 date: 2024-05-13T01:15:00Z
 image: "same107pl.jpg"
 tags: [Chinese Subtitle, Solowork, Rape, Drama, Cuckold, Adopted Daughter	]
@@ -15,7 +15,7 @@ actress: [ Shiraishi Momo ]
 
 <div class="video" data-videoid="3Av4D6J6V7SdkwJ">
     <a href="javascript:;">
-        <img src="/v/same107pl/same107pl.jpg" width="WIDTH" height="HEIGHT" alt="same107pl.mp4" loading="lazy">
+        <img src="/ch/same107pl/same107pl.jpg" width="WIDTH" height="HEIGHT" alt="same107pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/same107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/same107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/same107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/same107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

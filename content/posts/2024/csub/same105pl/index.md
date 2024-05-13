@@ -1,8 +1,8 @@
 ---
 author: j91
-title: SAME-105 [Chinese Subtitle] A Wife's Lewd Secret That She Cannot Tell Her Husband; Only The Playing Card Knows...
+title: SAME-105 A Wife's Lewd Secret That She Cannot Tell Her Husband; Only The Playing Card Knows...
 
-url: /v/same105pl
+url: /ch/same105pl
 date: 2024-05-13T01:15:00Z
 image: "same105pl.jpg"
 tags: [Chinese Subtitle, Married Woman, Abuse, Drama	]
@@ -15,7 +15,7 @@ actress: [ Iwasa Mei ,Ichiba Reika, Nishino Emi]
 
 <div class="video" data-videoid="q8yYMQep0vTzrbV">
     <a href="javascript:;">
-        <img src="/v/same105pl/same105pl.jpg" width="WIDTH" height="HEIGHT" alt="same105pl.mp4" loading="lazy">
+        <img src="/ch/same105pl/same105pl.jpg" width="WIDTH" height="HEIGHT" alt="same105pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Iwasa Mei ,Ichiba Reika, Nishino Emi]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/same105pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/same105pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iwasa Mei ,Ichiba Reika, Nishino Emi]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/same105pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/same105pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

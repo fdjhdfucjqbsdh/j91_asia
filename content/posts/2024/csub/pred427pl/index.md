@@ -1,8 +1,8 @@
 ---
 author: j91
-title: PRED-427 [Chinese Subtitle] All Of Me Was With Aika-san. -From First Sex To Adult Creampie, A Record Of 6 Years Of Fellowship With My Sister's Friend Aika-san Exposing Everything To Each Other- Aika Yamagishi
+title: PRED-427 All Of Me Was With Aika-san. -From First Sex To Adult Creampie, A Record Of 6 Years Of Fellowship With My Sister's Friend Aika-san Exposing Everything To Each Other- Aika Yamagishi
 
-url: /v/pred427pl
+url: /ch/pred427pl
 date: 2024-05-13T01:15:00Z
 image: "pred427pl.jpg"
 tags: [Chinese Subtitle, OL, Creampie, Solowork, Uniform, Older Sister, Digital Mosaic	]
@@ -15,7 +15,7 @@ actress: [ Yamagishi Aika ]
 
 <div class="video" data-videoid="vY1gbwv3jXtbJ4">
     <a href="javascript:;">
-        <img src="/v/pred427pl/pred427pl.jpg" width="WIDTH" height="HEIGHT" alt="pred427pl.mp4" loading="lazy">
+        <img src="/ch/pred427pl/pred427pl.jpg" width="WIDTH" height="HEIGHT" alt="pred427pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Yamagishi Aika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/pred427pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/pred427pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamagishi Aika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/pred427pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/pred427pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

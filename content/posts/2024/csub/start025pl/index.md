@@ -1,8 +1,8 @@
 ---
 author: j91
-title: START-025 [Chinese Subtitle] One Day, An Innocent Beautiful Girl Got Addicted To Sex In Public After Being Molested...until She Felt Pleasure From The Thrill Of Being Seen And Started Looking For Partners On A Bulletin Board. Mei Miyajima
+title: START-025 One Day, An Innocent Beautiful Girl Got Addicted To Sex In Public After Being Molested...until She Felt Pleasure From The Thrill Of Being Seen And Started Looking For Partners On A Bulletin Board. Mei Miyajima
 
-url: /v/start025pl
+url: /ch/start025pl
 date: 2024-05-13T01:15:00Z
 image: "start025pl.jpg"
 tags: [Chinese Subtitle, Creampie, Solowork, Humiliation, Uniform, School Girls	]
@@ -15,7 +15,7 @@ actress: [ Miyajima Mei ]
 
 <div class="video" data-videoid="JWKRW1VoQ9sjMyL">
     <a href="javascript:;">
-        <img src="/v/start025pl/start025pl.jpg" width="WIDTH" height="HEIGHT" alt="start025pl.mp4" loading="lazy">
+        <img src="/ch/start025pl/start025pl.jpg" width="WIDTH" height="HEIGHT" alt="start025pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Miyajima Mei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/start025pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/start025pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyajima Mei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/start025pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/start025pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
