@@ -2,7 +2,7 @@
 author: j91
 title: IPZZ-263 [Chinese Subtitle] While My Wife Was Returning Home After Giving Birth, I Repeatedly Cheated On Her With Nishimiya, A Female Colleague Who Works In Sales... Excellent Physical Relationship Yume Nishinomiya
 
-url: /v/ipzz263pl
+url: /ch/ipzz263pl
 date: 2024-05-17T02:15:00Z
 image: "ipzz263pl.jpg"
 tags: [Chinese Subtitle, OL, Creampie, Solowork, Cuckold, Subordinates - Colleagues	]
@@ -15,7 +15,7 @@ actress: [ Nishimiya Yume ]
 
 <div class="video" data-videoid="RkXjG1pGQjsdygb">
     <a href="javascript:;">
-        <img src="/v/ipzz263pl/ipzz263pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz263pl.mp4" loading="lazy">
+        <img src="/ch/ipzz263pl/ipzz263pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz263pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Nishimiya Yume ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ipzz263pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/ipzz263pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishimiya Yume ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ipzz263pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/ipzz263pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

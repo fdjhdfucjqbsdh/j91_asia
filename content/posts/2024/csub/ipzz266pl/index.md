@@ -2,7 +2,7 @@
 author: j91
 title: IPZZ-266 [Chinese Subtitle] Are You Serious! ? Ironman “Kana Momonogi” Has Also Completely Ascended! ! The Ultimate HOW TO SEX Secret Technique Textbook To Absolutely Get Better At SEX 8th Anniversary Of Debut! ! 100th Work Commemorative Work! !
 
-url: /v/ipzz266pl
+url: /ch/ipzz266pl
 date: 2024-05-17T02:15:00Z
 image: "ipzz266pl.jpg"
 tags: [Chinese Subtitle, Cosplay, Solowork, Big Tits, How To, Acme · Orgasm	]
@@ -15,7 +15,7 @@ actress: [ Momonogi Kana]
 
 <div class="video" data-videoid="kkm9ZxAZDQCDJm">
     <a href="javascript:;">
-        <img src="/v/ipzz266pl/ipzz266pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz266pl.mp4" loading="lazy">
+        <img src="/ch/ipzz266pl/ipzz266pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz266pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Momonogi Kana]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ipzz266pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/ipzz266pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Momonogi Kana]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ipzz266pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/ipzz266pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

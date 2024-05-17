@@ -2,7 +2,7 @@
 author: j91
 title: SSIS-646 [Chinese Subtitle] I'm A Vulgar Female Teacher, So It's Natural To Be Raped By Me, You Know, Right? Kaede Fua
 
-url: /v/ssis646pl
+url: /ch/ssis646pl
 date: 2024-05-17T02:15:00Z
 image: "ssis646pl.jpg"
 tags: [Chinese Subtitle, Solowork, Female Teacher, Nasty, Hardcore, Deep Throating, Cuckold, Risky Mosaic	]
@@ -15,7 +15,7 @@ actress: [ Kaede Fuua ]
 
 <div class="video" data-videoid="4PA6WPKX4GfKM0v">
     <a href="javascript:;">
-        <img src="/v/ssis646pl/ssis646pl.jpg" width="WIDTH" height="HEIGHT" alt="ssis646pl.mp4" loading="lazy">
+        <img src="/ch/ssis646pl/ssis646pl.jpg" width="WIDTH" height="HEIGHT" alt="ssis646pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kaede Fuua ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ssis646pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/ssis646pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kaede Fuua ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ssis646pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/ssis646pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

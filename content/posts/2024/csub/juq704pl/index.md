@@ -2,7 +2,7 @@
 author: j91
 title: JUQ-704 [Chinese Subtitle] Can't Even Tell My Wife That I Impregnated My Mother-in-law... -I Was On A Hot Spring Trip For 1 Night And 2 Days, And I Lost Myself And Cum Inside Me. - Miki Mihama
 
-url: /v/juq704pl
+url: /ch/juq704pl
 date: 2024-05-17T02:15:00Z
 image: "juq704pl.jpg"
 tags: [Chinese Subtitle, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Hot Spring	]
@@ -15,7 +15,7 @@ actress: [ Mihama Miki ]
 
 <div class="video" data-videoid="XgBOMa3RL9HDM87">
     <a href="javascript:;">
-        <img src="/v/juq704pl/juq704pl.jpg" width="WIDTH" height="HEIGHT" alt="juq704pl.mp4" loading="lazy">
+        <img src="/ch/juq704pl/juq704pl.jpg" width="WIDTH" height="HEIGHT" alt="juq704pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Mihama Miki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/juq704pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/juq704pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mihama Miki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/juq704pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/juq704pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

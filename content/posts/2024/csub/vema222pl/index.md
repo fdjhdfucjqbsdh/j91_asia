@@ -2,7 +2,7 @@
 author: j91
 title: VEMA-222 [Chinese Subtitle] My Girlfriend, A Beautiful Female Teacher, Is My Class Teacher, Club Advisor, And My Lover - Forbidden Passionate Creampie Sex With My Older Girlfriend From Morning Till Night - Karen Yamashita
 
-url: /v/vema222pl
+url: /ch/vema222pl
 date: 2024-05-17T02:15:00Z
 image: "vema222pl.jpg"
 tags: [Chinese Subtitle, Creampie, Solowork, Female Teacher, Married Woman, Breasts, Mature Woman	]
@@ -15,7 +15,7 @@ actress: [ Yamashita Karen ]
 
 <div class="video" data-videoid="WD4aQ6rP46TbBaM">
     <a href="javascript:;">
-        <img src="/v/vema222pl/vema222pl.jpg" width="WIDTH" height="HEIGHT" alt="vema222pl.mp4" loading="lazy">
+        <img src="/ch/vema222pl/vema222pl.jpg" width="WIDTH" height="HEIGHT" alt="vema222pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Yamashita Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/vema222pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/vema222pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamashita Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/vema222pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/vema222pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

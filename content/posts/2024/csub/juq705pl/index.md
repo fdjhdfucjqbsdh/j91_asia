@@ -2,7 +2,7 @@
 author: j91
 title: JUQ-705 [Chinese Subtitle] First Affair-First Affair 01- A 'lost Lamb' Married Woman Who Has Been Having An Affair For 6 Years. Kasumi Amamiya 30 Years Old AV Debut
 
-url: /v/juq705pl
+url: /ch/juq705pl
 date: 2024-05-17T02:15:00Z
 image: "juq705pl.jpg"
 tags: [Chinese Subtitle, Solowork, Married Woman, Debut Production, Affair, Documentary, Mature Woman	]
@@ -15,7 +15,7 @@ actress: [ Amamiya Kasumi ]
 
 <div class="video" data-videoid="RBzVe9dpVRIdoRq">
     <a href="javascript:;">
-        <img src="/v/juq705pl/juq705pl.jpg" width="WIDTH" height="HEIGHT" alt="juq705pl.mp4" loading="lazy">
+        <img src="/ch/juq705pl/juq705pl.jpg" width="WIDTH" height="HEIGHT" alt="juq705pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/juq705pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/juq705pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/juq705pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/juq705pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

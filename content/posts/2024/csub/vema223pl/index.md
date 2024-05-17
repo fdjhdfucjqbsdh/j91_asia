@@ -2,7 +2,7 @@
 author: j91
 title: VEMA-223 [Chinese Subtitle] Female Boss And Subordinate Have Sex The Moment They Are Alone In The Office Kana Morisawa
 
-url: /v/vema223pl
+url: /ch/vema223pl
 date: 2024-05-17T02:15:00Z
 image: "vema223pl.jpg"
 tags: [Chinese Subtitle, Creampie, Solowork, Married Woman, Slut, Mature Woman, Cuckold	]
@@ -15,7 +15,7 @@ actress: [ Iioka Kanako ]
 
 <div class="video" data-videoid="zw3xVo8rZDCeol">
     <a href="javascript:;">
-        <img src="/v/vema223pl/vema223pl.jpg" width="WIDTH" height="HEIGHT" alt="vema223pl.mp4" loading="lazy">
+        <img src="/ch/vema223pl/vema223pl.jpg" width="WIDTH" height="HEIGHT" alt="vema223pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/vema223pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/ch/vema223pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/vema223pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/ch/vema223pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
