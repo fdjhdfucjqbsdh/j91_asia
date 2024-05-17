@@ -3,9 +3,9 @@ author: j91
 title: KAM-194 Celebrating Her Husband's Boss's Promotion, NTR Married Woman Gets Fucked At Home Party. Big Breasted Wife Gets Drunk, Gets Messy And Cums A Lot. Marina Yuzuki
 
 url: /v/kam194pl
-date: 0000-05-17T01:09:00Z
+date: 2024-05-17T01:09:00Z
 image: "kam194pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Documentary, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Documentary, Cuckold	]
 maker: [Karuma]
 actress: [Yuzuki Marina  ]
 ---
@@ -13,13 +13,13 @@ actress: [Yuzuki Marina  ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pDwWgkPKj7cAV4">
     <a href="javascript:;">
         <img src="/v/kam194pl/kam194pl.jpg" width="WIDTH" height="HEIGHT" alt="kam194pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [Yuzuki Marina  ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam194pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [Yuzuki Marina  ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/kam194pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
