@@ -3,9 +3,9 @@ author: j91
 title: MIMK-156 Actor Of Sakuraharu Girls' Academy A Special Mission Executive Who Satisfies The Distorted Masochistic Tendencies Of A Celebrity Girl Who Is Strictly Prohibited From Scandals Live-action Adaptation Of The Popular Series Kasumi Tsukino, Which Has Sold Over 480,000 Copies
 
 url: /v/mimk156pl
-date: 0000-05-17T01:59:00Z
+date: 2024-05-17T01:59:00Z
 image: "mimk156pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Big Tits, Nasty, Hardcore, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, Humiliation, Big Tits, Nasty, Hardcore, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7zAb99adKzuAKLr">
     <a href="javascript:;">
         <img src="/v/mimk156pl/mimk156pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk156pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk156pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/mimk156pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BLK-641 "Would You Like To Come To Torima Hotel?" The Gal I Met On The Matching App Turned Out To Be An Easy-to-read Slut! Vol.4
 
 url: /v/blk641pl
-date: 0000-05-17T01:10:00Z
+date: 2024-05-17T01:10:00Z
 image: "blk641pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Gal, Slut, Bitch	]
+tags: [Censored, Creampie, 3P, 4P, Gal, Slut, Bitch	]
 maker: [Kira ★ Kira]
 actress: [ Kamiya Mitsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kamiya Mitsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BYqgVaAMVjtW0v">
     <a href="javascript:;">
         <img src="/v/blk641pl/blk641pl.jpg" width="WIDTH" height="HEIGHT" alt="blk641pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Kamiya Mitsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/blk641pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Kamiya Mitsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/blk641pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

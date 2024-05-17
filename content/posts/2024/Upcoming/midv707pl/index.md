@@ -3,9 +3,9 @@ author: j91
 title: MIDV-707 Lifting Of The Ban - Creampie Sex For The First Time In My Life - Slender BODY Thrust Up FUCK - 3 Creampies That Won't Stop Even When I'm Cumming Mayu Suzune
 
 url: /v/midv707pl
-date: 0000-05-17T01:55:00Z
+date: 2024-05-17T01:55:00Z
 image: "midv707pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Beautiful Girl, Squirting, Slender	]
+tags: [Censored, Creampie, Solowork, POV, Beautiful Girl, Squirting, Slender	]
 maker: [MOODYZ]
 actress: [ Suzune Mayu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzune Mayu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="G6X1yAoL4VH1Rgz">
     <a href="javascript:;">
         <img src="/v/midv707pl/midv707pl.jpg" width="WIDTH" height="HEIGHT" alt="midv707pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Suzune Mayu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv707pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Suzune Mayu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/midv707pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

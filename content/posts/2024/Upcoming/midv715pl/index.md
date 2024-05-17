@@ -3,9 +3,9 @@ author: j91
 title: MIDV-715 I Have A New Memory Of Meeting My Childhood Friend Who Grew Up To Be A Famous Bimbo Gal In My Hometown And Having Him Cum 12 Times In 3 Days And 3 Nights.
 
 url: /v/midv715pl
-date: 0000-05-17T01:55:00Z
+date: 2024-05-17T01:55:00Z
 image: "midv715pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Gal, Slut, Slender	]
+tags: [Censored, Handjob, Solowork, Gal, Slut, Slender	]
 maker: [MOODYZ]
 actress: [ Arata Arina]
 ---
@@ -13,13 +13,13 @@ actress: [ Arata Arina]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BbBDM2MDM7Fy46x">
     <a href="javascript:;">
         <img src="/v/midv715pl/midv715pl.jpg" width="WIDTH" height="HEIGHT" alt="midv715pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Arata Arina]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv715pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Arata Arina]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/midv715pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

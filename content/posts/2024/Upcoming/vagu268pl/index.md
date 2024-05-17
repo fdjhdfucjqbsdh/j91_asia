@@ -3,9 +3,9 @@ author: j91
 title: VAGU-268 My Super Beautiful Wife Looked At Me And Sucked Me Over And Over Again, And I Exploded Over And Over Again. Kobayakawa Reiko
 
 url: /v/vagu268pl
-date: 0000-05-17T01:25:00Z
+date: 2024-05-17T01:25:00Z
 image: "vagu268pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Married Woman, Slut, Mature Woman	]
+tags: [Censored, Blow, Creampie, Solowork, Married Woman, Slut, Mature Woman	]
 maker: [Venus]
 actress: [ Kobayakawa Reiko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kobayakawa Reiko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZXo4YvKJQeFgk1">
     <a href="javascript:;">
         <img src="/v/vagu268pl/vagu268pl.jpg" width="WIDTH" height="HEIGHT" alt="vagu268pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/vagu268pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/vagu268pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

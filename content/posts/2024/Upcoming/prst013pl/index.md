@@ -3,9 +3,9 @@ author: j91
 title: PRST-013 Actual OK! A Hidden Oppin Salon That Is Rumored On The Street.We Will Entertain Our Customers With The Best Entertainment Without Any NGs! Ran Kosaka
 
 url: /v/prst013pl
-date: 0000-05-17T01:50:00Z
+date: 2024-05-17T01:50:00Z
 image: "prst013pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Facials, Slut, Prostitutes, Slender	]
+tags: [Censored, Cosplay, Solowork, Facials, Slut, Prostitutes, Slender	]
 maker: [Premium]
 actress: [ Kosaka Ran ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kosaka Ran ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Z2vqWrX3D8TqG2q">
     <a href="javascript:;">
         <img src="/v/prst013pl/prst013pl.jpg" width="WIDTH" height="HEIGHT" alt="prst013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Kosaka Ran ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/prst013pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Kosaka Ran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/prst013pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
