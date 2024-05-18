@@ -3,9 +3,9 @@ author: j91
 title: MIMA-002 Beautiful Legs Gal Fantasy Rina Minase
 
 url: /v/mima002pl
-date: 0000-05-18T01:55:00Z
+date: 2024-05-18T01:55:00Z
 image: "mima002pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Pantyhose, Leotard, Booth Girl, Leg Fetish	]
+tags: [Censored, Cosplay, Solowork, Pantyhose, Leotard, Booth Girl, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Minatsuki Rairina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minatsuki Rairina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xbBkJpq6Weskgzy">
     <a href="javascript:;">
         <img src="/v/mima002pl/mima002pl.jpg" width="WIDTH" height="HEIGHT" alt="mima002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Minatsuki Rairina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mima002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Minatsuki Rairina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/mima002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

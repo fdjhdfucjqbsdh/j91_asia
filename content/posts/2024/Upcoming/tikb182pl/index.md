@@ -3,9 +3,9 @@ author: j91
 title: TIKB-182 [Hello Log] When I Made Yui Hatano Drink Alcohol, Her Slut Aura Was On Full Display, So I Just Filmed Her!
 
 url: /v/tikb182pl
-date: 0000-05-18T01:55:00Z
+date: 2024-05-18T01:55:00Z
 image: "tikb182pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Documentary, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Documentary, Huge Butt	]
 maker: [ Chikichikiba-gu- Mousozoku  ]
 actress: [ Hatano Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hatano Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ggzw7PWmABIq2v2">
     <a href="javascript:;">
         <img src="/v/tikb182pl/tikb182pl.jpg" width="WIDTH" height="HEIGHT" alt="tikb182pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tikb182pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/tikb182pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

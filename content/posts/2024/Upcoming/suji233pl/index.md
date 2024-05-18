@@ -3,9 +3,9 @@ author: j91
 title: SUJI-233 Uncle, What Are You Doing Now? Are You Free? I Was Invited To Play With Me By A Girl Who Suddenly Talked To Me With A Big Smile... Rina Masako Rina
 
 url: /v/suji233pl
-date: 0000-05-18T01:50:00Z
+date: 2024-05-18T01:50:00Z
 image: "suji233pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, School Girls, Beautiful Girl, Breasts	]
+tags: [Censored, Blow, Creampie, Solowork, School Girls, Beautiful Girl, Breasts	]
 maker: [ Kan Ran Mono  ]
 actress: [ Kago Rina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kago Rina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PDjydxK16oC0dxP">
     <a href="javascript:;">
         <img src="/v/suji233pl/suji233pl.jpg" width="WIDTH" height="HEIGHT" alt="suji233pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,8 +33,7 @@ actress: [ Kago Rina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p>
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji233pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,8 +42,7 @@ actress: [ Kago Rina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html"><button class="btn-hover color-8"><i class="fa fa-download"></i> FM</button></a></p>
-<p><a href="javascript:;"><button class="btn-hover color-9"><i class="fa fa-download"></i> NONE</button></a></p></div>
+<p><a href="/v/suji233pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
