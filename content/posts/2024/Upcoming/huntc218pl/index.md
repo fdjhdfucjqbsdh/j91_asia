@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-218 On A Company Trip, Beautiful Female Employees And A Man Have A Big Orgy In A Dream King Game Where I Am The Only One! I Was Able To Escape From Everyday Life And Have An Unexpectedly Erotic Experience At A Hot Spring Inn! 2
 
 url: /v/huntc218pl
-date: 0000-05-24T01:09:00Z
+date: 2024-05-24T01:09:00Z
 image: "huntc218pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Lesbian, Promiscuity	]
+tags: [Censored, OL, Creampie, Lesbian, Promiscuity	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bGg3PjXYAltPyKX">
     <a href="javascript:;">
         <img src="/v/huntc218pl/huntc218pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc218pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc218pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc218pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

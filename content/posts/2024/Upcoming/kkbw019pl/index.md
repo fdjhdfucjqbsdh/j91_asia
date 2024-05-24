@@ -3,9 +3,9 @@ author: j91
 title: KKBW-019 Raw Copulation Of A Beautiful Wife Who Drinks Semen Ayaka Natsukawa
 
 url: /v/kkbw019pl
-date: 0000-05-24T01:08:00Z
+date: 2024-05-24T01:08:00Z
 image: "kkbw019pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Masturbation, Married Woman, Nasty, Hardcore, Cum	]
+tags: [Censored, Creampie, Solowork, Masturbation, Married Woman, Nasty, Hardcore, Cum	]
 maker: [Toyohiko]
 actress: [ Natsukawa Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukawa Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="eq2l7pG9DDCY61g">
     <a href="javascript:;">
         <img src="/v/kkbw019pl/kkbw019pl.jpg" width="WIDTH" height="HEIGHT" alt="kkbw019pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsukawa Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kkbw019pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsukawa Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kkbw019pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
