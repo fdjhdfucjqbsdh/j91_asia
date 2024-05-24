@@ -3,9 +3,9 @@ author: j91
 title: JUQ-745 10th Anniversary Of Debut Marina Shiraishi Amateur Thanksgiving Festival Maririn's Wagon Tour Of Remote Islands Reverse Pick-up Sperm Milking SEX In Okinawa 1 Night 2 Days
 
 url: /v/juq745pl
-date: 0000-05-24T01:50:00Z
+date: 2024-05-24T01:50:00Z
 image: "juq745pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Reversed Role, Documentary, Mature Woman, Fan Appreciation	]
+tags: [Censored, Solowork, Married Woman, Reversed Role, Documentary, Mature Woman, Fan Appreciation	]
 maker: [Madonna]
 actress: [ Shiraishi Marina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Marina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vDQVoQ3mXxSbKY">
     <a href="javascript:;">
         <img src="/v/juq745pl/juq745pl.jpg" width="WIDTH" height="HEIGHT" alt="juq745pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Marina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq745pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Marina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq745pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

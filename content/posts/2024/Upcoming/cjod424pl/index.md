@@ -3,9 +3,9 @@ author: j91
 title: CJOD-424 My Weekend Sex Buddy, My Female Boss. Only I Know The Other Side Of JULIA. When She Takes Off Her Clothes, She Has A Great Body And Is Full Of Sex Appeal In Reverse Erotic Costumes! I Was Called To A Hotel And Was Sexually Harassed, Ejaculating 10 Times.
 
 url: /v/cjod424pl
-date: 0000-05-24T01:25:00Z
+date: 2024-05-24T01:25:00Z
 image: "cjod424pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Big Tits, POV, Female Boss	]
+tags: [Censored, Cosplay, Creampie, Solowork, Big Tits, POV, Female Boss	]
 maker: [Bi]
 actress: [ Julia ]
 ---
@@ -13,13 +13,13 @@ actress: [ Julia ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2LeK2269r9hZg16">
     <a href="javascript:;">
         <img src="/v/cjod424pl/cjod424pl.jpg" width="WIDTH" height="HEIGHT" alt="cjod424pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Julia ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjod424pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Julia ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjod424pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

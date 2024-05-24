@@ -3,9 +3,9 @@ author: j91
 title: ROYD-180 "Teacher, Teach Me About Sex (Heart)" My Homeroom Teacher, Momo Shiraishi, Was Driven Crazy By The Lewd Temptations Of Her Student And Fucked Her Until Her Sexual Desire Ran Out.
 
 url: /v/royd180pl
-date: 0000-05-24T01:30:00Z
+date: 2024-05-24T01:30:00Z
 image: "royd180pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Creampie, Solowork, School Girls, Slender	]
+tags: [Censored, Blow, Handjob, Creampie, Solowork, School Girls, Slender	]
 maker: [ROYAL]
 actress: [ Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zrLmpDmM8pIXed">
     <a href="javascript:;">
         <img src="/v/royd180pl/royd180pl.jpg" width="WIDTH" height="HEIGHT" alt="royd180pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd180pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd180pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

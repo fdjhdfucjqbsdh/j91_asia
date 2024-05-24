@@ -3,9 +3,9 @@ author: j91
 title: DASS-406 Your Mother Is A Dick-crazy Pervert. My Son's Best Friend Reminded Me Of A Woman And Made Me Become A Masochist. Kana Morisawa
 
 url: /v/dass406pl
-date: 0000-05-24T01:35:00Z
+date: 2024-05-24T01:35:00Z
 image: "dass406pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Slut, Mature Woman, Mother	]
+tags: [Censored, Creampie, Solowork, Slut, Mature Woman, Mother	]
 maker: [Das !]
 actress: [ Iioka Kanako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oMGGdYyZdPcJ1G0">
     <a href="javascript:;">
         <img src="/v/dass406pl/dass406pl.jpg" width="WIDTH" height="HEIGHT" alt="dass406pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass406pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass406pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

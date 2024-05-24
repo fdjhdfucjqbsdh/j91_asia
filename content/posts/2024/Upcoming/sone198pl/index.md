@@ -3,9 +3,9 @@ author: j91
 title: SONE-198 If She Was Such A Silent Woman Who Couldn't Even Call For Help, She Should Have Raped Her Three Years Ago. Kano Yura
 
 url: /v/sone198pl
-date: 0000-05-24T01:55:00Z
+date: 2024-05-24T01:55:00Z
 image: "sone198pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Big Tits, Beautiful Girl, Nasty, Hardcore, Acme · Orgasm	]
+tags: [Censored, OL, Solowork, Big Tits, Beautiful Girl, Nasty, Hardcore, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kano Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kano Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qJMmr1xxOxSAq3">
     <a href="javascript:;">
         <img src="/v/sone198pl/sone198pl.jpg" width="WIDTH" height="HEIGHT" alt="sone198pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kano Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone198pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kano Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone198pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

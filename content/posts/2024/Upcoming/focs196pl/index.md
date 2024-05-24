@@ -3,9 +3,9 @@ author: j91
 title: FOCS-196 [Oto Alice & Hamasaki Mao] A Super-slutty Woman Who Picks Up Men And Goes After Them With Her Desires! A Creampie Orgy Party Where Both Men And Women Squirt
 
 url: /v/focs196pl
-date: 0000-05-24T01:10:00Z
+date: 2024-05-24T01:10:00Z
 image: "focs196pl.jpg"
-tags: [Upcoming releases, Gal, Squirting, Slut, Bitch	]
+tags: [Censored, Gal, Squirting, Slut, Bitch	]
 maker: [Abc- Mousou Zoku]
 actress: [ Hamasaki Mao, Seina Arisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao, Seina Arisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bVR4OMZjKOsPjMQ">
     <a href="javascript:;">
         <img src="/v/focs196pl/focs196pl.jpg" width="WIDTH" height="HEIGHT" alt="focs196pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao, Seina Arisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs196pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao, Seina Arisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs196pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

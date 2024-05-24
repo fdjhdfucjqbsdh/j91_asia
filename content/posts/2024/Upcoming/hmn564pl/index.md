@@ -3,9 +3,9 @@ author: j91
 title: HMN-564 When Her Husband Was Transferred To The Countryside, Everything Changed... A Married Woman Who Started Working Part-time And A Male Student Had An Affair And Passionate Creampie Sex. Riho Fujimori
 
 url: /v/hmn564pl
-date: 0000-05-24T01:40:00Z
+date: 2024-05-24T01:40:00Z
 image: "hmn564pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Titty Fuck, Affair	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Titty Fuck, Affair	]
 maker: [Honnaka]
 actress: [ Fujimori Riho]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujimori Riho]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kZwXxvb1vkuOVRG">
     <a href="javascript:;">
         <img src="/v/hmn564pl/hmn564pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn564pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn564pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujimori Riho]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn564pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

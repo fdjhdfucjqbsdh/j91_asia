@@ -3,9 +3,9 @@ author: j91
 title: DASS-396 The Semen Drips Down Unseemly! Living Together With My Tsundere Childhood Friend For A Week With Ruined Orgasm Ema Futaba
 
 url: /v/dass396pl
-date: 0000-05-24T01:35:00Z
+date: 2024-05-24T01:35:00Z
 image: "dass396pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Solowork, Beautiful Girl, Slut, Acme · Orgasm	]
+tags: [Censored, Handjob, Creampie, Solowork, Beautiful Girl, Slut, Acme · Orgasm	]
 maker: [Das !]
 actress: [ Futaba Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wl2LlRzrWxs67w">
     <a href="javascript:;">
         <img src="/v/dass396pl/dass396pl.jpg" width="WIDTH" height="HEIGHT" alt="dass396pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass396pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass396pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: ROYD-179 I'll Lick Your Cock So You Can Pretend To Be My Lover! I, Shio Sato, Became A Super Cute Girl's Boyfriend For A Day To Reassure Her Noisy Parents That She Should Get Married Soon.
 
 url: /v/royd179pl
-date: 0000-05-24T01:30:00Z
+date: 2024-05-24T01:30:00Z
 image: "royd179pl.jpg"
-tags: [Upcoming releases, OL, Blow, Creampie, Solowork, Big Tits, Nasty, Hardcore	]
+tags: [Censored, OL, Blow, Creampie, Solowork, Big Tits, Nasty, Hardcore	]
 maker: [ROYAL]
 actress: [ Satou Shio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satou Shio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MYoBa7bjjYF03b">
     <a href="javascript:;">
         <img src="/v/royd179pl/royd179pl.jpg" width="WIDTH" height="HEIGHT" alt="royd179pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd179pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Satou Shio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd179pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

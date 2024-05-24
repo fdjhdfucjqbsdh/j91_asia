@@ -3,9 +3,9 @@ author: j91
 title: SONE-223 Newcomer NO.1STYLE Haru Kuraki AV Debut "Please Look At All Of My 22 Years And Sex"
 
 url: /v/sone223pl
-date: 0000-05-24T01:55:00Z
+date: 2024-05-24T01:55:00Z
 image: "sone223pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Big Tits, Debut Production, Slender, Kiss	]
+tags: [Censored, Blow, Solowork, Big Tits, Debut Production, Slender, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kuraki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuraki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QeRogdyxqXH8YV">
     <a href="javascript:;">
         <img src="/v/sone223pl/sone223pl.jpg" width="WIDTH" height="HEIGHT" alt="sone223pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone223pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone223pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

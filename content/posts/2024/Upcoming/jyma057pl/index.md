@@ -3,9 +3,9 @@ author: j91
 title: JYMA-057 A Documentary Of A Middle-aged Man's Sexual Desires. A Fallen Beautiful Busty Wife And A Sweaty Old Man's Sex. A Masochistic Wife Who Can Be Fucked All Day Long, Himesaki Hana
 
 url: /v/jyma057pl
-date: 0000-05-24T01:10:00Z
+date: 2024-05-24T01:10:00Z
 image: "jyma057pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Cuckold	]
 maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [ Himesaki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himesaki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9B1bDPvmqzt1Wv">
     <a href="javascript:;">
         <img src="/v/jyma057pl/jyma057pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma057pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Himesaki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jyma057pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Himesaki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jyma057pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

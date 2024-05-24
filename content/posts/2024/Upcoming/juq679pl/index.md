@@ -3,9 +3,9 @@ author: j91
 title: JUQ-679 She Loves Her Father-in-law More Than Her Husband... Non Obana
 
 url: /v/juq679pl
-date: 0000-05-24T01:50:00Z
+date: 2024-05-24T01:50:00Z
 image: "juq679pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold, Kiss	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold, Kiss	]
 maker: [Madonna]
 actress: [ Ohana Non ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ohana Non ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1OvBLj1q23ie4wz">
     <a href="javascript:;">
         <img src="/v/juq679pl/juq679pl.jpg" width="WIDTH" height="HEIGHT" alt="juq679pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ohana Non ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq679pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ohana Non ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq679pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: FOCS-197 A Plain Girl With Zero Sexual Knowledge Goes Wild For Her First Time. A Beautiful J-cup Girl In A Uniform Gets Creampied 8 Times In A Row By A Man Who Likes To Do Whatever He Wants. Aoi Hazuki
 
 url: /v/focs197pl
-date: 0000-05-24T01:10:00Z
+date: 2024-05-24T01:10:00Z
 image: "focs197pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, School Swimsuit, Bloomers, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Solowork, School Girls, School Swimsuit, Bloomers, Ultra-Huge Tits	]
 maker: [Abc- Mousou Zoku]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zp9wwjyo3WIYjvw">
     <a href="javascript:;">
         <img src="/v/focs197pl/focs197pl.jpg" width="WIDTH" height="HEIGHT" alt="focs197pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs197pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs197pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
