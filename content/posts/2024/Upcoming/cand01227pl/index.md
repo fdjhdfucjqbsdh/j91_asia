@@ -1,21 +1,21 @@
 ---
 author: j91
-title: ENKI-072 Poison Party 5th Anniversary Special Edition, 4 Hours Of Concentrated Sex
+title: CAND-01227 Junkei Labyrinth/Endo Ribon
 
-url: /v/enki072pl
+url: /v/cand01227pl
 date: 2024-05-24T01:02:00Z
-image: "enki072pl.jpg"
-tags: [Censored, Creampie, Best, Omnibus, Nasty, Hardcore, 4HR+, Deep Throating, Promiscuity	]
-maker: [K.M.Produce  ]
-actress: [ ]
+image: "cand01227pl.jpg"
+tags: [Censored, Solowork, Image Video, Entertainer	]
+maker: [TEEN’S CANDY  ]
+actress: [Endou Ribon ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="P9GaPYylKlhDBQ">
+<div class="video" data-videoid="wlgp2M7jogIJ9K1">
     <a href="javascript:;">
-        <img src="/v/enki072pl/enki072pl.jpg" width="WIDTH" height="HEIGHT" alt="enki072pl.mp4" loading="lazy">
+        <img src="/v/cand01227pl/cand01227pl.jpg" width="WIDTH" height="HEIGHT" alt="cand01227pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/enki072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cand01227pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/enki072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cand01227pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

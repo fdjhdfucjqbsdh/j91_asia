@@ -1,21 +1,21 @@
 ---
 author: j91
-title: ENKI-072 Poison Party 5th Anniversary Special Edition, 4 Hours Of Concentrated Sex
+title: SBMO-01267 Virgin In Love/Yuki Abe
 
-url: /v/enki072pl
+url: /v/sbmo01267pl
 date: 2024-05-24T01:02:00Z
-image: "enki072pl.jpg"
-tags: [Censored, Creampie, Best, Omnibus, Nasty, Hardcore, 4HR+, Deep Throating, Promiscuity	]
-maker: [K.M.Produce  ]
-actress: [ ]
+image: "sbmo01267pl.jpg"
+tags: [Censored, Solowork, Image Video, Entertainer	]
+maker: [Somebody  ]
+actress: [Abe Yuuki ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="P9GaPYylKlhDBQ">
+<div class="video" data-videoid="MJY3BOM9K8ImJzq">
     <a href="javascript:;">
-        <img src="/v/enki072pl/enki072pl.jpg" width="WIDTH" height="HEIGHT" alt="enki072pl.mp4" loading="lazy">
+        <img src="/v/sbmo01267pl/sbmo01267pl.jpg" width="WIDTH" height="HEIGHT" alt="sbmo01267pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/enki072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sbmo01267pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/enki072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sbmo01267pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
