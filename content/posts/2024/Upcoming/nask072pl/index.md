@@ -3,9 +3,9 @@ author: j91
 title: NASK-072 Incest 50 Year Old Mother And Son 3
 
 url: /v/nask072pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "nask072pl.jpg"
-tags: [Upcoming releases, Creampie, Married Woman, 4HR+, Incest, Mature Woman, Mother	]
+tags: [Censored, Creampie, Married Woman, 4HR+, Incest, Mature Woman, Mother	]
 maker: [ Nadeshiko  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZD7yXdV2D9Cq8DR">
     <a href="javascript:;">
         <img src="/v/nask072pl/nask072pl.jpg" width="WIDTH" height="HEIGHT" alt="nask072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nask072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nask072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
