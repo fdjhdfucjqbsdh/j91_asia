@@ -3,9 +3,9 @@ author: j91
 title: PFAS-010 A Slutty Wife, Ah, The Only One Who Doesn't Know Is Her Husband.
 
 url: /v/pfas010pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "pfas010pl.jpg"
-tags: [Upcoming releases, Married Woman, Affair, Mature Woman, Drama, Multiple Story, Huge Butt	]
+tags: [Censored, Married Woman, Affair, Mature Woman, Drama, Multiple Story, Huge Butt	]
 maker: [ FA Pro . Platinum  ]
 actress: [ Misaki Sakura ,Tsukisaki Suzune ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Sakura ,Tsukisaki Suzune ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qrbkRJjMrrTzmXK">
     <a href="javascript:;">
         <img src="/v/pfas010pl/pfas010pl.jpg" width="WIDTH" height="HEIGHT" alt="pfas010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Sakura ,Tsukisaki Suzune ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pfas010pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Sakura ,Tsukisaki Suzune ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pfas010pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
