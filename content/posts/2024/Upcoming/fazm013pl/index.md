@@ -3,9 +3,9 @@ author: j91
 title: FAZM-013 Luxurious 5-part, 3-hour-plus Special, 6-way Orgy Sex With A Girl Who Admires Cosplayers, A Huge Line-up Of Cosplayers [deep Throat Blowjob → Continuous Creampies In A Small Slit] Screaming And Cumming Nonstop, Her Beauty Falls Apart, She Loses Her Face, She Urinates And Her Pussy Is Destroyed + Virginity Loss Edition, Etc.
 
 url: /v/fazm013pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "fazm013pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Squirting, Promiscuity, Virgin Man	]
+tags: [Censored, Cosplay, Creampie, Squirting, Promiscuity, Virgin Man	]
 maker: [ Zennihon Kameko Kyoudou Kumiai- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="p4xKGVv3MOSr3rd">
     <a href="javascript:;">
         <img src="/v/fazm013pl/fazm013pl.jpg" width="WIDTH" height="HEIGHT" alt="fazm013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fazm013pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fazm013pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

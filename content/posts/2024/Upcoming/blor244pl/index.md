@@ -3,9 +3,9 @@ author: j91
 title: BLOR-244 A Straightforward, Big Sister-like Office Lady Is Made To Cum Over And Over Again By A Big Dick And Becomes A Female. After That, She Is Brutally Tortured And Becomes A Masochistic Female. She Loses Her Reason, Screams, And Goes Crazy.
 
 url: /v/blor244pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "blor244pl.jpg"
-tags: [Upcoming releases, Big Tits, Facials, Massage, Huge Cock, Submissive Woman	]
+tags: [Censored, Big Tits, Facials, Massage, Huge Cock, Submissive Woman	]
 maker: [ Burokkori- Mousou Zoku  ]
 actress: [ Ariga Minaho ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ariga Minaho ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="g1rDMJpLXoIqjeO">
     <a href="javascript:;">
         <img src="/v/blor244pl/blor244pl.jpg" width="WIDTH" height="HEIGHT" alt="blor244pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ariga Minaho ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/blor244pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ariga Minaho ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/blor244pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

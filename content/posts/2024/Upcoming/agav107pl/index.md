@@ -3,9 +3,9 @@ author: j91
 title: AGAV-107 I'll Borrow My Little Sister's Pussy. Ichika Kasagi
 
 url: /v/agav107pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "agav107pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Beautiful Girl, Footjob, Leg Fetish, Sister	]
+tags: [Censored, Solowork, School Girls, Beautiful Girl, Footjob, Leg Fetish, Sister	]
 maker: [ Sex Agent  ]
 actress: [ Kasagi Ichika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kasagi Ichika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="7GQpegkqO2HAkYp">
     <a href="javascript:;">
         <img src="/v/agav107pl/agav107pl.jpg" width="WIDTH" height="HEIGHT" alt="agav107pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kasagi Ichika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/agav107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kasagi Ichika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/agav107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

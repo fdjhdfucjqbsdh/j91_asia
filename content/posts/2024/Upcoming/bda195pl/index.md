@@ -3,9 +3,9 @@ author: j91
 title: BDA-195 Anal Scream! The Gaping Hole In Her Ass Lets Out A Gurgling Cry. Minami Kozue
 
 url: /v/bda195pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "bda195pl.jpg"
-tags: [Upcoming releases, Anal, 3P, 4P, Solowork, Enema, Abuse, Scatology	]
+tags: [Censored, Anal, 3P, 4P, Solowork, Enema, Abuse, Scatology	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ Minami Kozue]
 ---
@@ -13,13 +13,13 @@ actress: [ Minami Kozue]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="LLg0PAALRqtROYw">
     <a href="javascript:;">
         <img src="/v/bda195pl/bda195pl.jpg" width="WIDTH" height="HEIGHT" alt="bda195pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minami Kozue]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bda195pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minami Kozue]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bda195pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

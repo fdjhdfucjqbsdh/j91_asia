@@ -3,9 +3,9 @@ author: j91
 title: MGMQ-133 M-erotic Clinic With A Genius Sadistic Slutty Nurse Who Fucks The Anal Holes Of All The Men In The Hospital Tsubasa Hachino
 
 url: /v/mgmq133pl
-date: 0000-05-25T01:20:00Z
+date: 2024-05-25T01:20:00Z
 image: "mgmq133pl.jpg"
-tags: [Upcoming releases, Anal, Blow, Solowork, Slut, Nurse, Submissive Men	]
+tags: [Censored, Anal, Blow, Solowork, Slut, Nurse, Submissive Men	]
 maker: [ MEGAMI  ]
 actress: [ Hachino Tsubasa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hachino Tsubasa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="KAlP1kpl9eI0YbM">
     <a href="javascript:;">
         <img src="/v/mgmq133pl/mgmq133pl.jpg" width="WIDTH" height="HEIGHT" alt="mgmq133pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hachino Tsubasa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mgmq133pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hachino Tsubasa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mgmq133pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

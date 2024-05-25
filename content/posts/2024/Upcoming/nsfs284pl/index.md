@@ -3,9 +3,9 @@ author: j91
 title: NSFS-284 Mature Mother 27 ~I Can't Leave My Miserable Son Alone...~ Kiyoka Toyosaki
 
 url: /v/nsfs284pl
-date: 0000-05-25T01:55:00Z
+date: 2024-05-25T01:55:00Z
 image: "nsfs284pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Incest, Mature Woman, Mother, Drama	]
+tags: [Censored, Solowork, Big Tits, Incest, Mature Woman, Mother, Drama	]
 maker: [ Nagae Style  ]
 actress: [ Toyosaki Kiyoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Toyosaki Kiyoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="6BRaWBWmGLC9zWw">
     <a href="javascript:;">
         <img src="/v/nsfs284pl/nsfs284pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs284pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toyosaki Kiyoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs284pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toyosaki Kiyoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs284pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
