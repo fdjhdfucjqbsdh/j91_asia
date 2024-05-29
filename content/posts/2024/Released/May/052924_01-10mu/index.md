@@ -4,7 +4,7 @@ title: 10musume 052924_01 Secret Pussy Collection, Shiri Fukuhara
 
 url: /u/052924_01-10mu
 date: 2024-05-29T03:10:00Z
-image: "052924-001-carib.jpg"
+image: "052924_01-10mu.jpg"
 tags: [Uncensored, Amateur, Breasts, Nice Ass, Sexy Legs, Slender]
 maker: [10musume]
 actress: [Shiri Fukuhara]
