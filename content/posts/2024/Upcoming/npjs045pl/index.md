@@ -3,9 +3,9 @@ author: j91
 title: NPJS-045 K-Cup 111cm Big-Breasted Snack Bar Mama In Chofu Who Seems Like She Could Do It But Isn't - I Decided To Pour Some Champagne On The Birthday Of My Favorite Snack Bar Mama, And She Invited Me To Her Home Afterwards, And I Instantly Shoved My Dick Into Her Long-Awaited Raw Tits And Pussy
 
 url: /v/npjs045pl
-date: 0000-05-31T01:25:00Z
+date: 2024-05-31T01:25:00Z
 image: "npjs045pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Titty Fuck, BBW	]
+tags: [Censored, Creampie, Amateur, Titty Fuck, BBW	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ykMBk498Lpu1V30">
     <a href="javascript:;">
         <img src="/v/npjs045pl/npjs045pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs045pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs045pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs045pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

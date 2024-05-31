@@ -3,9 +3,9 @@ author: j91
 title: NPJS-033 A Creampie Date With A Glamorous Beauty I Met At A Lounge. Lounges, Paid Drinking, Sugar Daddy Dating... Even If She's Out Of My League, If You Have The Money, You Can Turn An Amateur Into Your Mistress. Reika-chan
 
 url: /v/npjs033pl
-date: 0000-05-31T01:25:00Z
+date: 2024-05-31T01:25:00Z
 image: "npjs033pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, Titty Fuck, POV	]
+tags: [Censored, Creampie, Amateur, Big Tits, Titty Fuck, POV	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4y4G89jzMOsK4Ok">
     <a href="javascript:;">
         <img src="/v/npjs033pl/npjs033pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs033pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs033pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

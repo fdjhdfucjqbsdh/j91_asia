@@ -3,9 +3,9 @@ author: j91
 title: NPJS-038 Despite How I Look, I Only Recently Lost My Virginity And Am Addicted To Sex (lol). I Liven Up My Date And Then Take Her To A Hotel Where She Falls Into The Demonic Pleasure Of A Nyan Derechi! Yurika, A Cute, Unattractive Woman In Her 30s (27), Is Having So Much Fun With The New Sex She's Just Learned
 
 url: /v/npjs038pl
-date: 0000-05-31T01:25:00Z
+date: 2024-05-31T01:25:00Z
 image: "npjs038pl.jpg"
-tags: [Upcoming releases, Blow, Older Sister, Amateur, POV, Date	]
+tags: [Censored, Blow, Older Sister, Amateur, POV, Date	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vLj8ZOy8b1s4623">
     <a href="javascript:;">
         <img src="/v/npjs038pl/npjs038pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs038pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs038pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs038pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

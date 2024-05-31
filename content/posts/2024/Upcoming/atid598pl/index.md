@@ -3,9 +3,9 @@ author: j91
 title: ATID-598 Mei Itsukaichi, Lesbian Debut. First Story
 
 url: /v/atid598pl
-date: 0000-05-31T01:45:00Z
+date: 2024-05-31T01:45:00Z
 image: "atid598pl.jpg"
-tags: [Upcoming releases, Lesbian, Drama, Love	]
+tags: [Censored, Lesbian, Drama, Love	]
 maker: [Attackers]
 actress: [ Tsukino Kasumi ,Itsukaichi Mei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ,Itsukaichi Mei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zr000q6931skJQ">
     <a href="javascript:;">
         <img src="/v/atid598pl/atid598pl.jpg" width="WIDTH" height="HEIGHT" alt="atid598pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ,Itsukaichi Mei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/atid598pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ,Itsukaichi Mei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/atid598pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

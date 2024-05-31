@@ -3,9 +3,9 @@ author: j91
 title: NPJS-046 Girl Who Is Easy To Get Caught By A Super High-class P-activity Dating Club With A Fake Profile Of "Annual Income 30 Million Yen, Living In Setagaya Ward, CEO Of An IT Venture Company". She Will Do Anything To Get A Big Customer (that's A Lie Lol) And Has A Gorgeous All-night FUCK With A Girl Who Will Give You A Free Creampie After Work! Mokapi
 
 url: /v/npjs046pl
-date: 0000-05-31T01:25:00Z
+date: 2024-05-31T01:25:00Z
 image: "npjs046pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Gal, Big Tits, POV	]
+tags: [Censored, Creampie, 3P, 4P, Gal, Big Tits, POV	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="akm9qK8gb3TxKgz">
     <a href="javascript:;">
         <img src="/v/npjs046pl/npjs046pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs046pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs046pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs046pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

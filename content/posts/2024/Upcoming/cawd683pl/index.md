@@ -3,9 +3,9 @@ author: j91
 title: CAWD-683 Five First Challenges For The Most Clumsy Girl In Japan! My Own 200% Orgasmic Sex, Yua Nanase
 
 url: /v/cawd683pl
-date: 0000-05-31T01:40:00Z
+date: 2024-05-31T01:40:00Z
 image: "cawd683pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, POV, Beautiful Girl, Toy, Acme · Orgasm	]
+tags: [Censored, Restraint, Solowork, POV, Beautiful Girl, Toy, Acme · Orgasm	]
 maker: [Kawaii]
 actress: [ Nanase Yua ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Yua ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JylprJd17Xsjl0q">
     <a href="javascript:;">
         <img src="/v/cawd683pl/cawd683pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd683pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Yua ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd683pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Yua ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd683pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
