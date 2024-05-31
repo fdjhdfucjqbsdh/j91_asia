@@ -3,9 +3,9 @@ author: j91
 title: BMW-308 "It's Too Intense... I'm Already Cumming!" Piercing Her Small-breasted Body That Doesn't Shake Even When She Goes Crazy! Back-arching Piston Attack BEST
 
 url: /v/bmw308pl
-date: 0000-05-31T01:00:00Z
+date: 2024-05-31T01:00:00Z
 image: "bmw308pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Cowgirl, 4HR+, Slender, Tits, Back	]
+tags: [Censored, Creampie, Best, Omnibus, Cowgirl, 4HR+, Slender, Tits, Back	]
 maker: [WANZ FACTORY]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8wB1Oe6gr2Fo779">
     <a href="javascript:;">
         <img src="/v/bmw308pl/bmw308pl.jpg" width="WIDTH" height="HEIGHT" alt="bmw308pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bmw308pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bmw308pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: FOCS-201 Everything Is A First Experience... Today, I'm On A Graduation Trip With My Teacher. A Teacher With A Broken Ethics And A Student's Secret Sexual Intercourse Haru Kikuchi
 
 url: /v/focs201pl
-date: 0000-05-31T01:28:00Z
+date: 2024-05-31T01:28:00Z
 image: "focs201pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Couple, Mini	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Couple, Mini	]
 maker: [Abc- Mousou Zoku]
 actress: [ Kikuchi Haru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kikuchi Haru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jYWwYRGWwKHzzKd">
     <a href="javascript:;">
         <img src="/v/focs201pl/focs201pl.jpg" width="WIDTH" height="HEIGHT" alt="focs201pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kikuchi Haru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs201pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kikuchi Haru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs201pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

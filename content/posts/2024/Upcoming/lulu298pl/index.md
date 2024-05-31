@@ -3,9 +3,9 @@ author: j91
 title: LULU-298 Unable To Resist The Unconscious Provocation Of A Frustrated Big-assed Aunt Who Is Trying To Get Pregnant, I Thrust My Dick Into Her And Cum In Her Pussy Many Times, Immediately Inserting It Into Her. Kanna Misaki
 
 url: /v/lulu298pl
-date: 0000-05-31T01:29:00Z
+date: 2024-05-31T01:29:00Z
 image: "lulu298pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Bukkake, Incest, Aunt	]
+tags: [Censored, Creampie, Solowork, Bukkake, Incest, Aunt	]
 maker: [LUNATICS]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JyVWLk782dUjX12">
     <a href="javascript:;">
         <img src="/v/lulu298pl/lulu298pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu298pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu298pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu298pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
