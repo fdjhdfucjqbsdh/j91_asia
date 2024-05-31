@@ -3,9 +3,9 @@ author: j91
 title: ADN-568 When I Returned Home From A Business Trip A Day Earlier Than Planned, I Found My Wife Having Sex With A Man She Didn't Know In Our House, Which Had Turned Into A Sex Room. Tsubaki Sannomiya
 
 url: /v/adn568pl
-date: 0000-05-31T01:45:00Z
+date: 2024-05-31T01:45:00Z
 image: "adn568pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Cuckold	]
 maker: [Attackers]
 actress: [ Sannomiya Tsubaki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sannomiya Tsubaki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GjKyeoZr3KHY63">
     <a href="javascript:;">
         <img src="/v/adn568pl/adn568pl.jpg" width="WIDTH" height="HEIGHT" alt="adn568pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sannomiya Tsubaki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn568pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sannomiya Tsubaki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn568pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

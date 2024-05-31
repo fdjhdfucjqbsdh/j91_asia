@@ -3,9 +3,9 @@ author: j91
 title: CAWD-662 Abstinence For One Month, The Limit Of The Oma ● Co Sexual Desire Explodes! G Cup Rocket Boobs Are Full! Former Female Announcer's Face Is Messy And The Whole Body Is Convulsing And Flying FUCK Kisaragi Riisa
 
 url: /v/cawd662pl
-date: 0000-05-31T01:40:00Z
+date: 2024-05-31T01:40:00Z
 image: "cawd662pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Nasty, Hardcore, Squirting, Documentary, Acme · Orgasm	]
+tags: [Censored, Solowork, Big Tits, Nasty, Hardcore, Squirting, Documentary, Acme · Orgasm	]
 maker: [Kawaii]
 actress: [ Kisaragi Riisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kisaragi Riisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QPoXqPyARWT0O7O">
     <a href="javascript:;">
         <img src="/v/cawd662pl/cawd662pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd662pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd662pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd662pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: FPRE-064 "Will You Let Me Stay In Your Room During The Winter Course?" I Met My Childhood Friend For The First Time In A While And Found That She Had Grown Into A Busty Girl... I Couldn't Resist The Temptation Of Her No-bra, No-guardian Loungewear And Creampied Her Over And Over Again For 10 Days Ran Nanase
 
 url: /v/fpre064pl
-date: 0000-05-31T01:35:00Z
+date: 2024-05-31T01:35:00Z
 image: "fpre064pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Cowgirl, Childhood Friend	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Cowgirl, Childhood Friend	]
 maker: [Fitch]
 actress: [ Nanase Ran ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Ran ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="86PKd4X1r8hGoG">
     <a href="javascript:;">
         <img src="/v/fpre064pl/fpre064pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre064pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Ran ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre064pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Ran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre064pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

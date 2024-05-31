@@ -3,9 +3,9 @@ author: j91
 title: LULU-301 I Had A Crush On The Fair-skinned, Big-breasted Female Teacher I'd Admired For Three Years, And When I Had Sex With Her To Celebrate Her Graduation, Her Breasts Started Shaking And She Was So Horny And Sensitive That She Was A Dick-crazed Slut, So I Had Raw Sex With Her Until The Morning And Cummed In Her Pussy.
 
 url: /v/lulu301pl
-date: 0000-05-31T01:29:00Z
+date: 2024-05-31T01:29:00Z
 image: "lulu301pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Female Teacher, Big Tits, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Solowork, Female Teacher, Big Tits, Ultra-Huge Tits	]
 maker: [LUNATICS]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7mk49qGkqZFBjg">
     <a href="javascript:;">
         <img src="/v/lulu301pl/lulu301pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu301pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu301pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu301pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

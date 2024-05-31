@@ -3,9 +3,9 @@ author: j91
 title: RBK-093 Female Doctor Sakura, The Chart Of Obedience Tina Nanami
 
 url: /v/rbk093pl
-date: 0000-05-31T01:45:00Z
+date: 2024-05-31T01:45:00Z
 image: "rbk093pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Female Doctor, Abuse, Drama	]
+tags: [Censored, Solowork, Humiliation, Female Doctor, Abuse, Drama	]
 maker: [Attackers]
 actress: [ Nanami Tina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanami Tina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AkAr4D09KpCW0X">
     <a href="javascript:;">
         <img src="/v/rbk093pl/rbk093pl.jpg" width="WIDTH" height="HEIGHT" alt="rbk093pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanami Tina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rbk093pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanami Tina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rbk093pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

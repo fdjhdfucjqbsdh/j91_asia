@@ -3,9 +3,9 @@ author: j91
 title: CAWD-676 "Don't You Want To Become A Real Man?" We Are New Recruits On A Company Trip, And Our Two Tipsy Female Bosses Drag Us Into Their Rooms For A Full-on Adult 4POJT Training Session That Lasts Until The Morning. Sakura Momo, Ito Mayuki
 
 url: /v/cawd676pl
-date: 0000-05-31T01:40:00Z
+date: 2024-05-31T01:40:00Z
 image: "cawd676pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Slut, Female Boss, Travel	]
+tags: [Censored, Creampie, 3P, 4P, Slut, Female Boss, Travel	]
 maker: [Kawaii]
 actress: [ Sakura Momo ,Itou Mayuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakura Momo ,Itou Mayuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RkD1l2qm41udw0w">
     <a href="javascript:;">
         <img src="/v/cawd676pl/cawd676pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd676pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakura Momo ,Itou Mayuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd676pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Momo ,Itou Mayuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd676pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

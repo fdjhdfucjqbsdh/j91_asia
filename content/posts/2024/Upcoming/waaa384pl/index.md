@@ -3,9 +3,9 @@ author: j91
 title: WAAA-384 I Missed The Last Train After Drinking With My Company And Stayed Over At My Female Boss's House, And She Found Out I Was A Premature Ejaculator, So I Was Forced To Ejaculate From Friday Night Until Monday Morning. Honda Hitomi
 
 url: /v/waaa384pl
-date: 0000-05-31T01:50:00Z
+date: 2024-05-31T01:50:00Z
 image: "waaa384pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Creampie, Solowork, Cowgirl, Slut	]
+tags: [Censored, Blow, Handjob, Creampie, Solowork, Cowgirl, Slut	]
 maker: [WANZ FACTORY]
 actress: [ Honda Hitomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Honda Hitomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2awbo0xd2qsZw18">
     <a href="javascript:;">
         <img src="/v/waaa384pl/waaa384pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa384pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Honda Hitomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa384pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Honda Hitomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa384pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
