@@ -3,9 +3,9 @@ author: j91
 title: MMPB-039 This Is The World Standard! A Beautiful Slender Busty Actress. Don't Worry, She Has A Slim Waist.
 
 url: /v/mmpb039pl
-date: 0000-06-01T01:00:00Z
+date: 2024-06-01T01:00:00Z
 image: "mmpb039pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Nasty, Hardcore, 4HR+, Huge Butt	]
+tags: [Censored, Creampie, Big Tits, Nasty, Hardcore, 4HR+, Huge Butt	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lk8waZ60x6H7JOM">
     <a href="javascript:;">
         <img src="/v/mmpb039pl/mmpb039pl.jpg" width="WIDTH" height="HEIGHT" alt="mmpb039pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmpb039pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmpb039pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

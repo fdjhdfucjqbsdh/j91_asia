@@ -3,9 +3,9 @@ author: j91
 title: FJIN-023 Evil Woman Massage Parlor, I Was Captivated By The Beautiful Woman Who Drives Men Crazy With Her Sensuality And Teases Me With A 1cm Thick Cloth... Waka Misono
 
 url: /v/fjin023pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "fjin023pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Big Tits, Slut, Drama, Cuckold	]
+tags: [Censored, Solowork, Beauty Shop, Big Tits, Slut, Drama, Cuckold	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xZoLpOWPPqflW6">
     <a href="javascript:;">
         <img src="/v/fjin023pl/fjin023pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin023pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fjin023pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fjin023pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

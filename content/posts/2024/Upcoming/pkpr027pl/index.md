@@ -3,9 +3,9 @@ author: j91
 title: PKPR-027 Completely Private Video, I-cup Breasts That Will Heal You! First Time Staying Alone With Reika Takeda
 
 url: /v/pkpr027pl
-date: 0000-06-01T01:45:00Z
+date: 2024-06-01T01:45:00Z
 image: "pkpr027pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Breasts, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Breasts, Huge Butt	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Takeda Reika]
 ---
@@ -13,13 +13,13 @@ actress: [ Takeda Reika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZowPpmGyg2iqblo">
     <a href="javascript:;">
         <img src="/v/pkpr027pl/pkpr027pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpr027pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takeda Reika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpr027pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takeda Reika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpr027pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

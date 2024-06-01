@@ -3,9 +3,9 @@ author: j91
 title: BKD-333 Mother-child Intercourse ~ Echigo Kaikake Onsen Road ~ Takada Monami
 
 url: /v/bkd333pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "bkd333pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Incest, Mature Woman, Hot Spring	]
+tags: [Censored, Creampie, Solowork, Big Tits, Incest, Mature Woman, Hot Spring	]
 maker: [ Ruby  ]
 actress: [ Takarada Monami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takarada Monami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DjydwGMmWgiky1q">
     <a href="javascript:;">
         <img src="/v/bkd333pl/bkd333pl.jpg" width="WIDTH" height="HEIGHT" alt="bkd333pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takarada Monami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bkd333pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takarada Monami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bkd333pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

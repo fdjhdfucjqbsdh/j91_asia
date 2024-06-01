@@ -3,9 +3,9 @@ author: j91
 title: SORA-537 Forced Drug Addict, A Cold-hearted Former Hostess Is Kidnapped And Imprisoned With Aphrodisiacs, Becoming Addicted To Dicks In 4 Days - Rika Aimi
 
 url: /v/sora537pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "sora537pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Documentary, Drug	]
+tags: [Censored, Creampie, Solowork, Big Tits, Documentary, Drug	]
 maker: [ Yama To Sora  ]
 actress: [ Aimi Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aimi Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1j8DA1lk7LIe461">
     <a href="javascript:;">
         <img src="/v/sora537pl/sora537pl.jpg" width="WIDTH" height="HEIGHT" alt="sora537pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aimi Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora537pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aimi Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora537pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

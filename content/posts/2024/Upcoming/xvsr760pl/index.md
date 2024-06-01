@@ -3,9 +3,9 @@ author: j91
 title: XVSR-760 Shikosapo!! Esthetician Hibiki Otsuki's Best Oil Massage
 
 url: /v/xvsr760pl
-date: 0000-06-01T01:55:00Z
+date: 2024-06-01T01:55:00Z
 image: "xvsr760pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Subjectivity, Massage, Footjob, Lotion	]
+tags: [Censored, Handjob, Solowork, Subjectivity, Massage, Footjob, Lotion	]
 maker: [ MAX-A  ]
 actress: [ Ootsuki Hibiki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootsuki Hibiki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lPD7y73xW6F7x9m">
     <a href="javascript:;">
         <img src="/v/xvsr760pl/xvsr760pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr760pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ootsuki Hibiki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr760pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ootsuki Hibiki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr760pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

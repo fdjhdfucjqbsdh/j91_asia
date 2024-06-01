@@ -3,9 +3,9 @@ author: j91
 title: BIJN-257 THE Documentary, Orgasmic Sex With Instincts Bared, Young Wife With Sexy Body Goes On A Brain-Climax Orgy Trip With A Thick Cock, Wakui Mito
 
 url: /v/bijn257pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "bijn257pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Bride, Young Wife, Documentary, Promiscuity	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Bride, Young Wife, Documentary, Promiscuity	]
 maker: [ Bijin Majo  ]
 actress: [ Wakui Mito ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakui Mito ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="egPXZ18MP3comO">
     <a href="javascript:;">
         <img src="/v/bijn257pl/bijn257pl.jpg" width="WIDTH" height="HEIGHT" alt="bijn257pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakui Mito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bijn257pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakui Mito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bijn257pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

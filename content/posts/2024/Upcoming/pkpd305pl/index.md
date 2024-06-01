@@ -3,9 +3,9 @@ author: j91
 title: PKPD-305 An Easy Job That Only Requires Cumming Inside. Yu, 25, Is A Sales Office Worker Whose Purpose In Life Is To Get Men Excited. Yu Fujisawa
 
 url: /v/pkpd305pl
-date: 0000-06-01T01:45:00Z
+date: 2024-06-01T01:45:00Z
 image: "pkpd305pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Big Tits, POV, Breasts	]
+tags: [Censored, OL, Creampie, Solowork, Big Tits, POV, Breasts	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Fujisawa Yuu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisawa Yuu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="X2d30akY0LhDlWd">
     <a href="javascript:;">
         <img src="/v/pkpd305pl/pkpd305pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd305pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisawa Yuu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd305pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisawa Yuu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd305pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: TKD-051 No Panties, No Bra, Yukari The Hostess, Full Hospitality! Outdoor Sex, Outdoor Urination, Ayano Yukari
 
 url: /v/tkd051pl
-date: 0000-06-01T01:55:00Z
+date: 2024-06-01T01:55:00Z
 image: "tkd051pl.jpg"
-tags: [Upcoming releases,Creampie,Solowork,Big Tits,Mature Woman,Landlady, Hostess,Kimono, Mourning	 ]
+tags: [Censored,Creampie,Solowork,Big Tits,Mature Woman,Landlady, Hostess,Kimono, Mourning	 ]
 maker: [ Ruby  ]
 actress: [ Ayano Yukari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ayano Yukari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="q8mdrVqxJqizvxx">
     <a href="javascript:;">
         <img src="/v/tkd051pl/tkd051pl.jpg" width="WIDTH" height="HEIGHT" alt="tkd051pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ayano Yukari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tkd051pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ayano Yukari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tkd051pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

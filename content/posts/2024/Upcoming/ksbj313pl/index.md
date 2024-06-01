@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-313 I Couldn't Control My Busty Wife, So I Asked My Big-dick Friend To Cuckold Her! Kui Sunao
 
 url: /v/ksbj313pl
-date: 0000-06-01T01:00:00Z
+date: 2024-06-01T01:00:00Z
 image: "ksbj313pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Huge Butt	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Kokonoi Sunao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kokonoi Sunao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="z1RKJk8JjxHY1z4">
     <a href="javascript:;">
         <img src="/v/ksbj313pl/ksbj313pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj313pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj313pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj313pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

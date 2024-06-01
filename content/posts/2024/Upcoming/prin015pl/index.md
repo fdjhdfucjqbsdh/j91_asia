@@ -3,9 +3,9 @@ author: j91
 title: PRIN-015 [Doujin AV] This Is Like A Figurine! A Cosplayer With Tens Of Thousands Of Followers [God-like Body] [Pounding The Uterus] [Complete Feminization] [Vaginal Throbbing Is Inevitable] [Infinite Convulsive Climax]
 
 url: /v/prin015pl
-date: 0000-06-01T01:20:00Z
+date: 2024-06-01T01:20:00Z
 image: "prin015pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur, Big Tits, Beautiful Girl, Lotion	]
+tags: [Censored, Cosplay, Amateur, Big Tits, Beautiful Girl, Lotion	]
 maker: [ Za-jiru Ooji- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OA49AoKDadFZ2GW">
     <a href="javascript:;">
         <img src="/v/prin015pl/prin015pl.jpg" width="WIDTH" height="HEIGHT" alt="prin015pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/prin015pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/prin015pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

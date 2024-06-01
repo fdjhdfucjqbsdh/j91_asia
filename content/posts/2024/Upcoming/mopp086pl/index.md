@@ -3,9 +3,9 @@ author: j91
 title: MOPP-086 Sakura Misaki, An Anal Pleasure Specialist Who Traps M Men And Can't Get Out
 
 url: /v/mopp086pl
-date: 0000-06-01T01:20:00Z
+date: 2024-06-01T01:20:00Z
 image: "mopp086pl.jpg"
-tags: [Upcoming releases, Anal, Blow, Handjob, Solowork, Slut, Submissive Men	]
+tags: [Censored, Anal, Blow, Handjob, Solowork, Slut, Submissive Men	]
 maker: [ M O Paradise  ]
 actress: [ Misaki Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1AavYg47xBTeAAd">
     <a href="javascript:;">
         <img src="/v/mopp086pl/mopp086pl.jpg" width="WIDTH" height="HEIGHT" alt="mopp086pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mopp086pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mopp086pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

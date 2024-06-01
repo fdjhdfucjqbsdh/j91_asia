@@ -3,9 +3,9 @@ author: j91
 title: KTB-085 Too Sensitive To Wait Until I Take It Off ♪ Tall Big Tits Wife's Clothed Sex Sexual Harassment Soapland Ruisa Tsukizuki
 
 url: /v/ktb085pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "ktb085pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Big Tits, Married Woman, Titty Fuck	]
+tags: [Censored, OL, Creampie, Solowork, Big Tits, Married Woman, Titty Fuck	]
 maker: [ Kahanshin Tigers - Mousozoku  ]
 actress: [ Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9BmPgPkoZrIae3B">
     <a href="javascript:;">
         <img src="/v/ktb085pl/ktb085pl.jpg" width="WIDTH" height="HEIGHT" alt="ktb085pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ktb085pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ktb085pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

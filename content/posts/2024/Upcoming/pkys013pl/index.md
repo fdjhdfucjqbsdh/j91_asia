@@ -3,9 +3,9 @@ author: j91
 title: PKYS-013 Amateur Sex Friend Documentary, 24-year-old Busty Masochistic Advertising Sales OL Reno
 
 url: /v/pkys013pl
-date: 0000-06-01T01:45:00Z
+date: 2024-06-01T01:45:00Z
 image: "pkys013pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, POV, Documentary	]
+tags: [Censored, Creampie, Amateur, Big Tits, POV, Documentary	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vgxoD2r6wkF49JD">
     <a href="javascript:;">
         <img src="/v/pkys013pl/pkys013pl.jpg" width="WIDTH" height="HEIGHT" alt="pkys013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkys013pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkys013pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

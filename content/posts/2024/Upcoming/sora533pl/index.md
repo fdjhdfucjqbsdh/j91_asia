@@ -3,9 +3,9 @@ author: j91
 title: SORA-533 A Girl Who Doesn't Want To Be Seen, But Wants To Be Seen. Obedient Exhibitionist. She Wanders Around Naked To Catch An Underwear Thief, But The Thief Sees Her Naked Instead, And She Becomes Addicted To The Pleasure Of Shame And Starts Urinating... Misaki Kanna
 
 url: /v/sora533pl
-date: 0000-06-01T01:50:00Z
+date: 2024-06-01T01:50:00Z
 image: "sora533pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Female Teacher, Squirting, School Stuff, Urination	]
+tags: [Censored, Solowork, Humiliation, Female Teacher, Squirting, School Stuff, Urination	]
 maker: [ Yama To Sora  ]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3p8B3q0QOMIdoqZ">
     <a href="javascript:;">
         <img src="/v/sora533pl/sora533pl.jpg" width="WIDTH" height="HEIGHT" alt="sora533pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora533pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora533pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

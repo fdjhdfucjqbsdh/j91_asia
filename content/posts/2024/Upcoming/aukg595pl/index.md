@@ -3,9 +3,9 @@ author: j91
 title: AUKG-595 Forbidden Lesbian Pet, A Young Lesbian Who Seduces A Runaway Girl She Met On Social Media
 
 url: /v/aukg595pl
-date: 0000-06-01T01:20:00Z
+date: 2024-06-01T01:20:00Z
 image: "aukg595pl.jpg"
-tags: [Upcoming releases, Lesbian, Miss, Beautiful Girl, Slut, Lesbian Kiss	]
+tags: [Censored, Lesbian, Miss, Beautiful Girl, Slut, Lesbian Kiss	]
 maker: [ U & K  ]
 actress: [ Suehiro Jun, Igarashi Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suehiro Jun, Igarashi Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vL471v9W0pF43lj">
     <a href="javascript:;">
         <img src="/v/aukg595pl/aukg595pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg595pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suehiro Jun, Igarashi Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg595pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suehiro Jun, Igarashi Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg595pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

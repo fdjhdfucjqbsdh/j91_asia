@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-300 The Housewife Of That Time, The Erotic And Hot Sex Life Of A Housewife With Multiple Fetishes Who Is Both A Super Masochist And A Super Sadist, Mizuki Narazaki
 
 url: /v/embz300pl
-date: 0000-06-01T01:20:00Z
+date: 2024-06-01T01:20:00Z
 image: "embz300pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Squirting, Mature Woman, BBW	]
+tags: [Censored, Creampie, Solowork, Humiliation, Squirting, Mature Woman, BBW	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Narazaki Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Narazaki Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZPqAVLgagdigko">
     <a href="javascript:;">
         <img src="/v/embz300pl/embz300pl.jpg" width="WIDTH" height="HEIGHT" alt="embz300pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Narazaki Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/embz300pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Narazaki Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/embz300pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
