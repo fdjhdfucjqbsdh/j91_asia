@@ -3,9 +3,9 @@ author: j91
 title: FWAY-020 The World Line Where I Met You Reina Miyashita
 
 url: /v/fway020pl
-date: 0000-06-07T01:20:00Z
+date: 2024-06-07T01:20:00Z
 image: "fway020pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Slender, Kimono, Mourning, Image Video, Hot Spring	]
+tags: [Censored, Solowork, Beautiful Girl, Slender, Kimono, Mourning, Image Video, Hot Spring	]
 maker: [FAIR＆WAY]
 actress: [ Miyashita Rena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyashita Rena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VaBvXbzbBdTK74W">
     <a href="javascript:;">
         <img src="/v/fway020pl/fway020pl.jpg" width="WIDTH" height="HEIGHT" alt="fway020pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyashita Rena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fway020pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyashita Rena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fway020pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

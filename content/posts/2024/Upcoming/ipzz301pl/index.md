@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-301 Wanting To Become Friends With A Girl Working Late At Night At A Local Convenience Store, He Becomes A Stalker. Confinement And Rape In The Child's Room At His Parents' House Saki Sasaki
 
 url: /v/ipzz301pl
-date: 0000-06-07T01:50:00Z
+date: 2024-06-07T01:50:00Z
 image: "ipzz301pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Beautiful Girl, Abuse, Confinement	]
+tags: [Censored, Restraint, Solowork, Beautiful Girl, Abuse, Confinement	]
 maker: [IDEA POCKET]
 actress: [ Sasaki Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sasaki Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="PZD96y0YbvU0JWZ">
     <a href="javascript:;">
         <img src="/v/ipzz301pl/ipzz301pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz301pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sasaki Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz301pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sasaki Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz301pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

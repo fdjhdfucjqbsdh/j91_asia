@@ -3,9 +3,9 @@ author: j91
 title: SONE-073 The Beautiful Swimmer Was Prepared With A Swimsuit That Was So Big Her Nipples Were About To Pop Out.
 
 url: /v/sone073pl
-date: 0000-06-07T01:55:00Z
+date: 2024-06-07T01:55:00Z
 image: "sone073pl.jpg"
-tags: [Upcoming releases, Solowork, Voyeur, Nasty, Hardcore, School Swimsuit, Abuse, Slender	]
+tags: [Censored, Solowork, Voyeur, Nasty, Hardcore, School Swimsuit, Abuse, Slender	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nanatsumori Riri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanatsumori Riri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3oPgwDQ81dF2L0">
     <a href="javascript:;">
         <img src="/v/sone073pl/sone073pl.jpg" width="WIDTH" height="HEIGHT" alt="sone073pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanatsumori Riri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone073pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanatsumori Riri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone073pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

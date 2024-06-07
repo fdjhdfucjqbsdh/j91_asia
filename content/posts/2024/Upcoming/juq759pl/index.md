@@ -3,9 +3,9 @@ author: j91
 title: JUQ-759 A Perfect Match In Body And Soul - Two People With Outstanding Chemistry. A Rich And Intense Kiss Soap Where 'Feelings' And 'Lips' Come Together. Rinko Kinoshita.
 
 url: /v/juq759pl
-date: 0000-06-07T01:45:00Z
+date: 2024-06-07T01:45:00Z
 image: "juq759pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Mature Woman, Kiss, Soapland	]
+tags: [Censored, Creampie, Solowork, Married Woman, Mature Woman, Kiss, Soapland	]
 maker: [Madonna]
 actress: [ Kinoshita Ririko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kinoshita Ririko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="yl9ZA3ryrXt11kX">
     <a href="javascript:;">
         <img src="/v/juq759pl/juq759pl.jpg" width="WIDTH" height="HEIGHT" alt="juq759pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq759pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq759pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

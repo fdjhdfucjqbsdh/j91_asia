@@ -3,9 +3,9 @@ author: j91
 title: BBAN-476 "I Want To Devour Each Other All Day Today..." Lesbians Kissing In A Drool-filled Drool-filled State
 
 url: /v/bban476pl
-date: 0000-06-07T01:25:00Z
+date: 2024-06-07T01:25:00Z
 image: "bban476pl.jpg"
-tags: [Upcoming releases, Lesbian, Uniform, Female Teacher, Lesbian Kiss, Kiss	]
+tags: [Censored, Lesbian, Uniform, Female Teacher, Lesbian Kiss, Kiss	]
 maker: [Bibian]
 actress: [ Tomoda Ayaka, Hinata Hikage ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka, Hinata Hikage ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="39gzer1xvqHrJ6">
     <a href="javascript:;">
         <img src="/v/bban476pl/bban476pl.jpg" width="WIDTH" height="HEIGHT" alt="bban476pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka, Hinata Hikage ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban476pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka, Hinata Hikage ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban476pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

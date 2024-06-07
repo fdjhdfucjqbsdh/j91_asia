@@ -3,9 +3,9 @@ author: j91
 title: RKI-669 Recommended For M Men! The Best Sluts Serve You In The Slutty Apartment Complex, Nanami Hoshizana
 
 url: /v/rki669pl
-date: 0000-06-07T01:38:00Z
+date: 2024-06-07T01:38:00Z
 image: "rki669pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Big Tits, Slut, Prostitutes, Massage	]
+tags: [Censored, Cosplay, Solowork, Big Tits, Slut, Prostitutes, Massage	]
 maker: [Rookie]
 actress: [ Sena Nanami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sena Nanami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OADLg9OOoDfZqqx">
     <a href="javascript:;">
         <img src="/v/rki669pl/rki669pl.jpg" width="WIDTH" height="HEIGHT" alt="rki669pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sena Nanami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rki669pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sena Nanami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rki669pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

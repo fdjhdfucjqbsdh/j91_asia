@@ -3,9 +3,9 @@ author: j91
 title: BBAN-490 When She Meets Her Classmate Again, She Is Forced To Accept Her Feelings Of Love From Her School Days, And She Is Teased By Her Sensitive Big Breasts And Molested To The Point Of Losing Her Mind At A Lesbian Driving License Training Camp.
 
 url: /v/bban490pl
-date: 0000-06-07T01:25:00Z
+date: 2024-06-07T01:25:00Z
 image: "bban490pl.jpg"
-tags: [Upcoming releases, Lesbian, Big Tits, Beautiful Girl, Lesbian Kiss, Kiss	]
+tags: [Censored, Lesbian, Big Tits, Beautiful Girl, Lesbian Kiss, Kiss	]
 maker: [Bibian]
 actress: [ Hanazawa Himari, Tsubaki Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanazawa Himari, Tsubaki Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="74l0mR1430hA7lq">
     <a href="javascript:;">
         <img src="/v/bban490pl/bban490pl.jpg" width="WIDTH" height="HEIGHT" alt="bban490pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari, Tsubaki Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban490pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari, Tsubaki Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban490pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

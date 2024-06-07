@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-305 My First Girlfriend's Sisters Are Super Problematic Bitches! I Became A Dick Slave To The Mischievous Twin Sluts Suzuno Uto And Mizuiro Noa
 
 url: /v/ipzz305pl
-date: 0000-06-07T01:50:00Z
+date: 2024-06-07T01:50:00Z
 image: "ipzz305pl.jpg"
-tags: [Upcoming releases, School Girls, Slut, Slender, Sister	]
+tags: [Censored, School Girls, Slut, Slender, Sister	]
 maker: [IDEA POCKET]
 actress: [ Suzuno Uto, Mizuiro Noa]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzuno Uto, Mizuiro Noa]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="d83aq67bpQckRwZ">
     <a href="javascript:;">
         <img src="/v/ipzz305pl/ipzz305pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz305pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzuno Uto, Mizuiro Noa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz305pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzuno Uto, Mizuiro Noa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz305pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

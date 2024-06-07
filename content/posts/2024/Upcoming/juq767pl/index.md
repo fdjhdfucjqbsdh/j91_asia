@@ -3,9 +3,9 @@ author: j91
 title: JUQ-767 God Gave Her A National Treasure Of A Face. Madonna's Shocking Transfer Asahi Rio, A Beast Full Of Adult Sex Appeal, Tongue Kissing Sex 3 Times
 
 url: /v/juq767pl
-date: 0000-06-07T01:45:00Z
+date: 2024-06-07T01:45:00Z
 image: "juq767pl.jpg"
-tags: [Upcoming releases, Solowork, Breasts, Documentary, Mature Woman, Kiss, Sweat	]
+tags: [Censored, Solowork, Breasts, Documentary, Mature Woman, Kiss, Sweat	]
 maker: [Madonna]
 actress: [ Asahi Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asahi Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Pw6o2YAZVDt0vK8">
     <a href="javascript:;">
         <img src="/v/juq767pl/juq767pl.jpg" width="WIDTH" height="HEIGHT" alt="juq767pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asahi Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq767pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asahi Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq767pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

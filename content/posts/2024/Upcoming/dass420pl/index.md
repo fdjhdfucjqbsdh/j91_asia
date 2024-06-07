@@ -3,9 +3,9 @@ author: j91
 title: DASS-420 A Masochistic Slut Who Has Been Teasing Men Gets A Threesome With Her. Sumire Kurokawa And Honoka Tsujii
 
 url: /v/dass420pl
-date: 0000-06-07T01:39:00Z
+date: 2024-06-07T01:39:00Z
 image: "dass420pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Slut, Promiscuity	]
+tags: [Censored, Creampie, 3P, 4P, Slut, Promiscuity	]
 maker: [Das !]
 actress: [ Kurokawa Sumire ,Tsujii Honoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurokawa Sumire ,Tsujii Honoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YpwVMzwq60IvMKy">
     <a href="javascript:;">
         <img src="/v/dass420pl/dass420pl.jpg" width="WIDTH" height="HEIGHT" alt="dass420pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurokawa Sumire ,Tsujii Honoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass420pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurokawa Sumire ,Tsujii Honoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass420pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
