@@ -3,9 +3,9 @@ author: j91
 title: RKI-670 A Masochistic Gal Who Is Addicted To Bondage And Exposure And Shame Awakens To M Training. A Sexually Explosive Slutty Gal Who Is A Human Toilet. Sara Tsukihi
 
 url: /v/rki670pl
-date: 0000-06-07T01:38:00Z
+date: 2024-06-07T01:38:00Z
 image: "rki670pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Humiliation, Gal, Shibari, Acme · Orgasm	]
+tags: [Censored, SM, Solowork, Humiliation, Gal, Shibari, Acme · Orgasm	]
 maker: [Rookie]
 actress: [ Tsukihi Sara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukihi Sara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1JbeOmB8mgUegkV">
     <a href="javascript:;">
         <img src="/v/rki670pl/rki670pl.jpg" width="WIDTH" height="HEIGHT" alt="rki670pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukihi Sara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rki670pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukihi Sara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rki670pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

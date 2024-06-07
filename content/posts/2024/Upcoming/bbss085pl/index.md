@@ -3,9 +3,9 @@ author: j91
 title: BBSS-085 A New Madness Arrived In Pursuit Of Excitement! 4 Hours Of The Ultimate Hardcore Lesbian FUCK Where Sexual Inclinations Are Fully Open And Instincts Are Exposed
 
 url: /v/bbss085pl
-date: 0000-06-07T01:00:00Z
+date: 2024-06-07T01:00:00Z
 image: "bbss085pl.jpg"
-tags: [Upcoming releases, SM, Anal, Lesbian, Nasty, Hardcore, 4HR+, Lesbian Kiss	]
+tags: [Censored, SM, Anal, Lesbian, Nasty, Hardcore, 4HR+, Lesbian Kiss	]
 maker: [Bibian]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DAkbxZJmMwtkKQP">
     <a href="javascript:;">
         <img src="/v/bbss085pl/bbss085pl.jpg" width="WIDTH" height="HEIGHT" alt="bbss085pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbss085pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbss085pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

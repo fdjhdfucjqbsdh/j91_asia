@@ -3,9 +3,9 @@ author: j91
 title: NKKD-337 A Classy Mother Who Wants To Get Her Son Into A Prestigious Private School Is Seduced By The School Principal's Lustful, Dark And Smelly Big Dick During A Parent-teacher Conference. Kana Morisawa
 
 url: /v/nkkd337pl
-date: 0000-06-07T01:37:00Z
+date: 2024-06-07T01:37:00Z
 image: "nkkd337pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Affair, Cuckold, Huge Cock	]
+tags: [Censored, Solowork, Married Woman, Affair, Cuckold, Huge Cock	]
 maker: [JET Eizou]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7Bgk7B1GoqCA9XJ">
     <a href="javascript:;">
         <img src="/v/nkkd337pl/nkkd337pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd337pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nkkd337pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nkkd337pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

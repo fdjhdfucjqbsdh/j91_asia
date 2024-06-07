@@ -3,9 +3,9 @@ author: j91
 title: BOKD-288 AV Debut, I May Look Like This, But I Have A Penis. Renka Yuzuki
 
 url: /v/bokd288pl
-date: 0000-06-08T01:05:00Z
+date: 2024-06-07T01:05:00Z
 image: "bokd288pl.jpg"
-tags: [Upcoming releases, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
+tags: [Censored, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
 maker: [ K.M.Produce  ]
 actress: [ Yuki Renka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuki Renka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QD8rMy0XPes04Ol">
     <a href="javascript:;">
         <img src="/v/bokd288pl/bokd288pl.jpg" width="WIDTH" height="HEIGHT" alt="bokd288pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuki Renka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bokd288pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuki Renka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bokd288pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

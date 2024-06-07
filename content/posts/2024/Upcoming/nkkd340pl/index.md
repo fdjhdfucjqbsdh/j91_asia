@@ -3,9 +3,9 @@ author: j91
 title: NKKD-340 My Serious And Modest Wife, Kanna Misaki, Was Locked On By A Horny Student From The Neighborhood And Had His Bulging Veiny Cock Repeatedly Inserted Into Her Like A Monkey.
 
 url: /v/nkkd340pl
-date: 0000-06-07T01:37:00Z
+date: 2024-06-07T01:37:00Z
 image: "nkkd340pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Cuckold	]
 maker: [JET Eizou]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2BlJGW14mmHZ2pb">
     <a href="javascript:;">
         <img src="/v/nkkd340pl/nkkd340pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd340pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nkkd340pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nkkd340pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

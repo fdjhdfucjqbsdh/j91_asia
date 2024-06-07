@@ -3,9 +3,9 @@ author: j91
 title: RKI-673 When We Dug Deeper Into The Background Of The Promising Masochistic Actress "Kagawa Kanoko", We Found Out That She Was A Plain Girl But A Pervert Who Loved The Ultimate Ego-masochistic Sex
 
 url: /v/rki673pl
-date: 0000-06-07T01:38:00Z
+date: 2024-06-07T01:38:00Z
 image: "rki673pl.jpg"
-tags: [Upcoming releases, SM, Creampie, Solowork, Nasty, Hardcore, Shibari, Deep Throating	]
+tags: [Censored, SM, Creampie, Solowork, Nasty, Hardcore, Shibari, Deep Throating	]
 maker: [Rookie]
 actress: [ Kagawa Kanoko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagawa Kanoko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gqOYBKZKBxUv39">
     <a href="javascript:;">
         <img src="/v/rki673pl/rki673pl.jpg" width="WIDTH" height="HEIGHT" alt="rki673pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kagawa Kanoko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rki673pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kagawa Kanoko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rki673pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
