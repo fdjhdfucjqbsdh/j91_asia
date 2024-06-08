@@ -3,9 +3,9 @@ author: j91
 title: RATW-012 Small-breasted, Cool, Slender Taiwanese Beauty Shuen
 
 url: /v/ratw012pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "ratw012pl.jpg"
-tags: [Upcoming releases, Solowork, Slender, Tits, Other Asian	]
+tags: [Censored, Solowork, Slender, Tits, Other Asian	]
 maker: [ Royal Asian - Mousozoku  ]
 actress: [ Shuen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shuen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YPjJ9qZ81PHvXx6">
     <a href="javascript:;">
         <img src="/v/ratw012pl/ratw012pl.jpg" width="WIDTH" height="HEIGHT" alt="ratw012pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shuen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ratw012pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shuen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ratw012pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: RATW-013 The Secrets Of Taiwanese Office Ladies
 
 url: /v/ratw013pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "ratw013pl.jpg"
-tags: [Upcoming releases, OL, Blow, Masturbation, Pantyhose, Other Asian	]
+tags: [Censored, OL, Blow, Masturbation, Pantyhose, Other Asian	]
 maker: [ Royal Asian - Mousozoku  ]
 actress: [ Yuri, Song Nanyi, Tsaiti ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuri, Song Nanyi, Tsaiti ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xgObrymlVDSkBY6">
     <a href="javascript:;">
         <img src="/v/ratw013pl/ratw013pl.jpg" width="WIDTH" height="HEIGHT" alt="ratw013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuri, Song Nanyi, Tsaiti ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ratw013pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuri, Song Nanyi, Tsaiti ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ratw013pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
