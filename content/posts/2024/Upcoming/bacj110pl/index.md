@@ -3,9 +3,9 @@ author: j91
 title: BACJ-110 "I'll Watch Your Face As You Faint From Your Nipples." Slutty Older Sister Stares At You And Manages Your Nipples Sakura Tsuji
 
 url: /v/bacj110pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "bacj110pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Dirty Words, Slut, Subjectivity, Close Up	]
+tags: [Censored, Solowork, Older Sister, Dirty Words, Slut, Subjectivity, Close Up	]
 maker: [ Barutan  ]
 actress: [ Tsuji Sakura]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsuji Sakura]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="v2ML16mY2ZU4kLd">
     <a href="javascript:;">
         <img src="/v/bacj110pl/bacj110pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj110pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsuji Sakura]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj110pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsuji Sakura]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj110pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

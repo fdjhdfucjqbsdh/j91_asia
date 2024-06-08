@@ -3,9 +3,9 @@ author: j91
 title: AVSA-320 Perverted Group Training Gangbang Documentary. A True Masochist Woman Who Can't Hide Her Joy At Being Trained Is Surrounded By Men And Has No Idea What They'll Do To Her. She Fantasizes And Faints. With A Large Number Of Penises In Front Of Her, The Perverted Woman Becomes A Sex Monster With Abnormal Excitement, Letting Out A Roar Of Joy And Transforming Into A Pleasure-only Flesh Toilet! Kiyomi Reno
 
 url: /v/avsa320pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "avsa320pl.jpg"
-tags: [Upcoming releases, Solowork, Bukkake, Deep Throating, Submissive Woman	]
+tags: [Censored, Solowork, Bukkake, Deep Throating, Submissive Woman	]
 maker: [ Avs  ]
 actress: [ Kiyomi Reno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kiyomi Reno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YVljqGxwB8CvApX">
     <a href="javascript:;">
         <img src="/v/avsa320pl/avsa320pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa320pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kiyomi Reno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa320pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kiyomi Reno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa320pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

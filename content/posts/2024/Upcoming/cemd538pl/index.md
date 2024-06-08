@@ -3,9 +3,9 @@ author: j91
 title: CEMD-538 "No Talking Allowed!" Moans And Wet Pussy Sounds In This Sex Scene 2 Yuko Shiraki
 
 url: /v/cemd538pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "cemd538pl.jpg"
-tags: [Upcoming releases, Creampie, Restraint, Solowork, Nasty, Hardcore, Mature Woman, Acme · Orgasm	]
+tags: [Censored, Creampie, Restraint, Solowork, Nasty, Hardcore, Mature Woman, Acme · Orgasm	]
 maker: [ Serebu No Tomo  ]
 actress: [ Shiraki Yuuko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraki Yuuko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jr1RzJgv24HzKBz">
     <a href="javascript:;">
         <img src="/v/cemd538pl/cemd538pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd538pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraki Yuuko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cemd538pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraki Yuuko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cemd538pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

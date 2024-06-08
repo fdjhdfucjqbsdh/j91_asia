@@ -3,9 +3,9 @@ author: j91
 title: AVSA-318 Beautiful Legs New Cabin Attendant Stalked And Drowned In Aphrodisiac-Induced Sexual Abuse Minami Maeda
 
 url: /v/avsa318pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "avsa318pl.jpg"
-tags: [Upcoming releases, Solowork, Uniform, Pantyhose, Older Sister, Big Tits, Leg Fetish	]
+tags: [Censored, Solowork, Uniform, Pantyhose, Older Sister, Big Tits, Leg Fetish	]
 maker: [ Avs  ]
 actress: [ Maeta Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Maeta Minami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JbMyqRYDrQujjgO">
     <a href="javascript:;">
         <img src="/v/avsa318pl/avsa318pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Maeta Minami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa318pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Maeta Minami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa318pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

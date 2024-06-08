@@ -3,9 +3,9 @@ author: j91
 title: NITR-548 Unfortunately, My Compatibility With The Teacher's Thing Was Outstanding. The Teacher I Hate To Death... Made Me Cum So Hard I Wanted To Cry... Shizukutsuki Kokoro Sakura
 
 url: /v/nitr548pl
-date: 0000-06-08T01:45:00Z
+date: 2024-06-08T01:45:00Z
 image: "nitr548pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Masturbation, Uniform, School Girls, Cunnilingus, Cowgirl]
+tags: [Censored, Creampie, Solowork, Masturbation, Uniform, School Girls, Cunnilingus, Cowgirl]
 maker: [ Crystal Eizou  ]
 actress: [ Shidzuki Koharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shidzuki Koharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RL4bkjRwowIdOGk">
     <a href="javascript:;">
         <img src="/v/nitr548pl/nitr548pl.jpg" width="WIDTH" height="HEIGHT" alt="nitr548pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shidzuki Koharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nitr548pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shidzuki Koharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nitr548pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

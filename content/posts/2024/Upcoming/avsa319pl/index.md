@@ -3,9 +3,9 @@ author: j91
 title: AVSA-319 Unrivaled Big Breast Crazy Psychopath Carnal Gangbang Kokoro Ayase
 
 url: /v/avsa319pl
-date: 0000-06-08T01:20:00Z
+date: 2024-06-08T01:20:00Z
 image: "avsa319pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Big Tits, BBW, Confinement	]
+tags: [Censored, Restraint, Solowork, Big Tits, BBW, Confinement	]
 maker: [ Avs  ]
 actress: [ Ayase Kokoro ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ayase Kokoro ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wam4WK19zQhJ7dM">
     <a href="javascript:;">
         <img src="/v/avsa319pl/avsa319pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa319pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa319pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa319pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
