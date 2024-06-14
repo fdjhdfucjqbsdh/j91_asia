@@ -3,9 +3,9 @@ author: j91
 title: JJBK-069 MILF Only MILF Came To My Room Takeaway Secretly Filmed AV Release 67 Healing Huge Breasts I Cup Wife Edition Miho / I Cup / 37 Years Old / Best Marshmallow I Cup Wife Kumiko / I Cup / 36 Years Old / Soft Fluffy Huge Breasts I Cup Wife
 
 url: /v/jjbk069pl
-date: 0000-06-14T01:06:00Z
+date: 2024-06-14T01:06:00Z
 image: "jjbk069pl.jpg"
-tags: [Upcoming releases, Creampie, Voyeur, Married Woman, Ultra-Huge Tits, Huge Butt	]
+tags: [Censored, Creampie, Voyeur, Married Woman, Ultra-Huge Tits, Huge Butt	]
 maker: [Jukujo Bank - Emmanuel]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="q7aWdQOAaAuze03">
     <a href="javascript:;">
         <img src="/v/jjbk069pl/jjbk069pl.jpg" width="WIDTH" height="HEIGHT" alt="jjbk069pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjbk069pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjbk069pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

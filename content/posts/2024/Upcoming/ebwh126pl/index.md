@@ -3,9 +3,9 @@ author: j91
 title: EBWH-126 2 Years Ago, The Erotic Broadcasting Accident That Occurred At A Local Station In Fukuoka Caused A Stir On The Internet. G-cup No-bra Gourmet Reporter Rui Yasuzumi AV Career Change
 
 url: /v/ebwh126pl
-date: 0000-06-14T01:30:00Z
+date: 2024-06-14T01:30:00Z
 image: "ebwh126pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Debut Production, Cowgirl, Entertainer	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Debut Production, Cowgirl, Entertainer	]
 maker: [E-body]
 actress: [ Azumi Rui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Azumi Rui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XB8JyZGp4qTDRvx">
     <a href="javascript:;">
         <img src="/v/ebwh126pl/ebwh126pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh126pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Azumi Rui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh126pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Azumi Rui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh126pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

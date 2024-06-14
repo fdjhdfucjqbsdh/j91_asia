@@ -3,9 +3,9 @@ author: j91
 title: JUFE-559 Beautiful Married Woman's Sticky Sweet Kisses And High-class Lingerie Sex. My Uncle's Wife Who Lives In The City Seduces Me Who Grew Up In The Country, Nami Kuroki.
 
 url: /v/jufe559pl
-date: 0000-06-14T01:20:00Z
+date: 2024-06-14T01:20:00Z
 image: "jufe559pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Lingerie, Kiss	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Lingerie, Kiss	]
 maker: [Fitch]
 actress: [ Kuroki Nami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Nami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GP3Y0lzLY3U1jRr">
     <a href="javascript:;">
         <img src="/v/jufe559pl/jufe559pl.jpg" width="WIDTH" height="HEIGHT" alt="jufe559pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jufe559pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jufe559pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

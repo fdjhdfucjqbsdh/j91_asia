@@ -3,9 +3,9 @@ author: j91
 title: JUNY-119 When I Went Back To My Hometown In The Tranquil Countryside, My Voluptuous Childhood Friend And Cousin Pressed Tightly Against Me And Fought Over My Dick In A Sweaty, Continuous Creampie Harem Sex Session. Fujisawa Reo, Yuki Chitose
 
 url: /v/juny119pl
-date: 0000-06-14T01:20:00Z
+date: 2024-06-14T01:20:00Z
 image: "juny119pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Big Tits, Slut, Huge Butt	]
+tags: [Censored, Creampie, 3P, 4P, Big Tits, Slut, Huge Butt	]
 maker: [Fitch]
 actress: [ Saegusa Chitose ,Fujisawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Saegusa Chitose ,Fujisawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xrDR7ObvvXhkAzp">
     <a href="javascript:;">
         <img src="/v/juny119pl/juny119pl.jpg" width="WIDTH" height="HEIGHT" alt="juny119pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Saegusa Chitose ,Fujisawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny119pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Saegusa Chitose ,Fujisawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny119pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: PPPE-227 "I Was The Reason He Married My Mother" One Week After My Wife Returned Home, I Piston-trained My Precocious Big-breasted Stepdaughter With My Insatiable Cock Hoshi Asuna
 
 url: /v/pppe227pl
-date: 0000-06-14T01:50:00Z
+date: 2024-06-14T01:50:00Z
 image: "pppe227pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, Big Tits, Titty Fuck, Squirting	]
+tags: [Censored, Creampie, Solowork, Uniform, Big Tits, Titty Fuck, Squirting	]
 maker: [Oppai]
 actress: [ Hoshi Asuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshi Asuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bz0AAm9ZJDIKLM">
     <a href="javascript:;">
         <img src="/v/pppe227pl/pppe227pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe227pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe227pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe227pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
