@@ -3,9 +3,9 @@ author: j91
 title: EBWH-107 Her Body Has Fallen Into A State Of Pleasure Where She Can't Live Without Aphrodisiacs...Slim, Big-breasted Athlete, Alice Nanase, Seeks Sexual Therapy From A Chiropractor In A Lewd Competitive Swimsuit
 
 url: /v/ebwh107pl
-date: 0000-06-14T01:30:00Z
+date: 2024-06-14T01:30:00Z
 image: "ebwh107pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, School Swimsuit, Massage, Slender, Athlete	]
+tags: [Censored, Solowork, Big Tits, School Swimsuit, Massage, Slender, Athlete	]
 maker: [E-body]
 actress: [ Nanase Arisu]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Arisu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7zMeWV6KXgsA0V6">
     <a href="javascript:;">
         <img src="/v/ebwh107pl/ebwh107pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh107pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

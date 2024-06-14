@@ -3,9 +3,9 @@ author: j91
 title: MIDV-764 Newcomer, The Local Rumor Is About Her Big Tits. Height, 146cm, Soft Breasts, 100cm. A Small But Assertive Body With H-cup Breasts And A Sexy Body. AV DEBUT Toa Yuki
 
 url: /v/midv764pl
-date: 0000-06-14T01:55:00Z
+date: 2024-06-14T01:55:00Z
 image: "midv764pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, POV, Debut Production, Squirting	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, POV, Debut Production, Squirting	]
 maker: [MOODYZ]
 actress: [ Yuuki Toa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuuki Toa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LLw67G8kzRue6R">
     <a href="javascript:;">
         <img src="/v/midv764pl/midv764pl.jpg" width="WIDTH" height="HEIGHT" alt="midv764pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuuki Toa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv764pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuuki Toa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv764pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

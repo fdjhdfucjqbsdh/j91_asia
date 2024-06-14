@@ -3,9 +3,9 @@ author: j91
 title: EBWH-111 The Gravure Idol In Charge Is Cheeky, So I Got Her Drunk And Shared A Room With Her... I Enjoyed Her H-cup Divine Breasts And Had Creampie Sex With Her Until She Became Obedient Hibiki Amemiya
 
 url: /v/ebwh111pl
-date: 0000-06-14T01:30:00Z
+date: 2024-06-14T01:30:00Z
 image: "ebwh111pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Busty Fetish, Drama, Cuckold, Entertainer	]
+tags: [Censored, Solowork, Big Tits, Busty Fetish, Drama, Cuckold, Entertainer	]
 maker: [E-body]
 actress: [ Amemiya Hibiki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amemiya Hibiki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wrRxZ4R2ybhJ3a0">
     <a href="javascript:;">
         <img src="/v/ebwh111pl/ebwh111pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh111pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amemiya Hibiki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh111pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amemiya Hibiki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh111pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

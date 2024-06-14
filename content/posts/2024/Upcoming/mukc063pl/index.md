@@ -3,9 +3,9 @@ author: j91
 title: MUKC-063 I Came To Work As A Live-in Pervert Maid. Until She Became My Woman. Yui Tenma
 
 url: /v/mukc063pl
-date: 0000-06-14T01:10:00Z
+date: 2024-06-14T01:10:00Z
 image: "mukc063pl.jpg"
-tags: [Upcoming releases, SM, Cosplay, Maid, Solowork, Squirting, Drama	]
+tags: [Censored, SM, Cosplay, Maid, Solowork, Squirting, Drama	]
 maker: [Muku]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xlVZAKrZ8pSkL4b">
     <a href="javascript:;">
         <img src="/v/mukc063pl/mukc063pl.jpg" width="WIDTH" height="HEIGHT" alt="mukc063pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukc063pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukc063pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

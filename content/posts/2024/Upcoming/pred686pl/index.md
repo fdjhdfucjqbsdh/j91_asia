@@ -3,9 +3,9 @@ author: j91
 title: PRED-686 Forced To Be A Competitive Swimsuit Model... Tall, Beautiful-legged Office Lady Gang-raped And Creampied By A Group Of Women Ichika Hoshimiya
 
 url: /v/pred686pl
-date: 0000-06-14T01:45:00Z
+date: 2024-06-14T01:45:00Z
 image: "pred686pl.jpg"
-tags: [Upcoming releases, OL, Creampie, 3P, 4P, Solowork, School Swimsuit, Slender	]
+tags: [Censored, OL, Creampie, 3P, 4P, Solowork, School Swimsuit, Slender	]
 maker: [Premium]
 actress: [Hoshimiya Ichika  ]
 ---
@@ -13,13 +13,13 @@ actress: [Hoshimiya Ichika  ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mkGMmpAZYYSbrRY">
     <a href="javascript:;">
         <img src="/v/pred686pl/pred686pl.jpg" width="WIDTH" height="HEIGHT" alt="pred686pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Hoshimiya Ichika  ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pred686pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Hoshimiya Ichika  ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pred686pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

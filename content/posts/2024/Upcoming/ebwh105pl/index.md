@@ -3,9 +3,9 @@ author: j91
 title: EBWH-105 A Slim, Busty, Half-Japanese Beauty With Top Class Looks Makes Her E-BODY Exclusive Debut. What Was The Reason Why This Beauty Who Could Rival Celebrities Wanted To Appear In An AV...? Aya Nakamura
 
 url: /v/ebwh105pl
-date: 0000-06-14T01:30:00Z
+date: 2024-06-14T01:30:00Z
 image: "ebwh105pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Debut Production, Beautiful Girl, Slender, Documentary	]
+tags: [Censored, Solowork, Big Tits, Debut Production, Beautiful Girl, Slender, Documentary	]
 maker: [E-body]
 actress: [ Nakamura Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nakamura Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DlVwg0ZeXaCdmX">
     <a href="javascript:;">
         <img src="/v/ebwh105pl/ebwh105pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh105pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nakamura Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh105pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nakamura Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh105pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

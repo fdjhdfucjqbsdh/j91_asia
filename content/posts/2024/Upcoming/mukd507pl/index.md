@@ -3,9 +3,9 @@ author: j91
 title: MUKD-507 Falsely Accused Of Shoplifting, Haru Kikuchi, An Innocent Beautiful Girl In Uniform, Was Threatened And Forced To Be Used As A Sex Slave And Creampied Until She Got Pregnant
 
 url: /v/mukd507pl
-date: 0000-06-14T01:10:00Z
+date: 2024-06-14T01:10:00Z
 image: "mukd507pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Beautiful Girl, Nasty, Hardcore, Deep Throating	]
+tags: [Censored, Creampie, Solowork, School Girls, Beautiful Girl, Nasty, Hardcore, Deep Throating	]
 maker: [Muku]
 actress: [ Kikuchi Haru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kikuchi Haru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pa0e7GA7xrsry41">
     <a href="javascript:;">
         <img src="/v/mukd507pl/mukd507pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd507pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kikuchi Haru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd507pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kikuchi Haru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd507pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
