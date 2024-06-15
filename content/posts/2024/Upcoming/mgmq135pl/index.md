@@ -3,9 +3,9 @@ author: j91
 title: MGMQ-135 The Ideal M-man Life Where Anal Is Played With By A Mean Slutty Devilish Snake Tongue Junior Every Day. Haruno Ando
 
 url: /v/mgmq135pl
-date: 0000-06-15T01:50:00Z
+date: 2024-06-15T01:50:00Z
 image: "mgmq135pl.jpg"
-tags: [Upcoming releases, OL, Anal, Blow, Handjob, Solowork, Submissive Men	]
+tags: [Censored, OL, Anal, Blow, Handjob, Solowork, Submissive Men	]
 maker: [ MEGAMI  ]
 actress: [ Andou Haruno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Andou Haruno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZJQyY02xwqcqzZG">
     <a href="javascript:;">
         <img src="/v/mgmq135pl/mgmq135pl.jpg" width="WIDTH" height="HEIGHT" alt="mgmq135pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Andou Haruno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mgmq135pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Andou Haruno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mgmq135pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

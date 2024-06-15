@@ -3,9 +3,9 @@ author: j91
 title: SUJI-240 Female Students' Individual Masturbation Postings Shaved Pussy 16 People 4 Hours
 
 url: /v/suji240pl
-date: 0000-06-15T01:00:00Z
+date: 2024-06-15T01:00:00Z
 image: "suji240pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Masturbation, School Girls, Finger Fuck, 4HR+, Mini	]
+tags: [Censored, Sailor Suit, Masturbation, School Girls, Finger Fuck, 4HR+, Mini	]
 maker: [ Kan Ran Mono  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="m97MDY72jpCb1wX">
     <a href="javascript:;">
         <img src="/v/suji240pl/suji240pl.jpg" width="WIDTH" height="HEIGHT" alt="suji240pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji240pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji240pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
