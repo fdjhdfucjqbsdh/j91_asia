@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-317 Carefully Selected!! 9 Beautiful Mature Women BEST VOL.03
 
 url: /v/ksbj317pl
-date: 0000-06-15T01:00:00Z
+date: 2024-06-15T01:00:00Z
 image: "ksbj317pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Big Tits, Breasts, Slender, Mature Woman	]
+tags: [Censored, Best, Omnibus, Big Tits, Breasts, Slender, Mature Woman	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="7YmOXzO29WiYeJ">
     <a href="javascript:;">
         <img src="/v/ksbj317pl/ksbj317pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj317pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj317pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj317pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

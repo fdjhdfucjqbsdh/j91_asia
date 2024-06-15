@@ -3,9 +3,9 @@ author: j91
 title: DPMI-091 Flashy And Gaudy Older Sister's Obscene Clothed Sex Nami Kuroki
 
 url: /v/dpmi091pl
-date: 0000-06-15T01:50:00Z
+date: 2024-06-15T01:50:00Z
 image: "dpmi091pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Leotard, Butt, Body Conscious, Leg Fetish	]
+tags: [Censored, Solowork, Pantyhose, Leotard, Butt, Body Conscious, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Kuroki Nami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Nami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0VROrv7KKXTbrPo">
     <a href="javascript:;">
         <img src="/v/dpmi091pl/dpmi091pl.jpg" width="WIDTH" height="HEIGHT" alt="dpmi091pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dpmi091pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dpmi091pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

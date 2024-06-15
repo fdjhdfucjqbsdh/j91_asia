@@ -3,9 +3,9 @@ author: j91
 title: GVH-663 "If You Don't Want To Be Creampied, Call A Substitute Friend Here Right Now!" A Three-way Chain Rape Of A Schoolgirl Lolita!
 
 url: /v/gvh663pl
-date: 0000-06-15T01:55:00Z
+date: 2024-06-15T01:55:00Z
 image: "gvh663pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, School Girls, Nasty, Hardcore, Confinement	]
+tags: [Censored, Creampie, 3P, 4P, School Girls, Nasty, Hardcore, Confinement	]
 maker: [ Glory Quest  ]
 actress: [ Aino Hinata, Hinata Hikage, Morisaki Haruno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aino Hinata, Hinata Hikage, Morisaki Haruno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jjjY3Lkz9XsgVY">
     <a href="javascript:;">
         <img src="/v/gvh663pl/gvh663pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh663pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aino Hinata, Hinata Hikage, Morisaki Haruno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh663pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aino Hinata, Hinata Hikage, Morisaki Haruno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh663pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

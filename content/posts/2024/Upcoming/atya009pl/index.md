@@ -3,9 +3,9 @@ author: j91
 title: ATYA-009 The Pure Wife Was Secretly A Dirty Slut. She Wasn't Satisfied With Her Husband Who Was The Same Age As Her... She Was Made To Climax To The Core Of Her Body By The Persistent Foreplay And Sex Of A Middle-aged Man! Akari Minase
 
 url: /v/atya009pl
-date: 0000-06-15T01:20:00Z
+date: 2024-06-15T01:20:00Z
 image: "atya009pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Married Woman, Tits, Submissive Men	]
+tags: [Censored, Cosplay, Solowork, Married Woman, Tits, Submissive Men	]
 maker: [ Atagoya - Emanuel  ]
 actress: [ Minase Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minase Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="a04y9jxP7OHxYZ4">
     <a href="javascript:;">
         <img src="/v/atya009pl/atya009pl.jpg" width="WIDTH" height="HEIGHT" alt="atya009pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minase Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/atya009pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minase Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/atya009pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

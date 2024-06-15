@@ -3,9 +3,9 @@ author: j91
 title: BKD-334 Mother-son Intercourse ~ Akazawa Onsen Road ~ Yuria Yoshine
 
 url: /v/bkd334pl
-date: 0000-06-15T01:50:00Z
+date: 2024-06-15T01:50:00Z
 image: "bkd334pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Incest, Mature Woman, Mother	]
+tags: [Censored, Creampie, Solowork, Big Tits, Incest, Mature Woman, Mother	]
 maker: [ Ruby  ]
 actress: [ Yoshine Yuria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yoshine Yuria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QkWLj10Y34c0l0M">
     <a href="javascript:;">
         <img src="/v/bkd334pl/bkd334pl.jpg" width="WIDTH" height="HEIGHT" alt="bkd334pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bkd334pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bkd334pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BBTU-082 Big Tits Bullying Club Hazuki Aoi
 
 url: /v/bbtu082pl
-date: 0000-06-15T01:50:00Z
+date: 2024-06-15T01:50:00Z
 image: "bbtu082pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Squirting, Lotion, Acme · Orgasm	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, Squirting, Lotion, Acme · Orgasm	]
 maker: [ Dogma  ]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BBv9GKWdX2i6OB">
     <a href="javascript:;">
         <img src="/v/bbtu082pl/bbtu082pl.jpg" width="WIDTH" height="HEIGHT" alt="bbtu082pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbtu082pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbtu082pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
