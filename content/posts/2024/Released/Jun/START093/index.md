@@ -5,9 +5,9 @@ title: START-093 Sex Charisma Ogu Yuna Makes Amateur Men Cum With Her Amazing Te
 url: /v/START093
 date: 2024-06-17T16:25:00Z
 image: "START093.jpg"
-tags: [Censored, ]
+tags: [Censored, Amateur, Cosplay, Documentary, Slut, Solowork, Submissive Men]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Ogura Yuna]
 ---
 
 

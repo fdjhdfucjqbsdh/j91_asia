@@ -5,7 +5,7 @@ title: MOGI-137 [Addicted To Old Man Dick Swamp] Kobe Beautiful JD Has 6 Raw Fuc
 url: /v/MOGI137
 date: 2024-06-17T16:10:00Z
 image: "MOGI137.jpg"
-tags: [Censored, ]
+tags: [Censored, Amateur, Cuckold, Hot Spring]
 maker: [SOD Create]
 actress: [ ]
 ---

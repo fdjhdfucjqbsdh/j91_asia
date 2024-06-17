@@ -5,9 +5,9 @@ title: SETM-029 Pre-School Health Check, Nozomi Kanae, Amai Kurumi, Sorano Kira
 url: /v/SETM029
 date: 2024-06-17T16:10:00Z
 image: "SETM029.jpg"
-tags: [Censored, ]
+tags: [Censored, Hospital&Clinic, Humiliation, Mini]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Sorano Kira]
 ---
 
 

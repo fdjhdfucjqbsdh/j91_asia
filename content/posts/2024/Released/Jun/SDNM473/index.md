@@ -5,9 +5,9 @@ title: SDNM-473 I Don’t Want To Forget My Sense Of Beauty Because I Want You T
 url: /v/SDNM473
 date: 2024-06-17T16:10:00Z
 image: "SDNM473.jpg"
-tags: [Censored, ]
+tags: [Censored, Debut Production, Documentary, Married Woman, Mature Woman, Solowork]
 maker: [SOD Create]
-actress: [ ]
+actress: [Kono Sumika ]
 ---
 
 

@@ -5,7 +5,7 @@ title: SGKI-022 "Sorry To Keep You Waiting, Customer, This Is Smile Cafe" A Clos
 url: /v/SGKI022
 date: 2024-06-17T16:00:00Z
 image: "SGKI022.jpg"
-tags: [Censored, ]
+tags: [Censored, Squirting, Toy, Vibe]
 maker: [SHIGEKI]
 actress: [ ]
 ---
