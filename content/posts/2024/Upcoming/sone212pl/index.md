@@ -3,9 +3,9 @@ author: j91
 title: SONE-212 The Sexual Desire That Has Increased Due To Abstinence Is Amplified With Aphrodisiacs, And When She Is Horny In A Muddy State, She Is High On Aphrodisiacs! A Strange, Unusual And Unique Night Where She Goes Crazy With MAX High Tension While Being Attacked By Sleepiness During A Devilish Late-night Shoot That Makes Her Lose Consciousness Yura Kano
 
 url: /v/sone212pl
-date: 0000-06-21T01:55:00Z
+date: 2024-06-21T01:55:00Z
 image: "sone212pl.jpg"
-tags: [Upcoming releases, Solowork, Nasty, Hardcore, Drug, Impromptu Sex, Kiss, Acme · Orgasm	]
+tags: [Censored, Solowork, Nasty, Hardcore, Drug, Impromptu Sex, Kiss, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kano Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kano Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="909oqyo9XJUDW4">
     <a href="javascript:;">
         <img src="/v/sone212pl/sone212pl.jpg" width="WIDTH" height="HEIGHT" alt="sone212pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kano Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone212pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kano Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone212pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

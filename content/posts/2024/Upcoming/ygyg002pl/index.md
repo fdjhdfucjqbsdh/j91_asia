@@ -3,9 +3,9 @@ author: j91
 title: YGYG-002 Deep Throat Yoga Beauty 2 Konomi Mejiro
 
 url: /v/ygyg002pl
-date: 0000-06-21T01:09:00Z
+date: 2024-06-21T01:09:00Z
 image: "ygyg002pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Facials, Deep Throating, Instructor	]
+tags: [Censored, Creampie, Solowork, Big Tits, Facials, Deep Throating, Instructor	]
 maker: [Toyohiko]
 actress: [ Mejiro Konomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mejiro Konomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Q2AvbXzWdMu0l3l">
     <a href="javascript:;">
         <img src="/v/ygyg002pl/ygyg002pl.jpg" width="WIDTH" height="HEIGHT" alt="ygyg002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mejiro Konomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ygyg002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mejiro Konomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ygyg002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

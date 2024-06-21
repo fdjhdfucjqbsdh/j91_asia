@@ -3,9 +3,9 @@ author: j91
 title: OAE-258 Naked Angel Mio Ishikawa
 
 url: /v/oae258pl
-date: 0000-06-21T01:07:00Z
+date: 2024-06-21T01:07:00Z
 image: "oae258pl.jpg"
-tags: [Upcoming releases, Solowork,Image Video	]
+tags: [Censored, Solowork,Image Video	]
 maker: [Air Control]
 actress: [ Ishikawa Mio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ishikawa Mio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zp2Y3rojpXIY3q7">
     <a href="javascript:;">
         <img src="/v/oae258pl/oae258pl.jpg" width="WIDTH" height="HEIGHT" alt="oae258pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ishikawa Mio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/oae258pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ishikawa Mio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/oae258pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

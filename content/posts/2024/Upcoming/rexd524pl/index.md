@@ -3,9 +3,9 @@ author: j91
 title: REXD-524 Sinful Woman Jun Suehiro
 
 url: /v/rexd524pl
-date: 0000-06-21T01:10:00Z
+date: 2024-06-21T01:10:00Z
 image: "rexd524pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Older Sister, Breasts, Slender	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Older Sister, Breasts, Slender	]
 maker: [Reddo]
 actress: [ Suehiro Jun ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suehiro Jun ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Vx6bMQOgdvu4zQ">
     <a href="javascript:;">
         <img src="/v/rexd524pl/rexd524pl.jpg" width="WIDTH" height="HEIGHT" alt="rexd524pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suehiro Jun ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rexd524pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suehiro Jun ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rexd524pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

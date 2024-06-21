@@ -3,9 +3,9 @@ author: j91
 title: JYMA-060 Frustrated Big-breasted Wife Eats Dicks. Sexual Desire Monster, Voluptuous Body, Obscene Masochistic Wife. Slutty Wife And Masochistic Wife Go Wild With Sexual Tendencies. Hono Wakamiya.
 
 url: /v/jyma060pl
-date: 0000-06-21T01:25:00Z
+date: 2024-06-21T01:25:00Z
 image: "jyma060pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Affair, Documentary	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Affair, Documentary	]
 maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [ Wakamiya Hono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakamiya Hono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="d8mJX7Ob1qIGrX">
     <a href="javascript:;">
         <img src="/v/jyma060pl/jyma060pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma060pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jyma060pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jyma060pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

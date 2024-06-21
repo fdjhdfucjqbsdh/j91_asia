@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-106 "Does Caregiving Really Involve That Much?" A Happy And Embarrassing Caregiving Training Session! During The Training For New Caregivers, Both Men And Women Practice On Bathing, Wiping, And Changing Diapers.
 
 url: /v/huntc106pl
-date: 0000-06-21T01:08:00Z
+date: 2024-06-21T01:08:00Z
 image: "huntc106pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Nasty, Hardcore, Cowgirl, Various Professions	]
+tags: [Censored, Handjob, Creampie, Nasty, Hardcore, Cowgirl, Various Professions	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Gp0qpDqWDauYPg">
     <a href="javascript:;">
         <img src="/v/huntc106pl/huntc106pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc106pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc106pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc106pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
