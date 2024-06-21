@@ -3,9 +3,9 @@ author: j91
 title: FOCS-204 After School With My Teacher, I Wet My Nipples And Cum In A Love Hotel ~ After Developing My Nipples All Night, I Became A Pervert Who Can Squirt With My Nipples ♪ ~ Tsubomi Mochizuki
 
 url: /v/focs204pl
-date: 0000-06-21T01:20:00Z
+date: 2024-06-21T01:20:00Z
 image: "focs204pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Breasts, School Uniform	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Breasts, School Uniform	]
 maker: [Abc- Mousou Zoku]
 actress: [ Mochizuki Tsubomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mochizuki Tsubomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="W8zR3vdqMQurkG">
     <a href="javascript:;">
         <img src="/v/focs204pl/focs204pl.jpg" width="WIDTH" height="HEIGHT" alt="focs204pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs204pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs204pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: HMN-567 If Your Dick Gets Hard, Let's Go To The Hotel. My Beloved Girlfriend Is Off Work, But A Girl Who Wants To Be My Sex Friend Invites Me Out On An Outdoor Date, And When I Get An Erection, I Lose The Love Hotel Game And End Up Cumming Inside Her Over And Over Again. Nanase Alice
 
 url: /v/hmn567pl
-date: 0000-06-21T01:45:00Z
+date: 2024-06-21T01:45:00Z
 image: "hmn567pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Slut, Kiss, Date	]
+tags: [Censored, Creampie, Solowork, Big Tits, Slut, Kiss, Date	]
 maker: [Honnaka]
 actress: [ Nanase Arisu]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Arisu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="08DZXOZ21esZKv">
     <a href="javascript:;">
         <img src="/v/hmn567pl/hmn567pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn567pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn567pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn567pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
