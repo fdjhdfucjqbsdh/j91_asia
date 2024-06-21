@@ -3,9 +3,9 @@ author: j91
 title: HBLA-003 A Beautiful Girl Who Looks Good In A Uniform Is Deprived Of Her Freedom And Raped Until She Becomes Pregnant. Humiliated And Fallen Schoolgirl, Restrained And Raped For 4 Hours BEST
 
 url: /v/hbla003pl
-date: 0000-06-21T01:00:00Z
+date: 2024-06-21T01:00:00Z
 image: "hbla003pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Best, Omnibus, 4HR+, Deep Throating, Evil	]
+tags: [Censored, Creampie, School Girls, Best, Omnibus, 4HR+, Deep Throating, Evil	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QAegGBRd4YC0X1L">
     <a href="javascript:;">
         <img src="/v/hbla003pl/hbla003pl.jpg" width="WIDTH" height="HEIGHT" alt="hbla003pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hbla003pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hbla003pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
