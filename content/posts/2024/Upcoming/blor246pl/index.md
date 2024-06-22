@@ -3,9 +3,9 @@ author: j91
 title: BLOR-246 A Busty College Girl With A Sexy Body. She's A Calm And Calm Girl, But When A Big Cock Hits Her Deep Inside, She Turns Into A Dirty Slut And Has A Sloppy, Hardcore Orgasm.
 
 url: /v/blor246pl
-date: 0000-06-22T01:20:00Z
+date: 2024-06-22T01:20:00Z
 image: "blor246pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Big Tits, Facials, Massage, Huge Butt	]
+tags: [Censored, 3P, 4P, Big Tits, Facials, Massage, Huge Butt	]
 maker: [ Burokkori-Mousou Zoku  ]
 actress: [ Shida Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shida Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YOWZRXayq0iv4oO">
     <a href="javascript:;">
         <img src="/v/blor246pl/blor246pl.jpg" width="WIDTH" height="HEIGHT" alt="blor246pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shida Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/blor246pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shida Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/blor246pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

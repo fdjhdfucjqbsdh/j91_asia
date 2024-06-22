@@ -3,9 +3,9 @@ author: j91
 title: KATU-128 Big Ass X Big Boobs X Nympho. Picking Up Horny Wives. Miniskirt Gal With A Huge Ass Is A Total Slut!
 
 url: /v/katu128pl
-date: 0000-06-22T01:45:00Z
+date: 2024-06-22T01:45:00Z
 image: "katu128pl.jpg"
-tags: [Upcoming releases, Big Tits, Married Woman, Slut, Butt, Huge Butt	]
+tags: [Censored, Big Tits, Married Woman, Slut, Butt, Huge Butt	]
 maker: [ Katsuo Butsusan - Mousouzoku  ]
 actress: [ Kokonoi Sunao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kokonoi Sunao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8X0QdylYxWcoLpA">
     <a href="javascript:;">
         <img src="/v/katu128pl/katu128pl.jpg" width="WIDTH" height="HEIGHT" alt="katu128pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/katu128pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/katu128pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
