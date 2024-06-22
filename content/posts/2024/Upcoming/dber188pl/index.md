@@ -3,9 +3,9 @@ author: j91
 title: DBER-188 Trembling With Humiliation, These Lone Women Shed Tears As They Tragically Ascend To Heaven. The Defeated Female Investigator. The Convulsions Of Madness And Tragedy. The Ultimate Omnibus.
 
 url: /v/dber188pl
-date: 0000-06-22T01:00:00Z
+date: 2024-06-22T01:00:00Z
 image: "dber188pl.jpg"
-tags: [Upcoming releases, Torture, Abuse, 4HR+, Evil, Female Investigator, Acme · Orgasm	]
+tags: [Censored, Torture, Abuse, 4HR+, Evil, Female Investigator, Acme · Orgasm	]
 maker: [ Baby Entertainment  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WD09Rxdg0AubOxm">
     <a href="javascript:;">
         <img src="/v/dber188pl/dber188pl.jpg" width="WIDTH" height="HEIGHT" alt="dber188pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dber188pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dber188pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: SLAP-136 Provocative Schoolgirl In See-through Chair With Her Panties Fully Exposed 16
+title: JKSR-642 Real Video Of Me Pampering The Third Cutest Girl In My Class At A Nearby School Until She Was Completely Clothed...
 
-url: /v/slap136pl
-date: 2024-06-22T01:20:00Z
-image: "slap136pl.jpg"
-tags: [Censored, School Girls, Underwear, Voyeur, Mini Skirt, Butt	]
-maker: [ Digital Ark  ]
+url: /v/jksr642pl
+date: 2024-06-22T00:45:00Z
+image: "jksr642pl.jpg"
+tags: [Censored, School Girls, Amateur, Beautiful Girl, 4HR+, School Uniform, Mini	]
+maker: [BIGMORKAL]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="vKQ7JbkW3LC22k">
+<div class="video" data-videoid="7GZ7RDR7WxTBYv">
     <a href="javascript:;">
-        <img src="/v/slap136pl/slap136pl.jpg" width="WIDTH" height="HEIGHT" alt="slap136pl.mp4" loading="lazy">
+        <img src="/v/jksr642pl/jksr642pl.jpg" width="WIDTH" height="HEIGHT" alt="jksr642pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/slap136pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jksr642pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/slap136pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jksr642pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
