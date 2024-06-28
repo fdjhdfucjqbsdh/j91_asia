@@ -3,9 +3,9 @@ author: j91
 title: DVMM-113 Escape From The MM Van - College Girl Friendship Chain Project - Call Your Friend Within 30 Minutes And Use Them As A Substitute To Escape From The Closed Room! Once The Time Limit Is Up, You'll Be Fucked Right Away By A Huge Dick! 9 - The Raw Creampie Won't Stop Until Your Friend Comes, Even After You've Come, With A Hard Piston That Won't Stop Even If You Come In The Magic Mirror
 
 url: /v/dvmm113pl
-date: 0000-06-28T01:10:00Z
+date: 2024-06-28T01:10:00Z
 image: "dvmm113pl.jpg"
-tags: [Upcoming releases, Amateur, Nampa, 4HR+, Female College Student, Impromptu Sex, Huge Cock	]
+tags: [Censored, Amateur, Nampa, 4HR+, Female College Student, Impromptu Sex, Huge Cock	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4qOyjmVOL0hKA7z">
     <a href="javascript:;">
         <img src="/v/dvmm113pl/dvmm113pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm113pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm113pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm113pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
