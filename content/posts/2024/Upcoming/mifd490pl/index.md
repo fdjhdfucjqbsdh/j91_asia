@@ -3,9 +3,9 @@ author: j91
 title: MIFD-490 A Cute Girl Is Trembling In Convulsions And Is Subjected To Three Piston-like Creampies Kanon Himekawa
 
 url: /v/mifd490pl
-date: 0000-06-28T01:55:00Z
+date: 2024-06-28T01:55:00Z
 image: "mifd490pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Solowork, Beautiful Girl, Squirting	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Solowork, Beautiful Girl, Squirting	]
 maker: [MOODYZ]
 actress: [ Himekawa Kanon ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himekawa Kanon ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YyBa6rO2orFpr8">
     <a href="javascript:;">
         <img src="/v/mifd490pl/mifd490pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd490pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Himekawa Kanon ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd490pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Himekawa Kanon ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd490pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

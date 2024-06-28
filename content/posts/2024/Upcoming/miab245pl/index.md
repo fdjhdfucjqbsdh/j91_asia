@@ -3,9 +3,9 @@ author: j91
 title: MIAB-245 A Big-assed Slutty Flight Attendant Gives A Lecture On Licking And Sucking Younger Male Employees Under The Guise Of A First Aid Course
 
 url: /v/miab245pl
-date: 0000-06-28T01:55:00Z
+date: 2024-06-28T01:55:00Z
 image: "miab245pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Slut, Huge Butt, Female Boss	]
+tags: [Censored, Blow, Creampie, Slut, Huge Butt, Female Boss	]
 maker: [MOODYZ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m7JDgDGlwqcbqyr">
     <a href="javascript:;">
         <img src="/v/miab245pl/miab245pl.jpg" width="WIDTH" height="HEIGHT" alt="miab245pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab245pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab245pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

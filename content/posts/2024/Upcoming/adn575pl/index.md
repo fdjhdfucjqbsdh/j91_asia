@@ -3,9 +3,9 @@ author: j91
 title: ADN-575 Ria Yuzuki, A Defenseless Country Wife Who Just Moved To The City
 
 url: /v/adn575pl
-date: 0000-06-28T01:40:00Z
+date: 2024-06-28T01:40:00Z
 image: "adn575pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
 maker: [Attackers]
 actress: [ Yuzuki Ria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuzuki Ria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YDwzeXXeqlUBmo">
     <a href="javascript:;">
         <img src="/v/adn575pl/adn575pl.jpg" width="WIDTH" height="HEIGHT" alt="adn575pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuzuki Ria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn575pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuzuki Ria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn575pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

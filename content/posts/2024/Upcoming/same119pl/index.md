@@ -3,9 +3,9 @@ author: j91
 title: SAME-119 Sensitive Club Girl Kanata Tomi Falls For Middle-aged Chiropractor's Obscene Erotic Massage
 
 url: /v/same119pl
-date: 0000-06-28T01:40:00Z
+date: 2024-06-28T01:40:00Z
 image: "same119pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Beautiful Girl, Massage, Athlete	]
+tags: [Censored, Solowork, Big Tits, Beautiful Girl, Massage, Athlete	]
 maker: [Attackers]
 actress: [ Toumi Kanata]
 ---
@@ -13,13 +13,13 @@ actress: [ Toumi Kanata]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LXpPRejJK0IRLKo">
     <a href="javascript:;">
         <img src="/v/same119pl/same119pl.jpg" width="WIDTH" height="HEIGHT" alt="same119pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/same119pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/same119pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

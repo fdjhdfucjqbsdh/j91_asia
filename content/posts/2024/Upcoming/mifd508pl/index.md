@@ -3,9 +3,9 @@ author: j91
 title: MIFD-508 She's Weak To Pressure And Has A Lot Of Gaps... A Loose-legged Masochistic Office Lady. Her Body Is An Erogenous Zone And She Gets Wet Instantly, And She Cums So Much That She Falls For The Dick, Half-crying And Losing Consciousness In Her Debut Amamiya Natsuki
 
 url: /v/mifd508pl
-date: 0000-06-28T01:55:00Z
+date: 2024-06-28T01:55:00Z
 image: "mifd508pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Debut Production, Slender, Urination, Deep Throating	]
+tags: [Censored, OL, Solowork, Debut Production, Slender, Urination, Deep Throating	]
 maker: [MOODYZ]
 actress: [ Amamiya Natsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Natsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="K0JW83xR4bH03eB">
     <a href="javascript:;">
         <img src="/v/mifd508pl/mifd508pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd508pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Natsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd508pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Natsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd508pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

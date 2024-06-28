@@ -3,9 +3,9 @@ author: j91
 title: MIDV-771 If You Watch It, You'll Definitely Squirt! You Too Can Learn How To Squirt With Ibuki Aoi! How To SEX! "If You Can Squirt, Cum Inside" Edition
 
 url: /v/midv771pl
-date: 0000-06-28T01:55:00Z
+date: 2024-06-28T01:55:00Z
 image: "midv771pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, Big Tits, Squirting, How To	]
+tags: [Censored, Creampie, Solowork, Uniform, Big Tits, Squirting, How To	]
 maker: [MOODYZ]
 actress: [ Aoi Ibuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Ibuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XoKZMXDr4jcDJrg">
     <a href="javascript:;">
         <img src="/v/midv771pl/midv771pl.jpg" width="WIDTH" height="HEIGHT" alt="midv771pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aoi Ibuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv771pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Ibuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv771pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
