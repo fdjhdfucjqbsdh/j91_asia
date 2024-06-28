@@ -3,9 +3,9 @@ author: j91
 title: JUNY-120 Exclusive Decision! Dazzlingly Shining, GOLD Dirty Talk Slut With An Overwhelmingly Huge Bust And Ass, She Rapes Men! Maria Nagai
 
 url: /v/juny120pl
-date: 0000-06-28T01:35:00Z
+date: 2024-06-28T01:35:00Z
 image: "juny120pl.jpg"
-tags: [Upcoming releases, Solowork, Dirty Words, Big Tits, Titty Fuck, Slut, Huge Butt	]
+tags: [Censored, Solowork, Dirty Words, Big Tits, Titty Fuck, Slut, Huge Butt	]
 maker: [Fitch]
 actress: [ Kashiwagi Kurumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Kurumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AKwKDxdO98UDgz">
     <a href="javascript:;">
         <img src="/v/juny120pl/juny120pl.jpg" width="WIDTH" height="HEIGHT" alt="juny120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Kurumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Kurumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

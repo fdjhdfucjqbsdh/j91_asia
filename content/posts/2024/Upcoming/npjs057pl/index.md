@@ -3,9 +3,9 @@ author: j91
 title: NPJS-057 "I'm Free Until My Husband Gets Home..." Got Her On A Dating App!! Meet Her And Go Straight To The Hotel For Some Quick Sex! The Beautiful Gym Trainer Wife Was A Quick-acting, Convenient, And Free-for-all Bitch. Creampie & Cum Swallowing Married Woman, Ruisa
 
 url: /v/npjs057pl
-date: 0000-06-28T01:08:00Z
+date: 2024-06-28T01:08:00Z
 image: "npjs057pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Amateur, Married Woman, POV	]
+tags: [Censored, Blow, Creampie, Amateur, Married Woman, POV	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="902rvLv9KKfazx0">
     <a href="javascript:;">
         <img src="/v/npjs057pl/npjs057pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs057pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs057pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs057pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

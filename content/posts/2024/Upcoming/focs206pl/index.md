@@ -3,9 +3,9 @@ author: j91
 title: FOCS-206 Lovey-dovey Titjob Sex With A Big-breasted Call Girl. Creampie OK X Sensitive Nipples X Cute Smiling Beautiful Girl. VIP Treatment With French Kisses And Continuous Ejaculations Until Your Balls Are Empty! Nagisa Shiraishi
 
 url: /v/focs206pl
-date: 0000-06-28T01:20:00Z
+date: 2024-06-28T01:20:00Z
 image: "focs206pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Slut, Prostitutes	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Slut, Prostitutes	]
 maker: [Abc- Mousou Zoku]
 actress: [ Shiraishi Nagisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Nagisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XPD0kOdddYHDlWW">
     <a href="javascript:;">
         <img src="/v/focs206pl/focs206pl.jpg" width="WIDTH" height="HEIGHT" alt="focs206pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Nagisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs206pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Nagisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs206pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

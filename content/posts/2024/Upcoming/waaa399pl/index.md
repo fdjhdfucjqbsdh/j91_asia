@@ -3,9 +3,9 @@ author: j91
 title: WAAA-399 Slutty Lesbian & Shemale Gal, Penis Clit Sexual Development Salon, Waka Misono, Kanon Takanashi
 
 url: /v/waaa399pl
-date: 0000-06-28T01:05:00Z
+date: 2024-06-28T01:05:00Z
 image: "waaa399pl.jpg"
-tags: [Upcoming releases, Transsexual, Lesbian, Beauty Shop, Cross Dressing	]
+tags: [Censored, Transsexual, Lesbian, Beauty Shop, Cross Dressing	]
 maker: [WANZ FACTORY]
 actress: [ Misono Waka ,Takanashi Kanon ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ,Takanashi Kanon ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OAgKOwxLXvsZyRp">
     <a href="javascript:;">
         <img src="/v/waaa399pl/waaa399pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa399pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ,Takanashi Kanon ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa399pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ,Takanashi Kanon ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa399pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

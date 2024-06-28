@@ -3,9 +3,9 @@ author: j91
 title: WAAA-396 Iron Hook Pussy Tearing Torture Incontinence AV Production Company AD Demonic Orgasm Sexual Treatment Officer Futaba Ema
 
 url: /v/waaa396pl
-date: 0000-06-28T01:50:00Z
+date: 2024-06-28T01:50:00Z
 image: "waaa396pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Squirting, Deep Throating, Cruel Expression, Acme · Orgasm	]
+tags: [Censored, Restraint, Solowork, Squirting, Deep Throating, Cruel Expression, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Futaba Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZVzzB7BW0esqQAz">
     <a href="javascript:;">
         <img src="/v/waaa396pl/waaa396pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa396pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa396pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa396pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

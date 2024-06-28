@@ -3,9 +3,9 @@ author: j91
 title: CAWD-699 Newcomer! Kawaii Debut Farm Girl Shizuku Kawakami A Lively Farming Elite Who Uses The Power Of Nature To Her Advantage Makes Her AV Debut
 
 url: /v/cawd699pl
-date: 0000-06-28T01:45:00Z
+date: 2024-06-28T01:45:00Z
 image: "cawd699pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student	]
+tags: [Censored, 3P, 4P, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student	]
 maker: [Kawaii]
 actress: [ Kawakami Shizuku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kawakami Shizuku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OrD4bvj3plseY2">
     <a href="javascript:;">
         <img src="/v/cawd699pl/cawd699pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd699pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kawakami Shizuku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd699pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kawakami Shizuku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd699pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

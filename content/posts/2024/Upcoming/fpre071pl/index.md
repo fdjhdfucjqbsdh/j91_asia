@@ -3,9 +3,9 @@ author: j91
 title: FPRE-071 Reversal Of Roles! A Childhood Friend Rides Him And Mocks Him For Being A Virgin... He Thrusts Him Hard And Makes Him Pee So Hard He Cries! Satomi Miyamoto
 
 url: /v/fpre071pl
-date: 0000-06-28T01:35:00Z
+date: 2024-06-28T01:35:00Z
 image: "fpre071pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Cowgirl, Squirting, Female College Student	]
+tags: [Censored, Solowork, Big Tits, Cowgirl, Squirting, Female College Student	]
 maker: [Fitch]
 actress: [ Miyamoto Satomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyamoto Satomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GM0G0YgKzai18qQ">
     <a href="javascript:;">
         <img src="/v/fpre071pl/fpre071pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre071pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyamoto Satomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre071pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyamoto Satomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre071pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

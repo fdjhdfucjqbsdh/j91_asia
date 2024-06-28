@@ -3,9 +3,9 @@ author: j91
 title: NPJS-052 Even If You're Not Popular, If You're In A Late-night Kabukicho Pair, You Can Get A Girl Who Looks Like She's Bored Drunk And Take Her Home After The Last Train! A Popular Host-crazy Con Cafe Girl With A Big Bust And An Anime Voice. *If You Recommend This, Beware Of Depression And Erections!
 
 url: /v/npjs052pl
-date: 0000-06-28T01:08:00Z
+date: 2024-06-28T01:08:00Z
 image: "npjs052pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, Beautiful Girl, Nampa	]
+tags: [Censored, Creampie, Amateur, Big Tits, Beautiful Girl, Nampa	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VaP2Ad9VDAuK87K">
     <a href="javascript:;">
         <img src="/v/npjs052pl/npjs052pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs052pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs052pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs052pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

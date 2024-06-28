@@ -3,9 +3,9 @@ author: j91
 title: JUFE-562 New Sexual Harassment Chiropractor NTR, Big-breasted College Student Minami Shiori Is Made To Climax Many Times By The Chiropractor's Amazing Technique Even Though Her Boyfriend Is Next To Her
 
 url: /v/jufe562pl
-date: 0000-06-28T01:35:00Z
+date: 2024-06-28T01:35:00Z
 image: "jufe562pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Massage, Female College Student, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Massage, Female College Student, Cuckold	]
 maker: [Fitch]
 actress: [ Minami Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minami Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Pqda2vMpqlUBed">
     <a href="javascript:;">
         <img src="/v/jufe562pl/jufe562pl.jpg" width="WIDTH" height="HEIGHT" alt="jufe562pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minami Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jufe562pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minami Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jufe562pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: WAAA-397 Seven Days Of Semen Leaking Out As The Penis Is Left Unattended At The Moment Of Ejaculation! A Sadistic Female Boss's Employee Training For Ruined Orgasms AIKA
 
 url: /v/waaa397pl
-date: 0000-06-28T01:50:00Z
+date: 2024-06-28T01:50:00Z
 image: "waaa397pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Nasty, Hardcore, Slut, Acme · Orgasm, Female Boss	]
+tags: [Censored, Handjob, Solowork, Nasty, Hardcore, Slut, Acme · Orgasm, Female Boss	]
 maker: [WANZ FACTORY]
 actress: [ AIKA ]
 ---
@@ -13,13 +13,13 @@ actress: [ AIKA ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="myOAJgvGZxtbYxm">
     <a href="javascript:;">
         <img src="/v/waaa397pl/waaa397pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa397pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa397pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa397pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

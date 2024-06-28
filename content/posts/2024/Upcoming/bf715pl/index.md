@@ -3,9 +3,9 @@ author: j91
 title: BF-715 The Volleyball Club Advisor Told Me, "I'll Make You A Regular," And Forced Me Into A Physical Relationship, So I Had Creampie Sex With Him Many Times After Club Activities... Kanata Tomi
 
 url: /v/bf715pl
-date: 0000-06-28T01:07:00Z
+date: 2024-06-28T01:07:00Z
 image: "bf715pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Beautiful Girl, Athlete	]
+tags: [Censored, Creampie, Solowork, Big Tits, Beautiful Girl, Athlete	]
 maker: [Befree]
 actress: [ Toumi Kanata]
 ---
@@ -13,13 +13,13 @@ actress: [ Toumi Kanata]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8ZDwY2myMMSow3q">
     <a href="javascript:;">
         <img src="/v/bf715pl/bf715pl.jpg" width="WIDTH" height="HEIGHT" alt="bf715pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf715pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf715pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

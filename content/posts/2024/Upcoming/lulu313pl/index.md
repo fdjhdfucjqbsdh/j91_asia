@@ -3,9 +3,9 @@ author: j91
 title: LULU-313 My Big-assed Niece, Who Grew Up In An All-girls School, Was On The Verge Of Becoming Delinquent, So I Trained Her With A Licking Uncle, Made Her Cum With A Sensitive Licking And Pistoning Creampie. Rio Natsuki
 
 url: /v/lulu313pl
-date: 0000-06-28T01:25:00Z
+date: 2024-06-28T01:25:00Z
 image: "lulu313pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Incest, Huge Cock	]
+tags: [Censored, Creampie, Solowork, School Girls, Incest, Huge Cock	]
 maker: [LUNATICS]
 actress: [ Natsukuri Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukuri Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1WpARmWeV1Se324">
     <a href="javascript:;">
         <img src="/v/lulu313pl/lulu313pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu313pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsukuri Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu313pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsukuri Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu313pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

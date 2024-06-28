@@ -3,9 +3,9 @@ author: j91
 title: LULU-314 Yui Tenma, A Big-assed Cum-swallowing Mistress Who Swallows Her Boss's Huge Dick With A Self-deep Throating Technique And Makes Him Addicted To Throat-fucks And Affairs, While His Wife Is Away
 
 url: /v/lulu314pl
-date: 0000-06-28T01:25:00Z
+date: 2024-06-28T01:25:00Z
 image: "lulu314pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Affair, Deep Throating	]
+tags: [Censored, Blow, Creampie, Solowork, Affair, Deep Throating	]
 maker: [LUNATICS]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QKxq1yKeZJiggb">
     <a href="javascript:;">
         <img src="/v/lulu314pl/lulu314pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu314pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu314pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu314pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
