@@ -3,9 +3,9 @@ author: j91
 title: DVMM-116 I'm Training My Tiny Niece And My Obedient Daughter To Have Sex For The Summer Vacation And Enjoy Their Shaved Pussies At The Same Time. Yuka 136cm Lala 142cm
 
 url: /v/dvmm116pl
-date: 0000-06-28T01:10:00Z
+date: 2024-06-28T01:10:00Z
 image: "dvmm116pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Girl, Incest, Shaved, Mini, Tits	]
+tags: [Censored, 3P, 4P, Girl, Incest, Shaved, Mini, Tits	]
 maker: [Deeps]
 actress: [ Kudou Rara ,Miyoshi Yuzuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kudou Rara ,Miyoshi Yuzuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RLVveMXp3RhJQR">
     <a href="javascript:;">
         <img src="/v/dvmm116pl/dvmm116pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm116pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kudou Rara ,Miyoshi Yuzuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm116pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kudou Rara ,Miyoshi Yuzuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm116pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
