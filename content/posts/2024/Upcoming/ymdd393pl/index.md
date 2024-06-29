@@ -3,9 +3,9 @@ author: j91
 title: YMDD-393 Little Sister Catering Service, Love Doll As Little Sister!? Overwhelmingly Big-breasted Little Sister Dotes On Creampie Sex Amatsuki Azu
 
 url: /v/ymdd393pl
-date: 0000-06-29T01:55:00Z
+date: 2024-06-29T01:55:00Z
 image: "ymdd393pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Masturbation, Titty Fuck, Sister	]
+tags: [Censored, Cosplay, Creampie, Solowork, Masturbation, Titty Fuck, Sister	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QdbQrxk4pXh0DoQ">
     <a href="javascript:;">
         <img src="/v/ymdd393pl/ymdd393pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd393pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymdd393pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymdd393pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

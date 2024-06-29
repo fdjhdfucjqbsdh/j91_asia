@@ -3,9 +3,9 @@ author: j91
 title: AUKG-598 Lesbian Fall Widow ~Immoral Lesbians In Mourning Clothes~
 
 url: /v/aukg598pl
-date: 0000-06-29T01:20:00Z
+date: 2024-06-29T01:20:00Z
 image: "aukg598pl.jpg"
-tags: [Upcoming releases, Lesbian, Married Woman, Widow, Cuckold	]
+tags: [Censored, Lesbian, Married Woman, Widow, Cuckold	]
 maker: [ U & K  ]
 actress: [ Yuuki Nao, Tadokoro Yuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuuki Nao, Tadokoro Yuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZkQpZ6dJ01uqvZo">
     <a href="javascript:;">
         <img src="/v/aukg598pl/aukg598pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg598pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuuki Nao, Tadokoro Yuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg598pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuuki Nao, Tadokoro Yuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg598pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

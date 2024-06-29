@@ -3,9 +3,9 @@ author: j91
 title: YMDD-392 Sweeping Out The Sperm! Peach Butt Thigh Press! Cheerleading Rumba GAL With Her Pulsating Gluteus Maximus! Punishment Raw Sex Brings Shame And Climax
 
 url: /v/ymdd392pl
-date: 0000-06-29T01:55:00Z
+date: 2024-06-29T01:55:00Z
 image: "ymdd392pl.jpg"
-tags: [Upcoming releases, Creampie, Masturbation, Gal, Dildo, Cheerleader	]
+tags: [Censored, Creampie, Masturbation, Gal, Dildo, Cheerleader	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jVOrx3yd4JczrYm">
     <a href="javascript:;">
         <img src="/v/ymdd392pl/ymdd392pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd392pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymdd392pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymdd392pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

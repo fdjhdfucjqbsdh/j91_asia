@@ -3,9 +3,9 @@ author: j91
 title: XVSR-762 First Creampie In Her Life! A Shaved Sister Who Wants Her Brother's Sperm And Exploits Him Suzune Kiritani
 
 url: /v/xvsr762pl
-date: 0000-06-29T01:55:00Z
+date: 2024-06-29T01:55:00Z
 image: "xvsr762pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, Beautiful Girl, Shaved, Toy	]
+tags: [Censored, Creampie, Solowork, Uniform, Beautiful Girl, Shaved, Toy	]
 maker: [ MAX-A  ]
 actress: [ Kirigaya Suzune ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kirigaya Suzune ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="R9rRVqZ4xBcdvJp">
     <a href="javascript:;">
         <img src="/v/xvsr762pl/xvsr762pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr762pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kirigaya Suzune ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr762pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kirigaya Suzune ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr762pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
