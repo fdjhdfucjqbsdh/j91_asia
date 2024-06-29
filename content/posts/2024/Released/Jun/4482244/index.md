@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DBNK-019 The Aunt Next Door Has A Sexy Body For Her Age, So I Decided To Flirt With Her, But Things Took A More Erotic Turn Than I Expected...!! 4 Hours
+title: FC2PPV-4482244 A masterpiece! Idol-class Hana-chan! Her smooth, beautiful skin turns red as she convulses and cums over and over again, crying out "Kuuuuun♡ No♡". Creampies over and over again in her dripping pussy!
 
-url: /v/dbnk019pl
-date: 2024-06-29T01:00:00Z
-image: "dbnk019pl.jpg"
-tags: [Censored, Married Woman, Affair, 4HR+, Mature Woman, Cuckold, Kiss	]
-maker: [ Dorobouneko - Emanuel  ]
+url: /u/4482244
+date: 2024-06-29T08:15:00Z
+image: "4482244.jpg"
+tags: [Uncensored, ]
+maker: [FC2PPV]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="GGzWx21Avlh1bgD">
+<div class="video" data-videoid="9RDyoxR7ZrsaaZ2">
     <a href="javascript:;">
-        <img src="/v/dbnk019pl/dbnk019pl.jpg" width="WIDTH" height="HEIGHT" alt="dbnk019pl.mp4" loading="lazy">
+        <img src="/u/4482244/4482244.jpg" width="WIDTH" height="HEIGHT" alt="4482244.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dbnk019pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/u/4482244/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dbnk019pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/u/4482244/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
