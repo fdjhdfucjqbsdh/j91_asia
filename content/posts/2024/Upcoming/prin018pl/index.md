@@ -3,9 +3,9 @@ author: j91
 title: PRIN-018 [Doujin AV] I Bet She Came 20,000 Times? Premature Ejaculation Female Hole Big Breasted Cosplayer [H Breasts] [Cum Semen Drinking] [Serious Mating] [Uterus Bulging] [Reverse Bunny]
 
 url: /v/prin018pl
-date: 0000-06-29T01:20:00Z
+date: 2024-06-29T01:20:00Z
 image: "prin018pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur, Big Tits, Beautiful Girl, Lotion	]
+tags: [Censored, Cosplay, Amateur, Big Tits, Beautiful Girl, Lotion	]
 maker: [ Za-jiru Ooji- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Xq1WdVZkr3UDp2j">
     <a href="javascript:;">
         <img src="/v/prin018pl/prin018pl.jpg" width="WIDTH" height="HEIGHT" alt="prin018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/prin018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/prin018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

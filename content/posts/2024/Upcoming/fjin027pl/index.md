@@ -3,9 +3,9 @@ author: j91
 title: FJIN-027 Give Me Your First Experience As A Gift. I Was A Virgin In The Countryside, But My Naughty Childhood Friend Came Back To My House And I Had Sex With Her For 7 Days During Summer Vacation. She Didn't Give In To Any Temptation And Kept Her Virginity... Let's Make This The Best Event For My Precious Virgin Graduation! Aya Konami
 
 url: /v/fjin027pl
-date: 0000-06-29T01:55:00Z
+date: 2024-06-29T01:55:00Z
 image: "fjin027pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Drama, Virgin Man, Huge Butt, Sweat	]
+tags: [Censored, Creampie, Solowork, Drama, Virgin Man, Huge Butt, Sweat	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kzZbOGGw3xcO22m">
     <a href="javascript:;">
         <img src="/v/fjin027pl/fjin027pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin027pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fjin027pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fjin027pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

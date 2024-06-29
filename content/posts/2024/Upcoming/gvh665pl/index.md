@@ -3,9 +3,9 @@ author: j91
 title: GVH-665 [Reverse Role Reversal!!] I'm A Weak Boss Who Was Found Out To Be A Virgin By Two Older Sister Employees Who Looked Down On Me, And They Made Me Understand In A Double Reverse Threesome, Stripping Me Of My Male Rights. Yui Hatano/Kana Morisawa
 
 url: /v/gvh665pl
-date: 0000-06-29T01:59:00Z
+date: 2024-06-29T01:59:00Z
 image: "gvh665pl.jpg"
-tags: [Upcoming releases, OL, 3P, 4P, Slut, Virgin Man, Subordinates - Colleagues	]
+tags: [Censored, OL, 3P, 4P, Slut, Virgin Man, Subordinates - Colleagues	]
 maker: [ Glory Quest  ]
 actress: [ Hatano Yui, Iioka Kanako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hatano Yui, Iioka Kanako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kvvxBAZy2JIO2ZG">
     <a href="javascript:;">
         <img src="/v/gvh665pl/gvh665pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh665pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hatano Yui, Iioka Kanako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh665pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui, Iioka Kanako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh665pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
