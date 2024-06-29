@@ -3,9 +3,9 @@ author: j91
 title: PKPD-313 Black Pantyhose J● POV Oto & Seira
 
 url: /v/pkpd313pl
-date: 0000-06-29T01:20:00Z
+date: 2024-06-29T01:20:00Z
 image: "pkpd313pl.jpg"
-tags: [Upcoming releases, Creampie, POV, Beautiful Girl, Electric Massager, Breasts	]
+tags: [Censored, Creampie, POV, Beautiful Girl, Electric Massager, Breasts	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Kuwahara Seira, Misaki Oto ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuwahara Seira, Misaki Oto ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vyjLO3MBz7t4rRA">
     <a href="javascript:;">
         <img src="/v/pkpd313pl/pkpd313pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd313pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuwahara Seira, Misaki Oto ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd313pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuwahara Seira, Misaki Oto ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd313pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

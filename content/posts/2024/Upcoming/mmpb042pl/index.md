@@ -3,9 +3,9 @@ author: j91
 title: MMPB-042 Ripe And Juicy Meat Delivery, A Self-absorbed Wife Delivers The Finest Wank Today
 
 url: /v/mmpb042pl
-date: 0000-06-29T01:00:00Z
+date: 2024-06-29T01:00:00Z
 image: "mmpb042pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, 4HR+, Huge Butt	]
+tags: [Censored, Creampie, Big Tits, Married Woman, 4HR+, Huge Butt	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AQ6q1MDBY6iZqx">
     <a href="javascript:;">
         <img src="/v/mmpb042pl/mmpb042pl.jpg" width="WIDTH" height="HEIGHT" alt="mmpb042pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmpb042pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmpb042pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

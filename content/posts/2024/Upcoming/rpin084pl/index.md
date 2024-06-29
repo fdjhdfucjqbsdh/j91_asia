@@ -3,9 +3,9 @@ author: j91
 title: RPIN-084 Big-breasted Woman Working At A Hotel Is Gentle But Lewd And Loves Big Dicks. She Gets Pounded By Virile Men And Has Multiple Orgasms.
 
 url: /v/rpin084pl
-date: 0000-06-29T01:20:00Z
+date: 2024-06-29T01:20:00Z
 image: "rpin084pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, Facials, Glasses	]
+tags: [Censored, Amateur, Big Tits, Facials, Glasses	]
 maker: [ Rikopin - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="M0x3vR9KQacdy8">
     <a href="javascript:;">
         <img src="/v/rpin084pl/rpin084pl.jpg" width="WIDTH" height="HEIGHT" alt="rpin084pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rpin084pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rpin084pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
