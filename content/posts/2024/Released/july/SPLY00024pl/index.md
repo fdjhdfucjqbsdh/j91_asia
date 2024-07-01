@@ -5,9 +5,9 @@ title: SPLY-024 A Female President Of An Entertainment Production Company Wearin
 url: /v/SPLY00024pl
 date: 2024-07-01T15:45:00Z
 image: "SPLY00024pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Affair, Date, Mature Woman, Solowork, Submissive Woman]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Kotou Mariko]
 ---
 
 

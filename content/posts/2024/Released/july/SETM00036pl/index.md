@@ -5,7 +5,7 @@ title: SETM-036 Hot Spring Introduction Yo○○U○R (3 People) Leaked Sex Vide
 url: /v/SETM00036pl
 date: 2024-07-01T15:30:00Z
 image: "SETM00036pl.jpg"
-tags: [Censored, ]
+tags: [Censored, 4HR+, Amateur, Debut Production, Documentary, Hot Spring, POV]
 maker: [SOD Create]
 actress: [ ]
 ---
