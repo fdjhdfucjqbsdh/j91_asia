@@ -3,9 +3,9 @@ author: j91
 title: HZGD-277 A Frustrated And Masturbation-obsessed Wife And Her Husband Have Sex To Make A Baby Without Her Husband Knowing - Ayaka Tomoda
 
 url: /v/hzgd277pl
-date: 0000-07-05T01:43:00Z
+date: 2024-07-05T01:43:00Z
 image: "hzgd277pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Squirting, Breasts, Bride, Young Wife, Drama	]
+tags: [Censored, Creampie, Solowork, Big Tits, Squirting, Breasts, Bride, Young Wife, Drama	]
 maker: [Hitodzuma Hanazono Gekijou]
 actress: [ Tomoda Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m7zBAAMXoltV2w">
     <a href="javascript:;">
         <img src="/v/hzgd277pl/hzgd277pl.jpg" width="WIDTH" height="HEIGHT" alt="hzgd277pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hzgd277pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hzgd277pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

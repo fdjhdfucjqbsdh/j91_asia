@@ -3,9 +3,9 @@ author: j91
 title: NGOD-214 A Chastity Belt Is Put On The Wife's Throbbing Uterus, And After Abstinence, The Long-awaited Penetration Turns This Faithful Wife Into A Pervert... Aya Konami
 
 url: /v/ngod214pl
-date: 0000-07-05T01:35:00Z
+date: 2024-07-05T01:35:00Z
 image: "ngod214pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Cuckold	]
 maker: [JET Eizou]
 actress: [ Suzumiya Haruka]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Q26WRRDGpBSRMw">
     <a href="javascript:;">
         <img src="/v/ngod214pl/ngod214pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod214pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod214pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod214pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
