@@ -3,9 +3,9 @@ author: j91
 title: JUQ-769 A Female Boss Indulges In Twisted Stimulation And Discipline, SM Adultery. During Lunch Break, She Is Disciplined By Her Useless Subordinate... An Exclusive Beauty Releases The Pleasure Of "suffering". Kinoshita Rinko
 
 url: /v/juq769pl
-date: 0000-07-05T01:45:00Z
+date: 2024-07-05T01:45:00Z
 image: "juq769pl.jpg"
-tags: [Upcoming releases, SM, Creampie, Solowork, Married Woman, Mature Woman, Female Boss	]
+tags: [Censored, SM, Creampie, Solowork, Married Woman, Mature Woman, Female Boss	]
 maker: [Madonna]
 actress: [ Kinoshita Ririko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kinoshita Ririko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xqmXR3eqA7fkrrb">
     <a href="javascript:;">
         <img src="/v/juq769pl/juq769pl.jpg" width="WIDTH" height="HEIGHT" alt="juq769pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq769pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq769pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

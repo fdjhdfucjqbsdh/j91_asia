@@ -3,9 +3,9 @@ author: j91
 title: JUQ-775 Exclusive Beautiful Actress, "Falling Asleep." When I Wake Up, I Always Fall Asleep... Married Woman Obscene Creampie Examination Room Perverted Doctor's "sleep Rape" File 03 Tsumugi Akari
 
 url: /v/juq775pl
-date: 0000-07-05T01:45:00Z
+date: 2024-07-05T01:45:00Z
 image: "juq775pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Abuse, Slender, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Abuse, Slender, Mature Woman	]
 maker: [Madonna]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Ww0jwqZ9Y8ubvMV">
     <a href="javascript:;">
         <img src="/v/juq775pl/juq775pl.jpg" width="WIDTH" height="HEIGHT" alt="juq775pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq775pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq775pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

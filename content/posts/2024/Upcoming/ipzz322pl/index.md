@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-322 I Was Raped 10 Times By A Teacher With A Huge Dick During The Break.
 
 url: /v/ipzz322pl
-date: 0000-07-05T01:50:00Z
+date: 2024-07-05T01:50:00Z
 image: "ipzz322pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Swimsuit, Bloomers	]
+tags: [Censored, Creampie, Solowork, Uniform, School Swimsuit, Bloomers	]
 maker: [IDEA POCKET]
 actress: [ An Coco ]
 ---
@@ -13,13 +13,13 @@ actress: [ An Coco ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AP2vMbXLd8FXJJ4">
     <a href="javascript:;">
         <img src="/v/ipzz322pl/ipzz322pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz322pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ An Coco ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz322pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ An Coco ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz322pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

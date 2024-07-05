@@ -3,9 +3,9 @@ author: j91
 title: SONE-248 K-cup Secretary Gets Licked And Violated By Her Slug-like Boss Until She Cums Hikaru Nagi
 
 url: /v/sone248pl
-date: 0000-07-05T01:55:00Z
+date: 2024-07-05T01:55:00Z
 image: "sone248pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Titty Fuck, Abuse, Busty Fetish, Acme · Orgasm	]
+tags: [Censored, Solowork, Married Woman, Titty Fuck, Abuse, Busty Fetish, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nagi Hikaru]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagi Hikaru]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XrMRXmo2Q7uDplj">
     <a href="javascript:;">
         <img src="/v/sone248pl/sone248pl.jpg" width="WIDTH" height="HEIGHT" alt="sone248pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagi Hikaru]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone248pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagi Hikaru]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone248pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

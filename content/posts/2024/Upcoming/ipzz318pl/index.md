@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-318 VIP Room High-ranking Citizen To Avoid Mistakes 10 Creampie Service Azusa Hikari
 
 url: /v/ipzz318pl
-date: 0000-07-05T01:50:00Z
+date: 2024-07-05T01:50:00Z
 image: "ipzz318pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Cowgirl, Nurse	]
+tags: [Censored, Creampie, Solowork, Big Tits, Cowgirl, Nurse	]
 maker: [IDEA POCKET]
 actress: [ Azusa Hikari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Azusa Hikari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OV91kAqwJRUZ3po">
     <a href="javascript:;">
         <img src="/v/ipzz318pl/ipzz318pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Azusa Hikari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz318pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Azusa Hikari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz318pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: SONE-222 L-Cup Newcomer AV First Experience 3 Productions Yuu Tano
 
 url: /v/sone222pl
-date: 0000-07-05T01:55:00Z
+date: 2024-07-05T01:55:00Z
 image: "sone222pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Ultra-Huge Tits, Kiss	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Ultra-Huge Tits, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Tano Yu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tano Yu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="dPR0arvxRBCZXm">
     <a href="javascript:;">
         <img src="/v/sone222pl/sone222pl.jpg" width="WIDTH" height="HEIGHT" alt="sone222pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tano Yu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone222pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tano Yu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone222pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

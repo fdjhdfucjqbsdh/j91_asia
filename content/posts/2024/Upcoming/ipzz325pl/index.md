@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-325 Gravure Idol X Race Queen, The Miraculous Hybrid Older Sister Makes Her AV Debut, Rana Asamiya
 
 url: /v/ipzz325pl
-date: 0000-07-05T01:50:00Z
+date: 2024-07-05T01:50:00Z
 image: "ipzz325pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Debut Production, Slender, Tall, Leg Fetish	]
+tags: [Censored, Solowork, Older Sister, Debut Production, Slender, Tall, Leg Fetish	]
 maker: [IDEA POCKET]
 actress: [ Asamiya Rana]
 ---
@@ -13,13 +13,13 @@ actress: [ Asamiya Rana]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="02dgmLJdwMFbqAX">
     <a href="javascript:;">
         <img src="/v/ipzz325pl/ipzz325pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz325pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asamiya Rana]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz325pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asamiya Rana]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz325pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
