@@ -3,9 +3,9 @@ author: j91
 title: GMEM-112 Devilish Swamp A Full Course Of Anal Perversion Training For A Masochistic Female College Student! Face-destroying Semen Bukkake & Insemination Creampie! Mero Mizutani
 
 url: /v/gmem112pl
-date: 0000-07-06T01:20:00Z
+date: 2024-07-06T01:20:00Z
 image: "gmem112pl.jpg"
-tags: [Upcoming releases, Anal, Solowork, Enema, Bukkake, Female College Student, Piss Drinking	]
+tags: [Censored, Anal, Solowork, Enema, Bukkake, Female College Student, Piss Drinking	]
 maker: [ Avs  ]
 actress: [ Mizutani Mero ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizutani Mero ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="plLVobYR9dtrMgX">
     <a href="javascript:;">
         <img src="/v/gmem112pl/gmem112pl.jpg" width="WIDTH" height="HEIGHT" alt="gmem112pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizutani Mero ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gmem112pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizutani Mero ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gmem112pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

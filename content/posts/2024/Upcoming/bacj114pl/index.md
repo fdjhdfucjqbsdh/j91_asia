@@ -3,9 +3,9 @@ author: j91
 title: BACJ-114 M-man Pressure Meat Bullet Dirty Woman Kasumi Yua
 
 url: /v/bacj114pl
-date: 0000-07-06T01:20:00Z
+date: 2024-07-06T01:20:00Z
 image: "bacj114pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Slut, Submissive Men, Huge Butt	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Slut, Submissive Men, Huge Butt	]
 maker: [ Barutan  ]
 actress: [ Osada Megumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Osada Megumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4XQ17WQGBxH2od">
     <a href="javascript:;">
         <img src="/v/bacj114pl/bacj114pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj114pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Osada Megumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj114pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Osada Megumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj114pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

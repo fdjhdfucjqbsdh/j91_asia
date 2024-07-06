@@ -3,9 +3,9 @@ author: j91
 title: MVG-092 When I Lost A Game Of Darts To The Beautiful Bar Assistant At My Favorite Bar, I Had To Wear A Nose Hook As A Penalty, And My Perverted Masochist Switch Was Turned On!
 
 url: /v/mvg092pl
-date: 0000-07-06T01:45:00Z
+date: 2024-07-06T01:45:00Z
 image: "mvg092pl.jpg"
-tags: [Upcoming releases, SM, 3P, 4P, Shibari, Submissive Woman	]
+tags: [Censored, SM, 3P, 4P, Shibari, Submissive Woman	]
 maker: [ Glory Quest  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Gpkr6kPXeZhobv">
     <a href="javascript:;">
         <img src="/v/mvg092pl/mvg092pl.jpg" width="WIDTH" height="HEIGHT" alt="mvg092pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvg092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvg092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

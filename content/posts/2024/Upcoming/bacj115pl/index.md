@@ -3,9 +3,9 @@ author: j91
 title: BACJ-115 "I'll Watch Your Face As You Faint From Your Nipples." Slutty Older Sister Stares At You And Manages Your Nipples Yukari Shizuki
 
 url: /v/bacj115pl
-date: 0000-07-06T01:20:00Z
+date: 2024-07-06T01:20:00Z
 image: "bacj115pl.jpg"
-tags: [Upcoming releases, Solowork, Masturbation, Dirty Words, Slut, Subjectivity, Close Up	]
+tags: [Censored, Solowork, Masturbation, Dirty Words, Slut, Subjectivity, Close Up	]
 maker: [ Barutan  ]
 actress: [ Shizuki Yukari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuki Yukari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RLdXoJ4akjUZ9y">
     <a href="javascript:;">
         <img src="/v/bacj115pl/bacj115pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj115pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuki Yukari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj115pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuki Yukari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj115pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
