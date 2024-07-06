@@ -1,21 +1,20 @@
 ---
 author: j91
-title: RVG-222 W Big Tits Slave BEST VOL.2
-
-url: /v/rvg222pl
-date: 2024-07-06T01:20:00Z
-image: "rvg222pl.jpg"
-tags: [Censored, 3P, 4P, Best, Omnibus, Big Tits, 4HR+	]
-maker: [ Glory Quest  ]
+title: HOIZ-128 Hoihoi Lover 21 ~ Konokono Hamedori ~ Amateur Hoihoi LOVER
+url: /v/hoiz128pl
+date: 2024-07-06T01:00:00Z
+image: "hoiz128pl.jpg"
+tags: [Censored, Amateur, Big Tits, POV, Beautiful Girl, 4HR+, Documentary	]
+maker: [Shirouto Hoihoi - Mousozoku  ]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="gwdyXR2xeahg8l">
+<div class="video" data-videoid="VBlRlJB93OcK72V">
     <a href="javascript:;">
-        <img src="/v/rvg222pl/rvg222pl.jpg" width="WIDTH" height="HEIGHT" alt="rvg222pl.mp4" loading="lazy">
+        <img src="/v/hoiz128pl/hoiz128pl.jpg" width="WIDTH" height="HEIGHT" alt="hoiz128pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +32,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/rvg222pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hoiz128pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +41,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/rvg222pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hoiz128pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
