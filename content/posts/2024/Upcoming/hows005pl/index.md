@@ -1,21 +1,21 @@
 ---
 author: j91
-title: NASK-092 Plump And Sexy Fifty-something Mothers, Sexually Frustrated Plump Mature Women's Forbidden Incest Drama, 6 People, 4 Hours
+title: HOWS-005 How To Gakuen, If You Watch It, You Will Definitely Become Better At Sex. Textbook AV [Male Genital Problem Solving SP] Shiori Kuraki
 
-url: /v/nask092pl
+url: /v/hows005pl
 date: 2024-07-06T01:00:00Z
-image: "nask092pl.jpg"
-tags: [Censored, Best, Omnibus, 4HR+, Incest, Mature Woman, BBW	]
-maker: [ Nadeshiko  ]
-actress: [ ]
+image: "hows005pl.jpg"
+tags: [Censored, Solowork, Uniform, School Stuff, 4HR+, How To	]
+maker: [Bareman~tsu!! Mousozoku  ]
+actress: [Kuraki Shiori ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="XoJbW2AY9XSDV8G">
+<div class="video" data-videoid="oZPeBQl4d4sOk6">
     <a href="javascript:;">
-        <img src="/v/nask092pl/nask092pl.jpg" width="WIDTH" height="HEIGHT" alt="nask092pl.mp4" loading="lazy">
+        <img src="/v/hows005pl/hows005pl.jpg" width="WIDTH" height="HEIGHT" alt="hows005pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/nask092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hows005pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/nask092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hows005pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
