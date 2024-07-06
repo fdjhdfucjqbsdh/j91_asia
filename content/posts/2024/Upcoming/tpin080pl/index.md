@@ -3,9 +3,9 @@ author: j91
 title: TPIN-080 Uncut Blind Date. I Had Crazy Sex With Two Monster Girls With A Bad Libido Who Live In The Same Apartment. We Had A Toast At A Yakiniku Party And Had A Lively Orgy With A King's Game.
 
 url: /v/tpin080pl
-date: 0000-07-06T01:49:00Z
+date: 2024-07-06T01:49:00Z
 image: "tpin080pl.jpg"
-tags: [Upcoming releases, Creampie, Voyeur, Beautiful Girl, Promiscuity, Drinking Party	]
+tags: [Censored, Creampie, Voyeur, Beautiful Girl, Promiscuity, Drinking Party	]
 maker: [ Tsubakihoin  ]
 actress: [ Hamasaki Mao, Mita Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao, Mita Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JyA2vdjKpXiyZO">
     <a href="javascript:;">
         <img src="/v/tpin080pl/tpin080pl.jpg" width="WIDTH" height="HEIGHT" alt="tpin080pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao, Mita Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tpin080pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao, Mita Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tpin080pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

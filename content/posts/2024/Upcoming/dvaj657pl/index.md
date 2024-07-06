@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-657 A-san, A Wife Who Drives A Light Wagon And Is Busy Taking Her Children To And From School And Going Shopping, Is Having An Affair With A College Student Who Works Part-time With Her Every Day (39 Years Old, Living In Machida City, Mother Of Two, Haircuts At A 1000 Yen Haircut Salon, Hobby Is Shopping Sprees At 100 Yen Shops) She Quietly Goes Home With The Semen Inside Her Vagina And Returns To Being A Mother - Fujisaki Murasaki
 
 url: /v/dvaj657pl
-date: 0000-07-06T01:45:00Z
+date: 2024-07-06T01:45:00Z
 image: "dvaj657pl.jpg"
-tags: [Upcoming releases, Solowork, Car Sex, Married Woman, Affair, Cuckold	]
+tags: [Censored, Solowork, Car Sex, Married Woman, Affair, Cuckold	]
 maker: [ Alice Japan  ]
 actress: [ Fujisaku Akane]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisaku Akane]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="V0MaPvAL29hKl20">
     <a href="javascript:;">
         <img src="/v/dvaj657pl/dvaj657pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj657pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj657pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj657pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

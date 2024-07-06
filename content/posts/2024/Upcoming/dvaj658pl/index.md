@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-658 I Had A Physical Relationship With The Wife Of My Boarding House, And Even Though I Was On The Verge Of Repeating The Year, I Didn't Attend Lectures And Spent All My Time Holed Up In My Dingy Apartment Having Sex. Kanna Misaki
 
 url: /v/dvaj658pl
-date: 0000-07-06T01:45:00Z
+date: 2024-07-06T01:45:00Z
 image: "dvaj658pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Cuckold	]
 maker: [ Alice Japan  ]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Rw67xkrrO8cd1Kr">
     <a href="javascript:;">
         <img src="/v/dvaj658pl/dvaj658pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj658pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj658pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj658pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
