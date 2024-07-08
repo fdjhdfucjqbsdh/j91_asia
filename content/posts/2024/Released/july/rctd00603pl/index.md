@@ -5,9 +5,9 @@ title: RCTD-603 A Girl Who Loves Bats And Balls Has Grown A Bat And A Ball! ? Le
 url: /v/rctd00603pl
 date: 2024-07-08T15:30:00Z
 image: "rctd00603pl.jpg"
-tags: [Censored, ]
+tags: [Censored, 3P&4P, Lesbian, Planning, Sport]
 maker: [Rocket]
-actress: [ ]
+actress: [ Uruki Sara, Asakura Kokona,Monami Suzu]
 ---
 
 

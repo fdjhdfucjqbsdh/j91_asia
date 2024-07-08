@@ -5,9 +5,9 @@ title: RCTD-607 Petrified Female Prisoner – Sentenced To 100 Years In Stone! P
 url: /v/rctd00607pl
 date: 2024-07-08T15:30:00Z
 image: "rctd00607pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Humiliation, Other Fetish, Planning]
 maker: [Rocket]
-actress: [ ]
+actress: [ Tsuji Sakura]
 ---
 
 

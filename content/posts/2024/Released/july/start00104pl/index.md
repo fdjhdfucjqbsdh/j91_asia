@@ -5,9 +5,9 @@ title: START-104 Hikari, The Town’s Madonna Bento Shop Owner, Tastes Her Custo
 url: /v/start00104pl
 date: 2024-07-08T15:50:00Z
 image: "start00104pl.jpg"
-tags: [Censored, ]
+tags: [Censored, 3P&4P, Cosplay, Drama, Slut, Solowork, Various Professions]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Aozora Hikari]
 ---
 
 

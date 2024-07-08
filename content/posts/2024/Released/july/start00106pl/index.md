@@ -5,9 +5,9 @@ title: START-106 Forced to Wear a Tiny, Embarrassing Swimsuit, More Embarrassing
 url: /v/start00106pl
 date: 2024-07-08T15:50:00Z
 image: "start00106pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Drama, OL, Promiscuity, Solowork, Swimsuit]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Shiina Koharu]
 ---
 
 
