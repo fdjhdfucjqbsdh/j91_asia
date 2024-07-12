@@ -3,9 +3,9 @@ author: j91
 title: DVMM-118 Face-revealing MM-go, Black Pantyhose Only, The Magic Mirror, Big-assed Office Lady's First Milk Enema Experience! An Elite Office Lady Who Has A Large Amount Of Milk Injected Into Her Anus Can't Hold It In And Squirts In Public While Still Fully Clothed!
 
 url: /v/dvmm118pl
-date: 0000-07-12T01:08:00Z
+date: 2024-07-12T01:08:00Z
 image: "dvmm118pl.jpg"
-tags: [Upcoming releases, OL, Anal, Enema, Pantyhose, Amateur, 4HR+	]
+tags: [Censored, OL, Anal, Enema, Pantyhose, Amateur, 4HR+	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="88bgZo1gb8SGry">
     <a href="javascript:;">
         <img src="/v/dvmm118pl/dvmm118pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm118pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm118pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm118pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

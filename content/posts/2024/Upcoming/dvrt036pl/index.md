@@ -3,9 +3,9 @@ author: j91
 title: DVRT-036 Prostitution Delivery WomanEats
 
 url: /v/dvrt036pl
-date: 0000-07-12T01:08:00Z
+date: 2024-07-12T01:08:00Z
 image: "dvrt036pl.jpg"
-tags: [Upcoming releases, Masturbation, Various Professions, Delusion, Fantasy, Gag · Comedy	]
+tags: [Censored, Masturbation, Various Professions, Delusion, Fantasy, Gag · Comedy	]
 maker: [Deeps]
 actress: [ Ueshiro Mio, Suehiro Jun, Ichii Yuka, Natsukawa Ayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ueshiro Mio, Suehiro Jun, Ichii Yuka, Natsukawa Ayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qyRZo70y9yFzg1B">
     <a href="javascript:;">
         <img src="/v/dvrt036pl/dvrt036pl.jpg" width="WIDTH" height="HEIGHT" alt="dvrt036pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ueshiro Mio, Suehiro Jun, Ichii Yuka, Natsukawa Ayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvrt036pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ueshiro Mio, Suehiro Jun, Ichii Yuka, Natsukawa Ayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvrt036pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

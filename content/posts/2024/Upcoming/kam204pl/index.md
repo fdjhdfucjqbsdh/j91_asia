@@ -3,9 +3,9 @@ author: j91
 title: KAM-204 "Are You The New Teacher Who Has Just Been Appointed To Our School?" A Video Of A New Female Teacher Being Sexually Assaulted By A Perverted And Erotic Principal 4 Asami Mizubata
 
 url: /v/kam204pl
-date: 0000-07-12T01:09:00Z
+date: 2024-07-12T01:09:00Z
 image: "kam204pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Female Teacher, Slender, Documentary	]
+tags: [Censored, Creampie, Solowork, Humiliation, Female Teacher, Slender, Documentary	]
 maker: [Karuma]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VxaXpOgmLDSK2km">
     <a href="javascript:;">
         <img src="/v/kam204pl/kam204pl.jpg" width="WIDTH" height="HEIGHT" alt="kam204pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam204pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam204pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

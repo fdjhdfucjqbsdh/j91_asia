@@ -3,9 +3,9 @@ author: j91
 title: MUCD-307 The Best Way To Jerk Off To Super Cute Uniformed Girls And Have Some Lovey-dovey Sex. Two Beautiful Girls Getting Fucked Until They've Ejaculated. Massive Creampies, POV Footage, And The Best Blowjob And Orgasm Faces (MUCD-307)
 
 url: /v/mucd307pl
-date: 0000-07-12T01:10:00Z
+date: 2024-07-12T01:10:00Z
 image: "mucd307pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Uniform, School Girls, Beautiful Girl	]
+tags: [Censored, Cosplay, Creampie, Uniform, School Girls, Beautiful Girl	]
 maker: [Muku]
 actress: [ Kanade Kanon ,Honda Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanade Kanon ,Honda Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AkDKyeMRPWfZrz">
     <a href="javascript:;">
         <img src="/v/mucd307pl/mucd307pl.jpg" width="WIDTH" height="HEIGHT" alt="mucd307pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kanade Kanon ,Honda Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mucd307pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kanade Kanon ,Honda Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mucd307pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

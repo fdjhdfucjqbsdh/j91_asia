@@ -3,9 +3,9 @@ author: j91
 title: HJMO-654 A Game Of Guessing A Fixed Dildo With A Big-assed Girl In Black Pantyhose. A One-on-one Contest With The Dominant Rod! If You Guess Correctly, You'll Win 1 Million Yen! If You Miss, You'll Be Fucked By A Big Dick On The Spot! Can This Adolescent Pussy That Has Just Come With A Dildo Be Fucked By A Dick Bigger Than Her Boyfriend And Come Over And Over Again Refuse A Creampie?
 
 url: /v/hjmo654pl
-date: 0000-07-12T01:07:00Z
+date: 2024-07-12T01:07:00Z
 image: "hjmo654pl.jpg"
-tags: [Upcoming releases, Humiliation, Pantyhose, Impromptu Sex, Huge Cock, Dildo	]
+tags: [Censored, Humiliation, Pantyhose, Impromptu Sex, Huge Cock, Dildo	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zLMbBOJJJvSYVR4">
     <a href="javascript:;">
         <img src="/v/hjmo654pl/hjmo654pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo654pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo654pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo654pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

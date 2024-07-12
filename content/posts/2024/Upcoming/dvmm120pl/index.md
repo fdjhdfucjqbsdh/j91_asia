@@ -3,9 +3,9 @@ author: j91
 title: DVMM-120 Ordinary Men And Women Monitoring AV An Insatiable Busty Wife And A Virgin Boy Try To Escape From A Love Hotel Where They Can't Leave Until They've Collected 20ml Of Semen! 4 A Wife Who Hasn't Had Sex With Her Husband For A While Picks Up A Male College Student For The First Time And Gives Him A Handjob, Masturbation, Blowjob, And Deflowering To Make Him Ejaculate! A Younger Man's Dick That Doesn't Go Limp No Matter How Many Times He Cums And A Huge Amount Of Semen...
 
 url: /v/dvmm120pl
-date: 0000-07-12T01:08:00Z
+date: 2024-07-12T01:08:00Z
 image: "dvmm120pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, Married Woman, 4HR+, Cuckold	]
+tags: [Censored, Creampie, Amateur, Big Tits, Married Woman, 4HR+, Cuckold	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Lp2wzkBwv4iv7m">
     <a href="javascript:;">
         <img src="/v/dvmm120pl/dvmm120pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
