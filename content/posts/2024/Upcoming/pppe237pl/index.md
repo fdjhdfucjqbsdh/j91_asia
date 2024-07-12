@@ -3,9 +3,9 @@ author: j91
 title: PPPE-237 A Men's Beauty Salon Where Anime Voice Actors (big Breasts) Secretly Work And Whisper Dirty Words
 
 url: /v/pppe237pl
-date: 0000-07-12T01:40:00Z
+date: 2024-07-12T01:40:00Z
 image: "pppe237pl.jpg"
-tags: [Upcoming releases, Beauty Shop, Dirty Words, Big Tits, Titty Fuck, Slut	]
+tags: [Censored, Beauty Shop, Dirty Words, Big Tits, Titty Fuck, Slut	]
 maker: [Oppai]
 actress: [ Amatsuki Azu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="O72BbJGYQmuZvKJ">
     <a href="javascript:;">
         <img src="/v/pppe237pl/pppe237pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe237pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe237pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe237pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

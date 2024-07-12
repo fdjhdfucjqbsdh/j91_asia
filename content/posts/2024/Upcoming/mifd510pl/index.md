@@ -3,9 +3,9 @@ author: j91
 title: MIFD-510 A Japanese Teacher Working At A Junior High School In Hiroshima Prefecture Is Actually An F-cup When She Takes Off Her Clothes And Loves Erotica. A Shy And Naughty Teacher Makes Her AV Debut Yura Satsuki
 
 url: /v/mifd510pl
-date: 0000-07-12T01:55:00Z
+date: 2024-07-12T01:55:00Z
 image: "mifd510pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Female Teacher, Big Tits, Debut Production, Squirting	]
+tags: [Censored, Restraint, Solowork, Female Teacher, Big Tits, Debut Production, Squirting	]
 maker: [MOODYZ]
 actress: [ Satsuki Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satsuki Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="q9bMY30P14izPJB">
     <a href="javascript:;">
         <img src="/v/mifd510pl/mifd510pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd510pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Satsuki Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd510pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Satsuki Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd510pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

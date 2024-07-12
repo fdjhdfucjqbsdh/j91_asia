@@ -3,9 +3,9 @@ author: j91
 title: PRED-688 Half-Japanese Female Announcer Candidate Who Wants To Be Beautiful Gets A Massage To Develop Her Chemistry, Erika Kinoha
 
 url: /v/pred688pl
-date: 0000-07-12T01:45:00Z
+date: 2024-07-12T01:45:00Z
 image: "pred688pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Beauty Shop, Nasty, Hardcore, Squirting, Lotion	]
+tags: [Censored, 3P, 4P, Solowork, Beauty Shop, Nasty, Hardcore, Squirting, Lotion	]
 maker: [Premium]
 actress: [ Kononoba Erika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kononoba Erika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6m0bX0pZDPSxKY">
     <a href="javascript:;">
         <img src="/v/pred688pl/pred688pl.jpg" width="WIDTH" height="HEIGHT" alt="pred688pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kononoba Erika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pred688pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kononoba Erika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pred688pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

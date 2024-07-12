@@ -3,9 +3,9 @@ author: j91
 title: MIAB-243 I Fell In Love With My Son's Soccer Coach. My Second Youth As An Adult Was Ignited, And I Became Addicted To A Quick Creampie Affair In The Afternoon Until My Son Came Home... Kana Morisawa
 
 url: /v/miab243pl
-date: 0000-07-12T01:55:00Z
+date: 2024-07-12T01:55:00Z
 image: "miab243pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Married Woman, Affair, Cuckold	]
+tags: [Censored, Blow, Creampie, Solowork, Married Woman, Affair, Cuckold	]
 maker: [MOODYZ]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qg7w8WvbA2HzQKP">
     <a href="javascript:;">
         <img src="/v/miab243pl/miab243pl.jpg" width="WIDTH" height="HEIGHT" alt="miab243pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab243pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab243pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MIMK-154 Over 20,000 Sales! A Live-action Adaptation Of The Popular Nipple-playing Game! Childhood Friend Addicted To Nipple Guessing Games - Live-action Version - Rima Arai
 
 url: /v/mimk154pl
-date: 0000-07-12T01:55:00Z
+date: 2024-07-12T01:55:00Z
 image: "mimk154pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Breasts, Lotion, Original Collaboration, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, Breasts, Lotion, Original Collaboration, Acme · Orgasm	]
 maker: [MOODYZ]
 actress: [ Arai Rima ]
 ---
@@ -13,13 +13,13 @@ actress: [ Arai Rima ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="r8PYx1xKR3fbZDV">
     <a href="javascript:;">
         <img src="/v/mimk154pl/mimk154pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk154pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Arai Rima ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk154pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Arai Rima ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk154pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
