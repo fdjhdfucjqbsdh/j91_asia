@@ -3,9 +3,9 @@ author: j91
 title: DVMM-119 15th Anniversary Of The Guerrilla Pick-up Service In The City! Faces Revealed! Highly Educated Female College Students Attending Prestigious Universities First Slippery Oil Handjob Edition All 8 Girls Ejaculate Semen Unexpectedly & SEX Special! Magic Mirror Service A Careful Slow Handjob Makes A Stiff Erection And A Big Dick Is Inserted Into A Soaking Wet Pussy That Is Inadvertently Hot...
 
 url: /v/dvmm119pl
-date: 0000-07-12T01:08:00Z
+date: 2024-07-12T01:08:00Z
 image: "dvmm119pl.jpg"
-tags: [Upcoming releases, Handjob, Amateur, Nampa, 4HR+, Female College Student, Huge Cock	]
+tags: [Censored, Handjob, Amateur, Nampa, 4HR+, Female College Student, Huge Cock	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BezwXeByXehy4Ar">
     <a href="javascript:;">
         <img src="/v/dvmm119pl/dvmm119pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm119pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm119pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm119pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

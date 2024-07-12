@@ -3,9 +3,9 @@ author: j91
 title: MUCD-302 God Slender Hairy Beautiful Girl Sumire Kuramoto Innocent 5 Titles COMPLETE BEST 4 Hours
 
 url: /v/mucd302pl
-date: 0000-07-12T01:10:00Z
+date: 2024-07-12T01:10:00Z
 image: "mucd302pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Beautiful Girl,4HR+,Slender,Deep Throating,Acme · Orgasm	]
+tags: [Censored, Creampie,Solowork,Beautiful Girl,4HR+,Slender,Deep Throating,Acme · Orgasm	]
 maker: [Muku]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mwWwd1x7gWHbo90">
     <a href="javascript:;">
         <img src="/v/mucd302pl/mucd302pl.jpg" width="WIDTH" height="HEIGHT" alt="mucd302pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mucd302pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mucd302pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

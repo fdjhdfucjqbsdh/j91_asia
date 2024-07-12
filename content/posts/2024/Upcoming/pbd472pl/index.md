@@ -3,9 +3,9 @@ author: j91
 title: PBD-472 88,000cc Of Body Fluids Leaking! 350,000 Convulsions! 50 Consecutive Shots Of Beautiful, Squirting, Lewd, Climaxing Ladies Exposing Themselves To The World
 
 url: /v/pbd472pl
-date: 0000-07-12T01:00:00Z
+date: 2024-07-12T01:00:00Z
 image: "pbd472pl.jpg"
-tags: [Upcoming releases, Older Sister, Nasty, Hardcore, Squirting, 4HR+, Slender, Toy	]
+tags: [Censored, Older Sister, Nasty, Hardcore, Squirting, 4HR+, Slender, Toy	]
 maker: [Premium]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xoBXaqZaaGfk2B7">
     <a href="javascript:;">
         <img src="/v/pbd472pl/pbd472pl.jpg" width="WIDTH" height="HEIGHT" alt="pbd472pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pbd472pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pbd472pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
