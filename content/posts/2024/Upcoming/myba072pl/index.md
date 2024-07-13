@@ -3,9 +3,9 @@ author: j91
 title: MYBA-072 A Married Woman's Petals Turned Over Nami Kuroki
 
 url: /v/myba072pl
-date: 0000-07-13T01:45:00Z
+date: 2024-07-13T01:45:00Z
 image: "myba072pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman	]
 maker: [ Hitodzumaengokai-Emanuel  ]
 actress: [ Kuroki Nami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Nami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="aP3rKyO9RZTxLXe">
     <a href="javascript:;">
         <img src="/v/myba072pl/myba072pl.jpg" width="WIDTH" height="HEIGHT" alt="myba072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/myba072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/myba072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DIVAS-099 A Great Discovery! A Total Amateur Girl From Eastern Europe. Crossing The Border And Having Divine Sex With The Blonde Beauty Of Your Dreams!
 
 url: /v/divas099pl
-date: 0000-07-13T01:20:00Z
+date: 2024-07-13T01:20:00Z
 image: "divas099pl.jpg"
-tags: [Upcoming releases, Squirting, Nampa, White Actress, Rolling Back Eyes - Fainting	]
+tags: [Censored, Squirting, Nampa, White Actress, Rolling Back Eyes - Fainting	]
 maker: [ Diva- Mousou Zoku Inta-nashonaru  ]
 actress: [ Cherry Kiss, Laura Hart, Candy Luciani ]
 ---
@@ -13,13 +13,13 @@ actress: [ Cherry Kiss, Laura Hart, Candy Luciani ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="61v6PjM2WMI9aWV">
     <a href="javascript:;">
         <img src="/v/divas099pl/divas099pl.jpg" width="WIDTH" height="HEIGHT" alt="divas099pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Cherry Kiss, Laura Hart, Candy Luciani ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/divas099pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Cherry Kiss, Laura Hart, Candy Luciani ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/divas099pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
