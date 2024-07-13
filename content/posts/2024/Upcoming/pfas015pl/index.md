@@ -3,9 +3,9 @@ author: j91
 title: PFAS-015 White Eros Angel Midnight Cowgirl Rion Izumi
 
 url: /v/pfas015pl
-date: 0000-07-13T01:20:00Z
+date: 2024-07-13T01:20:00Z
 image: "pfas015pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Slender, Nurse, Drama	]
+tags: [Censored, Blow, Solowork, Slender, Nurse, Drama	]
 maker: [ FA Pro . Platinum  ]
 actress: [ Isumi Rion ]
 ---
@@ -13,13 +13,13 @@ actress: [ Isumi Rion ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pl2boVqgJzuGD0">
     <a href="javascript:;">
         <img src="/v/pfas015pl/pfas015pl.jpg" width="WIDTH" height="HEIGHT" alt="pfas015pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Isumi Rion ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pfas015pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Isumi Rion ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pfas015pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
