@@ -3,9 +3,9 @@ author: j91
 title: BBTU-083 My Dick Was Confined By A Big-breasted Gal. Kokoro Ayase
 
 url: /v/bbtu083pl
-date: 0000-07-13T01:20:00Z
+date: 2024-07-13T01:20:00Z
 image: "bbtu083pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Gal, Big Tits, Titty Fuck, Busty Fetish	]
+tags: [Censored, Handjob, Solowork, Gal, Big Tits, Titty Fuck, Busty Fetish	]
 maker: [ Dogma  ]
 actress: [ Ayase Kokoro ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ayase Kokoro ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9BJgVdGJyOiaWZ7">
     <a href="javascript:;">
         <img src="/v/bbtu083pl/bbtu083pl.jpg" width="WIDTH" height="HEIGHT" alt="bbtu083pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbtu083pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbtu083pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
