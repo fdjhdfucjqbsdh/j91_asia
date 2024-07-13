@@ -3,9 +3,9 @@ author: j91
 title: GTJ-143 M Drug Female Toilet Ayaka Mochizuki
 
 url: /v/gtj143pl
-date: 0000-07-13T01:20:00Z
+date: 2024-07-13T01:20:00Z
 image: "gtj143pl.jpg"
-tags: [Upcoming releases, Anal, Creampie, 3P, 4P, Restraint, Solowork, Deep Throating	]
+tags: [Censored, Anal, Creampie, 3P, 4P, Restraint, Solowork, Deep Throating	]
 maker: [ Dogma  ]
 actress: [ Mochizuki Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mochizuki Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lawDApRzxXS7LX1">
     <a href="javascript:;">
         <img src="/v/gtj143pl/gtj143pl.jpg" width="WIDTH" height="HEIGHT" alt="gtj143pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mochizuki Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gtj143pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mochizuki Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gtj143pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

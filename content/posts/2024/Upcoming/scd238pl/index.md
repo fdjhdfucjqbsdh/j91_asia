@@ -3,9 +3,9 @@ author: j91
 title: SCD-238 Widow, Sexual Desires Seeping Out From Under Mourning Clothes 3
 
 url: /v/scd238pl
-date: 0000-07-13T01:45:00Z
+date: 2024-07-13T01:45:00Z
 image: "scd238pl.jpg"
-tags: [Upcoming releases, Creampie, Married Woman, Mature Woman, Widow	]
+tags: [Censored, Creampie, Married Woman, Mature Woman, Widow	]
 maker: [ Ruby  ]
 actress: [ Igarashi Chie, Okada Mayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Igarashi Chie, Okada Mayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="yrgpQQvp1PU3em">
     <a href="javascript:;">
         <img src="/v/scd238pl/scd238pl.jpg" width="WIDTH" height="HEIGHT" alt="scd238pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Igarashi Chie, Okada Mayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/scd238pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Igarashi Chie, Okada Mayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/scd238pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

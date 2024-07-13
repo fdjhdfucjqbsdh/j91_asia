@@ -3,9 +3,9 @@ author: j91
 title: DDFF-037 Throat Rape Interview Yuuna Mitake
 
 url: /v/ddff037pl
-date: 0000-07-13T01:45:00Z
+date: 2024-07-13T01:45:00Z
 image: "ddff037pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Restraint, Solowork, Deep Throating, Instructor, Sport	]
+tags: [Censored, 3P, 4P, Restraint, Solowork, Deep Throating, Instructor, Sport	]
 maker: [ Dogma  ]
 actress: [ Mitake Yuuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitake Yuuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Gwz2dyAlX2u1G7V">
     <a href="javascript:;">
         <img src="/v/ddff037pl/ddff037pl.jpg" width="WIDTH" height="HEIGHT" alt="ddff037pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ddff037pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ddff037pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

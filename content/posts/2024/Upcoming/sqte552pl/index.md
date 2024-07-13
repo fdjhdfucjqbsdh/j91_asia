@@ -3,9 +3,9 @@ author: j91
 title: SQTE-552 Petite Uniformed Beautiful Girl's Intense Sex 3 Times, Tsubomi Mochizuki
 
 url: /v/sqte552pl
-date: 0000-07-13T01:55:00Z
+date: 2024-07-13T01:55:00Z
 image: "sqte552pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, POV, Beautiful Girl, School Uniform	]
+tags: [Censored, Blow, Solowork, POV, Beautiful Girl, School Uniform	]
 maker: [ S-cute  ]
 actress: [ Mochizuki Tsubomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mochizuki Tsubomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="R7mja6eOraidOWr">
     <a href="javascript:;">
         <img src="/v/sqte552pl/sqte552pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte552pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sqte552pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sqte552pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

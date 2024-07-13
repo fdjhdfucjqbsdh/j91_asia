@@ -3,9 +3,9 @@ author: j91
 title: PAP-245 Mature Women Get Hooked On Huge Foreign Dicks For The First Time
 
 url: /v/pap245pl
-date: 0000-07-13T01:20:00Z
+date: 2024-07-13T01:20:00Z
 image: "pap245pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, Mature Woman, Huge Cock	]
+tags: [Censored, Creampie, Big Tits, Married Woman, Mature Woman, Huge Cock	]
 maker: [ Ruby  ]
 actress: [ Takeuchi Rie ,Hayashi Aika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takeuchi Rie ,Hayashi Aika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2kDwovooaeuZD3w">
     <a href="javascript:;">
         <img src="/v/pap245pl/pap245pl.jpg" width="WIDTH" height="HEIGHT" alt="pap245pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takeuchi Rie ,Hayashi Aika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pap245pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takeuchi Rie ,Hayashi Aika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pap245pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
