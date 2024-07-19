@@ -3,9 +3,9 @@ author: j91
 title: DASS-429 Seriously? Is This Reality? It's Like A Dream, And It Explodes Again And Again, And My Dick Goes Into A Mega High! A Brutal Raw Fucking Indian Orgasm That Sends Me Into An Infinite Ejaculation Pleasure Zone That Messes With The Timeline. Haruhi Moka
 
 url: /v/dass429pl
-date: 0000-07-19T01:45:00Z
+date: 2024-07-19T01:45:00Z
 image: "dass429pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Big Tits, Beautiful Girl, Slut, Submissive Men	]
+tags: [Censored, Solowork, Gal, Big Tits, Beautiful Girl, Slut, Submissive Men	]
 maker: [Das !]
 actress: [ Haruhi Moka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruhi Moka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7KkJBz4jQ9UAepr">
     <a href="javascript:;">
         <img src="/v/dass429pl/dass429pl.jpg" width="WIDTH" height="HEIGHT" alt="dass429pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass429pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass429pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

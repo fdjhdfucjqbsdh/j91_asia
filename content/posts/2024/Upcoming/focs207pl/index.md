@@ -3,9 +3,9 @@ author: j91
 title: FOCS-207 A NEET Brother Who Is A Game Nerd And A Short 136cm J● Beautiful Girl's Blowjob, Swallowing, NTR, And Creampie. A Quagmire Of Immorality And Co-dependent Sex Between Brother And Sister. Yuka Miyoshi
 
 url: /v/focs207pl
-date: 0000-07-19T01:20:00Z
+date: 2024-07-19T01:20:00Z
 image: "focs207pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Incest, Mini, Sister, Cuckold	]
+tags: [Censored, Creampie, Solowork, Incest, Mini, Sister, Cuckold	]
 maker: [Abc- Mousou Zoku]
 actress: [ Miyoshi Yuzuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyoshi Yuzuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="K0kmXMexlWczb7">
     <a href="javascript:;">
         <img src="/v/focs207pl/focs207pl.jpg" width="WIDTH" height="HEIGHT" alt="focs207pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs207pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs207pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

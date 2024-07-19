@@ -3,9 +3,9 @@ author: j91
 title: OAE-261 ♀ Karen Yuzuriha
 
 url: /v/oae261pl
-date: 0000-07-19T01:06:00Z
+date: 2024-07-19T01:06:00Z
 image: "oae261pl.jpg"
-tags: [Upcoming releases, Solowork, Image Video	]
+tags: [Censored, Solowork, Image Video	]
 maker: [Air Control]
 actress: [ Yuzuriha Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuzuriha Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VdaOKG9wvgsK26R">
     <a href="javascript:;">
         <img src="/v/oae261pl/oae261pl.jpg" width="WIDTH" height="HEIGHT" alt="oae261pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuzuriha Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/oae261pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuzuriha Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/oae261pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

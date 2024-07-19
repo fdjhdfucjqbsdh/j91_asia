@@ -3,9 +3,9 @@ author: j91
 title: HWKR-001 Horny Big-assed Caregiver Beautiful Wife Suzuhara Mitsuki
 
 url: /v/hwkr001pl
-date: 0000-07-19T01:07:00Z
+date: 2024-07-19T01:07:00Z
 image: "hwkr001pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Dirty Words, Married Woman, Cum, Conceived	]
+tags: [Censored, Creampie, Solowork, Dirty Words, Married Woman, Cum, Conceived	]
 maker: [Toyohiko]
 actress: [ Suzuhara Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzuhara Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BjBO9X67z2tGpB">
     <a href="javascript:;">
         <img src="/v/hwkr001pl/hwkr001pl.jpg" width="WIDTH" height="HEIGHT" alt="hwkr001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzuhara Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hwkr001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzuhara Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hwkr001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

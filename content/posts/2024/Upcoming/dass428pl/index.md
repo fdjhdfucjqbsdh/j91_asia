@@ -3,9 +3,9 @@ author: j91
 title: DASS-428 This Nasty Big-breasted Woman Who Bullies Her Subordinates And Steals The Cash Register Money Is So Annoying, I'm Going To Keep Raping Her Until She's As Worn Out As A Dust Rag!! Nene Tanaka
 
 url: /v/dass428pl
-date: 0000-07-19T01:45:00Z
+date: 2024-07-19T01:45:00Z
 image: "dass428pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Big Tits, Abuse, Huge Butt	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Big Tits, Abuse, Huge Butt	]
 maker: [Das !]
 actress: [ Tanaka Nene ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tanaka Nene ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WeVbD0BmRmCb8yG">
     <a href="javascript:;">
         <img src="/v/dass428pl/dass428pl.jpg" width="WIDTH" height="HEIGHT" alt="dass428pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass428pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass428pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

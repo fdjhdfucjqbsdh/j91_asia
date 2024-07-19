@@ -3,9 +3,9 @@ author: j91
 title: DASS-449 My Ass Doesn't Listen To Me. The Temptation Of A Chubby Older Sister Who Is Dominated By Her Big Ass And Can't Resist Her Instincts. Waka Misono
 
 url: /v/dass449pl
-date: 0000-07-19T01:45:00Z
+date: 2024-07-19T01:45:00Z
 image: "dass449pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Butt, Huge Butt, Back	]
+tags: [Censored, Solowork, Pantyhose, Butt, Huge Butt, Back	]
 maker: [Das !]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2KVXwL0AJKSZr9k">
     <a href="javascript:;">
         <img src="/v/dass449pl/dass449pl.jpg" width="WIDTH" height="HEIGHT" alt="dass449pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass449pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass449pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

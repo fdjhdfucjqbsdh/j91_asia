@@ -3,9 +3,9 @@ author: j91
 title: BONY-112 Retirement After Throat Creampie Deep Throat Suzune Anka
 
 url: /v/bony112pl
-date: 0000-07-19T01:10:00Z
+date: 2024-07-19T01:10:00Z
 image: "bony112pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Uniform, Deep Throating, Vomit, Submissive Woman	]
+tags: [Censored, Restraint, Solowork, Uniform, Deep Throating, Vomit, Submissive Woman	]
 maker: [ボニータ-妄想族]
 actress: [ Suzune Kyouka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzune Kyouka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bkmdlx8P1JuPe3b">
     <a href="javascript:;">
         <img src="/v/bony112pl/bony112pl.jpg" width="WIDTH" height="HEIGHT" alt="bony112pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzune Kyouka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bony112pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzune Kyouka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bony112pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

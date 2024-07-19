@@ -3,9 +3,9 @@ author: j91
 title: DASS-431 My Girlfriend's Mother Is More Appealing To Me Than My Girlfriend, And My Dick Is So Hard It Hurts. Yurika Aoi
 
 url: /v/dass431pl
-date: 0000-07-19T01:45:00Z
+date: 2024-07-19T01:45:00Z
 image: "dass431pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Slut, Affair	]
+tags: [Censored, Creampie, Solowork, Married Woman, Slut, Affair	]
 maker: [Das !]
 actress: [ Aoi Yurika]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Yurika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aZqkmjl81QtJ9Y">
     <a href="javascript:;">
         <img src="/v/dass431pl/dass431pl.jpg" width="WIDTH" height="HEIGHT" alt="dass431pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aoi Yurika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass431pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Yurika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass431pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
