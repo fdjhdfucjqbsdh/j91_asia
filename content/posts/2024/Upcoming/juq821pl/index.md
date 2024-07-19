@@ -3,9 +3,9 @@ author: j91
 title: JUQ-821 A National Treasure-class Glamorous Woman, Making Her First Appearance In The Long-awaited Soap Series! Two People With Excellent Compatibility In Body And Mind. A Deep Kissing Soap Where 'feelings' And 'lips' Overlap. Kana Kusakabe
 
 url: /v/juq821pl
-date: 0000-07-19T01:50:00Z
+date: 2024-07-19T01:50:00Z
 image: "juq821pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Soapland	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Soapland	]
 maker: [Madonna]
 actress: [ Kusakabe Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kusakabe Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3kw7rblK9WIaXZ">
     <a href="javascript:;">
         <img src="/v/juq821pl/juq821pl.jpg" width="WIDTH" height="HEIGHT" alt="juq821pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kusakabe Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq821pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kusakabe Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq821pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

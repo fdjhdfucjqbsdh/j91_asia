@@ -3,9 +3,9 @@ author: j91
 title: JUQ-783 Happening Bar Married Woman NTR "It's For You..." My Wife Said, But Before She Knew It, She Was Obsessed With The Men Who Flocked To Her. Kana Mito
 
 url: /v/juq783pl
-date: 0000-07-19T01:50:00Z
+date: 2024-07-19T01:50:00Z
 image: "juq783pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Mito Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mito Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3rwP8mlbKYHdyk1">
     <a href="javascript:;">
         <img src="/v/juq783pl/juq783pl.jpg" width="WIDTH" height="HEIGHT" alt="juq783pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mito Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq783pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mito Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq783pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

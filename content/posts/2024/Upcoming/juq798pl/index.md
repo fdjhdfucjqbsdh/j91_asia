@@ -3,9 +3,9 @@ author: j91
 title: JUQ-798 A Sad Widow, Immoral Impregnation And Upbringing. Every Night, Every Night, In Front Of Her Husband... She Is Raped By Her Father-in-law. Haruka Rukawa
 
 url: /v/juq798pl
-date: 0000-07-19T01:50:00Z
+date: 2024-07-19T01:50:00Z
 image: "juq798pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Breasts, Mature Woman, Widow, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Breasts, Mature Woman, Widow, Cuckold	]
 maker: [Madonna]
 actress: [ Rukawa Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Rukawa Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="e3RlvP9rbwFYgwR">
     <a href="javascript:;">
         <img src="/v/juq798pl/juq798pl.jpg" width="WIDTH" height="HEIGHT" alt="juq798pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Rukawa Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq798pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Rukawa Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq798pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

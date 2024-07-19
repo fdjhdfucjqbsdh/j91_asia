@@ -3,9 +3,9 @@ author: j91
 title: SONE-266 "Please Kiss Me..." I Missed The Last Train And Stayed The Night At My Junior's House... I Was Drunk And Turned Into A Kissing Maniac, And I Couldn't Resist His Charm, So I Betrayed My Girlfriend And Had A Passionate French Kiss Until The Morning. Ayaka Kawakita
 
 url: /v/sone266pl
-date: 0000-07-19T01:55:00Z
+date: 2024-07-19T01:55:00Z
 image: "sone266pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Slender, Drama, Cuckold, Kiss	]
+tags: [Censored, Blow, Solowork, Slender, Drama, Cuckold, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kawakita Saika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kawakita Saika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qZozXOG07GHZ0Z">
     <a href="javascript:;">
         <img src="/v/sone266pl/sone266pl.jpg" width="WIDTH" height="HEIGHT" alt="sone266pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kawakita Saika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone266pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kawakita Saika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone266pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

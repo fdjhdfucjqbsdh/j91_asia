@@ -3,9 +3,9 @@ author: j91
 title: SONE-261 Beautiful Woman's Saliva-filled Tongue Kiss And Her Genitals Melting With Her Juices In This Intense Sex Session - Haruka Kuragi
 
 url: /v/sone261pl
-date: 0000-07-19T01:55:00Z
+date: 2024-07-19T01:55:00Z
 image: "sone261pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Nasty, Hardcore, Cowgirl, Tall, Kiss	]
+tags: [Censored, Solowork, Big Tits, Nasty, Hardcore, Cowgirl, Tall, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kuraki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuraki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8q9e8gmeZVcX38">
     <a href="javascript:;">
         <img src="/v/sone261pl/sone261pl.jpg" width="WIDTH" height="HEIGHT" alt="sone261pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone261pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone261pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

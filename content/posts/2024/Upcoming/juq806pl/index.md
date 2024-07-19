@@ -3,9 +3,9 @@ author: j91
 title: JUQ-806 I Wanted To Make My Wife Admit Her Love, So I Left Her Alone With My Virile Junior For 3 Hours... I Kept Pounding Her With A Total Of 16 Creampies Without Pulling Out, And My NTR Story Took My Wife Away Ryo Aiyumi
 
 url: /v/juq806pl
-date: 0000-07-19T01:50:00Z
+date: 2024-07-19T01:50:00Z
 image: "juq806pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Ayumi Ryou]
 ---
@@ -13,13 +13,13 @@ actress: [ Ayumi Ryou]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XA87rDkBV8cDDyr">
     <a href="javascript:;">
         <img src="/v/juq806pl/juq806pl.jpg" width="WIDTH" height="HEIGHT" alt="juq806pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ayumi Ryou]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq806pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ayumi Ryou]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq806pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

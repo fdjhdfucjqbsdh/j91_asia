@@ -3,9 +3,9 @@ author: j91
 title: SONE-274 K-cup No-bra Sister's Bouncing Breasts X Nipples Double Unconscious Temptation Kagura Momoka
 
 url: /v/sone274pl
-date: 0000-07-19T01:55:00Z
+date: 2024-07-19T01:55:00Z
 image: "sone274pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Titty Fuck, Busty Fetish, Drama, Ultra-Huge Tits	]
+tags: [Censored, Solowork, Older Sister, Titty Fuck, Busty Fetish, Drama, Ultra-Huge Tits	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kagura Momoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagura Momoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="86qG6JxP1atoV3L">
     <a href="javascript:;">
         <img src="/v/sone274pl/sone274pl.jpg" width="WIDTH" height="HEIGHT" alt="sone274pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kagura Momoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone274pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kagura Momoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone274pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
