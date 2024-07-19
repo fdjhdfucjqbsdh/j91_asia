@@ -3,9 +3,9 @@ author: j91
 title: JYMA-061 A Documentary Of A Middle-aged Man's Sexual Desires. A Sweaty Sex Session Between An Obedient Wife With A Carnal Body And An Old Man. A Beautiful Wife Who Has Her Ripe Body Played With As She Pleases, Ayumi Natsukawa
 
 url: /v/jyma061pl
-date: 0000-07-19T01:15:00Z
+date: 2024-07-19T01:15:00Z
 image: "jyma061pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Documentary	]
+tags: [Censored, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Documentary	]
 maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [ Natsukawa Ayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukawa Ayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1jydBAWG22CeR30">
     <a href="javascript:;">
         <img src="/v/jyma061pl/jyma061pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma061pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jyma061pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jyma061pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

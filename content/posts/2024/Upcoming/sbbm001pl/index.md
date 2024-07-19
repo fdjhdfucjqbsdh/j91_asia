@@ -3,9 +3,9 @@ author: j91
 title: SBBM-001 Rubber Tip X Slit X Vaginal Ejaculation Miku Sawada
 
 url: /v/sbbm001pl
-date: 0000-07-19T01:07:00Z
+date: 2024-07-19T01:07:00Z
 image: "sbbm001pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, School Girls, Beautiful Girl, Slender	]
+tags: [Censored, Blow, Creampie, Solowork, School Girls, Beautiful Girl, Slender	]
 maker: [Toyohiko]
 actress: [ Sawada Miku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sawada Miku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vwDxMRb4lVs4gL7">
     <a href="javascript:;">
         <img src="/v/sbbm001pl/sbbm001pl.jpg" width="WIDTH" height="HEIGHT" alt="sbbm001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sawada Miku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sbbm001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sawada Miku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sbbm001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: ENKI-073 A Slutty Girl Who's Definitely Going To Get You Pounded! A Submissive Loli Who You'll Want To Bully And Cum Inside Of, Sora-chan
 
 url: /v/enki073pl
-date: 0000-07-20T01:20:00Z
+date: 2024-07-19T01:00:00Z
 image: "enki073pl.jpg"
-tags: [Upcoming releases, Creampie, Nasty, Hardcore, 4HR+, Deep Throating, Promiscuity, Vomit	]
+tags: [Censored, Creampie, Nasty, Hardcore, 4HR+, Deep Throating, Promiscuity, Vomit	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PbBLxzAXKXc0mWJ">
     <a href="javascript:;">
         <img src="/v/enki073pl/enki073pl.jpg" width="WIDTH" height="HEIGHT" alt="enki073pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/enki073pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/enki073pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
