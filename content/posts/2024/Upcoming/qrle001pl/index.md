@@ -3,9 +3,9 @@ author: j91
 title: QRLE-001 Lesbian SM Series, Doting Yuri SM Play
 
 url: /v/qrle001pl
-date: 0000-07-20T01:20:00Z
+date: 2024-07-20T01:20:00Z
 image: "qrle001pl.jpg"
-tags: [Upcoming releases, SM, Anal, Lesbian, Submissive Woman	]
+tags: [Censored, SM, Anal, Lesbian, Submissive Woman	]
 maker: [ Queen Road  ]
 actress: [ Tatsumi Reiko ,Amane Uran ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tatsumi Reiko ,Amane Uran ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="yBjkaQ8MVOs169W">
     <a href="javascript:;">
         <img src="/v/qrle001pl/qrle001pl.jpg" width="WIDTH" height="HEIGHT" alt="qrle001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tatsumi Reiko ,Amane Uran ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/qrle001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tatsumi Reiko ,Amane Uran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/qrle001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

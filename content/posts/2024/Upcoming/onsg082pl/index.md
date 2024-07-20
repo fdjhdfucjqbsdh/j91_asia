@@ -3,9 +3,9 @@ author: j91
 title: ONSG-082 Plump And Fleshy W Super-breasted Cast Nishimura Nina K-cup/Nitta Yuki L-cup
 
 url: /v/onsg082pl
-date: 0000-07-20T01:45:00Z
+date: 2024-07-20T01:45:00Z
 image: "onsg082pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Titty Fuck, Busty Fetish, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Big Tits, Titty Fuck, Busty Fetish, Ultra-Huge Tits	]
 maker: [ Geinko-pore-shon  ]
 actress: [ Nishimura Nina ,Nitta Yuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimura Nina ,Nitta Yuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="q6mo9zeqQQszpYd">
     <a href="javascript:;">
         <img src="/v/onsg082pl/onsg082pl.jpg" width="WIDTH" height="HEIGHT" alt="onsg082pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishimura Nina ,Nitta Yuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/onsg082pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishimura Nina ,Nitta Yuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/onsg082pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

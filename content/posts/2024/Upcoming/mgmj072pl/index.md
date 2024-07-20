@@ -3,9 +3,9 @@ author: j91
 title: MGMJ-072 Mizubata Asami's Pantyhose Legs Are So Sexy That It's Almost Like My Brain Is Melting
 
 url: /v/mgmj072pl
-date: 0000-07-20T01:59:00Z
+date: 2024-07-20T01:59:00Z
 image: "mgmj072pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Slut, Butt, Leg Fetish, Submissive Men	]
+tags: [Censored, Solowork, Pantyhose, Slut, Butt, Leg Fetish, Submissive Men	]
 maker: [ MEGAMI  ]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jVML4YZxlbtzj7Y">
     <a href="javascript:;">
         <img src="/v/mgmj072pl/mgmj072pl.jpg" width="WIDTH" height="HEIGHT" alt="mgmj072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mgmj072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mgmj072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

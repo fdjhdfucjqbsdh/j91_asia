@@ -3,9 +3,9 @@ author: j91
 title: TPNS-016 A Shy And Quiet 19-year-old Black-haired Pure And Innocent Crossdresser Cosplayer... Just A Deep Kiss Makes Him Horny [super Fully Erect Huge Cock Guy] He's Not Satisfied With The Continuous Orgasms Of Two Cocks Pounding His Rectum At The Same Time And Wants To Dig Himself [super Forbidden!! A Reverse Anal 2-way 3P Anal Orgy Documentary]
 
 url: /v/tpns016pl
-date: 0000-07-20T01:05:00Z
+date: 2024-07-20T01:05:00Z
 image: "tpns016pl.jpg"
-tags: [Upcoming releases, Transsexual, Cosplay, Promiscuity, Cross Dressing	]
+tags: [Censored, Transsexual, Cosplay, Promiscuity, Cross Dressing	]
 maker: [ Zennihon Kameko Kyoudou Kumiai- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9v4x0V6JJWsazoO">
     <a href="javascript:;">
         <img src="/v/tpns016pl/tpns016pl.jpg" width="WIDTH" height="HEIGHT" alt="tpns016pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tpns016pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tpns016pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
