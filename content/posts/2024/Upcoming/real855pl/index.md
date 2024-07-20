@@ -3,9 +3,9 @@ author: j91
 title: REAL-855 Countryside Housewife Tortured To Hell
 
 url: /v/real855pl
-date: 0000-07-20T01:55:00Z
+date: 2024-07-20T01:55:00Z
 image: "real855pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Married Woman, Nasty, Hardcore, Promiscuity	]
+tags: [Censored, Creampie, 3P, 4P, Married Woman, Nasty, Hardcore, Promiscuity	]
 maker: [ K.M.Produce  ]
 actress: [ Iioka Kanako ,Yoshine Yuria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako ,Yoshine Yuria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="09R2BLM9WXCbPlj">
     <a href="javascript:;">
         <img src="/v/real855pl/real855pl.jpg" width="WIDTH" height="HEIGHT" alt="real855pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako ,Yoshine Yuria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/real855pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako ,Yoshine Yuria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/real855pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AVSA-325 The Neighbors In The Apartment Building Were Lured Into The Sexual Desire Monster Swamp By A Beautiful Wife With Beautiful Breasts And Ass, And Were Made To Ejaculate Many Times. Sumire Kurokawa
 
 url: /v/avsa325pl
-date: 0000-07-20T01:45:00Z
+date: 2024-07-20T01:45:00Z
 image: "avsa325pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Slut, Breasts, Slender, Bitch	]
+tags: [Censored, Solowork, Married Woman, Slut, Breasts, Slender, Bitch	]
 maker: [ Avs  ]
 actress: [ Kurokawa Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurokawa Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YO37BqDjA4tvlrX">
     <a href="javascript:;">
         <img src="/v/avsa325pl/avsa325pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa325pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurokawa Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa325pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurokawa Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa325pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

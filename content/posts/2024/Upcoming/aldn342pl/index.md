@@ -3,9 +3,9 @@ author: j91
 title: ALDN-342 Naked Stepmother Rie Takeuchi
 
 url: /v/aldn342pl
-date: 0000-07-20T01:50:00Z
+date: 2024-07-20T01:50:00Z
 image: "aldn342pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Takeuchi Rie ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takeuchi Rie ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="X171RYKBVbiDrJ9">
     <a href="javascript:;">
         <img src="/v/aldn342pl/aldn342pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn342pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takeuchi Rie ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aldn342pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takeuchi Rie ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aldn342pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

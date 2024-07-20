@@ -3,9 +3,9 @@ author: j91
 title: MADV-560 The Most Popular Student In School, Who Looks Good In Glasses, Approached Me In A Swimsuit That Violates School Rules... I Ended Up Having Creampie Sex With Azu Over And Over Again Azu Amatsuki
 
 url: /v/madv560pl
-date: 0000-07-20T01:45:00Z
+date: 2024-07-20T01:45:00Z
 image: "madv560pl.jpg"
-tags: [Upcoming releases, Creampie,Vibe,Solowork]
+tags: [Censored, Creampie,Vibe,Solowork]
 maker: [ Crystal Eizou  ]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QJ4V161l8XI0PAX">
     <a href="javascript:;">
         <img src="/v/madv560pl/madv560pl.jpg" width="WIDTH" height="HEIGHT" alt="madv560pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/madv560pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/madv560pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
