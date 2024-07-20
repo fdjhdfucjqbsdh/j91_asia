@@ -3,9 +3,9 @@ author: j91
 title: SCPX-506 A Divine Massage Parlor Where Touching And Sex Are Forbidden And The Girls Are Allowed To Have Raw Sex And Creampies.
 
 url: /v/scpx506pl
-date: 0000-07-20T01:20:00Z
+date: 2024-07-20T01:20:00Z
 image: "scpx506pl.jpg"
-tags: [Upcoming releases, Creampie, Beauty Shop, Voyeur, Massage, Busty Fetish	]
+tags: [Censored, Creampie, Beauty Shop, Voyeur, Massage, Busty Fetish	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wa1ZgQPMzXIW1V">
     <a href="javascript:;">
         <img src="/v/scpx506pl/scpx506pl.jpg" width="WIDTH" height="HEIGHT" alt="scpx506pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/scpx506pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/scpx506pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
