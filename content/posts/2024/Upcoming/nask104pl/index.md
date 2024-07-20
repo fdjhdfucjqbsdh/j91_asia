@@ -3,9 +3,9 @@ author: j91
 title: NASK-104 I Can't Wait Until Night! A Wife Who Is Desired From Daytime
 
 url: /v/nask104pl
-date: 0000-07-20T01:00:00Z
+date: 2024-07-20T01:00:00Z
 image: "nask104pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, Mature Woman	]
+tags: [Censored, Creampie, Big Tits, Married Woman, Mature Woman	]
 maker: [ Nadeshiko  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4vjbQgKz94uKYZz">
     <a href="javascript:;">
         <img src="/v/nask104pl/nask104pl.jpg" width="WIDTH" height="HEIGHT" alt="nask104pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nask104pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nask104pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
