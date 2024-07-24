@@ -3,9 +3,9 @@ author: j91
 title: BOKO-006 Kissing Trip I Kissed Her The Whole Time We Were On The Trip... I Fell In Love With Her Even More And Couldn't Let Her Go. A Two-day, One-night Date With My Lover, With Our Tongues Entangled And Our Bodies Touching. Jun Suehiro Nia
 
 url: /v/boko006pl
-date: 0000-07-25T01:30:00Z
+date: 2024-07-24T15:30:00Z
 image: "boko006pl.jpg"
-tags: [Upcoming releases, 4HR+	]
+tags: [Censored, 4HR+	]
 maker: [Dekoboko Haato  ]
 actress: [Itou Meru, Suehiro Jun ]
 ---
@@ -13,13 +13,13 @@ actress: [Itou Meru, Suehiro Jun ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="GJkWb4V2ajTAjQ">
     <a href="javascript:;">
         <img src="/v/boko006pl/boko006pl.jpg" width="WIDTH" height="HEIGHT" alt="boko006pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Itou Meru, Suehiro Jun ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/boko006pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Itou Meru, Suehiro Jun ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/boko006pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

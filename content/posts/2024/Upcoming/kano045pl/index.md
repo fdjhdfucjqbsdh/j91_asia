@@ -3,9 +3,9 @@ author: j91
 title: KANO-045 Sweet And Romantic Night In The Suite With The Cutest Girl In Every Direction, Aya Konami
 
 url: /v/kano045pl
-date: 0000-07-25T01:30:00Z
+date: 2024-07-24T15:30:00Z
 image: "kano045pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Beautiful Girl, Breasts	]
+tags: [Censored, Creampie, Solowork, POV, Beautiful Girl, Breasts	]
 maker: [ Gekkan Kanojo  ]
 actress: [ Suzumiya Haruka]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="kz0qzqPyb6F8GX">
     <a href="javascript:;">
         <img src="/v/kano045pl/kano045pl.jpg" width="WIDTH" height="HEIGHT" alt="kano045pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kano045pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kano045pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

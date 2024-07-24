@@ -3,9 +3,9 @@ author: j91
 title: HAWA-326 Wife Of The Cock Case
 
 url: /v/hawa326pl
-date: 0000-07-25T01:45:00Z
+date: 2024-07-24T15:45:00Z
 image: "hawa326pl.jpg"
-tags: [Upcoming releases, Creampie, Married Woman, Squirting, Deep Throating, Rolling Back Eyes - Fainting	]
+tags: [Censored, Creampie, Married Woman, Squirting, Deep Throating, Rolling Back Eyes - Fainting	]
 maker: [ Kosumosu Eizou  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="7waD4OmRXyCBPP">
     <a href="javascript:;">
         <img src="/v/hawa326pl/hawa326pl.jpg" width="WIDTH" height="HEIGHT" alt="hawa326pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hawa326pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hawa326pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
