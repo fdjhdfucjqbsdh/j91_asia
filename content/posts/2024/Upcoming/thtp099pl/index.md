@@ -3,9 +3,9 @@ author: j91
 title: THTP-099 Pervert Post 2
 
 url: /v/thtp099pl
-date: 0000-07-26T01:30:00Z
+date: 2024-07-25T15:30:00Z
 image: "thtp099pl.jpg"
-tags: [Upcoming releases, SM, Humiliation, Amateur, Shibari, User Submission, 4HR+, Submissive Woman	]
+tags: [Censored, SM, Humiliation, Amateur, Shibari, User Submission, 4HR+, Submissive Woman	]
 maker: [ Three-top Publishing  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xlKzjr7LZrFkpK2">
     <a href="javascript:;">
         <img src="/v/thtp099pl/thtp099pl.jpg" width="WIDTH" height="HEIGHT" alt="thtp099pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/thtp099pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/thtp099pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

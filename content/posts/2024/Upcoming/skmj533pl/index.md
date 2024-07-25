@@ -3,9 +3,9 @@ author: j91
 title: SKMJ-533 Celebrate The Summer Of 2024! Limited To Girls In Yukatas Participating In The Fireworks Festival, This Embarrassing Rock-paper-scissors Showdown Features Four Amateur College Girls
 
 url: /v/skmj533pl
-date: 0000-07-26T01:55:00Z
+date: 2024-07-25T15:55:00Z
 image: "skmj533pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Beautiful Girl, Nampa, Female College Student, Kimono, Mourning	]
+tags: [Censored, Creampie, Amateur, Beautiful Girl, Nampa, Female College Student, Kimono, Mourning	]
 maker: [ Sekimenjoshi  ]
 actress: [ Miyoshi Yuzuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyoshi Yuzuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="P6LooBwGYrI0zgZ">
     <a href="javascript:;">
         <img src="/v/skmj533pl/skmj533pl.jpg" width="WIDTH" height="HEIGHT" alt="skmj533pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/skmj533pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/skmj533pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: EMTH-148 Amateur Housewife!! A Collection Of Vaginal Cum Shots That Make Her Pregnant!! "Because It Felt Better Than My Husband..." Best Collection Vol.01
 
 url: /v/emth148pl
-date: 0000-07-26T01:30:00Z
+date: 2024-07-25T15:30:00Z
 image: "emth148pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Married Woman, Nampa, 4HR+, Mature Woman	]
+tags: [Censored, Creampie, Amateur, Married Woman, Nampa, 4HR+, Mature Woman	]
 maker: [ 穢土-EDO-  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="dRpG9QqJ1xsk4v2">
     <a href="javascript:;">
         <img src="/v/emth148pl/emth148pl.jpg" width="WIDTH" height="HEIGHT" alt="emth148pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/emth148pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/emth148pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: HOWY-00005 A Man And A Married Woman From His Part-Time Job Have An Affair During The Seven Days The Manager Is Away - Kaede Okui, Kyoko Maki
 
 url: /v/howy00005pl
-date: 0000-07-26T01:57:00Z
+date: 2024-07-25T15:57:00Z
 image: "howy00005pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, Big Tits, Breasts, Drama, Love, Subordinates - Colleagues	]
+tags: [Censored, Creampie, Uniform, Big Tits, Breasts, Drama, Love, Subordinates - Colleagues	]
 maker: [ H.m.p  ]
 actress: [ Maki Kyouko, Okui Kaede]
 ---
@@ -13,13 +13,13 @@ actress: [ Maki Kyouko, Okui Kaede]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="plML8Ve7bOTrQBk">
     <a href="javascript:;">
         <img src="/v/howy00005pl/howy00005pl.jpg" width="WIDTH" height="HEIGHT" alt="howy00005pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Maki Kyouko, Okui Kaede]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/howy00005pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Maki Kyouko, Okui Kaede]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/howy00005pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
