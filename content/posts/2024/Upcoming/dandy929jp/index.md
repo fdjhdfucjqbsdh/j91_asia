@@ -3,9 +3,9 @@ author: j91
 title: DANDY-929 The Rain-soaked Schoolgirl's See-through Bra Is Too Sexy! She Unconsciously Tempts Me, So I'm Going To Massage Her Right Away VOL.2
 
 url: /v/dandy929jp
-date: 0000-07-25T01:45:00Z
+date: 2024-07-25T01:45:00Z
 image: "dandy929jp.jpg"
-tags: [Upcoming releases, Blow, School Girls, Big Tits, Facials, Back	]
+tags: [Censored, Blow, School Girls, Big Tits, Facials, Back	]
 maker: [Dandy  ]
 actress: [Tsubaki Rika]
 ---
@@ -13,13 +13,13 @@ actress: [Tsubaki Rika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="3dWvLpjzGGCaBW">
     <a href="javascript:;">
         <img src="/v/dandy929jp/dandy929jp.jpg" width="WIDTH" height="HEIGHT" alt="dandy929jp.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Tsubaki Rika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dandy929jp/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Tsubaki Rika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dandy929jp/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

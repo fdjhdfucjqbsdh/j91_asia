@@ -4,9 +4,9 @@ title: ARSO-24184 Mai Wife ~Celebrity Club~ 184
 
 
 url: /v/arso24184pl
-date: 0000-07-25T01:30:00Z
+date: 2024-07-25T01:30:00Z
 image: "arso24184pl.jpg"
-tags: [Upcoming releases, Blow, Married Woman, Planning, Bride, Young Wife	]
+tags: [Censored, Blow, Married Woman, Planning, Bride, Young Wife	]
 maker: [Around  ]
 actress: []
 ---
@@ -14,13 +14,13 @@ actress: []
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="0zzO8vGZJbCbwoJ">
     <a href="javascript:;">
         <img src="/v/arso24184pl/arso24184pl.jpg" width="WIDTH" height="HEIGHT" alt="arso24184pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -34,7 +34,7 @@ actress: []
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/arso24184pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: []
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/arso24184pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

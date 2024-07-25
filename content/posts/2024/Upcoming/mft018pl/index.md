@@ -3,9 +3,9 @@ author: j91
 title: MFT-018 I Wanted To Try Out A Nipple Aphrodisiac That My Parents Had Hidden, So I Invited A Classmate Over To My House To Play Games At Home And Mixed It With Juice. She Complained To Me About Something Strange Happening To Her Body, But I Pretended To Take Care Of Her And Played With Her Chest, And She Drooled And Came From Her Nipples! I Made Her Cum So Much That She Rolled Her Eyes!
 
 url: /v/mft018pl
-date: 0000-07-25T01:45:00Z
+date: 2024-07-25T01:45:00Z
 image: "mft018pl.jpg"
-tags: [Upcoming releases, Titty Fuck, Squirting, School Stuff, Busty Fetish, Urination	]
+tags: [Censored, Titty Fuck, Squirting, School Stuff, Busty Fetish, Urination	]
 maker: [ FALENO TUBE ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="p22GWyljazfroJB">
     <a href="javascript:;">
         <img src="/v/mft018pl/mft018pl.jpg" width="WIDTH" height="HEIGHT" alt="mft018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mft018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mft018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

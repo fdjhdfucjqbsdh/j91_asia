@@ -3,9 +3,9 @@ author: j91
 title: SW-962 Bloomer Knee-highs Are God! Just For Today, I'll Do Whatever You Say! That's What My Childhood Friend Said, So I Asked Her To Wear Bloomer Knee-highs And Cheer Me Up After I Got Fired From My Job! Mainly My Dick!
 
 url: /v/sw962pl
-date: 0000-07-25T01:45:00Z
+date: 2024-07-25T01:45:00Z
 image: "sw962pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Bloomers	]
+tags: [Censored, 3P, 4P, Bloomers	]
 maker: [ SWITCH  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="8qGl9rvaY8SJyG">
     <a href="javascript:;">
         <img src="/v/sw962pl/sw962pl.jpg" width="WIDTH" height="HEIGHT" alt="sw962pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sw962pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sw962pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
