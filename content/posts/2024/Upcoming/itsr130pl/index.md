@@ -3,9 +3,9 @@ author: j91
 title: ITSR-130 "I'm A Sex Doll..." Housewives Who Are Used As They Please By Men's Desires 15 Sows 4 Hours
 
 url: /v/itsr130pl
-date: 0000-07-27T01:30:00Z
+date: 2024-07-26T15:30:00Z
 image: "itsr130pl.jpg"
-tags: [Upcoming releases, Married Woman, 4HR+, Evil, Cuckold	]
+tags: [Censored, Married Woman, 4HR+, Evil, Cuckold	]
 maker: [ BIGMORKAL  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="16j1bPyRwbhrdk">
     <a href="javascript:;">
         <img src="/v/itsr130pl/itsr130pl.jpg" width="WIDTH" height="HEIGHT" alt="itsr130pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/itsr130pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/itsr130pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

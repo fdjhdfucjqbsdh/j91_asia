@@ -3,9 +3,9 @@ author: j91
 title: ID-023 Cosplay Beautiful Girl Bondage Toy Torture Forced Orgasm Video Collection 4 Hours
 
 url: /v/id023pl
-date: 0000-07-26T01:50:00Z
+date: 2024-07-26T15:36:00Z
 image: "id023pl.jpg"
-tags: [Upcoming releases, Cosplay, Restraint, Beautiful Girl, 4HR+, Toy	]
+tags: [Censored, Cosplay, Restraint, Beautiful Girl, 4HR+, Toy	]
 maker: [ Tma  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="G2827g32erc1x4y">
     <a href="javascript:;">
         <img src="/v/id023pl/id023pl.jpg" width="WIDTH" height="HEIGHT" alt="id023pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/id023pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/id023pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
