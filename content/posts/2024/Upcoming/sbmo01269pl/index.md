@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EMTH-147 [Complete Hidden Camera Footage] Neighborhood Wives Who Desperately Resist But Are Forced To Cum Inside By An Oil Massage Therapist 4
+title: SBMO-01269 I Like M/Manami Fujii
 
-url: /v/emth147pl
+url: /v/sbmo01269pl
 date: 2024-07-26T01:30:00Z
-image: "emth147pl.jpg"
-tags: [Censored, Creampie, Slut, Mature Woman	]
-maker: [ 穢土-EDO-  ]
-actress: [ ]
+image: "sbmo01269pl.jpg"
+tags: [Censored,Solowork,Image Video,Entertainer	]
+maker: [Somebody  ]
+actress: [Fujii Manami ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="Xx3v4yv3VVtDbQe">
+<div class="video" data-videoid="2KmpA1qYBruZORV">
     <a href="javascript:;">
-        <img src="/v/emth147pl/emth147pl.jpg" width="WIDTH" height="HEIGHT" alt="emth147pl.mp4" loading="lazy">
+        <img src="/v/sbmo01269pl/sbmo01269pl.jpg" width="WIDTH" height="HEIGHT" alt="sbmo01269pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/emth147pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sbmo01269pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/emth147pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sbmo01269pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
