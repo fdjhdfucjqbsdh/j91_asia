@@ -2,9 +2,9 @@
 author: j91
 title: TSDS-42860re Fall In Love With Me/Become A Walnut
 
-url: /v/tsds42860re
+url: /v/tsds42860repl
 date: 2024-07-26T01:30:00Z
-image: "tsds42860re.jpg"
+image: "tsds42860repl.jpg"
 tags: [Censored, Solowork, Image Video, Entertainer	]
 maker: [Takeshobou  ]
 actress: [Kurumisawa Nina ]
@@ -15,7 +15,7 @@ actress: [Kurumisawa Nina ]
 
 <div class="video" data-videoid="paqGKxZ6RPSrPP7">
     <a href="javascript:;">
-        <img src="/v/tsds42860re/tsds42860re.jpg" width="WIDTH" height="HEIGHT" alt="tsds42860re.mp4" loading="lazy">
+        <img src="/v/tsds42860repl/tsds42860repl.jpg" width="WIDTH" height="HEIGHT" alt="tsds42860repl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Kurumisawa Nina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/tsds42860re/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tsds42860repl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Kurumisawa Nina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/tsds42860re/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tsds42860repl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
