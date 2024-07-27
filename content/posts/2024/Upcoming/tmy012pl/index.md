@@ -1,21 +1,21 @@
 ---
 author: j91
-title: JKSR-646 With An Adult Man 4
+title: TMY-012 Creepy Otaku Revenge Video Urui Edition - Food Chain Of Love -
 
-url: /v/jksr646pl
-date: 2024-07-27T01:30:00Z
-image: "jksr646pl.jpg"
-tags: [Censored, School Girls, Beautiful Girl, 4HR+, School Uniform, Mini	]
-maker: [ BIGMORKAL  ]
-actress: [ Hakutou Kokona, Kawaguchi Hasumi, Kitakawa Riko ,Ichiro Sayuri, Aoyama Ayaka ]
+url: /v/tmy012pl
+date: 2024-07-27T02:55:00Z
+image: "tmy012pl.jpg"
+tags: [Censored, Creampie, Abuse, Documentary, Piss Drinking, Evil	]
+maker: [Tamaya Label  ]
+actress: [Aizawa Akari]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="zxdLJVDz7XIYl2A">
+<div class="video" data-videoid="wJv4aBrGP7FJv1e">
     <a href="javascript:;">
-        <img src="/v/jksr646pl/jksr646pl.jpg" width="WIDTH" height="HEIGHT" alt="jksr646pl.mp4" loading="lazy">
+        <img src="/v/tmy012pl/tmy012pl.jpg" width="WIDTH" height="HEIGHT" alt="tmy012pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hakutou Kokona, Kawaguchi Hasumi, Kitakawa Riko ,Ichiro Sayuri, Aoyam
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/jksr646pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tmy012pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hakutou Kokona, Kawaguchi Hasumi, Kitakawa Riko ,Ichiro Sayuri, Aoyam
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/jksr646pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tmy012pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
