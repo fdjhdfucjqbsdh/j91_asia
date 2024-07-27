@@ -3,9 +3,9 @@ author: j91
 title: MSPK-010 A Hidden Camera Was Used On A J-style Reflexology Shop That Is Rumored To Have A Hidden Service. A Video Of An Unauthorized Creampie During A Real Service Was Leaked. Mea-chan
 
 url: /v/mspk010pl
-date: 0000-07-27T01:30:00Z
+date: 2024-07-27T01:30:00Z
 image: "mspk010pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Voyeur, POV, Massage	]
+tags: [Censored, Creampie, School Girls, Voyeur, POV, Massage	]
 maker: [ First Star  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ag7J4pkXrpclzo">
     <a href="javascript:;">
         <img src="/v/mspk010pl/mspk010pl.jpg" width="WIDTH" height="HEIGHT" alt="mspk010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mspk010pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mspk010pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

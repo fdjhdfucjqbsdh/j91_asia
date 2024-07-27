@@ -3,9 +3,9 @@ author: j91
 title: CHC-010 Beautiful Girl Teased And Filmed In Private - Complete Submission To An Old Man! Erika-chan E-cup Kuromiya Erika
 
 url: /v/chc010pl
-date: 0000-07-27T01:50:00Z
+date: 2024-07-27T01:50:00Z
 image: "chc010pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Big Tits, POV, Beautiful Girl, Mini, Close Up	]
+tags: [Censored, Blow, Solowork, Big Tits, POV, Beautiful Girl, Mini, Close Up	]
 maker: [ CHC Studio  ]
 actress: [ Kuromiya Erika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuromiya Erika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AJVWdx9jwACXAK1">
     <a href="javascript:;">
         <img src="/v/chc010pl/chc010pl.jpg" width="WIDTH" height="HEIGHT" alt="chc010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuromiya Erika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/chc010pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuromiya Erika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/chc010pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
