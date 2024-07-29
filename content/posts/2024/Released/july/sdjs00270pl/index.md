@@ -5,9 +5,9 @@ title: SDJS-270 AV Released Without Permission! Sales Department, Second Year Mi
 url: /v/sdjs00270pl
 date: 2024-07-29T15:30:00Z
 image: "sdjs00270pl.jpg"
-tags: [Censored, ]
+tags: [Censored, 4HR+, Debut Production, Humiliation, OL, Solowork, Voyeur]
 maker: [SOD Create]
-actress: [ ]
+actress: [Kasumi Matsumaru ]
 ---
 
 

@@ -5,9 +5,9 @@ title: SDAM-121 The Waitress I Met At A Beef Bowl Restaurant Was A Quarter Hawai
 url: /v/sdam00121pl
 date: 2024-07-29T15:30:00Z
 image: "sdam00121pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Amateur, Breasts, Debut Production, POV, Solowork]
 maker: [SOD Create]
-actress: [ ]
+actress: [Maria Yamamoto ]
 ---
 
 

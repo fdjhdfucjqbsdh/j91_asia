@@ -5,9 +5,9 @@ title: START-140 “Do You Want To Come To School Again?” I Reunited With My F
 url: /v/start00140pl
 date: 2024-07-29T15:55:00Z
 image: "start00140pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Drama, Entertainer, Idol, Solowork, Uniform]
 maker: [SOD Create]
-actress: [ ]
+actress: [ Nagisa Koiki]
 ---
 
 

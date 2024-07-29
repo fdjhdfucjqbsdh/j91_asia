@@ -5,9 +5,9 @@ title: SDAB-275 Shy Girl With A Soft Body And A Straightforward Sexual Desire Sa
 url: /v/sdab00275pl
 date: 2024-07-29T15:30:00Z
 image: "sdab00275pl.jpg"
-tags: [Censored, ]
+tags: [Censored, Beautiful Girl, Debut Production, Mini, School Uniform, Solowork, Tits]
 maker: [SOD Create]
-actress: [ ]
+actress: [Suzuka Sakura ]
 ---
 
 
