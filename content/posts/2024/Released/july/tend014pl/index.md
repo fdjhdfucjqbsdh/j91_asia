@@ -1,21 +1,21 @@
 ---
 author: j91
-title: IBW-961z Tokyo Metropolitan Housing Complex Beautiful Girl Bringing Video
+title: TEND-014 I Was Seduced By The Slim And Supple Body Of My Stepdaughter From My Second Marriage, And I Was Completely Defeated... / Ryo Tsukimi
 
-url: /v/ibw961zpl
-date: 2024-07-30T01:50:00Z
-image: "ibw961zpl.jpg"
-tags: [Censored, Creampie, Girl, Beautiful Girl, Mini, Tits	]
-maker: [ I.b.works  ]
-actress: [ ]
+url: /v/tend014pl
+date: 2024-07-30T01:15:00Z
+image: "tend014pl.jpg"
+tags: [Censored, Blow, Creampie, Solowork, Masturbation, Cunnilingus	]
+maker: [Tender  ]
+actress: [Tsukimi Ryou ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="d8vPyoMKeQTb9P">
+<div class="video" data-videoid="zrqll2BbWoiex4">
     <a href="javascript:;">
-        <img src="/v/ibw961zpl/ibw961zpl.jpg" width="WIDTH" height="HEIGHT" alt="ibw961zpl.mp4" loading="lazy">
+        <img src="/v/tend014pl/tend014pl.jpg" width="WIDTH" height="HEIGHT" alt="tend014pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ibw961zpl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tend014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ibw961zpl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tend014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
