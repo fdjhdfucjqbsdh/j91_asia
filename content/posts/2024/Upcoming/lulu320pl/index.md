@@ -3,9 +3,9 @@ author: j91
 title: LULU-320 I Couldn't Resist The Beautiful Legs Of My 170cm Tall Model Aunt Who Couldn't Hide Her Frustration, So I Immediately Fucked Her And Made Her Cum Inside Me In A Crab-claw Lock Position Until My Insatiable Sexual Desire Was Satisfied. Kanata Tomi
 
 url: /v/lulu320pl
-date: 0000-08-02T01:25:00Z
+date: 2024-08-02T01:25:00Z
 image: "lulu320pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Tall, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Tall, Cuckold	]
 maker: [LUNATICS]
 actress: [ Toumi Kanata]
 ---
@@ -13,13 +13,13 @@ actress: [ Toumi Kanata]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ValqXJMR0AC9X9">
     <a href="javascript:;">
         <img src="/v/lulu320pl/lulu320pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu320pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu320pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toumi Kanata]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu320pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

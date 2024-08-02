@@ -3,9 +3,9 @@ author: j91
 title: LULU-316 I Used Aphrodisiac Oil On My Girlfriend's Little Sister, A Big-breasted High School Girl, To Make Her Sensitive And Prone To Premature Ejaculation, And Made Her Cum Over And Over Again, After Which I Creampied Her And Made Her Cum Inside Her. Azu Amatsuki
 
 url: /v/lulu316pl
-date: 0000-08-02T01:25:00Z
+date: 2024-08-02T01:25:00Z
 image: "lulu316pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Big Tits, Beautiful Girl, Athlete	]
+tags: [Censored, Solowork, School Girls, Big Tits, Beautiful Girl, Athlete	]
 maker: [LUNATICS]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3a6v9Za2zKFl76">
     <a href="javascript:;">
         <img src="/v/lulu316pl/lulu316pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu316pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu316pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu316pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

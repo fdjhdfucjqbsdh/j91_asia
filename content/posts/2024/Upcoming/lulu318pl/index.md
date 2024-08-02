@@ -3,9 +3,9 @@ author: j91
 title: LULU-318 Unable To Resist The Unaware Breast Provocation Of A Fair-skinned Big-breasted Aunt Who Is Trying To Get Pregnant, Her Nephew Immediately Uses His Big Dick To Make Her Cum, And Stimulates Her Uterus In A State Of Real Orgasm With A Follow-up Thrust, Cumming Inside Her Until She Is Definitely Pregnant. Chizuru Ema
 
 url: /v/lulu318pl
-date: 0000-08-02T01:25:00Z
+date: 2024-08-02T01:25:00Z
 image: "lulu318pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
 maker: [LUNATICS]
 actress: [ Chizuru Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chizuru Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9X9LWKZPKwIaWjj">
     <a href="javascript:;">
         <img src="/v/lulu318pl/lulu318pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu318pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu318pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

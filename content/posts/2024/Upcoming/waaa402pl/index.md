@@ -3,9 +3,9 @@ author: j91
 title: WAAA-402 If You Can Withstand Rika Tsubaki's Amazing Technique, You Can Have Raw Creampie Sex!
 
 url: /v/waaa402pl
-date: 0000-08-02T01:45:00Z
+date: 2024-08-02T01:45:00Z
 image: "waaa402pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Gal, Big Tits, Titty Fuck, Fan Appreciation	]
+tags: [Censored, Creampie, Solowork, Gal, Big Tits, Titty Fuck, Fan Appreciation	]
 maker: [WANZ FACTORY]
 actress: [ Tsubaki Rika]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aq4KA3rvaeUQwv">
     <a href="javascript:;">
         <img src="/v/waaa402pl/waaa402pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa402pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa402pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa402pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: WAAA-404 Raped By My Hated Stepfather At Night... Azuma Amatsuki
 
 url: /v/waaa404pl
-date: 0000-08-02T01:45:00Z
+date: 2024-08-02T01:45:00Z
 image: "waaa404pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Big Tits, Married Woman, Rape, Cuckold	]
+tags: [Censored, Blow, Creampie, Solowork, Big Tits, Married Woman, Rape, Cuckold	]
 maker: [WANZ FACTORY]
 actress: [ Amatsuki Azu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XARXgxrDQ8sDagY">
     <a href="javascript:;">
         <img src="/v/waaa404pl/waaa404pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa404pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa404pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa404pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DVMM-124 Face-revealing MM Number, Track And Field Club Only, The Magic Mirror, Big-assed College Student Challenges Dildo Air Chair With 1cm Tip Inserted! 2 Unable To Withstand The Edging, She Is Thrust All The Way In For A Trembling Climax! She Squirts A Lot And Can't Stop Shaking Her Hips!
 
 url: /v/dvmm124pl
-date: 0000-08-02T01:10:00Z
+date: 2024-08-02T01:10:00Z
 image: "dvmm124pl.jpg"
-tags: [Upcoming releases, Amateur, Squirting, 4HR+, Female College Student, Athlete, Dildo	]
+tags: [Censored, Amateur, Squirting, 4HR+, Female College Student, Athlete, Dildo	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3w8aPM21AMU3LY">
     <a href="javascript:;">
         <img src="/v/dvmm124pl/dvmm124pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm124pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm124pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm124pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

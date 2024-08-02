@@ -3,9 +3,9 @@ author: j91
 title: FPRE-086 Former Talent J-cup Busty Cinderella Aiyu Anzai Makes AV Debut! A Beautiful Woman Who Looks Just Like The Legendary Diva
 
 url: /v/fpre086pl
-date: 0000-08-02T01:35:00Z
+date: 2024-08-02T01:35:00Z
 image: "fpre086pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Debut Production, Lotion, Entertainer	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Debut Production, Lotion, Entertainer	]
 maker: [Fitch]
 actress: [ Hoshizora Kirari]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshizora Kirari]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="drgYKxbgReIk4KZ">
     <a href="javascript:;">
         <img src="/v/fpre086pl/fpre086pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre086pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshizora Kirari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre086pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshizora Kirari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre086pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BMW-312 \Slutty Blowjob Special/ 240 Minutes Of Perverted Women Sucking Out All The Semen And Ejaculating Into Their Mouths
 
 url: /v/bmw312pl
-date: 0000-08-02T01:00:00Z
+date: 2024-08-02T01:00:00Z
 image: "bmw312pl.jpg"
-tags: [Upcoming releases, Blow, Uniform, Other Fetish, Best, Omnibus, Slut, 4HR+	]
+tags: [Censored, Blow, Uniform, Other Fetish, Best, Omnibus, Slut, 4HR+	]
 maker: [WANZ FACTORY]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kwm8gDYRARiOGv3">
     <a href="javascript:;">
         <img src="/v/bmw312pl/bmw312pl.jpg" width="WIDTH" height="HEIGHT" alt="bmw312pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bmw312pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bmw312pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

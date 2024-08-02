@@ -3,9 +3,9 @@ author: j91
 title: WAAA-403 My Busty Boss Got Drunk At A Company Drinking Party And Invited Me To Have Sex With Her, And We Ended Up Having Sex And Ejaculating 40 Times From Friday Night To Monday Morning. Ai Sayama
 
 url: /v/waaa403pl
-date: 0000-08-02T01:45:00Z
+date: 2024-08-02T01:45:00Z
 image: "waaa403pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Creampie, Solowork, Cowgirl, Slut	]
+tags: [Censored, Blow, Handjob, Creampie, Solowork, Cowgirl, Slut	]
 maker: [WANZ FACTORY]
 actress: [ Sayama Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sayama Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7kreXrgaooiAO8R">
     <a href="javascript:;">
         <img src="/v/waaa403pl/waaa403pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa403pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa403pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa403pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
