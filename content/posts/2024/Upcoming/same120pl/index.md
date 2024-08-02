@@ -3,9 +3,9 @@ author: j91
 title: SAME-120 A Record Of The Several Days In Which A Middle-aged Man Relentlessly Rapes A Beautiful Girl He Has Watched Grow Up Since She Was A Child. Miyu Oguri
 
 url: /v/same120pl
-date: 0000-08-02T01:50:00Z
+date: 2024-08-02T01:50:00Z
 image: "same120pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Abuse, Drama, Acme · Orgasm	]
+tags: [Censored, Solowork, Beautiful Girl, Abuse, Drama, Acme · Orgasm	]
 maker: [Attackers]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AMBMdWRMVZiBV3">
     <a href="javascript:;">
         <img src="/v/same120pl/same120pl.jpg" width="WIDTH" height="HEIGHT" alt="same120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/same120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/same120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

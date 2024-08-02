@@ -3,9 +3,9 @@ author: j91
 title: CAWD-707 Sex With A Silent Library Committee Member. Summer Vacation Edition Kawaii*×MOODYZ Collaboration Project! Original Work, Yuzuha The Long-awaited Sequel To The Series, Which Has Sold Over 100,000 Copies, Is Now On Screen. Natsu Hinata
 
 url: /v/cawd707pl
-date: 0000-08-02T01:40:00Z
+date: 2024-08-02T01:40:00Z
 image: "cawd707pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Beautiful Girl, Drama, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, School Girls, Beautiful Girl, Drama, Original Collaboration	]
 maker: [Kawaii]
 actress: [ Hinata Natsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Natsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WqxwwzzzZ2FgYx">
     <a href="javascript:;">
         <img src="/v/cawd707pl/cawd707pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd707pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hinata Natsu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd707pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hinata Natsu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd707pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

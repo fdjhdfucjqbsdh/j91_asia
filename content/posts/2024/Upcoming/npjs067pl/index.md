@@ -3,9 +3,9 @@ author: j91
 title: NPJS-067 Before My Expiration Date Expires, Before My Sexual Value Disappears, A Girl Who Uses Dating Apps To Have Sex
 
 url: /v/npjs067pl
-date: 0000-08-02T01:08:00Z
+date: 2024-08-02T01:08:00Z
 image: "npjs067pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, POV, Beautiful Girl, Breasts	]
+tags: [Censored, Blow, Creampie, POV, Beautiful Girl, Breasts	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zkrGOVg4A0cge3">
     <a href="javascript:;">
         <img src="/v/npjs067pl/npjs067pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs067pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs067pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs067pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

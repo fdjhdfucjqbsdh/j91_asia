@@ -3,9 +3,9 @@ author: j91
 title: MIAB-269 Obscene Lingerie Milker, A Busty Slut With A Hairy Pussy And A Tall Body Who Will Make You Cum Yuma Sano
 
 url: /v/miab269pl
-date: 0000-08-02T01:55:00Z
+date: 2024-08-02T01:55:00Z
 image: "miab269pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Slut, Lingerie, Slender	]
+tags: [Censored, Creampie, Solowork, Big Tits, Slut, Lingerie, Slender	]
 maker: [MOODYZ]
 actress: [ Sano Yuma ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sano Yuma ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aR3zewZKKRHxyvm">
     <a href="javascript:;">
         <img src="/v/miab269pl/miab269pl.jpg" width="WIDTH" height="HEIGHT" alt="miab269pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab269pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab269pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

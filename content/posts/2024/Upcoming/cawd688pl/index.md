@@ -3,9 +3,9 @@ author: j91
 title: CAWD-688 I Had A Short Affair With A Part-time Convenience Store Wife Who Satisfied Her Need For Approval With A Secret Account During Her 30-minute Break In The Back Room. Mayuki Ito
 
 url: /v/cawd688pl
-date: 0000-08-02T01:40:00Z
+date: 2024-08-02T01:40:00Z
 image: "cawd688pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Affair, Drama, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Affair, Drama, Cuckold	]
 maker: [Kawaii]
 actress: [ Itou Mayuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Itou Mayuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MA0WVoo7XPFmmDv">
     <a href="javascript:;">
         <img src="/v/cawd688pl/cawd688pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd688pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itou Mayuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd688pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itou Mayuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd688pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

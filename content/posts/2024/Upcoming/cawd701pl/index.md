@@ -3,9 +3,9 @@ author: j91
 title: CAWD-701 A Huge Orgy With 10 All-stars Who Look Best In Uniforms In The AV Industry! Earn Youth Points By Jacking Off! A School Trip With Three Teams Competing! Team Ikeike GOGO! Cuteness And Adult Sexiness Come Together! Amazing Techniques From A Total Of 11 Years In The Industry!
 
 url: /v/cawd701pl
-date: 0000-08-02T01:40:00Z
+date: 2024-08-02T01:40:00Z
 image: "cawd701pl.jpg"
-tags: [Upcoming releases, Uniform, Beautiful Girl, 4HR+, Slender, Promiscuity	]
+tags: [Censored, Uniform, Beautiful Girl, 4HR+, Slender, Promiscuity	]
 maker: [Kawaii]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Mx76AW9ogximWQG">
     <a href="javascript:;">
         <img src="/v/cawd701pl/cawd701pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd701pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd701pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd701pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

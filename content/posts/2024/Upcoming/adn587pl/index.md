@@ -3,9 +3,9 @@ author: j91
 title: ADN-587 When I Introduced My Wife, Who Has A Strong Sexual Desire, To My Friend Who Has A Strong Sexual Desire... Kaoru Yasui
 
 url: /v/adn587pl
-date: 0000-08-02T01:50:00Z
+date: 2024-08-02T01:50:00Z
 image: "adn587pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
 maker: [Attackers]
 actress: [ Yasui Kaoru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yasui Kaoru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mr7Z3bXr9osbx1Y">
     <a href="javascript:;">
         <img src="/v/adn587pl/adn587pl.jpg" width="WIDTH" height="HEIGHT" alt="adn587pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yasui Kaoru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn587pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yasui Kaoru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn587pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

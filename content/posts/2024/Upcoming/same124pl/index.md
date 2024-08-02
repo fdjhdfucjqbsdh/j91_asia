@@ -3,9 +3,9 @@ author: j91
 title: SAME-124 My Mother Tells Me To Have Sex With My Father-in-law Every Day. Azuma Amatsuki
 
 url: /v/same124pl
-date: 0000-08-02T01:50:00Z
+date: 2024-08-02T01:50:00Z
 image: "same124pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Drama, Conceived	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Drama, Conceived	]
 maker: [Attackers]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="K4pRYg6jvpi0kYd">
     <a href="javascript:;">
         <img src="/v/same124pl/same124pl.jpg" width="WIDTH" height="HEIGHT" alt="same124pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/same124pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/same124pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

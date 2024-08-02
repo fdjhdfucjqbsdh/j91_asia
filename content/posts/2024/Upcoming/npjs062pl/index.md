@@ -3,9 +3,9 @@ author: j91
 title: NPJS-062 Shibuya-style Pick-up - A JD With Great Blowjob Skills. The Grinning Blowjob Of This College Girl Introduced To Us By A Sexy Shibuya GAL Feels So Good We Filmed Her In A POV Video!
 
 url: /v/npjs062pl
-date: 0000-08-02T01:08:00Z
+date: 2024-08-02T01:08:00Z
 image: "npjs062pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Cum, Female College Student	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Cum, Female College Student	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="PLyGkmj0moC04G3">
     <a href="javascript:;">
         <img src="/v/npjs062pl/npjs062pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs062pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs062pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs062pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

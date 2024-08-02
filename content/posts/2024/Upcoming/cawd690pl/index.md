@@ -3,9 +3,9 @@ author: j91
 title: CAWD-690 The New Heroine Of The Morning Drama! A Quarter-Japanese College Student With Eyes That Are Rumored To Be Exactly The Same As Hashimoto Tamaki's, Nao Aizuki, Makes Her AV Debut
 
 url: /v/cawd690pl
-date: 0000-08-02T01:40:00Z
+date: 2024-08-02T01:40:00Z
 image: "cawd690pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Debut Production, Beautiful Girl, Facials, Acme · Orgasm	]
+tags: [Censored, Restraint, Solowork, Debut Production, Beautiful Girl, Facials, Acme · Orgasm	]
 maker: [Kawaii]
 actress: [ Aizuki Nao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aizuki Nao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QKdDPwkGxYt0bJw">
     <a href="javascript:;">
         <img src="/v/cawd690pl/cawd690pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd690pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aizuki Nao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd690pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aizuki Nao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd690pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

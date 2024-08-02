@@ -3,9 +3,9 @@ author: j91
 title: CAWD-700 Favorite Idol Creampie Cum Toilet Project, You Destroyed My Ideal Idol Image, So I'm Going To Thoroughly Defile You, Nishimoto Meisa
 
 url: /v/cawd700pl
-date: 0000-08-02T01:40:00Z
+date: 2024-08-02T01:40:00Z
 image: "cawd700pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Squirting, Deep Throating, Entertainer	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Squirting, Deep Throating, Entertainer	]
 maker: [Kawaii]
 actress: [ Nishimoto Meisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimoto Meisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0r1pO8Ga39I6PK">
     <a href="javascript:;">
         <img src="/v/cawd700pl/cawd700pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd700pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishimoto Meisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd700pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishimoto Meisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd700pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

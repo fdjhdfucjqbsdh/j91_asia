@@ -3,9 +3,9 @@ author: j91
 title: NPJS-069 A Popular Galva Store Clerk In Tokyo, Ao-chan, Who Is The Most Requested Store Clerk And Is Rumored To Let You Do It If You Get Drunk. A Forbidden Blowjob In The Store Toilet And Then A Creampie In A Hotel.
 
 url: /v/npjs069pl
-date: 0000-08-02T01:08:00Z
+date: 2024-08-02T01:08:00Z
 image: "npjs069pl.jpg"
-tags: [Upcoming releases, Cosplay, Maid, Creampie, POV, Beautiful Girl	]
+tags: [Censored, Cosplay, Maid, Creampie, POV, Beautiful Girl	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QX4kjPz86wC0XlO">
     <a href="javascript:;">
         <img src="/v/npjs069pl/npjs069pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs069pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs069pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs069pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

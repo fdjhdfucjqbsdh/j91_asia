@@ -3,9 +3,9 @@ author: j91
 title: VENX-279 I'm A College Student Who's Still A Virgin, But My Highly Educated And Beautiful Brother's Wife Is Giving Me A Creampie Lesson In This Super Lucky First Time Sex. Kyoka Tachibana
 
 url: /v/venx279pl
-date: 0000-08-02T01:30:00Z
+date: 2024-08-02T01:30:00Z
 image: "venx279pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Slut, Mature Woman, Virgin Man	]
+tags: [Censored, Creampie, Solowork, Married Woman, Slut, Mature Woman, Virgin Man	]
 maker: [Venus]
 actress: [ Tachibana Kyouka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tachibana Kyouka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qydRo6kyjeSAzq">
     <a href="javascript:;">
         <img src="/v/venx279pl/venx279pl.jpg" width="WIDTH" height="HEIGHT" alt="venx279pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tachibana Kyouka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/venx279pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tachibana Kyouka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/venx279pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
