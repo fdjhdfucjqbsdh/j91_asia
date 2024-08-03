@@ -3,9 +3,9 @@ author: j91
 title: SOAV-115 A Cheating Wife Yukine Nakazaki
 
 url: /v/soav115pl
-date: 0000-08-03T01:20:00Z
+date: 2024-08-03T01:20:00Z
 image: "soav115pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Affair	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Affair	]
 maker: [ Hitodzumaengokai-Emanuel  ]
 actress: [ Nagasaki Yukine ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagasaki Yukine ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Woebvp4LD3Ib4OR">
     <a href="javascript:;">
         <img src="/v/soav115pl/soav115pl.jpg" width="WIDTH" height="HEIGHT" alt="soav115pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagasaki Yukine ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/soav115pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagasaki Yukine ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/soav115pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

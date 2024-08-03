@@ -3,9 +3,9 @@ author: j91
 title: DBNK-026 Amateur Surprise Project, A Wife Recruited As A Trial Monitor Part-timer Ends Up Becoming Aroused By The Aphrodisiac Effect! 4 Hours
 
 url: /v/dbnk026pl
-date: 0000-08-03T01:00:00Z
+date: 2024-08-03T01:00:00Z
 image: "dbnk026pl.jpg"
-tags: [Upcoming releases, Amateur, Married Woman, Planning, Bride, Young Wife, Nampa, 4HR+	]
+tags: [Censored, Amateur, Married Woman, Planning, Bride, Young Wife, Nampa, 4HR+	]
 maker: [ Dorobouneko - Emanuel  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pDLdQaLxJgSrYOd">
     <a href="javascript:;">
         <img src="/v/dbnk026pl/dbnk026pl.jpg" width="WIDTH" height="HEIGHT" alt="dbnk026pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dbnk026pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dbnk026pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

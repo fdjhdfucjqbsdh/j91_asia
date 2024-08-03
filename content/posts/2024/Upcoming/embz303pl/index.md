@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-303 [Viewer Discretion Advised] Gang Rape Footage, Uncut And Unedited "Record Of Rape Crime Against Women" Ecstatic Convulsions! Unconscious With Chloroform And A Stun Gun, Awakened As A Slut With An Aphrodisiac. A Sexually Frustrated, Neat And Tidy Wife With Glasses Squirts Female Juices From Her Vagina Even After Being Raped And Fainting, And Continues To Cum In Ecstasy! Kyono Misa
 
 url: /v/embz303pl
-date: 0000-08-03T01:20:00Z
+date: 2024-08-03T01:20:00Z
 image: "embz303pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Abuse, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Abuse, Mature Woman	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Kyouno Misa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kyouno Misa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="VmpY1m63WmSKrd1">
     <a href="javascript:;">
         <img src="/v/embz303pl/embz303pl.jpg" width="WIDTH" height="HEIGHT" alt="embz303pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kyouno Misa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/embz303pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kyouno Misa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/embz303pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
