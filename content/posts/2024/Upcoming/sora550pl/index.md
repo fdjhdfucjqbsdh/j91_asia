@@ -3,9 +3,9 @@ author: j91
 title: SORA-550 When I Saw My Co-worker Who Knelt Down On The Ground To Apologize For My Malicious Complaint On My Behalf Being Used As A Public Toilet For Customer Harassment, I Couldn't Help But Get A Scum Erection Kana Morisawa
 
 url: /v/sora550pl
-date: 0000-08-03T01:50:00Z
+date: 2024-08-03T01:50:00Z
 image: "sora550pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Abuse, Drama	]
+tags: [Censored, OL, Creampie, Solowork, Abuse, Drama	]
 maker: [ Yama To Sora  ]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zxzlPmOLO3IQBD">
     <a href="javascript:;">
         <img src="/v/sora550pl/sora550pl.jpg" width="WIDTH" height="HEIGHT" alt="sora550pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora550pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora550pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

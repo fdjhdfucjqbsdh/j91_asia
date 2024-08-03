@@ -3,9 +3,9 @@ author: j91
 title: FLAV-365 A Plump, Big-Assed, Big-Breasted Schoolgirl Addicted To Pleasure, A Dick-Eating, Elastic-Flesh Monster, Minamihata Souka
 
 url: /v/flav365pl
-date: 0000-08-03T01:50:00Z
+date: 2024-08-03T01:50:00Z
 image: "flav365pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Busty Fetish, Butt, Bloomers, BBW	]
+tags: [Censored, Solowork, School Girls, Busty Fetish, Butt, Bloomers, BBW	]
 maker: [ Digital Ark  ]
 actress: [ Minahata Fuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minahata Fuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="yV2WDzdVbgs1YG9">
     <a href="javascript:;">
         <img src="/v/flav365pl/flav365pl.jpg" width="WIDTH" height="HEIGHT" alt="flav365pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minahata Fuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/flav365pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minahata Fuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/flav365pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

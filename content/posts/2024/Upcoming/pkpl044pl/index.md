@@ -3,9 +3,9 @@ author: j91
 title: PKPL-044 Yen Girl Dating, Creampie OK, 18 Years Old, Natural G Cup Genius Erotic Girl, Yuno Asahi
 
 url: /v/pkpl044pl
-date: 0000-08-03T01:45:00Z
+date: 2024-08-03T01:45:00Z
 image: "pkpl044pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Beautiful Girl	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Beautiful Girl	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Asahi Yuno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asahi Yuno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="m7ZRWQDMXzsbj47">
     <a href="javascript:;">
         <img src="/v/pkpl044pl/pkpl044pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpl044pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asahi Yuno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpl044pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asahi Yuno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpl044pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

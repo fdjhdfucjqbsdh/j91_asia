@@ -3,9 +3,9 @@ author: j91
 title: XVSR-768 I Can No Longer Resist The Whispered Dirty Talk That Takes Over My Brain! Subjectively Seductive Devil Tutor Aiga Mizuki
 
 url: /v/xvsr768pl
-date: 0000-08-03T01:55:00Z
+date: 2024-08-03T01:55:00Z
 image: "xvsr768pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Dirty Words, Tutor, Prank	]
+tags: [Censored, Creampie, Solowork, Older Sister, Dirty Words, Tutor, Prank	]
 maker: [ MAX-A  ]
 actress: [ Aiga Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aiga Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GKr4XoQO1LI93o">
     <a href="javascript:;">
         <img src="/v/xvsr768pl/xvsr768pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr768pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aiga Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr768pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aiga Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr768pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

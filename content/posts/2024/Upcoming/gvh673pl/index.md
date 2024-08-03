@@ -3,9 +3,9 @@ author: j91
 title: GVH-673 Sexy Dirty Talk From A Crazy Slutty Slut Kuroki Nami
 
 url: /v/gvh673pl
-date: 0000-08-03T01:55:00Z
+date: 2024-08-03T01:55:00Z
 image: "gvh673pl.jpg"
-tags: [Upcoming releases, Solowork, Masturbation, Pantyhose, Dirty Words, Nasty, Hardcore, Slut	]
+tags: [Censored, Solowork, Masturbation, Pantyhose, Dirty Words, Nasty, Hardcore, Slut	]
 maker: [ Glory Quest  ]
 actress: [ Kuroki Nami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Nami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qyPzdmrY79IzzoM">
     <a href="javascript:;">
         <img src="/v/gvh673pl/gvh673pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh673pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh673pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh673pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
