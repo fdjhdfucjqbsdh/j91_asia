@@ -3,9 +3,9 @@ author: j91
 title: RKI-679 New World's Largest Cumshot Man's Super Bukkake SEX Tsukinoe Sui
 
 url: /v/rki679pl
-date: 0000-08-09T01:25:00Z
+date: 2024-08-09T01:25:00Z
 image: "rki679pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Nasty, Hardcore, Squirting, Bukkake, Premature Ejaculation	]
+tags: [Censored, Creampie, Solowork, Nasty, Hardcore, Squirting, Bukkake, Premature Ejaculation	]
 maker: [Rookie]
 actress: [ Tsukinoe Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jpeodWGWdgszBgy">
     <a href="javascript:;">
         <img src="/v/rki679pl/rki679pl.jpg" width="WIDTH" height="HEIGHT" alt="rki679pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rki679pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rki679pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

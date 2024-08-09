@@ -3,9 +3,9 @@ author: j91
 title: HSODA-031 My Overbearing And Strict Mother's Vulgar Masturbation Is Too Stimulating For Me, And I Can't Concentrate On My Studies. Yu Kawakami
 
 url: /v/hsoda031pl
-date: 0000-08-09T01:20:00Z
+date: 2024-08-09T01:20:00Z
 image: "hsoda031pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Nasty, Hardcore, Incest, Mature Woman	]
+tags: [Censored, Blow, Creampie, Solowork, Nasty, Hardcore, Incest, Mature Woman	]
 maker: [Hsoda]
 actress: [ Kawakami Yuu]
 ---
@@ -13,13 +13,13 @@ actress: [ Kawakami Yuu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qxOKp1yG7ZfaeO">
     <a href="javascript:;">
         <img src="/v/hsoda031pl/hsoda031pl.jpg" width="WIDTH" height="HEIGHT" alt="hsoda031pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kawakami Yuu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hsoda031pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kawakami Yuu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hsoda031pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

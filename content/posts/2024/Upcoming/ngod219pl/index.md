@@ -3,9 +3,9 @@ author: j91
 title: NGOD-219 A Wife Who Was Forced To Be A Fitting Model For A High-end Lingerie Manufacturer - The Shame Of Her Tight Lingerie - Kana Morisawa
 
 url: /v/ngod219pl
-date: 0000-08-09T01:30:00Z
+date: 2024-08-09T01:30:00Z
 image: "ngod219pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Affair, Glasses, Lingerie, Model, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Affair, Glasses, Lingerie, Model, Cuckold	]
 maker: [JET Eizou]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZaeKQd19R0iqpXv">
     <a href="javascript:;">
         <img src="/v/ngod219pl/ngod219pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod219pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod219pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod219pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

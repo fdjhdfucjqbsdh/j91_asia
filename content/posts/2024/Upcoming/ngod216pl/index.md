@@ -3,9 +3,9 @@ author: j91
 title: NGOD-216 A Secret Adult Story Of A Man With A Big Dick Who Can Only Be Seen At Night. A Deep And Passionate Affair Where They Only Desire Each Other In The Middle Of The Night. Yui Hatano
 
 url: /v/ngod216pl
-date: 0000-08-09T01:30:00Z
+date: 2024-08-09T01:30:00Z
 image: "ngod216pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Cuckold, Huge Cock	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Cuckold, Huge Cock	]
 maker: [JET Eizou]
 actress: [ Hatano Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hatano Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="rr8OkyoDkatG0A">
     <a href="javascript:;">
         <img src="/v/ngod216pl/ngod216pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod216pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod216pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod216pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
