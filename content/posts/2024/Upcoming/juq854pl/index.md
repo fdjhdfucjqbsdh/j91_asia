@@ -3,9 +3,9 @@ author: j91
 title: JUQ-854 The Second Exclusive Release!! First Drama NTR Release. I'm Sure That In The Not-too-distant Future, I'll End Up Accepting A Dick Other Than My Husband's... A Writhing, Teasing Training, A Mistress Contract To Offer Myself For My Husband, Mirei Hanawa
 
 url: /v/juq854pl
-date: 0000-08-09T01:45:00Z
+date: 2024-08-09T01:45:00Z
 image: "juq854pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, OL, Creampie, Solowork, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Hanazawa Mirei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanazawa Mirei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="xr9GDjamjZtvXP">
     <a href="javascript:;">
         <img src="/v/juq854pl/juq854pl.jpg" width="WIDTH" height="HEIGHT" alt="juq854pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanazawa Mirei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq854pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Mirei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq854pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

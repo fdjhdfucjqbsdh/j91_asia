@@ -3,9 +3,9 @@ author: j91
 title: JUQ-834 Madonna Exclusive 2nd Anniversary Kanna Fuji Bondage Released!! A Married Woman Addicted To Hemp Rope
 
 url: /v/juq834pl
-date: 0000-08-09T01:45:00Z
+date: 2024-08-09T01:45:00Z
 image: "juq834pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Married Woman, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Married Woman, Shibari, Abuse, Mature Woman	]
 maker: [Madonna]
 actress: [ Fuji Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fuji Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qKYLjmOAA6haK7">
     <a href="javascript:;">
         <img src="/v/juq834pl/juq834pl.jpg" width="WIDTH" height="HEIGHT" alt="juq834pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fuji Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq834pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fuji Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq834pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

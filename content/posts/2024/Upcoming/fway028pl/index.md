@@ -3,9 +3,9 @@ author: j91
 title: FWAY-028 Armoroid Lady Kiyomiya Nene
 
 url: /v/fway028pl
-date: 0000-08-09T01:09:00Z
+date: 2024-08-09T01:09:00Z
 image: "fway028pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Lingerie, Slender, Image Video, Huge Butt	]
+tags: [Censored, Solowork, Big Tits, Lingerie, Slender, Image Video, Huge Butt	]
 maker: [FAIR＆WAY]
 actress: [ Kiyomiya Toa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kiyomiya Toa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YOa3BZXQyvUvQv4">
     <a href="javascript:;">
         <img src="/v/fway028pl/fway028pl.jpg" width="WIDTH" height="HEIGHT" alt="fway028pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kiyomiya Toa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fway028pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kiyomiya Toa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fway028pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

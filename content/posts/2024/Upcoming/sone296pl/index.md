@@ -3,9 +3,9 @@ author: j91
 title: SONE-296 When I Started Playing Around With My Childhood Friend And Playing Sex Games, The Horny Switch Went Off And We Did It Over And Over Again Like Monkeys... Yuuka Murakami
 
 url: /v/sone296pl
-date: 0000-08-09T01:55:00Z
+date: 2024-08-09T01:55:00Z
 image: "sone296pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, School Girls, Breasts, Childhood Friend, Kiss	]
+tags: [Censored, Handjob, Solowork, School Girls, Breasts, Childhood Friend, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Murakami Yuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Murakami Yuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bZy4G7kOKeuPXRV">
     <a href="javascript:;">
         <img src="/v/sone296pl/sone296pl.jpg" width="WIDTH" height="HEIGHT" alt="sone296pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Murakami Yuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone296pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Murakami Yuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone296pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: SONE-301 - The Ice Cream Tasted Like An Old Man - A Memory Of Being Covered In The Saliva Of A Middle-aged Man, Licking Each Other's Sweaty Bodies, And Licking Each Other's Bodies.
 
 url: /v/sone301pl
-date: 0000-08-09T01:55:00Z
+date: 2024-08-09T01:55:00Z
 image: "sone301pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Uniform, Big Tits, Nasty, Hardcore, Acme · Orgasm	]
+tags: [Censored, 3P, 4P, Solowork, Uniform, Big Tits, Nasty, Hardcore, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kawagoe Niko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kawagoe Niko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QAqdbpPpWdu0aGP">
     <a href="javascript:;">
         <img src="/v/sone301pl/sone301pl.jpg" width="WIDTH" height="HEIGHT" alt="sone301pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kawagoe Niko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone301pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kawagoe Niko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone301pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
