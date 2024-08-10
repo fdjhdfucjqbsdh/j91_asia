@@ -3,9 +3,9 @@ author: j91
 title: NSFS-306 Restrained Housewife, Her Hands And Feet Are Tied And She Is Penetrated Without Being Able To Resist VOL.4
 
 url: /v/nsfs306pl
-date: 0000-08-10T01:00:00Z
+date: 2024-08-10T01:00:00Z
 image: "nsfs306pl.jpg"
-tags: [Upcoming releases, Restraint, Best, Omnibus, Married Woman, 4HR+, Drama	]
+tags: [Censored, Restraint, Best, Omnibus, Married Woman, 4HR+, Drama	]
 maker: [ Nagae Style  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GkVrRRWwP0coxa">
     <a href="javascript:;">
         <img src="/v/nsfs306pl/nsfs306pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs306pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs306pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs306pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

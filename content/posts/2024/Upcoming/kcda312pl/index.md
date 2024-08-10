@@ -3,9 +3,9 @@ author: j91
 title: KCDA-312 Takada Monami Digitalark BEST 4 Hours
 
 url: /v/kcda312pl
-date: 0000-08-10T01:00:00Z
+date: 2024-08-10T01:00:00Z
 image: "kcda312pl.jpg"
-tags: [Upcoming releases, Solowork, Best, Omnibus, Big Tits, Slut, Bukkake, 4HR+, Butt	]
+tags: [Censored, Solowork, Best, Omnibus, Big Tits, Slut, Bukkake, 4HR+, Butt	]
 maker: [ Digital Ark  ]
 actress: [ Takarada Monami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takarada Monami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kZwRe4Maz3HPg6">
     <a href="javascript:;">
         <img src="/v/kcda312pl/kcda312pl.jpg" width="WIDTH" height="HEIGHT" alt="kcda312pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takarada Monami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kcda312pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takarada Monami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kcda312pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

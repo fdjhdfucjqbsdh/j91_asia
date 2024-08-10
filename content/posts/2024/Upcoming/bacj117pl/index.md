@@ -3,9 +3,9 @@ author: j91
 title: BACJ-117 Sakura Tsukishima, An Office Lady Who Shares A Room With Her Shy Boss On A Business Trip, Seduces Him And Makes Him Cum To The Limit
 
 url: /v/bacj117pl
-date: 0000-08-10T01:15:00Z
+date: 2024-08-10T01:15:00Z
 image: "bacj117pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Slut, Subordinates - Colleagues, Hotel	]
+tags: [Censored, Blow, Creampie, Solowork, Slut, Subordinates - Colleagues, Hotel	]
 maker: [ Barutan  ]
 actress: [ Kashiwagi Riko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Riko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dZkD2yMJV2tkxYp">
     <a href="javascript:;">
         <img src="/v/bacj117pl/bacj117pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj117pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Riko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj117pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Riko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj117pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

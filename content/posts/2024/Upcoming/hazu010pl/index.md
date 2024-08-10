@@ -3,9 +3,9 @@ author: j91
 title: HAZU-010 Despite Her Innocent Appearance, This Amateur Girl With I-cup Huge Breasts Squirts With Pleasure. Haruki (female College Student)
 
 url: /v/hazu010pl
-date: 0000-08-10T01:20:00Z
+date: 2024-08-10T01:20:00Z
 image: "hazu010pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, Squirting, Female College Student, Ultra-Huge Tits	]
+tags: [Censored, Amateur, Big Tits, Squirting, Female College Student, Ultra-Huge Tits	]
 maker: [ Shirouto Kissa - Mousozoku  ]
 actress: [ Sena Nanami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sena Nanami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="aVrQrv6AK4cQdp">
     <a href="javascript:;">
         <img src="/v/hazu010pl/hazu010pl.jpg" width="WIDTH" height="HEIGHT" alt="hazu010pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sena Nanami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hazu010pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sena Nanami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hazu010pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

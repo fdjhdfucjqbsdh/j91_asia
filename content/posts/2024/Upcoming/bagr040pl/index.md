@@ -3,9 +3,9 @@ author: j91
 title: BAGR-040 Mirei Aoi, A Dangerous Girl Who Has Gone Through A Complicated Adolescence And Seduces The Nearest Man To The Limit By Becoming A Masturbation Material
 
 url: /v/bagr040pl
-date: 0000-08-10T01:15:00Z
+date: 2024-08-10T01:15:00Z
 image: "bagr040pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Other Fetish, Beautiful Girl, Slut, Submissive Men	]
+tags: [Censored, Solowork, School Girls, Other Fetish, Beautiful Girl, Slut, Submissive Men	]
 maker: [ Barutan  ]
 actress: [ Aoi Mirei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Mirei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WbjMaq6z36hbVOM">
     <a href="javascript:;">
         <img src="/v/bagr040pl/bagr040pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr040pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aoi Mirei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bagr040pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Mirei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bagr040pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

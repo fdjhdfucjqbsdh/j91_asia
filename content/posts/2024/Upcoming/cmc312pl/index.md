@@ -3,9 +3,9 @@ author: j91
 title: CMC-312 Immoral Widow Beautiful Mature Slave Training SPECIAL
 
 url: /v/cmc312pl
-date: 0000-08-10T01:00:00Z
+date: 2024-08-10T01:00:00Z
 image: "cmc312pl.jpg"
-tags: [Upcoming releases, SM, Enema, Best, Omnibus, Widow	]
+tags: [Censored, SM, Enema, Best, Omnibus, Widow	]
 maker: [ CineMagic  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pjoQ1deaX4Tr6vG">
     <a href="javascript:;">
         <img src="/v/cmc312pl/cmc312pl.jpg" width="WIDTH" height="HEIGHT" alt="cmc312pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cmc312pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cmc312pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
