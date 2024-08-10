@@ -3,9 +3,9 @@ author: j91
 title: MVG-096 The Lowest Class Of Two Masochistic Women, The Female Pig Summit Showdown, Akari Niimura/Ruisa Tsukizuki
 
 url: /v/mvg096pl
-date: 0000-08-10T01:41:00Z
+date: 2024-08-10T01:41:00Z
 image: "mvg096pl.jpg"
-tags: [Upcoming releases, Squirting, Deep Throating, Submissive Woman, Spanking	]
+tags: [Censored, Squirting, Deep Throating, Submissive Woman, Spanking	]
 maker: [ Glory Quest  ]
 actress: [ Niimura Akari, Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Niimura Akari, Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PJAlqmVLwqu0a7M">
     <a href="javascript:;">
         <img src="/v/mvg096pl/mvg096pl.jpg" width="WIDTH" height="HEIGHT" alt="mvg096pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Niimura Akari, Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvg096pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Niimura Akari, Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvg096pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

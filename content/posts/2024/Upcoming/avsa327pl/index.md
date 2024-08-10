@@ -3,9 +3,9 @@ author: j91
 title: AVSA-327 Cock Hunting Sisters, Erotic Sisters Who Control Semen Ejaculation And Toy With Men
 
 url: /v/avsa327pl
-date: 0000-08-10T01:40:00Z
+date: 2024-08-10T01:40:00Z
 image: "avsa327pl.jpg"
-tags: [Upcoming releases, Other Fetish, Big Tits, Slut, Sister, Bitch	]
+tags: [Censored, Other Fetish, Big Tits, Slut, Sister, Bitch	]
 maker: [ Avs  ]
 actress: [ Hanazawa Himari ,Arioka Miu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanazawa Himari ,Arioka Miu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wGb93GopZWsJ1mO">
     <a href="javascript:;">
         <img src="/v/avsa327pl/avsa327pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa327pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari ,Arioka Miu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa327pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari ,Arioka Miu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa327pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

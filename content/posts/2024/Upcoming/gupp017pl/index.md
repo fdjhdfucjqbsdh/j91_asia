@@ -3,9 +3,9 @@ author: j91
 title: GUPP-017 The Transfer Student Is A Fox God? She Disguised Herself As A Shrine Maiden Slut In Order To Get Some Semen, And Got Caught! She Drives Away Evil Spirits With A Bang! Mion Usami
 
 url: /v/gupp017pl
-date: 0000-08-10T01:20:00Z
+date: 2024-08-10T01:20:00Z
 image: "gupp017pl.jpg"
-tags: [Upcoming releases, Cosplay, 3P, 4P, Restraint, Solowork, Cum, Acme · Orgasm	]
+tags: [Censored, Cosplay, 3P, 4P, Restraint, Solowork, Cum, Acme · Orgasm	]
 maker: [ GUPPI - Emanuel  ]
 actress: [ Usami Mion]
 ---
@@ -13,13 +13,13 @@ actress: [ Usami Mion]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dVz0ZdWd77ck4A0">
     <a href="javascript:;">
         <img src="/v/gupp017pl/gupp017pl.jpg" width="WIDTH" height="HEIGHT" alt="gupp017pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Usami Mion]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gupp017pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Usami Mion]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gupp017pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

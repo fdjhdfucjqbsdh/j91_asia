@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-666 "If You Can Hold Back Your Ejaculation With My Amazing Blowjob, You Can Fuck My Pussy♪" A Blowjob Endurance Contest With A Girl From A Secret Account. Her Tongue Clings To Your Penis So Tightly That It Melts, And She Sucks Up All Of Your Semen With A Slurping Vacuum. No Matter How Many Times You Try, You'll End Up Losing And Ejaculating In Huge Quantities. Erika Ozaki
 
 url: /v/dvaj666pl
-date: 0000-08-10T01:50:00Z
+date: 2024-08-10T01:50:00Z
 image: "dvaj666pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Slut, Breasts	]
+tags: [Censored, Blow, Creampie, Solowork, Slut, Breasts	]
 maker: [ Alice Japan  ]
 actress: [ Ozaki Erika]
 ---
@@ -13,13 +13,13 @@ actress: [ Ozaki Erika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="og74WzAKZ9CJql4">
     <a href="javascript:;">
         <img src="/v/dvaj666pl/dvaj666pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj666pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ozaki Erika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj666pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ozaki Erika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj666pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

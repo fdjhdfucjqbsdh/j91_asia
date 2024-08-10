@@ -3,9 +3,9 @@ author: j91
 title: AVSA-328 Glossy Body - Sparkling Body Stockings & Shiny Pantyhose - A Woman With Beautiful Legs And Shiny Body Is Teased Without Undressing Her Mizubata Asami
 
 url: /v/avsa328pl
-date: 0000-08-10T01:40:00Z
+date: 2024-08-10T01:40:00Z
 image: "avsa328pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Pantyhose, Older Sister, Leg Fetish, Lotion	]
+tags: [Censored, Solowork, Humiliation, Pantyhose, Older Sister, Leg Fetish, Lotion	]
 maker: [ Avs  ]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="koozgL4YLeIrM2">
     <a href="javascript:;">
         <img src="/v/avsa328pl/avsa328pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa328pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa328pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa328pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

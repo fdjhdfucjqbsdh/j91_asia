@@ -3,9 +3,9 @@ author: j91
 title: GVH-676 Tanned Slut With Big Tits And Black Slutty Body Will Come To Your House, Hotel Or Anywhere For A Gal Call Girl Service! Rika Tsubaki
 
 url: /v/gvh676pl
-date: 0000-08-10T01:55:00Z
+date: 2024-08-10T01:55:00Z
 image: "gvh676pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Gal, Slut, Prostitutes, Soapland	]
+tags: [Censored, Creampie, Solowork, Gal, Slut, Prostitutes, Soapland	]
 maker: [ Glory Quest  ]
 actress: [ Tsubaki Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MABeKROB4kumJmy">
     <a href="javascript:;">
         <img src="/v/gvh676pl/gvh676pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh676pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh676pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh676pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: TPIN-082 Secret Raw Sex In A Long Skirt. In A Situation Where You Absolutely Can't Be Found Out, You Get Excited And Get Into A Close And Exciting Hidden Sex Session.
 
 url: /v/tpin082pl
-date: 0000-08-10T01:50:00Z
+date: 2024-08-10T01:50:00Z
 image: "tpin082pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Nasty, Hardcore, Cowgirl, Bitch	]
+tags: [Censored, Blow, Creampie, Nasty, Hardcore, Cowgirl, Bitch	]
 maker: [ Tsubakihoin  ]
 actress: [ Mutou Ayaka, Ichijou Mio, Kudou Rara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mutou Ayaka, Ichijou Mio, Kudou Rara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jjrbqgBxzvFzALV">
     <a href="javascript:;">
         <img src="/v/tpin082pl/tpin082pl.jpg" width="WIDTH" height="HEIGHT" alt="tpin082pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mutou Ayaka, Ichijou Mio, Kudou Rara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tpin082pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mutou Ayaka, Ichijou Mio, Kudou Rara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tpin082pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: EKDV-749 I Came To A Love Hotel To Have Sex With A Fair-skinned Beauty I Found On Social Media For The First Time... She Was A Busty Slut Who Was Bigger Than I Expected, And I Made Her Cum Over And Over Again And Creampied Her Over And Over Again Chizuru Ema
 
 url: /v/ekdv749pl
-date: 0000-08-10T01:40:00Z
+date: 2024-08-10T01:40:00Z
 image: "ekdv749pl.jpg"
-tags: [Upcoming releases, Creampie, Vibe, Solowork]
+tags: [Censored, Creampie, Vibe, Solowork]
 maker: [ Crystal Eizou  ]
 actress: [ Chizuru Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chizuru Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="b7BXlOvZeBHPkd7">
     <a href="javascript:;">
         <img src="/v/ekdv749pl/ekdv749pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv749pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ekdv749pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ekdv749pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
