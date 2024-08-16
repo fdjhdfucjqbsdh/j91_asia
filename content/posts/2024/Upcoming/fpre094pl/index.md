@@ -3,9 +3,9 @@ author: j91
 title: FPRE-094 Hyper-bitch Carnivorous Nurse W Exclusive Decision! Black Gal Exquisite Glamorous Kurosaki Hana Squirting × Creampie Special Kurosaki Hana
 
 url: /v/fpre094pl
-date: 0000-08-16T01:25:00Z
+date: 2024-08-16T01:25:00Z
 image: "fpre094pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Gal, Big Tits, Nurse	]
+tags: [Censored, Blow, Creampie, Solowork, Gal, Big Tits, Nurse	]
 maker: [Fitch]
 actress: [ Kurosaki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurosaki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gr2yQpQ3LyiBvo">
     <a href="javascript:;">
         <img src="/v/fpre094pl/fpre094pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre094pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurosaki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre094pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurosaki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre094pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

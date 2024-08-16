@@ -3,9 +3,9 @@ author: j91
 title: EBWH-139 After Being Spied On While Taking A Bath, The Innocent Fair-skinned, Big-breasted Young Wife Is Taught The Joys Of Sex By Her Dirty Father-in-law. Sumire Yukisaki
 
 url: /v/ebwh139pl
-date: 0000-08-16T01:35:00Z
+date: 2024-08-16T01:35:00Z
 image: "ebwh139pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Cowgirl, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Cowgirl, Drama, Cuckold	]
 maker: [E-body]
 actress: [ Yukie Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yukie Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="92lXm9BDxgTa8R4">
     <a href="javascript:;">
         <img src="/v/ebwh139pl/ebwh139pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh139pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yukie Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh139pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yukie Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh139pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

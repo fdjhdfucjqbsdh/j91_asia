@@ -3,9 +3,9 @@ author: j91
 title: HMN-589 ※※※Banned※※※ "A Radio MC Should Be Able To Read A Script No Matter What The Circumstances Are!?" A Radio Show Where You Have To Endure 10 Minutes Of High-speed Piston Thrusts! If You Can Endure It, You'll Win 1 Million Yen! If You Cum, You'll Get Creampied! Aiba Haruki
 
 url: /v/hmn589pl
-date: 0000-08-16T01:30:00Z
+date: 2024-08-16T01:30:00Z
 image: "hmn589pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Creampie, Solowork, Nasty, Hardcore, Anchorwoman, Acme · Orgasm	]
+tags: [Censored, Sailor Suit, Creampie, Solowork, Nasty, Hardcore, Anchorwoman, Acme · Orgasm	]
 maker: [Honnaka]
 actress: [ Aiba Haruki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aiba Haruki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="K9kl9rAOLRT0YKm">
     <a href="javascript:;">
         <img src="/v/hmn589pl/hmn589pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn589pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aiba Haruki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn589pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aiba Haruki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn589pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

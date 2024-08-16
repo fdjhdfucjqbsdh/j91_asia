@@ -3,9 +3,9 @@ author: j91
 title: MIDV-826 Only For Die-hard Fans From Her Gravure Days! Amateur Old Man And Tongue Kissing, Bodily Fluid Exchange, Drool Appreciation Festival! Miu Nakamura
 
 url: /v/midv826pl
-date: 0000-08-16T01:55:00Z
+date: 2024-08-16T01:55:00Z
 image: "midv826pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Entertainer, Kiss, Fan Appreciation	]
+tags: [Censored, Creampie, Solowork, Entertainer, Kiss, Fan Appreciation	]
 maker: [MOODYZ]
 actress: [ Nakamura Miu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nakamura Miu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="PvZBq6AZmoC02zP">
     <a href="javascript:;">
         <img src="/v/midv826pl/midv826pl.jpg" width="WIDTH" height="HEIGHT" alt="midv826pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nakamura Miu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv826pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nakamura Miu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv826pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
