@@ -3,9 +3,9 @@ author: j91
 title: PPPE-251 Yui Tenma, A Slutty Nurse Who Checks The Patient's Health Condition With A Titty Fuck And A Throat-deep Cumshot
 
 url: /v/pppe251pl
-date: 0000-08-16T01:45:00Z
+date: 2024-08-16T01:45:00Z
 image: "pppe251pl.jpg"
-tags: [Upcoming releases, Solowork, Dirty Words, Titty Fuck, Cum, Slut, Nurse	]
+tags: [Censored, Solowork, Dirty Words, Titty Fuck, Cum, Slut, Nurse	]
 maker: [Oppai]
 actress: [ Tenma Yui]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oerykQY68GFJwK3">
     <a href="javascript:;">
         <img src="/v/pppe251pl/pppe251pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe251pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe251pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe251pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: PPPE-250 The Housewife Next Door Seduces You With Her Busty Body Line That Clings Tightly To Her Breasts And Crotch... Her See-through Maxi Dress Is A Good Sign For Having An Affair While Her Husband Is Away Ichika Seta
 
 url: /v/pppe250pl
-date: 0000-08-16T01:45:00Z
+date: 2024-08-16T01:45:00Z
 image: "pppe250pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Big Tits, Married Woman, Slut, Erotic Wear	]
+tags: [Censored, Solowork, Humiliation, Big Tits, Married Woman, Slut, Erotic Wear	]
 maker: [Oppai]
 actress: [ Seta Ichika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seta Ichika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="llYq3RbKqwHmJG">
     <a href="javascript:;">
         <img src="/v/pppe250pl/pppe250pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe250pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe250pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe250pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

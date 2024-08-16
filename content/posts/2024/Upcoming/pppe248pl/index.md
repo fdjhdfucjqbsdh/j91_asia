@@ -3,9 +3,9 @@ author: j91
 title: PPPE-248 My Girlfriend Was Away On A Family Trip For A Week, So I Creampied Her Big-breasted Friend. Riisa Kisaragi
 
 url: /v/pppe248pl
-date: 0000-08-16T01:45:00Z
+date: 2024-08-16T01:45:00Z
 image: "pppe248pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Slut, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Slut, Cuckold	]
 maker: [Oppai]
 actress: [ Kisaragi Riisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kisaragi Riisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0BL6JozXa1HbjLa">
     <a href="javascript:;">
         <img src="/v/pppe248pl/pppe248pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe248pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe248pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe248pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
