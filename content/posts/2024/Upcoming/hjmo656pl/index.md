@@ -3,9 +3,9 @@ author: j91
 title: HJMO-656 We Surprise The Big-assed Housewife While Her Husband Is Away! Thong Wife With Fixed Vibrator Plays Domino Toppling. If You Can Line Them Up And Topple The Dominoes Within The Time Limit, You'll Win 1 Million Yen! If You Fail The Challenge, You'll Get A Quick Creampie Punishment! 4
 
 url: /v/hjmo656pl
-date: 0000-08-16T01:09:00Z
+date: 2024-08-16T01:09:00Z
 image: "hjmo656pl.jpg"
-tags: [Upcoming releases, Creampie, Vibe, Humiliation, Big Tits, Married Woman	]
+tags: [Censored, Creampie, Vibe, Humiliation, Big Tits, Married Woman	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="g9XYqWVZLQhqllB">
     <a href="javascript:;">
         <img src="/v/hjmo656pl/hjmo656pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo656pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo656pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo656pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

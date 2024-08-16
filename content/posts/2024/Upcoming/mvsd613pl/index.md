@@ -3,9 +3,9 @@ author: j91
 title: MVSD-613 I Was Forced To Wear Perverted Underwear At Work... For 10 Days, I Was Hired As A Sexual Assistant To The Scumbag, Incompetent, Rich, Bullshit Boss Of A Company To Pay Off My Brother's Debts. Akari Neo
 
 url: /v/mvsd613pl
-date: 0000-08-16T01:15:00Z
+date: 2024-08-16T01:15:00Z
 image: "mvsd613pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Beautiful Girl, Nasty, Hardcore	]
+tags: [Censored, Blow, Creampie, Solowork, Beautiful Girl, Nasty, Hardcore	]
 maker: [M's Video Group]
 actress: [ Neo Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Neo Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lQYZoemjqmFZ8x">
     <a href="javascript:;">
         <img src="/v/mvsd613pl/mvsd613pl.jpg" width="WIDTH" height="HEIGHT" alt="mvsd613pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Neo Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvsd613pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Neo Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvsd613pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
