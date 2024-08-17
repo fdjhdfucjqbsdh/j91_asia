@@ -3,9 +3,9 @@ author: j91
 title: TKD-053 The Proprietress' Favorite Food Is The Oyakodon (chicken And Egg Rice Bowl) From Her Daughter's Husband's House.
 
 url: /v/tkd053pl
-date: 0000-08-17T01:20:00Z
+date: 2024-08-17T01:20:00Z
 image: "tkd053pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Mature Woman, Landlady, Hostess, Kimono, Mourning,Cuckold	]
+tags: [Censored, Creampie, Solowork, Mature Woman, Landlady, Hostess, Kimono, Mourning,Cuckold	]
 maker: [ Ruby  ]
 actress: [ Touno Natsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Touno Natsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="q9qdY418WBcz0ok">
     <a href="javascript:;">
         <img src="/v/tkd053pl/tkd053pl.jpg" width="WIDTH" height="HEIGHT" alt="tkd053pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Touno Natsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tkd053pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Touno Natsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tkd053pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

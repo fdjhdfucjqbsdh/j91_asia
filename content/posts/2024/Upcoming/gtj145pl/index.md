@@ -3,9 +3,9 @@ author: j91
 title: GTJ-145 M Drug Female Flesh Toilet Yura Kana
 
 url: /v/gtj145pl
-date: 0000-08-17T01:50:00Z
+date: 2024-08-17T01:50:00Z
 image: "gtj145pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Restraint, Solowork, Beautiful Girl, Deep Throating, Vomit	]
+tags: [Censored, 3P, 4P, Restraint, Solowork, Beautiful Girl, Deep Throating, Vomit	]
 maker: [ Dogma  ]
 actress: [ Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="D9emy7v4B4tk1qz">
     <a href="javascript:;">
         <img src="/v/gtj145pl/gtj145pl.jpg" width="WIDTH" height="HEIGHT" alt="gtj145pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yura Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gtj145pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yura Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gtj145pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

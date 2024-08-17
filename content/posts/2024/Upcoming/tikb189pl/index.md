@@ -3,9 +3,9 @@ author: j91
 title: TIKB-189 [Sex Log] I Got The Curvy Goddess Drunk And Her Slutty Aura Was In Full Swing, So I Decided To Film Her Having Sex!
 
 url: /v/tikb189pl
-date: 0000-08-17T01:55:00Z
+date: 2024-08-17T01:55:00Z
 image: "tikb189pl.jpg"
-tags: [Upcoming releases, POV, Slender, Documentary, Butt, Huge Butt	]
+tags: [Censored, POV, Slender, Documentary, Butt, Huge Butt	]
 maker: [ Chikichikiba-gu- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pl3bqlX7pAirrD4">
     <a href="javascript:;">
         <img src="/v/tikb189pl/tikb189pl.jpg" width="WIDTH" height="HEIGHT" alt="tikb189pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tikb189pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tikb189pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

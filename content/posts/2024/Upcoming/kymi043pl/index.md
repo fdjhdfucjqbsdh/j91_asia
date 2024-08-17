@@ -3,9 +3,9 @@ author: j91
 title: KYMI-043 A High-legged Double Slut Who Plays With Men And Is Unable To Resist
 
 url: /v/kymi043pl
-date: 0000-08-17T01:40:00Z
+date: 2024-08-17T01:40:00Z
 image: "kymi043pl.jpg"
-tags: [Upcoming releases, Dirty Words, Leotard, Slut, Leg Fetish	]
+tags: [Censored, Dirty Words, Leotard, Slut, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Mori Hinako ,Momonaga Sarina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Hinako ,Momonaga Sarina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GPr2loRLKZT1LBQ">
     <a href="javascript:;">
         <img src="/v/kymi043pl/kymi043pl.jpg" width="WIDTH" height="HEIGHT" alt="kymi043pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Hinako ,Momonaga Sarina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kymi043pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Hinako ,Momonaga Sarina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kymi043pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

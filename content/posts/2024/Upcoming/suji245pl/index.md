@@ -3,9 +3,9 @@ author: j91
 title: SUJI-245 The Girl I Happened To Talk To Was Cute... Following And Molesting, Forced Masturbation Posting, Invading A Girl's Room, Braided, Small Breasts, Shaved, Yuka-chan, 136cm, Miyoshi Yuka
 
 url: /v/suji245pl
-date: 0000-08-17T01:50:00Z
+date: 2024-08-17T01:50:00Z
 image: "suji245pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Shaved, Tits, Evil	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Shaved, Tits, Evil	]
 maker: [ Kan Ran Mono  ]
 actress: [ Miyoshi Yuzuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyoshi Yuzuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4vydVyDlRrhOQM">
     <a href="javascript:;">
         <img src="/v/suji245pl/suji245pl.jpg" width="WIDTH" height="HEIGHT" alt="suji245pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji245pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyoshi Yuzuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji245pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
