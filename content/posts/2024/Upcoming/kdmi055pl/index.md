@@ -3,9 +3,9 @@ author: j91
 title: KDMI-055 MILU-Pantyhose Fantasy Legs Amazing II
 
 url: /v/kdmi055pl
-date: 0000-08-17T01:40:00Z
+date: 2024-08-17T01:40:00Z
 image: "kdmi055pl.jpg"
-tags: [Upcoming releases, Pantyhose, 4HR+, Stewardess, Race Queen, Leg Fetish	]
+tags: [Censored, Pantyhose, 4HR+, Stewardess, Race Queen, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Hatano Yui, Iioka Kanako ,Aiga Mizuki, Midorikawa Miyabi, Ichikawa Ema, Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hatano Yui, Iioka Kanako ,Aiga Mizuki, Midorikawa Miyabi, Ichikawa Em
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dQkozdVqvzfkvyv">
     <a href="javascript:;">
         <img src="/v/kdmi055pl/kdmi055pl.jpg" width="WIDTH" height="HEIGHT" alt="kdmi055pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hatano Yui, Iioka Kanako ,Aiga Mizuki, Midorikawa Miyabi, Ichikawa Em
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kdmi055pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui, Iioka Kanako ,Aiga Mizuki, Midorikawa Miyabi, Ichikawa Em
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kdmi055pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

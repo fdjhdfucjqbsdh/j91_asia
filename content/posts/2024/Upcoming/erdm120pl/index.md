@@ -3,9 +3,9 @@ author: j91
 title: ERDM-120 A Hidden Camera Shot Of A Completely Private Men's Beauty Salon! A Sneak Peek Into The Radical Secret Options! 4 Hours
 
 url: /v/erdm120pl
-date: 0000-08-17T01:00:00Z
+date: 2024-08-17T01:00:00Z
 image: "erdm120pl.jpg"
-tags: [Upcoming releases, Beauty Shop, Voyeur, Amateur, Bride, Young Wife, Massage, 4HR+	]
+tags: [Censored, Beauty Shop, Voyeur, Amateur, Bride, Young Wife, Massage, 4HR+	]
 maker: [ Ero Daruma - Emaniel  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PvrLAzxMbXS0Q4j">
     <a href="javascript:;">
         <img src="/v/erdm120pl/erdm120pl.jpg" width="WIDTH" height="HEIGHT" alt="erdm120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/erdm120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/erdm120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
