@@ -3,9 +3,9 @@ author: j91
 title: GKOK-001 Uniformed Housekeeper Is A Sex Toy Kohana Kunimoto
 
 url: /v/gkok001pl
-date: 0000-08-23T01:09:00Z
+date: 2024-08-23T01:09:00Z
 image: "gkok001pl.jpg"
-tags: [Upcoming releases, Creampie, Restraint, Solowork, Uniform, School Girls, Facials	]
+tags: [Censored, Creampie, Restraint, Solowork, Uniform, School Girls, Facials	]
 maker: [Toyohiko]
 actress: [ Kunimoto Kohana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kunimoto Kohana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1jXB9qO8vzievPR">
     <a href="javascript:;">
         <img src="/v/gkok001pl/gkok001pl.jpg" width="WIDTH" height="HEIGHT" alt="gkok001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kunimoto Kohana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gkok001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kunimoto Kohana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gkok001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MISM-337 The Craziest Anal Secretary Kozue Minami
 
 url: /v/mism337pl
-date: 0000-08-23T01:20:00Z
+date: 2024-08-23T01:20:00Z
 image: "mism337pl.jpg"
-tags: [Upcoming releases, Anal, 3P, 4P, Solowork, Nasty, Hardcore, Secretary	]
+tags: [Censored, Anal, 3P, 4P, Solowork, Nasty, Hardcore, Secretary	]
 maker: [Emumusume Lab]
 actress: [ Minami Kozue ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minami Kozue ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="b7gmQ3kd7MsPYb7">
     <a href="javascript:;">
         <img src="/v/mism337pl/mism337pl.jpg" width="WIDTH" height="HEIGHT" alt="mism337pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minami Kozue ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mism337pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minami Kozue ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mism337pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: VEC-660 Wife's Best Friend, Satomi Mioka, Comes To Lecture Her Cheating Husband Who Has Been Found Out
 
 url: /v/vec660pl
-date: 0000-08-23T01:35:00Z
+date: 2024-08-23T01:35:00Z
 image: "vec660pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Venus]
 actress: [ Tachibana Yuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tachibana Yuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZDLX419G1gHqb02">
     <a href="javascript:;">
         <img src="/v/vec660pl/vec660pl.jpg" width="WIDTH" height="HEIGHT" alt="vec660pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tachibana Yuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/vec660pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tachibana Yuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/vec660pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

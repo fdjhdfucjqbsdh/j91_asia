@@ -3,9 +3,9 @@ author: j91
 title: ROYD-190 When I Woke Up In The Morning, There Was A Gal In Her Underwear In My Room! She Was Always Being Cheeky And Rude, But I Was Being Spoiled By Her... Haruhi Moka
 
 url: /v/royd190pl
-date: 0000-08-23T01:25:00Z
+date: 2024-08-23T01:25:00Z
 image: "royd190pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Solowork, Titty Fuck, Lingerie, Female College Student	]
+tags: [Censored, Blow, Handjob, Solowork, Titty Fuck, Lingerie, Female College Student	]
 maker: [ROYAL]
 actress: [ Haruhi Moka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruhi Moka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DWdG17gXddFAQ8">
     <a href="javascript:;">
         <img src="/v/royd190pl/royd190pl.jpg" width="WIDTH" height="HEIGHT" alt="royd190pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd190pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd190pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

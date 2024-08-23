@@ -3,9 +3,9 @@ author: j91
 title: FOCS-213 Short And Immature... Friend's Little Sister, 147cm Tall, Is A Bratty Girl Who Provokes And Tempts! 7 Days Of Close-up Peeks, Edging, And Whispering... In The End, She Loses Her Mind And Does It Over And Over Again! Tsumugi Yura
 
 url: /v/focs213pl
-date: 0000-08-23T01:26:00Z
+date: 2024-08-23T01:26:00Z
 image: "focs213pl.jpg"
-tags: [Upcoming releases, Solowork, Facials, Shaved, Mini, Tits, Sister	]
+tags: [Censored, Solowork, Facials, Shaved, Mini, Tits, Sister	]
 maker: [Abc- Mousou Zoku]
 actress: [ Tsumugi Yura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsumugi Yura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WoZk66jdmrHbPDY">
     <a href="javascript:;">
         <img src="/v/focs213pl/focs213pl.jpg" width="WIDTH" height="HEIGHT" alt="focs213pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsumugi Yura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs213pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsumugi Yura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs213pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

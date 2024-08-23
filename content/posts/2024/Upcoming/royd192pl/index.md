@@ -3,9 +3,9 @@ author: j91
 title: ROYD-192 Even Though She's A Gal, My Super Shy Step-sister Is A Bit Of A Gal, But After I've Been Teasing Her Every Day, She's Become Super Sensitive And Has Premature Ejaculation Problems And Cums Over And Over Again! She Turns Into A Perverted Girl Who Cums Over And Over Again With A Dirty Look On Her Face.
 
 url: /v/royd192pl
-date: 0000-08-23T01:25:00Z
+date: 2024-08-23T01:25:00Z
 image: "royd192pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, School Girls, Big Tits, Abuse	]
+tags: [Censored, Blow, Creampie, Solowork, School Girls, Big Tits, Abuse	]
 maker: [ROYAL]
 actress: [ Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="A1MQ2gz0qPtwGy">
     <a href="javascript:;">
         <img src="/v/royd192pl/royd192pl.jpg" width="WIDTH" height="HEIGHT" alt="royd192pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd192pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd192pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
