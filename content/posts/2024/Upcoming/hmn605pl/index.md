@@ -3,9 +3,9 @@ author: j91
 title: HMN-605 A Beautiful Girl In Uniform Learns How To Cum Inside A Middle-aged Teacher With A Super Slutty Sex Training Session! Rin Amasawa Mizuki Yayoi
 
 url: /v/hmn605pl
-date: 0000-08-23T01:45:00Z
+date: 2024-08-23T01:45:00Z
 image: "hmn605pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Female Teacher, School Girls, Beautiful Girl	]
+tags: [Censored, Creampie, 3P, 4P, Female Teacher, School Girls, Beautiful Girl	]
 maker: [Honnaka]
 actress: [ Yayoi Mizuki, Amazawa Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yayoi Mizuki, Amazawa Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JWJo4VxLb7Cj4gx">
     <a href="javascript:;">
         <img src="/v/hmn605pl/hmn605pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn605pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yayoi Mizuki, Amazawa Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn605pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yayoi Mizuki, Amazawa Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn605pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JUQ-921 Special Appearance!! A Devilish Actress Who Is Both A Beautiful Girl And An Adult Woman Has Arrived At Madonna!! Lingerie Model NTR. My Wife Is Addicted To A Client And A Photographer. [Caution, Viewer Discretion Advised] Cuckold Footage Of Yume Nishimiya
 
 url: /v/juq921pl
-date: 0000-08-23T01:50:00Z
+date: 2024-08-23T01:50:00Z
 image: "juq921pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Nishimiya Yume ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimiya Yume ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="W30ol1leRJUrMa">
     <a href="javascript:;">
         <img src="/v/juq921pl/juq921pl.jpg" width="WIDTH" height="HEIGHT" alt="juq921pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishimiya Yume ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq921pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishimiya Yume ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq921pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

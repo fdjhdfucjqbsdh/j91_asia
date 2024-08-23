@@ -3,9 +3,9 @@ author: j91
 title: JUQ-818 Ayami Ikeda, 35, A Married Woman And Active High-end Lingerie Model, Makes Her AV Debut With Her Astonishing Waistline, Captivating Beautiful Large Breasts, And A Golden-ratio Body That Surpasses A Mannequin.
 
 url: /v/juq818pl
-date: 0000-08-23T01:50:00Z
+date: 2024-08-23T01:50:00Z
 image: "juq818pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Debut Production, Slender, Mature Woman	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Debut Production, Slender, Mature Woman	]
 maker: [Madonna]
 actress: [ Ikeda Ayami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ikeda Ayami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="B7ZLJxPxDrFykyX">
     <a href="javascript:;">
         <img src="/v/juq818pl/juq818pl.jpg" width="WIDTH" height="HEIGHT" alt="juq818pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ikeda Ayami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq818pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ikeda Ayami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq818pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

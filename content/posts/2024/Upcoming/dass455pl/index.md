@@ -3,9 +3,9 @@ author: j91
 title: DASS-455 Free Me From This Narrow World And Embrace Me As I Am.
 
 url: /v/dass455pl
-date: 0000-08-23T01:05:00Z
+date: 2024-08-23T01:05:00Z
 image: "dass455pl.jpg"
-tags: [Upcoming releases, Lesbian, Slender, Lesbian Kiss, Drama, Hot Spring	]
+tags: [Censored, Lesbian, Slender, Lesbian Kiss, Drama, Hot Spring	]
 maker: [Das !]
 actress: [ Futaba Ema ,Hanazawa Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema ,Hanazawa Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p8MLdMqPaxTr9yK">
     <a href="javascript:;">
         <img src="/v/dass455pl/dass455pl.jpg" width="WIDTH" height="HEIGHT" alt="dass455pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ema ,Hanazawa Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass455pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ema ,Hanazawa Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass455pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

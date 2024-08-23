@@ -3,9 +3,9 @@ author: j91
 title: CJOD-433 When She Gets Drunk, The Flight Attendant Becomes A Slut. She Has Beautiful Legs And Black Tights, And They Lock And Kiss In A French Kissing Position On A Business Trip Affair Flight. Hinako Mori And Himari Kinoshita
 
 url: /v/cjod433pl
-date: 0000-08-23T01:30:00Z
+date: 2024-08-23T01:30:00Z
 image: "cjod433pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Pantyhose, Slut, Kiss	]
+tags: [Censored, Creampie, 3P, 4P, Pantyhose, Slut, Kiss	]
 maker: [Bi]
 actress: [ Hanazawa Himari ,Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanazawa Himari ,Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mOzkPplbk0TbKMb">
     <a href="javascript:;">
         <img src="/v/cjod433pl/cjod433pl.jpg" width="WIDTH" height="HEIGHT" alt="cjod433pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari ,Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjod433pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari ,Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjod433pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

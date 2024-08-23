@@ -3,9 +3,9 @@ author: j91
 title: HMN-572 If Your Dick Gets Hard, Let's Go To The Hotel. My Beloved Girlfriend Is Off Work, But A Girl Who Wants To Be My Sex Friend Invites Me Out On An Outdoor Date, And When I Get An Erection, I Lose The Love Hotel Game And End Up Cumming Inside Her Over And Over Again. Rie Miyagi
 
 url: /v/hmn572pl
-date: 0000-08-23T01:45:00Z
+date: 2024-08-23T01:45:00Z
 image: "hmn572pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Cuckold, Huge Butt, Kiss, Date	]
+tags: [Censored, Creampie, Solowork, Cuckold, Huge Butt, Kiss, Date	]
 maker: [Honnaka]
 actress: [ Miyagi Rie ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyagi Rie ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="z709g1aGaduYrwK">
     <a href="javascript:;">
         <img src="/v/hmn572pl/hmn572pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn572pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyagi Rie ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn572pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyagi Rie ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn572pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
