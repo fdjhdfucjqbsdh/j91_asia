@@ -3,9 +3,9 @@ author: j91
 title: NASK-114 A Beautiful Mature Mother In Her Fifties Gently Takes Her Virgin Son's Virginity. A Crazy Parent-child Love That Falls Into The Pleasure Of Taboo Intercourse. 4 People, 4 Hours.
 
 url: /v/nask114pl
-date: 0000-08-24T01:00:00Z
+date: 2024-08-24T01:00:00Z
 image: "nask114pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, 4HR+, Incest, Mature Woman, Virgin Man	]
+tags: [Censored, Best, Omnibus, 4HR+, Incest, Mature Woman, Virgin Man	]
 maker: [ Nadeshiko  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="r9X06wY7laTbQlw">
     <a href="javascript:;">
         <img src="/v/nask114pl/nask114pl.jpg" width="WIDTH" height="HEIGHT" alt="nask114pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nask114pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nask114pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

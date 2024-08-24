@@ -3,9 +3,9 @@ author: j91
 title: KAGP-326 I Showed My Dick To The Amateur Girls I Picked Up! Masturbation Appreciation 7 50 People 5 Hours
 
 url: /v/kagp326pl
-date: 0000-08-24T01:00:00Z
+date: 2024-08-24T01:00:00Z
 image: "kagp326pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Amateur, Nampa, 4HR+	]
+tags: [Censored, Blow, Handjob, Amateur, Nampa, 4HR+	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="g0zPpZ1484iqwb1">
     <a href="javascript:;">
         <img src="/v/kagp326pl/kagp326pl.jpg" width="WIDTH" height="HEIGHT" alt="kagp326pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kagp326pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kagp326pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
