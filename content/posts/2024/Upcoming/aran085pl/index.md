@@ -3,9 +3,9 @@ author: j91
 title: ARAN-085 Crossdresser Acme Academy - A Twitching, Erect Erotic Doll - Episode @ The Honey Flesh Of A Stubborn Male Princess Is Confused By Shame... Mari Ruri
 
 url: /v/aran085pl
-date: 0000-08-24T01:05:00Z
+date: 2024-08-24T01:05:00Z
 image: "aran085pl.jpg"
-tags: [Upcoming releases, Transsexual, Solowork, School Stuff, Abuse, Cross Dressing, Drug	]
+tags: [Censored, Transsexual, Solowork, School Stuff, Abuse, Cross Dressing, Drug	]
 maker: [ Baby Entertainment  ]
 actress: [ Mari Ruri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mari Ruri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MoqeVkjgzBUmW8l">
     <a href="javascript:;">
         <img src="/v/aran085pl/aran085pl.jpg" width="WIDTH" height="HEIGHT" alt="aran085pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mari Ruri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aran085pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mari Ruri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aran085pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

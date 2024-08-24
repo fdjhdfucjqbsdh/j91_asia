@@ -3,9 +3,9 @@ author: j91
 title: RAF-022 Sex At Sixtieth Birthday, A 60-Year-Old Wife's Affair With Her Husband's Dissatisfaction, An Affair With A Renovation Contractor And Forbidden Sex With Her Nephew Eriko Kurata
 
 url: /v/raf022pl
-date: 0000-08-24T01:40:00Z
+date: 2024-08-24T01:40:00Z
 image: "raf022pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Mature Woman, Drama, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Mature Woman, Drama, Cuckold	]
 maker: [ Global Media Entertainment  ]
 actress: [ Kurata Eriko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurata Eriko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DzBZkyzkz3fkgQM">
     <a href="javascript:;">
         <img src="/v/raf022pl/raf022pl.jpg" width="WIDTH" height="HEIGHT" alt="raf022pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurata Eriko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/raf022pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurata Eriko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/raf022pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

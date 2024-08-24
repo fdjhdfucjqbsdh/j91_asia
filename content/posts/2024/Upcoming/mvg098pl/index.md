@@ -3,9 +3,9 @@ author: j91
 title: MVG-098 Ma○ko Device BondageXXX Iron Restraint Ma○ko Torture Mizubata Asami
 
 url: /v/mvg098pl
-date: 0000-08-24T01:50:00Z
+date: 2024-08-24T01:50:00Z
 image: "mvg098pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Restraint, Solowork, Married Woman, Nasty, Hardcore, Shaved	]
+tags: [Censored, 3P, 4P, Restraint, Solowork, Married Woman, Nasty, Hardcore, Shaved	]
 maker: [ Glory Quest  ]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8DJ91RG61XIoBKL">
     <a href="javascript:;">
         <img src="/v/mvg098pl/mvg098pl.jpg" width="WIDTH" height="HEIGHT" alt="mvg098pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvg098pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvg098pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: NEWM-088 Forbidden Sex With My Wife's Mother, Part 51, My Mother-in-Law Is Better Than My Wife... Rieko Hiraoka
 
 url: /v/newm088pl
-date: 0000-08-24T01:40:00Z
+date: 2024-08-24T01:40:00Z
 image: "newm088pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Mature Woman, Mother, Stepmother	]
+tags: [Censored, Solowork, Married Woman, Mature Woman, Mother, Stepmother	]
 maker: [ Global Media Entertainment  ]
 actress: [ Hiraoka Rieko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hiraoka Rieko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="O4w6g1LgLxFmAB">
     <a href="javascript:;">
         <img src="/v/newm088pl/newm088pl.jpg" width="WIDTH" height="HEIGHT" alt="newm088pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hiraoka Rieko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/newm088pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hiraoka Rieko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/newm088pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

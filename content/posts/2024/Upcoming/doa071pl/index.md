@@ -3,9 +3,9 @@ author: j91
 title: DOA-071 Amazing Huge Dick Destroys Internal Organs! Relentless Big Dick!! Become A Prisoner Of The Extra Large Black Dick!
 
 url: /v/doa071pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "doa071pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Deep Throating, Black Actor, Huge Cock	]
+tags: [Censored, Creampie, 3P, 4P, Deep Throating, Black Actor, Huge Cock	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3Gr4jkx9vbS6Qo">
     <a href="javascript:;">
         <img src="/v/doa071pl/doa071pl.jpg" width="WIDTH" height="HEIGHT" alt="doa071pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/doa071pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/doa071pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

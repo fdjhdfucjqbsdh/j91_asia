@@ -3,9 +3,9 @@ author: j91
 title: SCPX-507 These Naive But Fun-loving College Girls Are Turned On By The Reaction Of The M-man In Their First Experience, And Become Lewd Sluts! "This Dick Is My Toy," They Say, And After Thoroughly Playing With Him, They Insert It Without Question, Rubbing The Head Of His Penis Against His Pleasurable Spot, And Have Raw Sex That Doesn't End Until He Cums Inside Them.
 
 url: /v/scpx507pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "scpx507pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Amateur, Slut, Female College Student	]
+tags: [Censored, Handjob, Creampie, Amateur, Slut, Female College Student	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="bVBlYBgPKzFPwAV">
     <a href="javascript:;">
         <img src="/v/scpx507pl/scpx507pl.jpg" width="WIDTH" height="HEIGHT" alt="scpx507pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/scpx507pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/scpx507pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

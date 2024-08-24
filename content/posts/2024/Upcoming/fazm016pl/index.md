@@ -3,9 +3,9 @@ author: j91
 title: FAZM-016 6P Orgy SEX Serious Suggestion Hypnosis [I-Cup Big Tits Cosplayer Falls In Love With Us Boring Guys] Finger Snap And Her Whole Body Is An Erogenous Zone → She Goes Crazy In A Climax Trance [The Most Lewd Woman Who's OK With Creampies For Everyone] + Other Luxurious 3-Part Special
 
 url: /v/fazm016pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "fazm016pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Amateur, Squirting, Promiscuity, Hypnosis	]
+tags: [Censored, Cosplay, Creampie, Amateur, Squirting, Promiscuity, Hypnosis	]
 maker: [ Zennihon Kameko Kyoudou Kumiai- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PJ1xpL30WVI0m0e">
     <a href="javascript:;">
         <img src="/v/fazm016pl/fazm016pl.jpg" width="WIDTH" height="HEIGHT" alt="fazm016pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fazm016pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fazm016pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

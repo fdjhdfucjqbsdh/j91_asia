@@ -3,9 +3,9 @@ author: j91
 title: AGAV-116 Scornful Glare And A Facial. I've Taken Advantage Of My Weakness And Made My Brother's Wife Into A Submissive Sex Toy, And Now My Purpose In Life As A NEET Is To Splash My Thick Semen On Her Face. Tomomi Okanishi
 
 url: /v/agav116pl
-date: 0000-08-24T01:15:00Z
+date: 2024-08-24T01:15:00Z
 image: "agav116pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Masturbation, Married Woman, Facials, Abuse	]
+tags: [Censored, Blow, Solowork, Masturbation, Married Woman, Facials, Abuse	]
 maker: [ Sex Agent  ]
 actress: [ Okanishi Tomomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Okanishi Tomomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="74Y218vW7rsAOJZ">
     <a href="javascript:;">
         <img src="/v/agav116pl/agav116pl.jpg" width="WIDTH" height="HEIGHT" alt="agav116pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Okanishi Tomomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/agav116pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Okanishi Tomomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/agav116pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

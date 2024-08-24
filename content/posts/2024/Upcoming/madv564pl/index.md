@@ -3,9 +3,9 @@ author: j91
 title: MADV-564 Uniformed Girl Confinement Pet Training Koharu Shizukutsuki Kokoro Sakura
 
 url: /v/madv564pl
-date: 0000-08-24T01:50:00Z
+date: 2024-08-24T01:50:00Z
 image: "madv564pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Creampie, Solowork, Uniform, School Girls]
+tags: [Censored, Sailor Suit, Creampie, Solowork, Uniform, School Girls]
 maker: [ Crystal Eizou  ]
 actress: [ Sakurai Chiharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakurai Chiharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0L24b2Qg2dCbbqA">
     <a href="javascript:;">
         <img src="/v/madv564pl/madv564pl.jpg" width="WIDTH" height="HEIGHT" alt="madv564pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakurai Chiharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/madv564pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakurai Chiharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/madv564pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

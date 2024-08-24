@@ -3,9 +3,9 @@ author: j91
 title: OPPW-173 A Small-sized Boy Who Loves Squirting, Kohaku Hina
 
 url: /v/oppw173pl
-date: 0000-08-24T01:05:00Z
+date: 2024-08-24T01:05:00Z
 image: "oppw173pl.jpg"
-tags: [Upcoming releases, Transsexual, Solowork, Mini, Cross Dressing, Male Squirting	]
+tags: [Censored, Transsexual, Solowork, Mini, Cross Dressing, Male Squirting	]
 maker: [ Openipeni World - Mousozoku  ]
 actress: [ Kohaku Hina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kohaku Hina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="q8yqWwB40kcz0PJ">
     <a href="javascript:;">
         <img src="/v/oppw173pl/oppw173pl.jpg" width="WIDTH" height="HEIGHT" alt="oppw173pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kohaku Hina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/oppw173pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kohaku Hina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/oppw173pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
