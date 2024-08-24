@@ -3,9 +3,9 @@ author: j91
 title: EYS-104 Hidden Camera Footage Of A Pick-up. A Cute Young Wife And Her Subordinate Missed The Last Train On The Way Home From A Drinking Party And Were Alone In A Small Apartment. I Tried To Seduce Her Without Much Hope...Far From Refusing, She Let Me Do It! Vol.2
 
 url: /v/eys104pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "eys104pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Voyeur, Big Tits, Bride, Young Wife	]
+tags: [Censored, Blow, Creampie, Voyeur, Big Tits, Bride, Young Wife	]
 maker: [ STUDIO I’s - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qJjGza4V3VCYJl">
     <a href="javascript:;">
         <img src="/v/eys104pl/eys104pl.jpg" width="WIDTH" height="HEIGHT" alt="eys104pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/eys104pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/eys104pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
