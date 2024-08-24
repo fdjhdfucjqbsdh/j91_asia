@@ -3,9 +3,9 @@ author: j91
 title: NSFS-308 Debt-ridden Couple, I Let My Wife Sleep With Another Man. 12, Humiliating Life With A Debt Collector - Yuuna Mitake
 
 url: /v/nsfs308pl
-date: 0000-08-24T01:55:00Z
+date: 2024-08-24T01:55:00Z
 image: "nsfs308pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Married Woman, Drama	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, Married Woman, Drama	]
 maker: [ Nagae Style  ]
 actress: [ Mitake Yuuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitake Yuuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lQAlzAXKW1T7eBV">
     <a href="javascript:;">
         <img src="/v/nsfs308pl/nsfs308pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs308pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs308pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs308pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

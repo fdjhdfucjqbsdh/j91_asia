@@ -3,9 +3,9 @@ author: j91
 title: APAK-284 Wakana, A Lewd And Submissive Female Office Worker [Extreme Sex With A Working Woman] "I'm Cumming! I'm Cumming Again! I'm Cumming!" "I'm Sorry I Came Too Much..." **Off-party Girl And Hotel Room Slutty Orgasmic Sex Wakana Hachimori
 
 url: /v/apak284pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "apak284pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Nasty, Hardcore, Facials, Acme · Orgasm	]
+tags: [Censored, OL, Creampie, Solowork, Nasty, Hardcore, Facials, Acme · Orgasm	]
 maker: [ Aurora Project Annex  ]
 actress: [ Yamori Wakana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamori Wakana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kbaMJbAPvQHOLZr">
     <a href="javascript:;">
         <img src="/v/apak284pl/apak284pl.jpg" width="WIDTH" height="HEIGHT" alt="apak284pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamori Wakana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apak284pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamori Wakana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apak284pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

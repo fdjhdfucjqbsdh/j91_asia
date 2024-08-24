@@ -3,9 +3,9 @@ author: j91
 title: GVH-679 Horny Adultery Orgasm, 90cm H-cup Busty Half-Japanese Young Wife's Lewd Naked Body And Sexual Habits Chizuru Ema
 
 url: /v/gvh679pl
-date: 0000-08-24T01:55:00Z
+date: 2024-08-24T01:55:00Z
 image: "gvh679pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Big Tits, Nasty, Hardcore, Bride, Young Wife	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Big Tits, Nasty, Hardcore, Bride, Young Wife	]
 maker: [ Glory Quest  ]
 actress: [ Chizuru Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chizuru Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="LOzAP4oO9vsyMk">
     <a href="javascript:;">
         <img src="/v/gvh679pl/gvh679pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh679pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh679pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chizuru Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh679pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

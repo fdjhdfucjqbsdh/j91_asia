@@ -3,9 +3,9 @@ author: j91
 title: APNS-350 Training A Young Lady, 30 Days Of Hell Leading To Conception. Endless Breeding, Climaxes That Drive Her Crazy And Destroys Her Personality... "I'm A Dick-addicted Schoolgirl..." Shibuya Akari
 
 url: /v/apns350pl
-date: 0000-08-24T01:20:00Z
+date: 2024-08-24T01:20:00Z
 image: "apns350pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, School Girls, Drama, Conceived	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, School Girls, Drama, Conceived	]
 maker: [ Aurora Project Annex  ]
 actress: [ Shibuya Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shibuya Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="l0ezP1DM1rF77Xz">
     <a href="javascript:;">
         <img src="/v/apns350pl/apns350pl.jpg" width="WIDTH" height="HEIGHT" alt="apns350pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shibuya Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apns350pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shibuya Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apns350pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

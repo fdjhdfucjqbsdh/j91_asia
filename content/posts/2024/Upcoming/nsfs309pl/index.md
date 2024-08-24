@@ -3,9 +3,9 @@ author: j91
 title: NSFS-309 Netorare Gangbang Trip I Want To Let A Stranger Sleep With My Wife Azusa Misaki
 
 url: /v/nsfs309pl
-date: 0000-08-24T01:55:00Z
+date: 2024-08-24T01:55:00Z
 image: "nsfs309pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Married Woman, Drama, Cuckold	]
+tags: [Censored, 3P, 4P, Solowork, Married Woman, Drama, Cuckold	]
 maker: [ Nagae Style  ]
 actress: [ Misaki Azusa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Azusa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rJmqbpOwGWUbpqg">
     <a href="javascript:;">
         <img src="/v/nsfs309pl/nsfs309pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs309pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Azusa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs309pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Azusa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs309pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
