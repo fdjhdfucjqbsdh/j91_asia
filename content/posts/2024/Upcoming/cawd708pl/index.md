@@ -3,9 +3,9 @@ author: j91
 title: CAWD-708 Her Quiet-looking Sister Was A Beast In Sheep's Clothing. And She Had Big Boobs. Yuuhi Shitara
 
 url: /v/cawd708pl
-date: 0000-08-30T01:45:00Z
+date: 2024-08-30T01:45:00Z
 image: "cawd708pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Beautiful Girl, Slut, Sister	]
+tags: [Censored, Creampie, Solowork, Big Tits, Beautiful Girl, Slut, Sister	]
 maker: [Kawaii]
 actress: [ Shitara Yuuhi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shitara Yuuhi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LJG6RQvz20I4va">
     <a href="javascript:;">
         <img src="/v/cawd708pl/cawd708pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd708pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shitara Yuuhi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd708pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shitara Yuuhi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd708pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

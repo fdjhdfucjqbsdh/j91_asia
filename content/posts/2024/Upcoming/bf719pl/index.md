@@ -3,9 +3,9 @@ author: j91
 title: BF-719 The Tall, H-cup Busty Swimsuit Instructor Next Door Seduces Me In A See-through Swimsuit And Rides Me Like A Slut, Without My Wife Knowing, Until I Run Out Of Sperm. Hoshi Asuna
 
 url: /v/bf719pl
-date: 0000-08-30T01:26:00Z
+date: 2024-08-30T01:26:00Z
 image: "bf719pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Swimsuit, BBW	]
+tags: [Censored, Creampie, Solowork, Big Tits, Swimsuit, BBW	]
 maker: [Befree]
 actress: [ Hoshi Asuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshi Asuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7GylQvPVkJSAa3o">
     <a href="javascript:;">
         <img src="/v/bf719pl/bf719pl.jpg" width="WIDTH" height="HEIGHT" alt="bf719pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf719pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf719pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

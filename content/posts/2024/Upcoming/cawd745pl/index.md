@@ -3,9 +3,9 @@ author: j91
 title: CAWD-745 What A Surprise!! A Beautiful Girl With A 51cm Waist And An F-cup That Turns Up When She Takes Off Her Clothes Makes Her AV Debut! Hinata Ria
 
 url: /v/cawd745pl
-date: 0000-08-30T01:45:00Z
+date: 2024-08-30T01:45:00Z
 image: "cawd745pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Debut Production, Cowgirl, Facials, Slender	]
+tags: [Censored, 3P, 4P, Solowork, Debut Production, Cowgirl, Facials, Slender	]
 maker: [Kawaii]
 actress: [ Hinata Ria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Ria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="w4am7gq74XIxkL">
     <a href="javascript:;">
         <img src="/v/cawd745pl/cawd745pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd745pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hinata Ria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd745pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hinata Ria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd745pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

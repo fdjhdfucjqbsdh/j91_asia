@@ -3,9 +3,9 @@ author: j91
 title: ADN-598 A Married Woman Who Is Addicted To A Women-only Erotic Massage Parlor. Natsume Saiharu
 
 url: /v/adn598pl
-date: 0000-08-30T01:50:00Z
+date: 2024-08-30T01:50:00Z
 image: "adn598pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Cuckold	]
 maker: [Attackers]
 actress: [ Natsume Iroha]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsume Iroha]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="260XAOJxepCVyr">
     <a href="javascript:;">
         <img src="/v/adn598pl/adn598pl.jpg" width="WIDTH" height="HEIGHT" alt="adn598pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsume Iroha]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn598pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsume Iroha]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn598pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

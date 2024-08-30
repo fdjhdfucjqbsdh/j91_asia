@@ -3,9 +3,9 @@ author: j91
 title: CAWD-721 In A Shared Room On A Business Trip, She Was Repeatedly Creampied By Her Insatiable Boss... A Slender, Beautiful-breasted Office Lady, Nanaka Kosaka, Is Drowning In The Persistent Caresses And Intense Sex Of Her Boss, Whom She Hates.
 
 url: /v/cawd721pl
-date: 0000-08-30T01:45:00Z
+date: 2024-08-30T01:45:00Z
 image: "cawd721pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Nasty, Hardcore, Slender, Cuckold	]
+tags: [Censored, OL, Solowork, Nasty, Hardcore, Slender, Cuckold	]
 maker: [Kawaii]
 actress: [ Kosaka Nanaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kosaka Nanaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="O6ZR1OZK88IZpKG">
     <a href="javascript:;">
         <img src="/v/cawd721pl/cawd721pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd721pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd721pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd721pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

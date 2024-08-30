@@ -3,9 +3,9 @@ author: j91
 title: CAWD-681 When You Call, The Plain Busty Masochistic Woman Comes Rushing To You With Her Nipples Throbbing And Her Pussy Dripping Wet, And You Get To Have Some Filthy Training And Sex With Her - Tsuji Imaru
 
 url: /v/cawd681pl
-date: 0000-08-30T01:45:00Z
+date: 2024-08-30T01:45:00Z
 image: "cawd681pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Big Tits, Titty Fuck, Nasty, Hardcore, Submissive Woman	]
+tags: [Censored, Solowork, Humiliation, Big Tits, Titty Fuck, Nasty, Hardcore, Submissive Woman	]
 maker: [Kawaii]
 actress: [ Tsuji Imaru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsuji Imaru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KW4KBwB6vPU0MAJ">
     <a href="javascript:;">
         <img src="/v/cawd681pl/cawd681pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd681pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsuji Imaru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd681pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsuji Imaru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd681pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
