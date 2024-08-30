@@ -3,9 +3,9 @@ author: j91
 title: RBK-095 The Senior At My Company That I Had Always Admired Was Secretly Working As A Bondage Female Slave For The Owner. Hono Wakamiya
 
 url: /v/rbk095pl
-date: 0000-08-30T01:50:00Z
+date: 2024-08-30T01:50:00Z
 image: "rbk095pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Shibari, Abuse, Drama	]
+tags: [Censored, OL, Solowork, Shibari, Abuse, Drama	]
 maker: [Attackers]
 actress: [ Wakamiya Hono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakamiya Hono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m6gly2Y22eUbW77">
     <a href="javascript:;">
         <img src="/v/rbk095pl/rbk095pl.jpg" width="WIDTH" height="HEIGHT" alt="rbk095pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rbk095pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rbk095pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

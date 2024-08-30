@@ -3,9 +3,9 @@ author: j91
 title: WAAA-395 On A Business Trip, I Was Caught In A Downpour And Ended Up Sharing A Room With A Plain-looking, Big-breasted Employee Wearing Glasses. I Got Horny And We Had Sex, And It Seemed Like All My Pent-up Sexual Desire Exploded, As I Continued To Ride Her Until The Morning. Ai Sayama
 
 url: /v/waaa395pl
-date: 0000-08-30T01:40:00Z
+date: 2024-08-30T01:40:00Z
 image: "waaa395pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Big Tits, Titty Fuck, Slut	]
+tags: [Censored, OL, Creampie, Solowork, Big Tits, Titty Fuck, Slut	]
 maker: [WANZ FACTORY]
 actress: [ Sayama Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sayama Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1Ld901BJ68s1lg">
     <a href="javascript:;">
         <img src="/v/waaa395pl/waaa395pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa395pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa395pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa395pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
