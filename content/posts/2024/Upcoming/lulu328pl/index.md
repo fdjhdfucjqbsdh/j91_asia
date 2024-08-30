@@ -3,9 +3,9 @@ author: j91
 title: LULU-328 A Big-assed Club Girl, JK, Gets Drugged And Creampied By A Middle-aged, Big-dick Chiropractor Who Gives Her An Aphrodisiac And Sexually Harasses Her Until She Arches Her Back And Squirts In Orgasm. Yui Tenma
 
 url: /v/lulu328pl
-date: 0000-08-30T01:30:00Z
+date: 2024-08-30T01:30:00Z
 image: "lulu328pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Massage, Athlete	]
+tags: [Censored, Creampie, Solowork, School Girls, Massage, Athlete	]
 maker: [LUNATICS]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8vM90mvLGbUoRqm">
     <a href="javascript:;">
         <img src="/v/lulu328pl/lulu328pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu328pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu328pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu328pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

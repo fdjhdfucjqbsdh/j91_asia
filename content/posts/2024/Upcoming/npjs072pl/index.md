@@ -3,9 +3,9 @@ author: j91
 title: NPJS-072 Female College Students Who Want To Get Credits Easily Spread Their Legs. A Professor Of A College's Sex Video Collection Leaked. File.004
 
 url: /v/npjs072pl
-date: 0000-08-30T01:15:00Z
+date: 2024-08-30T01:15:00Z
 image: "npjs072pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, POV, Beautiful Girl, Female College Student	]
+tags: [Censored, Creampie, Amateur, POV, Beautiful Girl, Female College Student	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9pRmxPdM1lIag1m">
     <a href="javascript:;">
         <img src="/v/npjs072pl/npjs072pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

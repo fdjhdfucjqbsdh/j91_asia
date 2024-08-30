@@ -3,9 +3,9 @@ author: j91
 title: BMW-315 Bouncing Boobs! Ecstasy Face! Flexible Curvaceous Body! 100 Consecutive Back-swinging And Convulsing Back-arching! Vol.2
 
 url: /v/bmw315pl
-date: 0000-08-30T01:00:00Z
+date: 2024-08-30T01:00:00Z
 image: "bmw315pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Nasty, Hardcore, 4HR+, Slender, Back	]
+tags: [Censored, Creampie, Big Tits, Nasty, Hardcore, 4HR+, Slender, Back	]
 maker: [WANZ FACTORY]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pLYa3vzWGAtrZox">
     <a href="javascript:;">
         <img src="/v/bmw315pl/bmw315pl.jpg" width="WIDTH" height="HEIGHT" alt="bmw315pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bmw315pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bmw315pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

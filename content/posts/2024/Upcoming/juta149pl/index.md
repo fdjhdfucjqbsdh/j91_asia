@@ -3,9 +3,9 @@ author: j91
 title: JUTA-149 Best!! Fifty-year-old Wife's First Nude AV Documentary Yuki Takizawa
 
 url: /v/juta149pl
-date: 0000-08-30T01:10:00Z
+date: 2024-08-30T01:10:00Z
 image: "juta149pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Debut Production, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Debut Production, Mature Woman	]
 maker: [Juku Onna JAPAN- Emmanuelle]
 actress: [ Takizawa Yuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takizawa Yuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pLL6jpe1A2CrgeQ">
     <a href="javascript:;">
         <img src="/v/juta149pl/juta149pl.jpg" width="WIDTH" height="HEIGHT" alt="juta149pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takizawa Yuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juta149pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takizawa Yuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juta149pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

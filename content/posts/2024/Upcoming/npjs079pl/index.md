@@ -3,9 +3,9 @@ author: j91
 title: NPJS-079 A Beautiful Gym Wife Who Has A Strong Libido And Strong Alcohol Intake Explodes With Stress On Her Cheat Day! She Calls In The Strongest Muscle Man And Does It Over And Over Again To Solve Her Protein (sperm) Deficiency And Has 9 Carnivorous Creampie Sex Sessions
 
 url: /v/npjs079pl
-date: 0000-08-30T01:15:00Z
+date: 2024-08-30T01:15:00Z
 image: "npjs079pl.jpg"
-tags: [Upcoming releases, POV, Subjectivity, Slender, Butt, Muscle	]
+tags: [Censored, POV, Subjectivity, Slender, Butt, Muscle	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9j0Dm7ZrAAfagJV">
     <a href="javascript:;">
         <img src="/v/npjs079pl/npjs079pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs079pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs079pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs079pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

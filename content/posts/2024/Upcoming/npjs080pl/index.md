@@ -3,9 +3,9 @@ author: j91
 title: NPJS-080 \\Peeping & POV// [Private Room] Seducing A Dedicated Personal Trainer And Having Sex In A Closed Room!? A Girl Who Was Pursued And Taken To A Love Hotel.
 
 url: /v/npjs080pl
-date: 0000-08-30T01:15:00Z
+date: 2024-08-30T01:15:00Z
 image: "npjs080pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, POV, Beautiful Girl, Busty Fetish	]
+tags: [Censored, Amateur, Big Tits, POV, Beautiful Girl, Busty Fetish	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jO8v3koRqJFzXGr">
     <a href="javascript:;">
         <img src="/v/npjs080pl/npjs080pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs080pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs080pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs080pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DVMM-138 Ordinary Men And Women Monitoring AV Amateur College Students Only Friends Of Men And Women Try To Escape From A Closed Room Where They Can't Get Out Until They Collect 20ml Of Semen! 12 A Female College Student Shyly Gives Her Male Friend A Handjob, Masturbation, Blowjob, And Sex To Make Him Ejaculate! Witnessing Her Friend's Dick That Doesn't Go Limp No Matter How Many Times It Ejaculates And A Huge Amount Of Sperm...
 
 url: /v/dvmm138pl
-date: 0000-08-30T01:20:00Z
+date: 2024-08-30T01:20:00Z
 image: "dvmm138pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, Planning, 4HR+, Female College Student	]
+tags: [Censored, Creampie, Amateur, Big Tits, Planning, 4HR+, Female College Student	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wVa4QlqB3DtPQk">
     <a href="javascript:;">
         <img src="/v/dvmm138pl/dvmm138pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm138pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm138pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm138pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

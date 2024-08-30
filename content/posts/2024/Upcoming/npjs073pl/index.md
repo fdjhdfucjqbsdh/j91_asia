@@ -3,9 +3,9 @@ author: j91
 title: NPJS-073 Meet Beautiful Mature Women! The Rumored High-rise Bar Lounge, 5 Raw Ejaculations In Cowgirl Position, Kinoshita Himari
 
 url: /v/npjs073pl
-date: 0000-08-30T01:15:00Z
+date: 2024-08-30T01:15:00Z
 image: "npjs073pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Older Sister, Slender, Huge Butt	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Older Sister, Slender, Huge Butt	]
 maker: [Nampa JAPAN]
 actress: [ Kinoshita Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kinoshita Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="e4XXkD7ezGTY3Lg">
     <a href="javascript:;">
         <img src="/v/npjs073pl/npjs073pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs073pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kinoshita Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs073pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kinoshita Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs073pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
