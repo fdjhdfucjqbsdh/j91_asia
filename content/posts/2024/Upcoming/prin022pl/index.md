@@ -3,9 +3,9 @@ author: j91
 title: PRIN-022 Doujin AV [Lovey-dovey Sex Memorandum] A Gorgeous Double Feature Of A Cute Cosplayer With A Baby Face And Huge Breasts And A Petite Beautiful Cosplayer With A Height Of 140cm! [J-cup Watermelon Boobs] [Almost Virgin] [Super Slender] [Extremely Small Fish Pussy] [Drinking Saliva And Sperm]
 
 url: /v/prin022pl
-date: 0000-08-31T01:20:00Z
+date: 2024-08-31T01:20:00Z
 image: "prin022pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur, Big Tits, Beautiful Girl, Cum	]
+tags: [Censored, Cosplay, Amateur, Big Tits, Beautiful Girl, Cum	]
 maker: [ Za-jiru Ooji- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PwjXzVKLveSAVX">
     <a href="javascript:;">
         <img src="/v/prin022pl/prin022pl.jpg" width="WIDTH" height="HEIGHT" alt="prin022pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/prin022pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/prin022pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DSDP-014 DICK MAX A Huge Dick That Can't Go All The Way To The Back!
+title: SMOK-001 [Miniskirt Sexual Harassment] A Big-assed Married Woman Boss Who Teases A Young Man Working Overtime With A Panty Shot And Makes Him Cum Over And Over Again
 
-url: /v/dsdp014pl
-date: 2024-08-31T01:00:00Z
-image: "dsdp014pl.jpg"
-tags: [Censored, Anal, Blow, 3P, 4P, 4HR+, Oversea Import, Huge Cock	]
-maker: [ Momotarou Eizou Shuppan  ]
-actress: [ ]
+url: /v/smok001pl
+date: 2024-08-31T01:46:00Z
+image: "smok001pl.jpg"
+tags: [Censored, OL, Creampie, Solowork, Married Woman, Butt	]
+maker: [Smoke Films - Mousouzoku  ]
+actress: [Misono Waka ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="oDZ1MBGXXBUOAX">
+<div class="video" data-videoid="vYXLxVDqLwH4RKo">
     <a href="javascript:;">
-        <img src="/v/dsdp014pl/dsdp014pl.jpg" width="WIDTH" height="HEIGHT" alt="dsdp014pl.mp4" loading="lazy">
+        <img src="/v/smok001pl/smok001pl.jpg" width="WIDTH" height="HEIGHT" alt="smok001pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dsdp014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/smok001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dsdp014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/smok001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

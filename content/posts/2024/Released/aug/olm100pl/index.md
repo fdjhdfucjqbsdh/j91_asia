@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DSDP-014 DICK MAX A Huge Dick That Can't Go All The Way To The Back!
+title: OLM-100 Everyone Loves Yu Kawakami 4 Hours 240 Minutes
 
-url: /v/dsdp014pl
-date: 2024-08-31T01:00:00Z
-image: "dsdp014pl.jpg"
-tags: [Censored, Anal, Blow, 3P, 4P, 4HR+, Oversea Import, Huge Cock	]
-maker: [ Momotarou Eizou Shuppan  ]
-actress: [ ]
+url: /v/olm100pl
+date: 2024-08-31T01:30:00Z
+image: "olm100pl.jpg"
+tags: [Censored, Blow, Creampie, Solowork, Married Woman, 4HR+, Cuckold, Actress Best	]
+maker: [ Olympus  ]
+actress: [ Kawakami Yuu ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="oDZ1MBGXXBUOAX">
+<div class="video" data-videoid="QPmbDWeQ6msJgL">
     <a href="javascript:;">
-        <img src="/v/dsdp014pl/dsdp014pl.jpg" width="WIDTH" height="HEIGHT" alt="dsdp014pl.mp4" loading="lazy">
+        <img src="/v/olm100pl/olm100pl.jpg" width="WIDTH" height="HEIGHT" alt="olm100pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dsdp014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/olm100pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dsdp014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/olm100pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
