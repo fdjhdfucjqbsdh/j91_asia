@@ -3,9 +3,9 @@ author: j91
 title: XVSR-772 A Spoiled New Wife's Baby-making Creampie Sex Life Aya Konami
 
 url: /v/xvsr772pl
-date: 0000-08-31T01:55:00Z
+date: 2024-08-31T01:55:00Z
 image: "xvsr772pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Naked Apron, Beautiful Girl, Cum	]
+tags: [Censored, Creampie, Solowork, Married Woman, Naked Apron, Beautiful Girl, Cum	]
 maker: [ MAX-A  ]
 actress: [ Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AXbdApmZRzFXVk7">
     <a href="javascript:;">
         <img src="/v/xvsr772pl/xvsr772pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr772pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr772pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr772pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

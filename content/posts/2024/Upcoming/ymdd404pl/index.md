@@ -3,9 +3,9 @@ author: j91
 title: YMDD-404 Lustful Trance Control, Housewives Who Have Their Latent Erotic Desires Bring Out Through Hypnotherapy Vol.2
 
 url: /v/ymdd404pl
-date: 0000-08-31T01:50:00Z
+date: 2024-08-31T01:50:00Z
 image: "ymdd404pl.jpg"
-tags: [Upcoming releases, Creampie, Beauty Shop, Big Tits, Married Woman, Massage	]
+tags: [Censored, Creampie, Beauty Shop, Big Tits, Married Woman, Massage	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Kurata Mao ,Tokunaga Shiori, Nishino Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurata Mao ,Tokunaga Shiori, Nishino Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vPyKAVPPP2c490j">
     <a href="javascript:;">
         <img src="/v/ymdd404pl/ymdd404pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd404pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurata Mao ,Tokunaga Shiori, Nishino Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymdd404pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurata Mao ,Tokunaga Shiori, Nishino Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymdd404pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
