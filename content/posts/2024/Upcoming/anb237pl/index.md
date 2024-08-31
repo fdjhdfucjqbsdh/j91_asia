@@ -3,9 +3,9 @@ author: j91
 title: ANB-237 Beautiful And Sexy Aunt Is Sent By A Call Girl And I'm Crazy About Her Yukari Namikawa
 
 url: /v/anb237pl
-date: 0000-08-31T01:20:00Z
+date: 2024-08-31T01:20:00Z
 image: "anb237pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Cowgirl, Butt, Mature Woman	]
+tags: [Censored, Solowork, Married Woman, Cowgirl, Butt, Mature Woman	]
 maker: [ Ruby  ]
 actress: [ Namikawa Yukari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Namikawa Yukari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="arbmkKgP1dtxK3d">
     <a href="javascript:;">
         <img src="/v/anb237pl/anb237pl.jpg" width="WIDTH" height="HEIGHT" alt="anb237pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Namikawa Yukari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/anb237pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Namikawa Yukari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/anb237pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

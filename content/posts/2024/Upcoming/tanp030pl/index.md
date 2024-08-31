@@ -3,9 +3,9 @@ author: j91
 title: TANP-030 Obscene Brown-skinned Boy Nanako, 72-hour Stay In The Tropics, Anal Sex, Swallowing Trip
 
 url: /v/tanp030pl
-date: 0000-08-31T01:05:00Z
+date: 2024-08-31T01:05:00Z
 image: "tanp030pl.jpg"
-tags: [Upcoming releases, Transsexual, POV, Cum, Cross Dressing	]
+tags: [Censored, Transsexual, POV, Cum, Cross Dressing	]
 maker: [ Tanpopo - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RqYmm39VDmud1p8">
     <a href="javascript:;">
         <img src="/v/tanp030pl/tanp030pl.jpg" width="WIDTH" height="HEIGHT" alt="tanp030pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tanp030pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tanp030pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

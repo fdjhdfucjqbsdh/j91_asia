@@ -3,9 +3,9 @@ author: j91
 title: FWTR-011 "Eh, Will This Really Help Me Lose Weight?" A Plump Busty Mature Woman Rides A Horse And Reaches A Sweaty Climax With The Secret Menu Of An Insatiable Muscle Trainer - Ayame Honda
 
 url: /v/fwtr011pl
-date: 0000-08-31T01:20:00Z
+date: 2024-08-31T01:20:00Z
 image: "fwtr011pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Affair, Mature Woman, BBW	]
+tags: [Censored, Blow, Solowork, Affair, Mature Woman, BBW	]
 maker: [ Fuwatoro Jukujo - Emanuel  ]
 actress: [ Mizuki Misato ,Honda Ayame ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuki Misato ,Honda Ayame ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="arPloJzxyvFxV7K">
     <a href="javascript:;">
         <img src="/v/fwtr011pl/fwtr011pl.jpg" width="WIDTH" height="HEIGHT" alt="fwtr011pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuki Misato ,Honda Ayame ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fwtr011pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuki Misato ,Honda Ayame ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fwtr011pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
