@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-208 The Relationship Between The Two Sisters Suddenly Becomes Very Twisted. The Sister-in-law Treats Her Sister-in-law Like A Toy, And The Sister-in-law Is Very Timid And Does Whatever She Tells Her To Do! What's More, The Sister-in-law Is Very Lewd! The Sister-in-law Is A Very Good Student...
 
 url: /v/huntc208pl
-date: 0000-09-06T01:15:00Z
+date: 2024-09-06T01:15:00Z
 image: "huntc208pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Lesbian, Sister	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Lesbian, Sister	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7kRmd17GvbsAXLd">
     <a href="javascript:;">
         <img src="/v/huntc208pl/huntc208pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc208pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc208pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc208pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

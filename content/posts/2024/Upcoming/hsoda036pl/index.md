@@ -3,9 +3,9 @@ author: j91
 title: HSODA-036 Magic Mirror NTR Massage Parlor, My Beautiful Slender Girlfriend Is Being Cuckolded Next To Me, But I Can't Resist The Amazing Technique Of The Big Tits Older Sister And I Ended Up Having Raw Sex With Her. Kurumi Sakura Hibiki Otsuki
 
 url: /v/hsoda036pl
-date: 0000-09-06T01:20:00Z
+date: 2024-09-06T01:20:00Z
 image: "hsoda036pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Nasty, Hardcore, Cowgirl, Drug	]
+tags: [Censored, Blow, Creampie, Nasty, Hardcore, Cowgirl, Drug	]
 maker: [Hsoda]
 actress: [ Ootsuki Hibiki ,Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootsuki Hibiki ,Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="M9DjOOMLjeCmpyL">
     <a href="javascript:;">
         <img src="/v/hsoda036pl/hsoda036pl.jpg" width="WIDTH" height="HEIGHT" alt="hsoda036pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ootsuki Hibiki ,Kurumi Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hsoda036pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ootsuki Hibiki ,Kurumi Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hsoda036pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BBSS-088 Loli Lesbian. Innocent Girls Passionately Seek Each Other And Reach Climax In This 4-hour BEST Lesbian Sex (BBSS-088)
 
 url: /v/bbss088pl
-date: 0000-09-06T01:00:00Z
+date: 2024-09-06T01:00:00Z
 image: "bbss088pl.jpg"
-tags: [Upcoming releases, Lesbian, Uniform, Beautiful Girl, Breasts, 4HR+, Lesbian Kiss	]
+tags: [Censored, Lesbian, Uniform, Beautiful Girl, Breasts, 4HR+, Lesbian Kiss	]
 maker: [Bibian]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RkpgPmwrz2tddrb">
     <a href="javascript:;">
         <img src="/v/bbss088pl/bbss088pl.jpg" width="WIDTH" height="HEIGHT" alt="bbss088pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbss088pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbss088pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

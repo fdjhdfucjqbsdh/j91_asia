@@ -3,9 +3,9 @@ author: j91
 title: DASS-468 I Was Pampered To Death By My Younger Stepmother With Soft, Fluffy Big Breasts And A Baby-like Personality, And I Repeatedly Ejaculated Like A Baby.
 
 url: /v/dass468pl
-date: 0000-09-06T01:40:00Z
+date: 2024-09-06T01:40:00Z
 image: "dass468pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Slut, Stepmother	]
+tags: [Censored, Creampie, Solowork, Big Tits, Slut, Stepmother	]
 maker: [Das !]
 actress: [ Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8X9LPbBoxWcoLmy">
     <a href="javascript:;">
         <img src="/v/dass468pl/dass468pl.jpg" width="WIDTH" height="HEIGHT" alt="dass468pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass468pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass468pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

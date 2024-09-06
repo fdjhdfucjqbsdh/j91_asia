@@ -3,9 +3,9 @@ author: j91
 title: NKKD-343 My Wife (29) Was Seduced By A Part-time Worker (20) At Her Part-time Job... → I'm So Jealous, Please Release It As An AV. (NKKD-343)
 
 url: /v/nkkd343pl
-date: 0000-09-06T01:30:00Z
+date: 2024-09-06T01:30:00Z
 image: "nkkd343pl.jpg"
-tags: [Upcoming releases, Voyeur, Big Tits, Married Woman, Slender, Cuckold	]
+tags: [Censored, Voyeur, Big Tits, Married Woman, Slender, Cuckold	]
 maker: [JET Eizou]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ew8dZyj8VrSYqKK">
     <a href="javascript:;">
         <img src="/v/nkkd343pl/nkkd343pl.jpg" width="WIDTH" height="HEIGHT" alt="nkkd343pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nkkd343pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nkkd343pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

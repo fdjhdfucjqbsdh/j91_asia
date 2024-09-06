@@ -3,9 +3,9 @@ author: j91
 title: DASS-472 Dispatched Masseuse Touched My Sensitive Private Parts Too Much, And I Couldn't Stand The Pleasure And Ended Up Cuckolding Him. Momo Shiraishi
 
 url: /v/dass472pl
-date: 0000-09-06T01:40:00Z
+date: 2024-09-06T01:40:00Z
 image: "dass472pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Affair, Lotion, Cuckold	]
+tags: [Censored, Solowork, Beauty Shop, Affair, Lotion, Cuckold	]
 maker: [Das !]
 actress: [ Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vkOmxWoyrehY9a">
     <a href="javascript:;">
         <img src="/v/dass472pl/dass472pl.jpg" width="WIDTH" height="HEIGHT" alt="dass472pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass472pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass472pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

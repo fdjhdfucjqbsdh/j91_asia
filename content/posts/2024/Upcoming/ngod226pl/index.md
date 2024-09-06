@@ -3,9 +3,9 @@ author: j91
 title: NGOD-226 "While Visiting My Hometown..." While My Wife Was Visiting Her Hometown, I Had An Affair With Her Friend, Whose Boobs And Ass Were Too Obscene... Asumi Mirai
 
 url: /v/ngod226pl
-date: 0000-09-06T01:30:00Z
+date: 2024-09-06T01:30:00Z
 image: "ngod226pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Slender, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Slender, Cuckold	]
 maker: [JET Eizou]
 actress: [ Asumi Mirai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asumi Mirai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m1j0rVw280I69O">
     <a href="javascript:;">
         <img src="/v/ngod226pl/ngod226pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod226pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asumi Mirai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod226pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asumi Mirai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod226pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
