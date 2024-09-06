@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-363 [Complete] -KANZETSU- Portio Development! G-spot Pursuit Thrust! Genitals Shaking, Super Orgasm FUCK, Big Squirting And Leaking!! Honoka Furukawa
 
 url: /v/ipzz363pl
-date: 0000-09-06T01:50:00Z
+date: 2024-09-06T01:50:00Z
 image: "ipzz363pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Pantyhose, Beautiful Girl, Squirting, Slender, Acme · Orgasm	]
+tags: [Censored, Blow, Solowork, Pantyhose, Beautiful Girl, Squirting, Slender, Acme · Orgasm	]
 maker: [IDEA POCKET]
 actress: [ Furukawa Honoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Furukawa Honoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Zb4R03xYQBsqWja">
     <a href="javascript:;">
         <img src="/v/ipzz363pl/ipzz363pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz363pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Furukawa Honoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz363pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Furukawa Honoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz363pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

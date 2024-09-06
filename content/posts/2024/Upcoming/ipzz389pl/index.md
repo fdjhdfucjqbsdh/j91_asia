@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-389 Record Rainfall On Business Trip Leads To Sharing A Room With Virgin Subordinate... Excited By Her Rain-soaked Body, He Attacks Her And They Have Nine Climaxes Until The Morning, Soaking Wet And Insatiable Sex Tsumugi Akari
 
 url: /v/ipzz389pl
-date: 0000-09-06T01:50:00Z
+date: 2024-09-06T01:50:00Z
 image: "ipzz389pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Beautiful Girl, Nasty, Hardcore, Slender, Cuckold	]
+tags: [Censored, OL, Solowork, Beautiful Girl, Nasty, Hardcore, Slender, Cuckold	]
 maker: [IDEA POCKET]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kDGJl3mVpzTO2e1">
     <a href="javascript:;">
         <img src="/v/ipzz389pl/ipzz389pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz389pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz389pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz389pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

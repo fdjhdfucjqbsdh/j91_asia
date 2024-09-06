@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-375 A Newly Appointed Female Teacher Who Was Raped And Used As A Human Toilet By Abnormal Students. A Humiliated Clergyman. Emily Yuhina
 
 url: /v/ipzz375pl
-date: 0000-09-06T01:50:00Z
+date: 2024-09-06T01:50:00Z
 image: "ipzz375pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Older Sister, Big Tits, Beautiful Girl, Breasts, Rape	]
+tags: [Censored, Solowork, Female Teacher, Older Sister, Big Tits, Beautiful Girl, Breasts, Rape	]
 maker: [IDEA POCKET]
 actress: [ Yuuhina Emily ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuuhina Emily ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7Y9e1Gzq1jcAga8">
     <a href="javascript:;">
         <img src="/v/ipzz375pl/ipzz375pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz375pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuuhina Emily ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz375pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuuhina Emily ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz375pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

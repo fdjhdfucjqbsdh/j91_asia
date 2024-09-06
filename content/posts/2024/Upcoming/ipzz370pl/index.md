@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-370 The Super Busty Gravure Idol In The Room Opposite Is Showing Off Her Bouncy Boobs And Seducing Me With Her Revealing Swimsuit! I Ended Up Ejaculating Many Times Because Of Her Lewd Hip Movements Mitsuri Nagahama
 
 url: /v/ipzz370pl
-date: 0000-09-06T01:50:00Z
+date: 2024-09-06T01:50:00Z
 image: "ipzz370pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Big Tits, Slut, Entertainer	]
+tags: [Censored, Solowork, Older Sister, Big Tits, Slut, Entertainer	]
 maker: [IDEA POCKET]
 actress: [ Nagahama Mitsuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagahama Mitsuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="17g0dObywgibDG">
     <a href="javascript:;">
         <img src="/v/ipzz370pl/ipzz370pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz370pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagahama Mitsuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz370pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagahama Mitsuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz370pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

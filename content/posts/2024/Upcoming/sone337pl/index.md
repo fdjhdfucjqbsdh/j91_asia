@@ -3,9 +3,9 @@ author: j91
 title: SONE-337 Tsukasa Aoi's Body, Her Masturbation Skills, And Her Bodily Fluids Are All Spilled On One Man Until The Morning! A Luxurious And Raw, Fully Exposed POV FUCK With 14 Years Of AV Experience As An Actress
 
 url: /v/sone337pl
-date: 0000-09-06T01:55:00Z
+date: 2024-09-06T01:55:00Z
 image: "sone337pl.jpg"
-tags: [Upcoming releases, Solowork, POV, Slut, Slender, Documentary, Date	]
+tags: [Censored, Solowork, POV, Slut, Slender, Documentary, Date	]
 maker: [S1 NO.1 STYLE]
 actress: [ Aoi Tsukasa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Tsukasa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="agGVxoWL0gIxjoo">
     <a href="javascript:;">
         <img src="/v/sone337pl/sone337pl.jpg" width="WIDTH" height="HEIGHT" alt="sone337pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aoi Tsukasa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone337pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Tsukasa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone337pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

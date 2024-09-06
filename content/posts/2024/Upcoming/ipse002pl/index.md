@@ -3,9 +3,9 @@ author: j91
 title: IPSE-002 Despite Her Appearance, The Current Medical Student, Newcomer Mayu Shirakawa, Makes Her AV Debut. There's A Reason She Was Chosen. Mayu Shirakawa
 
 url: /v/ipse002pl
-date: 0000-09-06T01:50:00Z
+date: 2024-09-06T01:50:00Z
 image: "ipse002pl.jpg"
-tags: [Upcoming releases, Solowork, Older Sister, Debut Production, Nasty, Hardcore, Cowgirl, Squirting	]
+tags: [Censored, Solowork, Older Sister, Debut Production, Nasty, Hardcore, Cowgirl, Squirting	]
 maker: [IDEA POCKET]
 actress: [ Shirakawa Mayu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirakawa Mayu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XbzAvMJ2l2izPA">
     <a href="javascript:;">
         <img src="/v/ipse002pl/ipse002pl.jpg" width="WIDTH" height="HEIGHT" alt="ipse002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirakawa Mayu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipse002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirakawa Mayu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipse002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

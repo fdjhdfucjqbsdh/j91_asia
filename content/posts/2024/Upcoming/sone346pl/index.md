@@ -3,9 +3,9 @@ author: j91
 title: SONE-346 Gentle, Natural, Slim, But Busty Married Woman Unconsciously Seduces You With No Bra Sayaka Nito
 
 url: /v/sone346pl
-date: 0000-09-06T01:55:00Z
+date: 2024-09-06T01:55:00Z
 image: "sone346pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Squirting, Affair, Slender, No Bra	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Squirting, Affair, Slender, No Bra	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nitou Sayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nitou Sayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DaG3xbdP23UkrdR">
     <a href="javascript:;">
         <img src="/v/sone346pl/sone346pl.jpg" width="WIDTH" height="HEIGHT" alt="sone346pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nitou Sayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone346pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nitou Sayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone346pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
