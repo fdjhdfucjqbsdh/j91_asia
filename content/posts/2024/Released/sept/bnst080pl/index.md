@@ -1,21 +1,21 @@
 ---
 author: j91
-title: BOKD-292 AV Debut I May Look Like This But I Have A Penis. Bone Crusher
+title: BNST-080 My Sex Friend Mayu - A Woman Who Will Definitely Let Me Do It If I Meet Her - Mayu Suzuki
 
-url: /v/bokd292pl
-date: 2024-09-06T01:05:00Z
-image: "bokd292pl.jpg"
-tags: [Censored, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
-maker: [ K.M.Produce  ]
-actress: [ Honekuda Kino ]
+url: /v/bnst080pl
+date: 2024-09-06T00:55:00Z
+image: "bnst080pl.jpg"
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, POV, Cuckold	]
+maker: [Teacher - Mousozoku  ]
+actress: [Suzuki Mayu ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="KZ1vpvvXWqH06QV">
+<div class="video" data-videoid="92WwQkaQrYIaQZv">
     <a href="javascript:;">
-        <img src="/v/bokd292pl/bokd292pl.jpg" width="WIDTH" height="HEIGHT" alt="bokd292pl.mp4" loading="lazy">
+        <img src="/v/bnst080pl/bnst080pl.jpg" width="WIDTH" height="HEIGHT" alt="bnst080pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Honekuda Kino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/bokd292pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bnst080pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Honekuda Kino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/bokd292pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bnst080pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: BOKD-292 AV Debut I May Look Like This But I Have A Penis. Bone Crusher
+title: SY-210 Dear Four-and-a-half-tatami-mat Wife Karen-san 35 Years Old ●Amateur Four-and-a-half-tatami-mat Raw Creampie Series Yamashita Karen
 
-url: /v/bokd292pl
-date: 2024-09-06T01:05:00Z
-image: "bokd292pl.jpg"
-tags: [Censored, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
-maker: [ K.M.Produce  ]
-actress: [ Honekuda Kino ]
+url: /v/sy210pl
+date: 2024-09-06T00:55:00Z
+image: "sy210pl.jpg"
+tags: [Censored, Creampie, Solowork, Cunnilingus, Married Woman, Affair	]
+maker: [Puramu  ]
+actress: [Yamashita Karen ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="KZ1vpvvXWqH06QV">
+<div class="video" data-videoid="Gv8pAOp42mI1w9R">
     <a href="javascript:;">
-        <img src="/v/bokd292pl/bokd292pl.jpg" width="WIDTH" height="HEIGHT" alt="bokd292pl.mp4" loading="lazy">
+        <img src="/v/sy210pl/sy210pl.jpg" width="WIDTH" height="HEIGHT" alt="sy210pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Honekuda Kino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/bokd292pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sy210pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Honekuda Kino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/bokd292pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sy210pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
