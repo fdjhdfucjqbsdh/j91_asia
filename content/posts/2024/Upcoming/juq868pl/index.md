@@ -3,9 +3,9 @@ author: j91
 title: JUQ-868 The Temptation Of A Mother-in-law Who Wants Her Son-in-law's Huge Cock All Day And Night - Yuki Yoshizawa
 
 url: /v/juq868pl
-date: 0000-09-06T01:45:00Z
+date: 2024-09-06T01:45:00Z
 image: "juq868pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Slut, Mature Woman, Stepmother, Huge Cock	]
+tags: [Censored, Solowork, Married Woman, Slut, Mature Woman, Stepmother, Huge Cock	]
 maker: [Madonna]
 actress: [ Yoshizawa Yuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yoshizawa Yuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WDzYaAbzlrFbveX">
     <a href="javascript:;">
         <img src="/v/juq868pl/juq868pl.jpg" width="WIDTH" height="HEIGHT" alt="juq868pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yoshizawa Yuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq868pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yoshizawa Yuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq868pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
