@@ -3,9 +3,9 @@ author: j91
 title: AVSA-333 Erotic Costume Double Slut, Masochistic Man's Ejaculation Management That Makes His Dick Go Crazy
 
 url: /v/avsa333pl
-date: 0000-09-07T01:20:00Z
+date: 2024-09-07T01:20:00Z
 image: "avsa333pl.jpg"
-tags: [Upcoming releases, Cosplay, Slut, Subjectivity, Submissive Men, Bitch	]
+tags: [Censored, Cosplay, Slut, Subjectivity, Submissive Men, Bitch	]
 maker: [ Avs  ]
 actress: [ Wakamiya Hono, Nagisa Mitsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakamiya Hono, Nagisa Mitsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dkgYjJXQrrTkdLV">
     <a href="javascript:;">
         <img src="/v/avsa333pl/avsa333pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa333pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakamiya Hono, Nagisa Mitsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa333pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakamiya Hono, Nagisa Mitsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa333pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

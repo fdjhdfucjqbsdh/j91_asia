@@ -3,9 +3,9 @@ author: j91
 title: BACJ-120 My Wife, Who Takes Care Of My Sexual Needs Every Day, Is A Service-loving, Sweet, And Ejaculation-obsessed Woman, Jun Suehiro
 
 url: /v/bacj120pl
-date: 0000-09-07T01:15:00Z
+date: 2024-09-07T01:15:00Z
 image: "bacj120pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Creampie, Solowork, Married Woman, Subjectivity	]
+tags: [Censored, Blow, Handjob, Creampie, Solowork, Married Woman, Subjectivity	]
 maker: [ Barutan  ]
 actress: [ Suehiro Jun ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suehiro Jun ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BePR7pW7AdfyJJl">
     <a href="javascript:;">
         <img src="/v/bacj120pl/bacj120pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suehiro Jun ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suehiro Jun ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MDBK-340 The Ultimate Tropical Men's Beauty Salon. A Slutty Beauty Salon Lady Who Teases Men To The Extreme And Gives Them A Pleasure Detox.
 
 url: /v/mdbk340pl
-date: 0000-09-07T01:55:00Z
+date: 2024-09-07T01:55:00Z
 image: "mdbk340pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Beautiful Girl, Cowgirl, Swimsuit	]
+tags: [Censored, Creampie, Big Tits, Beautiful Girl, Cowgirl, Swimsuit	]
 maker: [ K.M.Produce  ]
 actress: [ Himesaki Hana ,Mizuhara Misono ,Nagarekawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himesaki Hana ,Mizuhara Misono ,Nagarekawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="A6dr1DWM3pFZkm">
     <a href="javascript:;">
         <img src="/v/mdbk340pl/mdbk340pl.jpg" width="WIDTH" height="HEIGHT" alt="mdbk340pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Himesaki Hana ,Mizuhara Misono ,Nagarekawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mdbk340pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Himesaki Hana ,Mizuhara Misono ,Nagarekawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mdbk340pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

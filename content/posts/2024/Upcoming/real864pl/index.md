@@ -3,9 +3,9 @@ author: j91
 title: REAL-864 A High School Girl Who Only Has Friends In Games Squirts From Between Her Legs Just By Touching Her In An Aphrodisiac-soaked Water-spraying Game Yui Tenma
 
 url: /v/real864pl
-date: 0000-09-07T01:55:00Z
+date: 2024-09-07T01:55:00Z
 image: "real864pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Solowork, School Girls, Beautiful Girl, Squirting, Glasses	]
+tags: [Censored, Sailor Suit, Solowork, School Girls, Beautiful Girl, Squirting, Glasses	]
 maker: [ K.M.Produce  ]
 actress: [ Tenma Yui]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MYV3X2DMwzse4p">
     <a href="javascript:;">
         <img src="/v/real864pl/real864pl.jpg" width="WIDTH" height="HEIGHT" alt="real864pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/real864pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/real864pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

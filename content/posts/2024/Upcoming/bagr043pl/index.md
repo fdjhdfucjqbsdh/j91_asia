@@ -3,9 +3,9 @@ author: j91
 title: BAGR-043 Pull It Out With Your Face!! Close-up POV Of The Face. Mr. Marui, The Master Of Teasing And Killing. Moeka Marui.
 
 url: /v/bagr043pl
-date: 0000-09-07T01:15:00Z
+date: 2024-09-07T01:15:00Z
 image: "bagr043pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Beautiful Girl, Bloomers, School Uniform, Tits	]
+tags: [Censored, Blow, Solowork, Beautiful Girl, Bloomers, School Uniform, Tits	]
 maker: [ Barutan  ]
 actress: [ Marui Moeka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Marui Moeka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="o6vvegZk1WiJwMG">
     <a href="javascript:;">
         <img src="/v/bagr043pl/bagr043pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr043pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Marui Moeka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bagr043pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Marui Moeka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bagr043pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
