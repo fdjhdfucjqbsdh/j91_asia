@@ -1,21 +1,21 @@
 ---
 author: j91
-title: KTRA-659 Specializing In Small Breasts!! Collection Of Small Beautiful Girls 2 4 Hours
+title: HOWS-006 How To Gakuen, If You Watch It, You Will Definitely Become Good At Sex. Textbook AV [How To Play In The Sex Industry SP] Mai Arisu / Tsukasa Nagano / Kozue Minami
 
-url: /v/ktra659pl
-date: 2024-09-07T01:00:00Z
-image: "ktra659pl.jpg"
-tags: [Censored, Other Fetish, Best, Omnibus, Beautiful Girl, 4HR+, Tits	]
-maker: [ Ke- . Toraibu  ]
-actress: [ ]
+url: /v/hows006pl
+date: 2024-09-07T01:33:00Z
+image: "hows006pl.jpg"
+tags: [Censored, Uniform, School Stuff, 4HR+, How To	]
+maker: [Bareman~tsu!!  Mousozoku  ]
+actress: [Nagano Tsukasa , Minami Kozue , Arisu Mai ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="YWglYAereMhvQq4">
+<div class="video" data-videoid="PXl7gy6X0BF03lG">
     <a href="javascript:;">
-        <img src="/v/ktra659pl/ktra659pl.jpg" width="WIDTH" height="HEIGHT" alt="ktra659pl.mp4" loading="lazy">
+        <img src="/v/hows006pl/hows006pl.jpg" width="WIDTH" height="HEIGHT" alt="hows006pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ktra659pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hows006pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ktra659pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hows006pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

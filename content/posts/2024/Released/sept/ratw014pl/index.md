@@ -1,21 +1,21 @@
 ---
 author: j91
-title: KTRA-659 Specializing In Small Breasts!! Collection Of Small Beautiful Girls 2 4 Hours
+title: RATW-014 Taiwan NTR Situation "I'm Sorry, Mrs...." The Secret Of A Sexless Husband Who Succumbed To The Temptations Of Sexy Beauties
 
-url: /v/ktra659pl
-date: 2024-09-07T01:00:00Z
-image: "ktra659pl.jpg"
-tags: [Censored, Other Fetish, Best, Omnibus, Beautiful Girl, 4HR+, Tits	]
-maker: [ Ke- . Toraibu  ]
-actress: [ ]
+url: /v/ratw014pl
+date: 2024-09-07T01:33:00Z
+image: "ratw014pl.jpg"
+tags: [Censored, Shaved, Cuckold	]
+maker: [Royal Asian - Mousozoku  ]
+actress: [Song Yuchuan, Xia Qingzi, Lee Ronron ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="YWglYAereMhvQq4">
+<div class="video" data-videoid="MxXmJ1L8vecdmX">
     <a href="javascript:;">
-        <img src="/v/ktra659pl/ktra659pl.jpg" width="WIDTH" height="HEIGHT" alt="ktra659pl.mp4" loading="lazy">
+        <img src="/v/ratw014pl/ratw014pl.jpg" width="WIDTH" height="HEIGHT" alt="ratw014pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ktra659pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ratw014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ktra659pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ratw014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
