@@ -3,9 +3,9 @@ author: j91
 title: MIDV-855 Hinano-sensei Always Speaks In Standard Japanese, But When She Gets Aroused, She Starts Using Dirty Talk In Her Dialect And Makes Me Cum 14 Times Even Though My Lover Is Nearby. A Busty Female Teacher Who Uses Dirty Talk In Hakata Dialect NTR. Hinano Kuno
 
 url: /v/midv855pl
-date: 0000-09-13T01:55:00Z
+date: 2024-09-13T01:55:00Z
 image: "midv855pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Female Teacher, Dirty Words, Big Tits, Cuckold	]
+tags: [Censored, Blow, Solowork, Female Teacher, Dirty Words, Big Tits, Cuckold	]
 maker: [MOODYZ]
 actress: [ Kuno Hinano ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuno Hinano ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lPmOXgqmjWh77OL">
     <a href="javascript:;">
         <img src="/v/midv855pl/midv855pl.jpg" width="WIDTH" height="HEIGHT" alt="midv855pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuno Hinano ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv855pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuno Hinano ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv855pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

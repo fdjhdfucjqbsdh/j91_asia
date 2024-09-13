@@ -3,9 +3,9 @@ author: j91
 title: MOER-002 She's A Neat And Clean Nurse, But Her Masochistic Side Is So Sexy. Her Throat And Pussy Are Penetrated By A Huge Dick, Causing Her To Drool And Drip With Man Juice In This Shocking, Half-crazed AV Debut. Honoka Yumekawa
 
 url: /v/moer002pl
-date: 0000-09-13T01:55:00Z
+date: 2024-09-13T01:55:00Z
 image: "moer002pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Debut Production, Nasty, Hardcore, Facials, Deep Throating	]
+tags: [Censored, Creampie, Solowork, Older Sister, Debut Production, Nasty, Hardcore, Facials, Deep Throating	]
 maker: [MOODYZ]
 actress: [ Yumekawa Honoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yumekawa Honoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9R1rJ73ApOfa2gB">
     <a href="javascript:;">
         <img src="/v/moer002pl/moer002pl.jpg" width="WIDTH" height="HEIGHT" alt="moer002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yumekawa Honoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/moer002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yumekawa Honoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/moer002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MIFD-518 The Group Name Is A Secret! A Real Idol Who Made Her Major Debut Makes Her AV Debut! Years Have Passed Since The Sudden Disbandment, And She Has Grown Into A Little Devil Lewd Girl, Asahi Ito
 
 url: /v/mifd518pl
-date: 0000-09-13T01:55:00Z
+date: 2024-09-13T01:55:00Z
 image: "mifd518pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Facials, Documentary, Entertainer	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Facials, Documentary, Entertainer	]
 maker: [MOODYZ]
 actress: [ Asahi Ito ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asahi Ito ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="w67j2JOkZzIJReJ">
     <a href="javascript:;">
         <img src="/v/mifd518pl/mifd518pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd518pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asahi Ito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd518pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asahi Ito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd518pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
