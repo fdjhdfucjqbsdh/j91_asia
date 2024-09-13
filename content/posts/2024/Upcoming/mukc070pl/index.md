@@ -3,9 +3,9 @@ author: j91
 title: MUKC-070 A Beautiful Cosplay Girl Who Smiles And Sucks A Cock And Has Sex With A Clothed Fetishist Shizukutsuki Kokoro Sakura
 
 url: /v/mukc070pl
-date: 0000-09-13T01:07:00Z
+date: 2024-09-13T01:07:00Z
 image: "mukc070pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Humiliation, Pantyhose, Acme · Orgasm	]
+tags: [Censored, Cosplay, Creampie, Solowork, Humiliation, Pantyhose, Acme · Orgasm	]
 maker: [Muku]
 actress: [ Shidzuki Koharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shidzuki Koharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wOG1PW22jKFJqrX">
     <a href="javascript:;">
         <img src="/v/mukc070pl/mukc070pl.jpg" width="WIDTH" height="HEIGHT" alt="mukc070pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shidzuki Koharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukc070pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shidzuki Koharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukc070pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
