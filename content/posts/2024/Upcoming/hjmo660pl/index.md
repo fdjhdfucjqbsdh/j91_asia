@@ -3,9 +3,9 @@ author: j91
 title: HJMO-660 CA In Black Pantyhose Takes On Embarrassing Intercrural Sex Challenge! If You Can Make A Shy Guy With A Big Dick Cum By Rubbing His Mound Within The Time Limit, You'll Win A Prize! A Hidden Nymphomaniac CA Who Accidentally Inserts Her Penis Through A Tear In Her Pantyhose Because It Feels So Good
 
 url: /v/hjmo660pl
-date: 0000-09-13T01:09:00Z
+date: 2024-09-13T01:09:00Z
 image: "hjmo660pl.jpg"
-tags: [Upcoming releases, Creampie, Humiliation, Uniform, Pantyhose, Nasty, Hardcore	]
+tags: [Censored, Creampie, Humiliation, Uniform, Pantyhose, Nasty, Hardcore	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9RMDZdL7A4foDe">
     <a href="javascript:;">
         <img src="/v/hjmo660pl/hjmo660pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo660pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo660pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo660pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JJBK-072 Mature Women Only, Mature Women Come To My Room. Take-home Voyeur Footage. Released As An AV. 70. Soft, Soothing, Voluptuous Body. Suzu-san/I Cup/39 Years Old/Big Tits, Big Ass, Sex Monster Wife. Rina-san/H Cup/32 Years Old/Wife With Soft Marshmallow Breasts.
 
 url: /v/jjbk072pl
-date: 0000-09-13T01:11:00Z
+date: 2024-09-13T01:11:00Z
 image: "jjbk072pl.jpg"
-tags: [Upcoming releases, Voyeur, Affair, Cuckold, Ultra-Huge Tits, Huge Butt	]
+tags: [Censored, Voyeur, Affair, Cuckold, Ultra-Huge Tits, Huge Butt	]
 maker: [Jukujo Bank - Emmanuel]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="o9BK26pBOjHv3V">
     <a href="javascript:;">
         <img src="/v/jjbk072pl/jjbk072pl.jpg" width="WIDTH" height="HEIGHT" alt="jjbk072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjbk072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjbk072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

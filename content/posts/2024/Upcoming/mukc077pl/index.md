@@ -3,9 +3,9 @@ author: j91
 title: MUKC-077 An Off-camera Orgy Photoshoot With A Pure Underground Idol. If You Push Her, You Can Have Unlimited Raw Creampie Sex With Our Slutty Angel. Karin Kitaoka
 
 url: /v/mukc077pl
-date: 0000-09-13T01:07:00Z
+date: 2024-09-13T01:07:00Z
 image: "mukc077pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Slut, Promiscuity, Entertainer	]
+tags: [Censored, Cosplay, Creampie, Solowork, Slut, Promiscuity, Entertainer	]
 maker: [Muku]
 actress: [ Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XjomxJgPjltDyRG">
     <a href="javascript:;">
         <img src="/v/mukc077pl/mukc077pl.jpg" width="WIDTH" height="HEIGHT" alt="mukc077pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukc077pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukc077pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

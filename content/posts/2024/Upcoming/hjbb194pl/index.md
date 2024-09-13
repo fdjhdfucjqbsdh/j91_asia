@@ -3,9 +3,9 @@ author: j91
 title: HJBB-194 While Her Husband Is Away, We Surprise Her At Her Big-assed Wife's House! Thong Wife With Fixed Vibrator Plays Domino Toppling. If You Can Line Them Up And Topple The Domino Within The Time Limit, You'll Win 1 Million Yen! If You Fail The Challenge, You'll Get A Quick Creampie Punishment! First BEST
 
 url: /v/hjbb194pl
-date: 0000-09-13T01:09:00Z
+date: 2024-09-13T01:09:00Z
 image: "hjbb194pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Married Woman, 4HR+, Toy, Huge Butt	]
+tags: [Censored, Creampie, Best, Omnibus, Married Woman, 4HR+, Toy, Huge Butt	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mllq69pJGLubJ19">
     <a href="javascript:;">
         <img src="/v/hjbb194pl/hjbb194pl.jpg" width="WIDTH" height="HEIGHT" alt="hjbb194pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjbb194pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjbb194pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
