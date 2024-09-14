@@ -3,9 +3,9 @@ author: j91
 title: BBTU-087 Big Breasted MM Aspiring Music College Graduate Returning Student Tied Up In A Closed Room Rin Hasumi
 
 url: /v/bbtu087pl
-date: 0000-09-14T01:50:00Z
+date: 2024-09-14T01:50:00Z
 image: "bbtu087pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Big Tits, Shibari, Busty Fetish, Submissive Woman	]
+tags: [Censored, SM, Solowork, Big Tits, Shibari, Busty Fetish, Submissive Woman	]
 maker: [ Dogma  ]
 actress: [ Hasumi Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hasumi Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QgawvaZ1lwt01kJ">
     <a href="javascript:;">
         <img src="/v/bbtu087pl/bbtu087pl.jpg" width="WIDTH" height="HEIGHT" alt="bbtu087pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hasumi Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbtu087pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hasumi Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbtu087pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
