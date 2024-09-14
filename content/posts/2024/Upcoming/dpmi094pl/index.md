@@ -3,9 +3,9 @@ author: j91
 title: DPMI-094 Perfect Woman With Great Style And Sexy Looks Has Obscene Clothed Sex Rino Matsuno
 
 url: /v/dpmi094pl
-date: 0000-09-14T01:50:00Z
+date: 2024-09-14T01:50:00Z
 image: "dpmi094pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Butt, Race Queen, Body Conscious, Leg Fetish	]
+tags: [Censored, Solowork, Pantyhose, Butt, Race Queen, Body Conscious, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Matsuno Rino ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsuno Rino ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wkp4Rj70OMSeb6">
     <a href="javascript:;">
         <img src="/v/dpmi094pl/dpmi094pl.jpg" width="WIDTH" height="HEIGHT" alt="dpmi094pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsuno Rino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dpmi094pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsuno Rino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dpmi094pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AUKG-605 Perverted Lesbians - Body Fluid Maniacs Want To Lick Up All The Saliva And Pussy Juices
 
 url: /v/aukg605pl
-date: 0000-09-14T01:20:00Z
+date: 2024-09-14T01:20:00Z
 image: "aukg605pl.jpg"
-tags: [Upcoming releases, Lesbian, Other Fetish, Nasty, Hardcore, Slut, Shaved	]
+tags: [Censored, Lesbian, Other Fetish, Nasty, Hardcore, Slut, Shaved	]
 maker: [ U & K  ]
 actress: [ Nominami Yui ,Otogoto Rui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nominami Yui ,Otogoto Rui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3Ge8yzrGmMTRry">
     <a href="javascript:;">
         <img src="/v/aukg605pl/aukg605pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg605pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nominami Yui ,Otogoto Rui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg605pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nominami Yui ,Otogoto Rui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg605pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
