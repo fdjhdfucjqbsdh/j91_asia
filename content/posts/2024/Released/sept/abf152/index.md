@@ -1,0 +1,52 @@
+---
+author: j91
+title: ABF-152 Just The Two Of Us For A Whole Day With An Amateur. Yui Rukawa
+
+url: /v/abf152
+date: 2024-09-19T06:15:00Z
+image: "abf152.jpg"
+tags: [Censored, Breasts, Cosplay, POV, Shaved, Solowork]
+maker: [Prestige]
+actress: [ Rukawa Yuu]
+---
+
+
+{{< rawhtml >}}
+
+<div class="video" data-videoid="J9jRObbMYmIZVX">
+    <a href="javascript:;">
+        <img src="/v/abf152/abf152.jpg" width="WIDTH" height="HEIGHT" alt="abf152.mp4" loading="lazy">
+    </a>
+</div>
+
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
+
+<br>
+  <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
+  
+  <center>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2"><h2>Download</h2></button></center>
+</p>
+<div class="row">
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample1">
+      <div class="card card-body">
+	      	      <br>
+<div class="buttons">  
+<p><a href="/v/abf152/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+    </div>
+  </div>
+</div>
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample2">
+      <div class="card card-body">
+	      <br>
+<div class="buttons">
+<p><a href="/v/abf152/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<br><br>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{< /rawhtml >}}
