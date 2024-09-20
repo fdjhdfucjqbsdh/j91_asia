@@ -3,9 +3,9 @@ author: j91
 title: DAZD-208 "You Don't Have To Move!" Highly Resilient, Soft, Big Ass Shakes Violently! 50 Consecutive Shots Of A Slutty Cowgirl In A Row!
 
 url: /v/dazd208pl
-date: 0000-09-20T01:00:00Z
+date: 2024-09-20T01:00:00Z
 image: "dazd208pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Cowgirl, Slut, 4HR+, Huge Butt	]
+tags: [Censored, Creampie, Best, Omnibus, Cowgirl, Slut, 4HR+, Huge Butt	]
 maker: [Das !]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WwvL8oLb8QibvOx">
     <a href="javascript:;">
         <img src="/v/dazd208pl/dazd208pl.jpg" width="WIDTH" height="HEIGHT" alt="dazd208pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dazd208pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dazd208pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

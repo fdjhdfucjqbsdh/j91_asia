@@ -1,21 +1,21 @@
 ---
 author: j91
-title: EMLB-070 Overwhelming Asshole, Super-Dimensional Throat Hole, Lewd Pussy, Triple Ascension Meteor Shower, Extreme 3-Hole SEX Addiction, 240 Minutes BEST
+title: NXG-494 Married Tutor's Sexy Peeping Special Instruction 180 Minutes
 
-url: /v/emlb070pl
-date: 2024-09-20T01:00:00Z
-image: "emlb070pl.jpg"
-tags: [Censored, Best, Omnibus, Nasty, Hardcore, 4HR+, Deep Throating, Submissive Woman	]
-maker: [Emumusume Lab]
-actress: [ ]
+url: /v/nxg494pl
+date: 2024-09-20T00:10:00Z
+image: "nxg494pl.jpg"
+tags: [Censored, Creampie, Dirty Words, Tutor, Mature Woman, Kiss	]
+maker: [ Next  ]
+actress: [ Natsuki Kaoru ,Kanou Ayako, Kimishima Kahoru ,Aimi Rika ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="1aB4rR20vVIroK">
+<div class="video" data-videoid="GbMLw804MdsdrO">
     <a href="javascript:;">
-        <img src="/v/emlb070pl/emlb070pl.jpg" width="WIDTH" height="HEIGHT" alt="emlb070pl.mp4" loading="lazy">
+        <img src="/v/nxg494pl/nxg494pl.jpg" width="WIDTH" height="HEIGHT" alt="nxg494pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/emlb070pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nxg494pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/emlb070pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nxg494pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
