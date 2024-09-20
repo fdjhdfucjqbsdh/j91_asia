@@ -3,9 +3,9 @@ author: j91
 title: SONE-368 A Wholesome Salon That Uses Huge Breasts Instead Of Fingers To Provide Full Body Massage, But The Rate Of Hidden Options Is 120%! K-cup Therapist's Absolute Erection Massage, Kagura Momoka
 
 url: /v/sone368pl
-date: 0000-09-20T01:55:00Z
+date: 2024-09-20T01:55:00Z
 image: "sone368pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Titty Fuck, Busty Fetish, Lotion, Ultra-Huge Tits	]
+tags: [Censored, Solowork, Beauty Shop, Titty Fuck, Busty Fetish, Lotion, Ultra-Huge Tits	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kagura Momoka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagura Momoka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Jb2yMkL3GySoa2">
     <a href="javascript:;">
         <img src="/v/sone368pl/sone368pl.jpg" width="WIDTH" height="HEIGHT" alt="sone368pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kagura Momoka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone368pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kagura Momoka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone368pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

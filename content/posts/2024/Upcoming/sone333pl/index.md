@@ -3,9 +3,9 @@ author: j91
 title: SONE-333 A Cheeky Office Lady Is Alone With Her Middle-aged Boss Who Sexually Harasses Her On A Business Trip. Although She Always Thought He Was Creepy, She Is More Infatuated With His Insatiable Cock That Doesn't Go Soft Until The Morning Than With Her Boyfriend. Haruka Kuragi
 
 url: /v/sone333pl
-date: 0000-09-20T01:55:00Z
+date: 2024-09-20T01:55:00Z
 image: "sone333pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Tall, Leg Fetish, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Tall, Leg Fetish, Drama, Cuckold	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kuraki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuraki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WQY6RapbGDtba2P">
     <a href="javascript:;">
         <img src="/v/sone333pl/sone333pl.jpg" width="WIDTH" height="HEIGHT" alt="sone333pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone333pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuraki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone333pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
