@@ -3,9 +3,9 @@ author: j91
 title: FOCS-218 A Maid Who Takes Care Of Your Dick From Morning Till Night. I Want To See My Master's Sperm! I Want To Taste It! I Want To Be Showered With It! A Blowjob And Semen Milking Service With A Large Amount Of Ejaculation. Hinako Matsui
 
 url: /v/focs218pl
-date: 0000-09-20T01:16:00Z
+date: 2024-09-20T01:16:00Z
 image: "focs218pl.jpg"
-tags: [Upcoming releases, Blow, Maid, Solowork, Squirting, Slut, Subjectivity	]
+tags: [Censored, Blow, Maid, Solowork, Squirting, Slut, Subjectivity	]
 maker: [Abc- Mousou Zoku]
 actress: [ Matsui Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsui Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="j6OxrBpV6pSDKo">
     <a href="javascript:;">
         <img src="/v/focs218pl/focs218pl.jpg" width="WIDTH" height="HEIGHT" alt="focs218pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsui Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs218pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsui Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs218pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AOKT-002 Forbidden Creampie Contract Mating Akiko Kadowaki
 
 url: /v/aokt002pl
-date: 0000-09-20T01:09:00Z
+date: 2024-09-20T01:09:00Z
 image: "aokt002pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Cum, Mature Woman, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Married Woman, Cum, Mature Woman, Huge Butt	]
 maker: [Toyohiko]
 actress: [ Kadowaki Akiko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kadowaki Akiko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7YQk6DD0P0sA1Wv">
     <a href="javascript:;">
         <img src="/v/aokt002pl/aokt002pl.jpg" width="WIDTH" height="HEIGHT" alt="aokt002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kadowaki Akiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aokt002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kadowaki Akiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aokt002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

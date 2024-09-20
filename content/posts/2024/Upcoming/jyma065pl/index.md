@@ -3,9 +3,9 @@ author: j91
 title: JYMA-065 When A Man Comes On To Her, She Gets Wet Between The Legs. A Masochistic Wife With A Beautiful, Voluptuous Body And Big Breasts Who Can't Refuse. Reina Kuroki, A Masochistic Wife Who Gets Her Big Breasts And Beautiful Ass Stimulated And Feels Great.
 
 url: /v/jyma065pl
-date: 0000-09-20T01:16:00Z
+date: 2024-09-20T01:16:00Z
 image: "jyma065pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Nasty, Hardcore, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Nasty, Hardcore, Cuckold	]
 maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [ Kuroki Reina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Reina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p88dDpKvLDtWA6">
     <a href="javascript:;">
         <img src="/v/jyma065pl/jyma065pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma065pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Reina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jyma065pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Reina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jyma065pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

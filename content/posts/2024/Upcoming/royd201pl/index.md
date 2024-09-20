@@ -3,9 +3,9 @@ author: j91
 title: ROYD-201 Although She's Usually Strict, When We're Alone... She Smiles And Wants A Dick - Mio Tojo, The Sweet And Slutty Boss
 
 url: /v/royd201pl
-date: 0000-09-20T01:35:00Z
+date: 2024-09-20T01:35:00Z
 image: "royd201pl.jpg"
-tags: [Upcoming releases, OL, Blow, Solowork, Cowgirl, Mature Woman, Bitch	]
+tags: [Censored, OL, Blow, Solowork, Cowgirl, Mature Woman, Bitch	]
 maker: [ROYAL]
 actress: [ Toujou Mirei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Toujou Mirei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RLK73ZLYY7tdbGg">
     <a href="javascript:;">
         <img src="/v/royd201pl/royd201pl.jpg" width="WIDTH" height="HEIGHT" alt="royd201pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toujou Mirei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd201pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toujou Mirei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd201pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

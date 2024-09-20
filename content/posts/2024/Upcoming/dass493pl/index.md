@@ -3,9 +3,9 @@ author: j91
 title: DASS-493 When I Lectured My 30-year-old Sister, She Had A Huge Sexual Explosion At The Cock She Hadn't Seen In 10 Years! Her Hidden Big Tits Shook Violently As I Squeezed Out Her Seed With A Wild Press! Ruisa Tsukizuki
 
 url: /v/dass493pl
-date: 0000-09-20T01:40:00Z
+date: 2024-09-20T01:40:00Z
 image: "dass493pl.jpg"
-tags: [Upcoming releases, Solowork, Masturbation, Big Tits, Nasty, Hardcore, Sister, Otaku	]
+tags: [Censored, Solowork, Masturbation, Big Tits, Nasty, Hardcore, Sister, Otaku	]
 maker: [Das !]
 actress: [ Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qJ3AyV0d26uR9V">
     <a href="javascript:;">
         <img src="/v/dass493pl/dass493pl.jpg" width="WIDTH" height="HEIGHT" alt="dass493pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass493pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass493pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
