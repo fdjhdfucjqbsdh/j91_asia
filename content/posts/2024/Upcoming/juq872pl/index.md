@@ -3,9 +3,9 @@ author: j91
 title: JUQ-872 A Mother Who Made Her Adult Video Debut In Place Of Her Daughter
 
 url: /v/juq872pl
-date: 0000-09-20T01:50:00Z
+date: 2024-09-20T01:50:00Z
 image: "juq872pl.jpg"
-tags: [Upcoming releases, Creampie, Humiliation, Big Tits, Married Woman, Mature Woman	]
+tags: [Censored, Creampie, Humiliation, Big Tits, Married Woman, Mature Woman	]
 maker: [Madonna]
 actress: [ Sata Mariko, Ieiri Yuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sata Mariko, Ieiri Yuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jq8x4W39qmuzjdO">
     <a href="javascript:;">
         <img src="/v/juq872pl/juq872pl.jpg" width="WIDTH" height="HEIGHT" alt="juq872pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sata Mariko, Ieiri Yuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq872pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sata Mariko, Ieiri Yuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq872pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
