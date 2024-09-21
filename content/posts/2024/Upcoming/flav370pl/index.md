@@ -3,9 +3,9 @@ author: j91
 title: FLAV-370 A Lewd Maid Who Will Serve You With Temptation Is A Horny Masochistic Slut Bitch. A Cute Devilish Gal With Big, Plump, Sexy Nipples And A Stiff Ass, Nozomi Arimura, Exclusively For The Master
 
 url: /v/flav370pl
-date: 0000-09-21T01:50:00Z
+date: 2024-09-21T01:50:00Z
 image: "flav370pl.jpg"
-tags: [Upcoming releases, Maid, Solowork, Pantyhose, Slut, Urination, Butt	]
+tags: [Censored, Maid, Solowork, Pantyhose, Slut, Urination, Butt	]
 maker: [ Digital Ark  ]
 actress: [ Arimura Nozomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Arimura Nozomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GjgVjKX460f1wkx">
     <a href="javascript:;">
         <img src="/v/flav370pl/flav370pl.jpg" width="WIDTH" height="HEIGHT" alt="flav370pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Arimura Nozomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/flav370pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Arimura Nozomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/flav370pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

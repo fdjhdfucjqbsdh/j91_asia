@@ -3,9 +3,9 @@ author: j91
 title: APNS-352 "I'm Going To Be Raped And Impregnated By My Shut-in Classmate And His Family... Yes, Every Day From Now On..." A Top Student Who Becomes A Masochist After Falling Prey To A Multitude Of Cocks... Seira Kuwahara
 
 url: /v/apns352pl
-date: 0000-09-21T01:20:00Z
+date: 2024-09-21T01:20:00Z
 image: "apns352pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, School Girls, Facials, Drama	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, School Girls, Facials, Drama	]
 maker: [ Aurora Project Annex  ]
 actress: [ Kuwahara Seira ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuwahara Seira ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8ZayQQJl8BcoKmk">
     <a href="javascript:;">
         <img src="/v/apns352pl/apns352pl.jpg" width="WIDTH" height="HEIGHT" alt="apns352pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuwahara Seira ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apns352pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuwahara Seira ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apns352pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

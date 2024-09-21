@@ -3,9 +3,9 @@ author: j91
 title: DOA-075 Back Slave Market 4 Hours 15 People Chapter 2
 
 url: /v/doa075pl
-date: 0000-09-21T01:00:00Z
+date: 2024-09-21T01:00:00Z
 image: "doa075pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Abuse, 4HR+	]
+tags: [Censored, Best, Omnibus, Abuse, 4HR+	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="d8VRkA28l9fkvz8">
     <a href="javascript:;">
         <img src="/v/doa075pl/doa075pl.jpg" width="WIDTH" height="HEIGHT" alt="doa075pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/doa075pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/doa075pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

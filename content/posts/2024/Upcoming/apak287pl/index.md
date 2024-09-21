@@ -3,9 +3,9 @@ author: j91
 title: APAK-287 Creampie Super Fleshy G-cup Lewd Masochist Sunao "I Want To Kiss You A Lot! I'm Cumming!" A Plump Big-breasted Gloomy Student And A Direct Hit To The Uterus Convulsing SEX! A Carnal Girl Who Keeps Breathing Heavily And Shaking Her Hips Lewd Climax Student Guidance Art College Student Sunao Kui
 
 url: /v/apak287pl
-date: 0000-09-21T01:20:00Z
+date: 2024-09-21T01:20:00Z
 image: "apak287pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Nasty, Hardcore, Facials, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, Big Tits, Nasty, Hardcore, Facials, Acme · Orgasm	]
 maker: [ Aurora Project Annex  ]
 actress: [ Kokonoi Sunao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kokonoi Sunao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Xr1lyKk2BahDOAp">
     <a href="javascript:;">
         <img src="/v/apak287pl/apak287pl.jpg" width="WIDTH" height="HEIGHT" alt="apak287pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apak287pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apak287pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

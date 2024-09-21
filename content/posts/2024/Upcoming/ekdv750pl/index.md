@@ -3,9 +3,9 @@ author: j91
 title: EKDV-750 Was Sent To A Rural Town For Work... I Was Seduced By The Sweet Whispers Of The Divorced Beauty Next Door Who Had An Excessive Sex Drive, And I Ended Up Cumming Inside Her Over And Over Again... Kanna Misaki
 
 url: /v/ekdv750pl
-date: 0000-09-21T01:50:00Z
+date: 2024-09-21T01:50:00Z
 image: "ekdv750pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork]
+tags: [Censored, Creampie,Solowork]
 maker: [ Crystal Eizou  ]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="G6qzvK7bLKHA0l">
     <a href="javascript:;">
         <img src="/v/ekdv750pl/ekdv750pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv750pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ekdv750pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ekdv750pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
