@@ -3,9 +3,9 @@ author: j91
 title: REAL-866 Devoted Incest Rape I Will Never Let My Younger Brother Become A Sex Offender... I Let My Younger Brother Rape Me, A Self-sacrifice That Is A Secret From My Parents Kasumi Tsukino
 
 url: /v/real866pl
-date: 0000-09-21T01:55:00Z
+date: 2024-09-21T01:55:00Z
 image: "real866pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Rape, Incest, Sister, Drama	]
+tags: [Censored, Creampie, Solowork, School Girls, Rape, Incest, Sister, Drama	]
 maker: [ K.M.Produce  ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DXBz2ljbPWukOPo">
     <a href="javascript:;">
         <img src="/v/real866pl/real866pl.jpg" width="WIDTH" height="HEIGHT" alt="real866pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/real866pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/real866pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AGMX-196 Humiliating Masturbation Instructions While Being Looked Down Upon And Mocked
 
 url: /v/agmx196pl
-date: 0000-09-21T01:15:00Z
+date: 2024-09-21T01:15:00Z
 image: "agmx196pl.jpg"
-tags: [Upcoming releases, Masturbation, Other Fetish, Dirty Words, Beautiful Girl, Subjectivity	]
+tags: [Censored, Masturbation, Other Fetish, Dirty Words, Beautiful Girl, Subjectivity	]
 maker: [ Sex Agent  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="XqKX2qjrMMuDqJ9">
     <a href="javascript:;">
         <img src="/v/agmx196pl/agmx196pl.jpg" width="WIDTH" height="HEIGHT" alt="agmx196pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/agmx196pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/agmx196pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

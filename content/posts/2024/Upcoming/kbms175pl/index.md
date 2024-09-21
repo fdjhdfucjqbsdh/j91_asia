@@ -3,9 +3,9 @@ author: j91
 title: KBMS-175 Strip Dance Archive Stage.2
 
 url: /v/kbms175pl
-date: 0000-09-21T01:05:00Z
+date: 2024-09-21T01:05:00Z
 image: "kbms175pl.jpg"
-tags: [Upcoming releases, Other Fetish, 4HR+, Dance	]
+tags: [Censored, Other Fetish, 4HR+, Dance	]
 maker: [ 1113 Koubou - Mousouzoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2kq12WO3R7iZO8k">
     <a href="javascript:;">
         <img src="/v/kbms175pl/kbms175pl.jpg" width="WIDTH" height="HEIGHT" alt="kbms175pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kbms175pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kbms175pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
