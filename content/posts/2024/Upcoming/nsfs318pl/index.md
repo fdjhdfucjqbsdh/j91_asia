@@ -3,9 +3,9 @@ author: j91
 title: NSFS-318 In Front Of My Boss... My Wife Became A Nude Model. Best VOL2
 
 url: /v/nsfs318pl
-date: 0000-09-21T01:00:00Z
+date: 2024-09-21T01:00:00Z
 image: "nsfs318pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Married Woman, Affair, 4HR+, Drama,Cuckold	]
+tags: [Censored, Best, Omnibus, Married Woman, Affair, 4HR+, Drama,Cuckold	]
 maker: [ Nagae Style  ]
 actress: [ Shirakawa Hanakiyo ,Nagarekawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirakawa Hanakiyo ,Nagarekawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rx3wxraaJ0cbPK9">
     <a href="javascript:;">
         <img src="/v/nsfs318pl/nsfs318pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirakawa Hanakiyo ,Nagarekawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs318pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirakawa Hanakiyo ,Nagarekawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs318pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
