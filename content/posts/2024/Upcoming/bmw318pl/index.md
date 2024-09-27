@@ -3,9 +3,9 @@ author: j91
 title: BMW-318 I'm Cumming Again! I'm Leaking! 86 Consecutive, Rich Cunnilingus Licking To Transform A Developing Slit Into A Prematurely Ejaculating Pussy That Cums Again! BEST
 
 url: /v/bmw318pl
-date: 0000-09-27T01:00:00Z
+date: 2024-09-27T01:00:00Z
 image: "bmw318pl.jpg"
-tags: [Upcoming releases, Humiliation, Cunnilingus, Squirting, 4HR+, Close Up, Acme · Orgasm	]
+tags: [Censored, Humiliation, Cunnilingus, Squirting, 4HR+, Close Up, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QPKejDG2oKu0bXb">
     <a href="javascript:;">
         <img src="/v/bmw318pl/bmw318pl.jpg" width="WIDTH" height="HEIGHT" alt="bmw318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bmw318pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bmw318pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
