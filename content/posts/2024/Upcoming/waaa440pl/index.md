@@ -3,9 +3,9 @@ author: j91
 title: WAAA-440 Teacher With A Seductive Plump Thigh And Leg Fetish Teases And Teases A Masochistic Dick Before Pounding It With A Creampie Fuck Ai Sayama
 
 url: /v/waaa440pl
-date: 0000-09-27T01:45:00Z
+date: 2024-09-27T01:45:00Z
 image: "waaa440pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Pantyhose, Slut, Leg Fetish, Huge Butt	]
+tags: [Censored, Solowork, Female Teacher, Pantyhose, Slut, Leg Fetish, Huge Butt	]
 maker: [WANZ FACTORY]
 actress: [ Sayama Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sayama Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="rAx6DLxLVVhYyx">
     <a href="javascript:;">
         <img src="/v/waaa440pl/waaa440pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa440pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa440pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa440pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

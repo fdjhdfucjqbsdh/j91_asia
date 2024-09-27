@@ -3,9 +3,9 @@ author: j91
 title: WAAA-421 If You Can Stand The Amazing Technique Of 46 Years Of Entertainment Experience (total), You Can Have Raw Creampie Sex! AIKA Yui Hatano Hibiki Otsuki
 
 url: /v/waaa421pl
-date: 0000-09-27T01:45:00Z
+date: 2024-09-27T01:45:00Z
 image: "waaa421pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Slut, 4HR+, Fan Appreciation	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Slut, 4HR+, Fan Appreciation	]
 maker: [WANZ FACTORY]
 actress: [ AIKA, Hatano Yui, Ootsuki Hibiki]
 ---
@@ -13,13 +13,13 @@ actress: [ AIKA, Hatano Yui, Ootsuki Hibiki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pDdMyAMA8PSGO8">
     <a href="javascript:;">
         <img src="/v/waaa421pl/waaa421pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa421pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ AIKA, Hatano Yui, Ootsuki Hibiki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa421pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ AIKA, Hatano Yui, Ootsuki Hibiki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa421pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

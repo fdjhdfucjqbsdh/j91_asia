@@ -3,9 +3,9 @@ author: j91
 title: JUNY-131 Slutty, Voluptuous JK Who Swallows Cum And Gets Pregnant While Working A Secret Job In A School Uniform Maria Nagai Is OK With Anything As Long As It Feels Good
 
 url: /v/juny131pl
-date: 0000-09-27T01:35:00Z
+date: 2024-09-27T01:35:00Z
 image: "juny131pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Big Tits, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Big Tits, Huge Butt	]
 maker: [Fitch]
 actress: [ Kashiwagi Kurumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Kurumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kZdA0dJGL0FO1Lj">
     <a href="javascript:;">
         <img src="/v/juny131pl/juny131pl.jpg" width="WIDTH" height="HEIGHT" alt="juny131pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Kurumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny131pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Kurumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny131pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

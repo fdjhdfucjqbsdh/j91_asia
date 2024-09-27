@@ -3,9 +3,9 @@ author: j91
 title: WAAA-429 Non-stop Deep Throat & Portio Thrusting, 20 Shots Covered In Juice, Big Orgy, Tsukinoe Sui
 
 url: /v/waaa429pl
-date: 0000-09-27T01:45:00Z
+date: 2024-09-27T01:45:00Z
 image: "waaa429pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Nasty, Hardcore, Slender, Deep Throating, Promiscuity	]
+tags: [Censored, Creampie, Solowork, Nasty, Hardcore, Slender, Deep Throating, Promiscuity	]
 maker: [WANZ FACTORY]
 actress: [ Tsukinoe Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Mj8jOy8rQquBMP">
     <a href="javascript:;">
         <img src="/v/waaa429pl/waaa429pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa429pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa429pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa429pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

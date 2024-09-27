@@ -3,9 +3,9 @@ author: j91
 title: CAWD-738 I Succumbed To The Temptation Of My Part-time Coworker's Cunning And Cute Devilish Personality, And Ended Up Getting Addicted To Secret Affairs And Creampie Sex... Shizuku Kawakami
 
 url: /v/cawd738pl
-date: 0000-09-27T01:50:00Z
+date: 2024-09-27T01:50:00Z
 image: "cawd738pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, Beautiful Girl, Breasts, Affair	]
+tags: [Censored, Creampie, Solowork, Uniform, Beautiful Girl, Breasts, Affair	]
 maker: [Kawaii]
 actress: [ Kawakami Shizuku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kawakami Shizuku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3qao1aQG2Rsdb68">
     <a href="javascript:;">
         <img src="/v/cawd738pl/cawd738pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd738pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kawakami Shizuku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd738pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kawakami Shizuku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd738pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: ADN-618 "Can You Make My Wife Pregnant?" My Best Friend Asked Me, So I Let Him Cum Inside Her Until She Got Pregnant.
 
 url: /v/adn618pl
-date: 0000-09-27T01:40:00Z
+date: 2024-09-27T01:40:00Z
 image: "adn618pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Drama, Cuckold, Conceived	]
+tags: [Censored, Creampie, Solowork, Married Woman, Drama, Cuckold, Conceived	]
 maker: [Attackers]
 actress: [ Itsuha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Itsuha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="17yjAWZoyyTeRzD">
     <a href="javascript:;">
         <img src="/v/adn618pl/adn618pl.jpg" width="WIDTH" height="HEIGHT" alt="adn618pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itsuha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn618pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itsuha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn618pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

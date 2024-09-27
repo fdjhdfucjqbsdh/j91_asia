@@ -3,9 +3,9 @@ author: j91
 title: JUFE-564 My Beautiful Boss Found Out About My Big Dick On A Business Trip... She Forced Me Into A Shared Room And Turned Me Into A Dildo For Cumshots Mizukawa Jun
 
 url: /v/jufe564pl
-date: 0000-09-27T01:35:00Z
+date: 2024-09-27T01:35:00Z
 image: "jufe564pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Masturbation, Slut, Huge Cock, Female Boss	]
+tags: [Censored, Creampie, Solowork, Masturbation, Slut, Huge Cock, Female Boss	]
 maker: [Fitch]
 actress: [ Mizukawa Jun]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizukawa Jun]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LLRwmq1Z1xSRwad">
     <a href="javascript:;">
         <img src="/v/jufe564pl/jufe564pl.jpg" width="WIDTH" height="HEIGHT" alt="jufe564pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizukawa Jun]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jufe564pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizukawa Jun]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jufe564pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

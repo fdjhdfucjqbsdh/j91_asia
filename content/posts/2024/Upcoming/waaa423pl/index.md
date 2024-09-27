@@ -3,9 +3,9 @@ author: j91
 title: WAAA-423 Raped By My Hated Stepfather At Night... Kanna Misaki
 
 url: /v/waaa423pl
-date: 0000-09-27T01:45:00Z
+date: 2024-09-27T01:45:00Z
 image: "waaa423pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Married Woman, Slender, Cuckold	]
+tags: [Censored, Blow, Creampie, Solowork, Married Woman, Slender, Cuckold	]
 maker: [WANZ FACTORY]
 actress: [ Misaki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6aLM3MQO3wC98bz">
     <a href="javascript:;">
         <img src="/v/waaa423pl/waaa423pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa423pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa423pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa423pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
