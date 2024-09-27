@@ -3,9 +3,9 @@ author: j91
 title: BF-721 Completely Subjective. My Naughty Little Sister Whispered To Me So That I Couldn't Have Sex With Her And Made Me Cum Inside Her Many Times In The Cowgirl Position. Azu Amatsuki
 
 url: /v/bf721pl
-date: 0000-09-27T01:16:00Z
+date: 2024-09-27T01:16:00Z
 image: "bf721pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Slut, Subjectivity, Incest	]
+tags: [Censored, Creampie, Solowork, Big Tits, Slut, Subjectivity, Incest	]
 maker: [Befree]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MroJ1m3DlkcmVrQ">
     <a href="javascript:;">
         <img src="/v/bf721pl/bf721pl.jpg" width="WIDTH" height="HEIGHT" alt="bf721pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf721pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf721pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

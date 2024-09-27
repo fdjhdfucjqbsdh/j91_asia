@@ -3,9 +3,9 @@ author: j91
 title: NPJS-092 At First Glance, She Seems Quiet, But She's A Shockingly Powerful H-cup Girl Who Hunts For Men On A Dating App. She Wants To Be Violated, So She Begs For A Masochist On Her Days Off And Gets Screwed. Occupation, Nurse Miyu (23)
 
 url: /v/npjs092pl
-date: 0000-09-27T01:10:00Z
+date: 2024-09-27T01:10:00Z
 image: "npjs092pl.jpg"
-tags: [Upcoming releases, Blow, 3P, 4P, Big Tits, Titty Fuck, Nasty, Hardcore	]
+tags: [Censored, Blow, 3P, 4P, Big Tits, Titty Fuck, Nasty, Hardcore	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kDRGVevjG0sOGRy">
     <a href="javascript:;">
         <img src="/v/npjs092pl/npjs092pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs092pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BF-720 I Secretly Gave My Cheeky Subordinate An Aphrodisiac And He Started To Get Horny And Started Using My Dick As A Dildo And Swaying His Hips Until He Came Over And Over Again. Sui Tsukinoe
 
 url: /v/bf720pl
-date: 0000-09-27T01:16:00Z
+date: 2024-09-27T01:16:00Z
 image: "bf720pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Squirting, Acme · Orgasm, Rolling Back Eyes - Fainting	]
+tags: [Censored, OL, Solowork, Squirting, Acme · Orgasm, Rolling Back Eyes - Fainting	]
 maker: [Befree]
 actress: [ Tsukinoe Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0Dlwb9O1j8Cbzpe">
     <a href="javascript:;">
         <img src="/v/bf720pl/bf720pl.jpg" width="WIDTH" height="HEIGHT" alt="bf720pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf720pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf720pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

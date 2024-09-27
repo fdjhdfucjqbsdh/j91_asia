@@ -3,9 +3,9 @@ author: j91
 title: FOCS-220 New AV Debut, Boyish Beauty With Plump Nipples. Mahjong-loving College Girl Has Creampie Sex With 10,000 Points. Hina Matsubara
 
 url: /v/focs220pl
-date: 0000-09-27T01:20:00Z
+date: 2024-09-27T01:20:00Z
 image: "focs220pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Debut Production, Beautiful Girl, Breasts, Cheongsam	]
+tags: [Censored, Creampie, Solowork, Debut Production, Beautiful Girl, Breasts, Cheongsam	]
 maker: [Abc- Mousou Zoku]
 actress: [ Matsubara Hina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsubara Hina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YOYJOerGgRIobk">
     <a href="javascript:;">
         <img src="/v/focs220pl/focs220pl.jpg" width="WIDTH" height="HEIGHT" alt="focs220pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsubara Hina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs220pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsubara Hina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs220pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

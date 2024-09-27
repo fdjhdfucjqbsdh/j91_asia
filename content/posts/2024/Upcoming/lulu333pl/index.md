@@ -3,9 +3,9 @@ author: j91
 title: LULU-333 Unable To Resist The Temptation Of My Busty JK Niece's Innocently Swaying Boobs, I Got An Incestuous Erection And She Gave Me A Slippery Oily Titjob, Making My Busty Loving Middle-aged Uncle Cum Over And Over Again With Her Bouncy Tits.
 
 url: /v/lulu333pl
-date: 0000-09-27T01:30:00Z
+date: 2024-09-27T01:30:00Z
 image: "lulu333pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Big Tits, Titty Fuck	]
+tags: [Censored, Creampie, Solowork, School Girls, Big Tits, Titty Fuck	]
 maker: [Venus]
 actress: [ Hoshino Natsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshino Natsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="x3rZvO8oG2Sj7q">
     <a href="javascript:;">
         <img src="/v/lulu333pl/lulu333pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu333pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshino Natsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu333pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshino Natsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu333pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

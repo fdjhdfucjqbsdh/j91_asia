@@ -3,9 +3,9 @@ author: j91
 title: NPJS-091 [First Time Filmed Without Her Boyfriend's Knowledge] Highly Educated Female College Student Taken Home To A Hotel!! She Gets Furious When He Cums Inside Her Without Her Permission! Still, He Continues To Film Her And Ends Up Making Her A Sex Slave. Cum Swallowing & Follow-up Creampie!! K-chan (20 Years Old)
 
 url: /v/npjs091pl
-date: 0000-09-27T01:10:00Z
+date: 2024-09-27T01:10:00Z
 image: "npjs091pl.jpg"
-tags: [Upcoming releases, Blow, Amateur, POV, Beautiful Girl, Impromptu Sex	]
+tags: [Censored, Blow, Amateur, POV, Beautiful Girl, Impromptu Sex	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="A1zWlkY0bOhX3JD">
     <a href="javascript:;">
         <img src="/v/npjs091pl/npjs091pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs091pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs091pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs091pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

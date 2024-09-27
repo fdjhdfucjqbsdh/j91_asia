@@ -3,9 +3,9 @@ author: j91
 title: LULU-334 I Followed The Swaying Ass Of A Big-assed Married Woman Jogger Who Couldn't Hide Her Frustration While Running, And She Invited Me Into Her House Where Her Husband Was Sleeping, And I Had An Early Morning Creampie Affair With Her, Sweating And Riding On Top Of Her Young Dick. Kaho Tamaki
 
 url: /v/lulu334pl
-date: 0000-09-27T01:30:00Z
+date: 2024-09-27T01:30:00Z
 image: "lulu334pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Butt, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Butt, Cuckold	]
 maker: [Venus]
 actress: [ Tamashiro Kaho ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tamashiro Kaho ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7B79JaKQ41CAq1w">
     <a href="javascript:;">
         <img src="/v/lulu334pl/lulu334pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu334pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tamashiro Kaho ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu334pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tamashiro Kaho ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu334pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

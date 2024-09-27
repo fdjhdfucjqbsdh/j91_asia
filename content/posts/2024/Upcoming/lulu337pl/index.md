@@ -3,9 +3,9 @@ author: j91
 title: LULU-337 A Naturally Hairy, Big-assed JK Sister Who Gets Her Brother To Have An Incestuous Erection By Teasing Him With Her Untrimmed Panty Shots, Then Makes Him Cum Inside Her Again And Again With Her Steamy Pussy Milking. Urara Kanon
 
 url: /v/lulu337pl
-date: 0000-09-27T01:30:00Z
+date: 2024-09-27T01:30:00Z
 image: "lulu337pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Butt, Sister	]
+tags: [Censored, Creampie, Solowork, School Girls, Butt, Sister	]
 maker: [Venus]
 actress: [ Kanon Urara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanon Urara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Wy39J4KDdxcb6b0">
     <a href="javascript:;">
         <img src="/v/lulu337pl/lulu337pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu337pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kanon Urara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu337pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kanon Urara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu337pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
