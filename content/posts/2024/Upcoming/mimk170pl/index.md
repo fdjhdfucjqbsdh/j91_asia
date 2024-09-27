@@ -3,9 +3,9 @@ author: j91
 title: MIMK-170 When I Comforted My Heartbroken, Slightly Chubby Junior With An Estimated K Cup, She Forced Me Into A Physical Relationship!? ~The Two Of Us Sneak Out Of A Company Trip... And Have Some Serious Cheating Sex At A Private Hot Spring~ Original Work By Futaworks Sales, Over 68,000 Copies Live-action Adaptation
 
 url: /v/mimk170pl
-date: 0000-09-27T01:56:00Z
+date: 2024-09-27T01:56:00Z
 image: "mimk170pl.jpg"
-tags: [Upcoming releases, Big Tits, Titty Fuck, Busty Fetish, BBW, Cuckold, Ultra-Huge Tits, Original Collaboration	]
+tags: [Censored, Big Tits, Titty Fuck, Busty Fetish, BBW, Cuckold, Ultra-Huge Tits, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ Nitta Yuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nitta Yuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WgVY8kVwbatrPM">
     <a href="javascript:;">
         <img src="/v/mimk170pl/mimk170pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk170pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nitta Yuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk170pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nitta Yuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk170pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

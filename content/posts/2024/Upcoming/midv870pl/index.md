@@ -3,9 +3,9 @@ author: j91
 title: MIDV-870 Shared Room NTR With Company Boss And Cuckold Just Before Marriage. Fiance Says No But Doesn't Reject Body. Chihiro Miyazaki
 
 url: /v/midv870pl
-date: 0000-09-27T01:55:00Z
+date: 2024-09-27T01:55:00Z
 image: "midv870pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Beautiful Girl, Facials, Cuckold, Acme · Orgasm	]
+tags: [Censored, OL, Solowork, Beautiful Girl, Facials, Cuckold, Acme · Orgasm	]
 maker: [MOODYZ]
 actress: [ Miyazaki Chihiro ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyazaki Chihiro ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1bWXAZ8LPyCeZly">
     <a href="javascript:;">
         <img src="/v/midv870pl/midv870pl.jpg" width="WIDTH" height="HEIGHT" alt="midv870pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyazaki Chihiro ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv870pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyazaki Chihiro ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv870pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
