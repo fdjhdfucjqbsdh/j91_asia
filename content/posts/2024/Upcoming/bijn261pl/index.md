@@ -3,9 +3,9 @@ author: j91
 title: BIJN-261 THE Documentary, Orgasmic Sex With Instincts Bared, A Beautiful, Elegant, Sexy Wife Gets Fucked Hard And Goes Crazy In An Orgy To The Limit Shiori Tokunaga
 
 url: /v/bijn261pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "bijn261pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Documentary, Mature Woman, Promiscuity	]
+tags: [Censored, Creampie, Solowork, Married Woman, Documentary, Mature Woman, Promiscuity	]
 maker: [ Bijin Majo  ]
 actress: [ Tokunaga Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tokunaga Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="KXOeA0JX2gs0dvp">
     <a href="javascript:;">
         <img src="/v/bijn261pl/bijn261pl.jpg" width="WIDTH" height="HEIGHT" alt="bijn261pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tokunaga Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bijn261pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tokunaga Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bijn261pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

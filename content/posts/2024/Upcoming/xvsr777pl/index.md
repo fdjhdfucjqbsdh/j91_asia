@@ -3,9 +3,9 @@ author: j91
 title: XVSR-777 Shikosapo!! The Best Oil Massage With Beautician Mao Hamasaki Whispering Dirty Words That Will Melt Your Brain
 
 url: /v/xvsr777pl
-date: 0000-09-28T01:55:00Z
+date: 2024-09-28T01:55:00Z
 image: "xvsr777pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Dirty Words, Subjectivity, Massage, Lotion	]
+tags: [Censored, Handjob, Solowork, Dirty Words, Subjectivity, Massage, Lotion	]
 maker: [ MAX-A  ]
 actress: [ Hamasaki Mao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4G0g8R7Q8ofKPaX">
     <a href="javascript:;">
         <img src="/v/xvsr777pl/xvsr777pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr777pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr777pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr777pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

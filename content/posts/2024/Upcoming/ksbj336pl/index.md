@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-336 AIKA, I Was Captivated By The Pleasure Of Sex With My Brother-in-law
 
 url: /v/ksbj336pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "ksbj336pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Big Tits, Married Woman, Slender, Drama	]
+tags: [Censored, Solowork, Gal, Big Tits, Married Woman, Slender, Drama	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ AIKA ]
 ---
@@ -13,13 +13,13 @@ actress: [ AIKA ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RLBBZB2wPLCdOVw">
     <a href="javascript:;">
         <img src="/v/ksbj336pl/ksbj336pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj336pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj336pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ AIKA ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj336pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

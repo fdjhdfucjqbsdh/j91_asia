@@ -3,9 +3,9 @@ author: j91
 title: YMDD-411 Collector, My 7-day Training Record Of My Downfall - Kui Sunao
 
 url: /v/ymdd411pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "ymdd411pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Voyeur, Married Woman, Abuse	]
+tags: [Censored, Restraint, Solowork, Voyeur, Married Woman, Abuse	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Kokonoi Sunao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kokonoi Sunao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ggmAD9ZBpVtqlm3">
     <a href="javascript:;">
         <img src="/v/ymdd411pl/ymdd411pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd411pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymdd411pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kokonoi Sunao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymdd411pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

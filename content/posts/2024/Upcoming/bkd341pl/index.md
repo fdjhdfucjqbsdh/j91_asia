@@ -3,9 +3,9 @@ author: j91
 title: BKD-341 Mother-child Intercourse ~ Mikunihoshi Onsen Road ~ Kate Kikugawa
 
 url: /v/bkd341pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "bkd341pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Incest, Mature Woman, Kimono, Mourning	]
+tags: [Censored, Creampie, Solowork, Big Tits, Incest, Mature Woman, Kimono, Mourning	]
 maker: [ Ruby  ]
 actress: [ Ichikawa Kyouko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ichikawa Kyouko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BvJKjmyJjltya90">
     <a href="javascript:;">
         <img src="/v/bkd341pl/bkd341pl.jpg" width="WIDTH" height="HEIGHT" alt="bkd341pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ichikawa Kyouko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bkd341pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ichikawa Kyouko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bkd341pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

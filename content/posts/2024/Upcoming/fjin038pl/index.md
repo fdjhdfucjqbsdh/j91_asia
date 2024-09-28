@@ -3,9 +3,9 @@ author: j91
 title: FJIN-038 Evil Beauty Salon, A Natural-born Devil Who Ruins Men, Rubbing Her Body Against Me Through 1cm Of Fabric And Giving Me A Close-up Treatment That I Couldn't Resist... Saya Kirijo
 
 url: /v/fjin038pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "fjin038pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Big Tits, Slut, Butt, Cuckold	]
+tags: [Censored, Solowork, Beauty Shop, Big Tits, Slut, Butt, Cuckold	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Mori Harura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Harura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GpDdbw26P4I1pmD">
     <a href="javascript:;">
         <img src="/v/fjin038pl/fjin038pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin038pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Harura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fjin038pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Harura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fjin038pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: GVH-689 My Beloved Wife Was Seduced During A Movie Shoot. Yui Hatano
 
 url: /v/gvh689pl
-date: 0000-09-28T01:55:00Z
+date: 2024-09-28T01:55:00Z
 image: "gvh689pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Drama, Cuckold, Elder Male	]
+tags: [Censored, Creampie, Solowork, Married Woman, Drama, Cuckold, Elder Male	]
 maker: [ Glory Quest  ]
 actress: [ Hatano Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hatano Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PJDer8Kqj8I0ZW8">
     <a href="javascript:;">
         <img src="/v/gvh689pl/gvh689pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh689pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh689pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh689pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

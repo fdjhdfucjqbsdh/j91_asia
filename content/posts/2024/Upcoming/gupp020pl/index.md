@@ -3,9 +3,9 @@ author: j91
 title: GUPP-020 I Caught A Beautiful Succubus Who Loves Semen! I Tied Her Up, Made Her Cum, And Trained Her To Squirt. Rena Natsuki
 
 url: /v/gupp020pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "gupp020pl.jpg"
-tags: [Upcoming releases, Creampie, Restraint, Solowork, Squirting, Slut, Acme · Orgasm	]
+tags: [Censored, Creampie, Restraint, Solowork, Squirting, Slut, Acme · Orgasm	]
 maker: [ GUPPI - Emanuel  ]
 actress: [ Natsuki Rena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsuki Rena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MebAA1GgjvIm7qQ">
     <a href="javascript:;">
         <img src="/v/gupp020pl/gupp020pl.jpg" width="WIDTH" height="HEIGHT" alt="gupp020pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsuki Rena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gupp020pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsuki Rena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gupp020pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
