@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DSD-893 Lesbian Superstars
+title: JKSR-656 12 People, 4 Hours Of Brutal Creampies. Irresponsible Insemination, I Won't Let These Annoying J●s Have A Happy Life.
 
-url: /v/dsd893pl
-date: 2024-09-28T01:20:00Z
-image: "dsd893pl.jpg"
-tags: [Censored, Lesbian, Cunnilingus, Electric Massager, Toy, Oversea Import	]
-maker: [ Momotarou Eizou Shuppan  ]
+url: /v/jksr656pl
+date: 2024-09-28T00:15:00Z
+image: "jksr656pl.jpg"
+tags: [Censored, Creampie, School Girls, Amateur, Beautiful Girl, 4HR+	]
+maker: [ BIGMORKAL  ]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="1Lpw6mLp1QseOKV">
+<div class="video" data-videoid="2kYJmP7qv9cA73">
     <a href="javascript:;">
-        <img src="/v/dsd893pl/dsd893pl.jpg" width="WIDTH" height="HEIGHT" alt="dsd893pl.mp4" loading="lazy">
+        <img src="/v/jksr656pl/jksr656pl.jpg" width="WIDTH" height="HEIGHT" alt="jksr656pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dsd893pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jksr656pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dsd893pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jksr656pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

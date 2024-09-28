@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DSD-893 Lesbian Superstars
+title: CHC-012 Beautiful Girl Teased And Filmed In Private - Complete Submission Sex With Old Man!! Yua-chan College Student Yua Kawaei
 
-url: /v/dsd893pl
-date: 2024-09-28T01:20:00Z
-image: "dsd893pl.jpg"
-tags: [Censored, Lesbian, Cunnilingus, Electric Massager, Toy, Oversea Import	]
-maker: [ Momotarou Eizou Shuppan  ]
-actress: [ ]
+url: /v/chc012pl
+date: 2024-09-28T00:15:00Z
+image: "chc012pl.jpg"
+tags: [Censored, Blow, Solowork, POV, Beautiful Girl, Breasts, Close Up	]
+maker: [ CHC Studio  ]
+actress: [ Kawaei Yua ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="1Lpw6mLp1QseOKV">
+<div class="video" data-videoid="M6xPa7MpLjue3V">
     <a href="javascript:;">
-        <img src="/v/dsd893pl/dsd893pl.jpg" width="WIDTH" height="HEIGHT" alt="dsd893pl.mp4" loading="lazy">
+        <img src="/v/chc012pl/chc012pl.jpg" width="WIDTH" height="HEIGHT" alt="chc012pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dsd893pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/chc012pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dsd893pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/chc012pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
