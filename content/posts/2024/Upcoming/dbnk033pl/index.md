@@ -3,9 +3,9 @@ author: j91
 title: DBNK-033 I Can't Help But Get An Erection At The Sight Of The Plump Uniforms And Pantyhose Of Office Ladies! If I Sexually Harass Them, Knowing That I Might Be Punished, Will The Wives Squirm And Let Out Sweet Sighs?! 4 Hours
 
 url: /v/dbnk033pl
-date: 0000-09-28T01:00:00Z
+date: 2024-09-28T01:00:00Z
 image: "dbnk033pl.jpg"
-tags: [Upcoming releases, OL, Pantyhose, Amateur, Married Woman, 4HR+, Business Attire	]
+tags: [Censored, OL, Pantyhose, Amateur, Married Woman, 4HR+, Business Attire	]
 maker: [ Dorobouneko - Emanuel  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0RKZKvgvJ6hbbJe">
     <a href="javascript:;">
         <img src="/v/dbnk033pl/dbnk033pl.jpg" width="WIDTH" height="HEIGHT" alt="dbnk033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dbnk033pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dbnk033pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

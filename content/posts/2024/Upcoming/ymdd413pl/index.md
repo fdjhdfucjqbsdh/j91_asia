@@ -3,9 +3,9 @@ author: j91
 title: YMDD-413 The No. 1 Actress You Want To Have As A Sex Friend, Akari Niimura DX
 
 url: /v/ymdd413pl
-date: 0000-09-28T01:50:00Z
+date: 2024-09-28T01:50:00Z
 image: "ymdd413pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Nasty, Hardcore, 4HR+, Deep Throating, Toy, Actress Best	]
+tags: [Censored, Creampie, Solowork, Nasty, Hardcore, 4HR+, Deep Throating, Toy, Actress Best	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Niimura Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Niimura Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JbQBXxeXRJsj87O">
     <a href="javascript:;">
         <img src="/v/ymdd413pl/ymdd413pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd413pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymdd413pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymdd413pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: FWTR-012 She Was Supposed To Appear In An Adult Video To Repay Her Debts, But She Lost Her Sense Of Reason After A Long Time Of Sex! A Lewd Busty Wife Who Forgot About The Filming And Kept Shaking Her Hips (2)
 
 url: /v/fwtr012pl
-date: 0000-09-28T01:20:00Z
+date: 2024-09-28T01:20:00Z
 image: "fwtr012pl.jpg"
-tags: [Upcoming releases, Big Tits, Married Woman, Affair, Mature Woman, BBW	]
+tags: [Censored, Big Tits, Married Woman, Affair, Mature Woman, BBW	]
 maker: [ Fuwatoro Jukujo - Emanuel  ]
 actress: [ Matsuzawa Yukari, Nagasawa Satomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsuzawa Yukari, Nagasawa Satomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="L1O00zJQRlIRKm3">
     <a href="javascript:;">
         <img src="/v/fwtr012pl/fwtr012pl.jpg" width="WIDTH" height="HEIGHT" alt="fwtr012pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsuzawa Yukari, Nagasawa Satomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fwtr012pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsuzawa Yukari, Nagasawa Satomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fwtr012pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

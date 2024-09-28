@@ -3,9 +3,9 @@ author: j91
 title: BAB-144 Absolute Beautiful Girl Continuous Raw Creampie. Ayachan Aya Konami
 
 url: /v/bab144pl
-date: 0000-09-28T01:20:00Z
+date: 2024-09-28T01:20:00Z
 image: "bab144pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Big Tits, Slender, Huge Butt, Travel	]
+tags: [Censored, Solowork, Gal, Big Tits, Slender, Huge Butt, Travel	]
 maker: [ Babylon - Mousozoku  ]
 actress: [ Suzumiya Haruka]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="aolzaeblLgClJ2">
     <a href="javascript:;">
         <img src="/v/bab144pl/bab144pl.jpg" width="WIDTH" height="HEIGHT" alt="bab144pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bab144pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bab144pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MMPB-052 Sexy!!! There's A Limit To The Beauty Of Women... 10 Beautiful Actresses In Their 30s
 
 url: /v/mmpb052pl
-date: 0000-09-28T01:00:00Z
+date: 2024-09-28T01:00:00Z
 image: "mmpb052pl.jpg"
-tags: [Upcoming releases, Creampie, Older Sister, Slut, 4HR+, Mature Woman	]
+tags: [Censored, Creampie, Older Sister, Slut, 4HR+, Mature Woman	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9j2DPDkPLRUa0ap">
     <a href="javascript:;">
         <img src="/v/mmpb052pl/mmpb052pl.jpg" width="WIDTH" height="HEIGHT" alt="mmpb052pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmpb052pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmpb052pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
