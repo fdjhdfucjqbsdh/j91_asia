@@ -3,9 +3,9 @@ author: j91
 title: NGOD-230 A Wife Who Works Part-time A Non-regular Wife Who Works Part-time Is Made To Cum So Hard That Her Knees Shake During Quick Sex With Half-naked And Half-pushed On During Work... Reiko Kobayakawa
 
 url: /v/ngod230pl
-date: 0000-10-04T01:25:00Z
+date: 2024-10-04T01:25:00Z
 image: "ngod230pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
+tags: [Censored, OL, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
 maker: [JET Eizou]
 actress: [ Kobayakawa Reiko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kobayakawa Reiko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gLdxYbkk8YuqrPe">
     <a href="javascript:;">
         <img src="/v/ngod230pl/ngod230pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod230pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod230pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod230pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

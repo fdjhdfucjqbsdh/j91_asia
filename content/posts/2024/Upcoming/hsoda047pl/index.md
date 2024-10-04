@@ -3,9 +3,9 @@ author: j91
 title: HSODA-047 I'm Appearing In Porn Just To Have Anal Sex. I'm Scared Of Being Recognized, But I'll Do Anything To Get Anal Orgasms.
 
 url: /v/hsoda047pl
-date: 0000-10-04T01:20:00Z
+date: 2024-10-04T01:20:00Z
 image: "hsoda047pl.jpg"
-tags: [Upcoming releases, Anal, Girl, Deep Throating, School Uniform, Mini, Tits, Masked	]
+tags: [Censored, Anal, Girl, Deep Throating, School Uniform, Mini, Tits, Masked	]
 maker: [Hsoda]
 actress: [ Ikuta Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ikuta Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="L1o0eJpwk2s4Lb">
     <a href="javascript:;">
         <img src="/v/hsoda047pl/hsoda047pl.jpg" width="WIDTH" height="HEIGHT" alt="hsoda047pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ikuta Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hsoda047pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ikuta Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hsoda047pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

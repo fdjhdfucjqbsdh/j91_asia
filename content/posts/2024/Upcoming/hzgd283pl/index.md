@@ -3,9 +3,9 @@ author: j91
 title: HZGD-283 Jun Mizukawa, A Beautiful-legged Wife In Black Leather Boots, Is Embraced By Her Hated Brother-in-law And Indulges In Adulterous Sex
 
 url: /v/hzgd283pl
-date: 0000-10-04T01:33:00Z
+date: 2024-10-04T01:33:00Z
 image: "hzgd283pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Leg Fetish, Drama, Cuckold, Knee Socks	]
+tags: [Censored, Creampie, Solowork, Married Woman, Leg Fetish, Drama, Cuckold, Knee Socks	]
 maker: [Hitodzuma Hanazono Gekijou]
 actress: [ Mizukawa Jun]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizukawa Jun]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QrkAxZq2dMt06RO">
     <a href="javascript:;">
         <img src="/v/hzgd283pl/hzgd283pl.jpg" width="WIDTH" height="HEIGHT" alt="hzgd283pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizukawa Jun]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hzgd283pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizukawa Jun]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hzgd283pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

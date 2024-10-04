@@ -3,9 +3,9 @@ author: j91
 title: DASS-488 The Bank Robber Lost His Mind Over My Beautiful-breasted Wife, The Envy Of Everyone, And Continued To Deep-throat And Gang-rape Her All Day Long.
 
 url: /v/dass488pl
-date: 0000-10-04T01:40:00Z
+date: 2024-10-04T01:40:00Z
 image: "dass488pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Married Woman, Deep Throating, Cuckold	]
+tags: [Censored, 3P, 4P, Solowork, Married Woman, Deep Throating, Cuckold	]
 maker: [Das !]
 actress: [ Futaba Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1dZ9Y8WdJwCrZV">
     <a href="javascript:;">
         <img src="/v/dass488pl/dass488pl.jpg" width="WIDTH" height="HEIGHT" alt="dass488pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass488pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass488pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

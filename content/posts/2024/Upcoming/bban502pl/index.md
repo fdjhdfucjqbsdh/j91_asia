@@ -3,9 +3,9 @@ author: j91
 title: BBAN-502 Female Undercover Investigator Captured By Lesbians - Riho Matsumoto, Rima Arai, Asami Mizubata
 
 url: /v/bban502pl
-date: 0000-10-04T01:10:00Z
+date: 2024-10-04T01:10:00Z
 image: "bban502pl.jpg"
-tags: [Upcoming releases, Lesbian, Big Tits, Lesbian Kiss, Drug, Acme · Orgasm	]
+tags: [Censored, Lesbian, Big Tits, Lesbian Kiss, Drug, Acme · Orgasm	]
 maker: [Bibian]
 actress: [ Arai Rima, Mizuhata Asami ,Matsumoto Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Arai Rima, Mizuhata Asami ,Matsumoto Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Og7drYlV2Lt7xl">
     <a href="javascript:;">
         <img src="/v/bban502pl/bban502pl.jpg" width="WIDTH" height="HEIGHT" alt="bban502pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Arai Rima, Mizuhata Asami ,Matsumoto Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban502pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Arai Rima, Mizuhata Asami ,Matsumoto Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban502pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
