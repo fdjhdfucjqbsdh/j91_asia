@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-445 -XV- [15th Anniversary of Debut] Non-stop!! 15 shots of semen, explosive cumshots, slut queen, no script! Almost uncut! All her limit-breaking skills revealed!! Tsubasa Amami
 
 url: /v/ipzz445pl
-date: 0000-10-04T01:50:00Z
+date: 2024-10-04T01:50:00Z
 image: "ipzz445pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Older Sister, Big Tits, Slut	]
+tags: [Censored, Blow, Creampie, Solowork, Older Sister, Big Tits, Slut	]
 maker: [IDEA POCKET]
 actress: [ Amami Tsubasa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amami Tsubasa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4oppz2Vo2ZiKjPW">
     <a href="javascript:;">
         <img src="/v/ipzz445pl/ipzz445pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz445pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amami Tsubasa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz445pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amami Tsubasa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz445pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

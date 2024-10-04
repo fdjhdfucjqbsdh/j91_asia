@@ -3,9 +3,9 @@ author: j91
 title: JUQ-896 Exchanged "saliva", Overflowing "love Juice", 3 Sex Scenes Covered In Carnal Desires. Sweaty Kissing Sex Until The Sexual Desire Is Exhausted Ikumi Shiramine
 
 url: /v/juq896pl
-date: 0000-10-04T01:45:00Z
+date: 2024-10-04T01:45:00Z
 image: "juq896pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Documentary, Mature Woman	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Documentary, Mature Woman	]
 maker: [Madonna]
 actress: [ Shiramine Ikumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiramine Ikumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="yAAWZGVBZDHo7L">
     <a href="javascript:;">
         <img src="/v/juq896pl/juq896pl.jpg" width="WIDTH" height="HEIGHT" alt="juq896pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiramine Ikumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq896pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiramine Ikumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq896pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

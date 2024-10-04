@@ -3,9 +3,9 @@ author: j91
 title: JUQ-858 Happening Bar Married Woman NTR "It's For You..." My Wife Said, But Before She Knew It, She Was Obsessed With The Men Who Flocked To Her. Miki Mihama
 
 url: /v/juq858pl
-date: 0000-10-04T01:45:00Z
+date: 2024-10-04T01:45:00Z
 image: "juq858pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Okanishi Tomomi, Mihama Miki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Okanishi Tomomi, Mihama Miki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bQkjA1MGkWFP3gd">
     <a href="javascript:;">
         <img src="/v/juq858pl/juq858pl.jpg" width="WIDTH" height="HEIGHT" alt="juq858pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Okanishi Tomomi, Mihama Miki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq858pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Okanishi Tomomi, Mihama Miki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq858pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

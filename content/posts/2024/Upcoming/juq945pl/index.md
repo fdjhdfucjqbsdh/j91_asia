@@ -3,9 +3,9 @@ author: j91
 title: JUQ-945 Under This Snowy, Cold Sky... I Couldn't Stand To See The Exhibitionist Wife And Invited Her Into My House. Yuna Shiina
 
 url: /v/juq945pl
-date: 0000-10-04T01:45:00Z
+date: 2024-10-04T01:45:00Z
 image: "juq945pl.jpg"
-tags: [Upcoming releases, Solowork, Outdoors, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Solowork, Outdoors, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Shiina Yuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Yuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4mzA0XwDBDTK0rq">
     <a href="javascript:;">
         <img src="/v/juq945pl/juq945pl.jpg" width="WIDTH" height="HEIGHT" alt="juq945pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Yuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq945pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Yuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq945pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

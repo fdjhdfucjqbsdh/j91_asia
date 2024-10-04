@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-396 A Sweet Sadistic Gal Bitch Is A Slut Who Licks And Slurps As Much As She Wants. A Sperm-exploding Trance!! Karen Kaede
 
 url: /v/ipzz396pl
-date: 0000-10-04T01:50:00Z
+date: 2024-10-04T01:50:00Z
 image: "ipzz396pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, POV, Beautiful Girl, Slut, Kiss	]
+tags: [Censored, Blow, Solowork, POV, Beautiful Girl, Slut, Kiss	]
 maker: [IDEA POCKET]
 actress: [ Kaede Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kaede Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qlZJjjkVyPcz2MK">
     <a href="javascript:;">
         <img src="/v/ipzz396pl/ipzz396pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz396pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kaede Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz396pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kaede Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz396pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

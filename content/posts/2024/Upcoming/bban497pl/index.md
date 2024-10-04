@@ -3,9 +3,9 @@ author: j91
 title: BBAN-497 [Lesbian X ASMR X Subjective] The Ultimate Devilish ASMR Brain-climaxing Lesbian Circle With Immersive And Realistic Sensations
 
 url: /v/bban497pl
-date: 0000-10-04T01:10:00Z
+date: 2024-10-04T01:10:00Z
 image: "bban497pl.jpg"
-tags: [Upcoming releases, Lesbian, Cunnilingus, Nasty, Hardcore, Squirting, Lesbian Kiss	]
+tags: [Censored, Lesbian, Cunnilingus, Nasty, Hardcore, Squirting, Lesbian Kiss	]
 maker: [Bibian]
 actress: [ Misono Waka, Tenma Yui ,Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka, Tenma Yui ,Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="go0pBglRbviJJ0">
     <a href="javascript:;">
         <img src="/v/bban497pl/bban497pl.jpg" width="WIDTH" height="HEIGHT" alt="bban497pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka, Tenma Yui ,Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban497pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka, Tenma Yui ,Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban497pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
