@@ -3,9 +3,9 @@ author: j91
 title: SONE-358 A Lustful Wife With A Stronger Sexual Desire Than Anyone Else, Saki Okuda, Who Can't Even Have Sex With Her Husband's Brother At Night Because She's In A Thin-walled House With Her Husband's Brother, And Instead Makes A Move On Her Brother-in-law's Dick.
 
 url: /v/sone358pl
-date: 0000-10-04T01:55:00Z
+date: 2024-10-04T01:55:00Z
 image: "sone358pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Affair, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Affair, Drama, Cuckold	]
 maker: [S1 NO.1 STYLE]
 actress: [ Okuda Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Okuda Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="rkvoGBBdBKhbDaw">
     <a href="javascript:;">
         <img src="/v/sone358pl/sone358pl.jpg" width="WIDTH" height="HEIGHT" alt="sone358pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Okuda Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone358pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Okuda Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone358pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
