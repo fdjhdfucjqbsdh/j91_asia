@@ -3,9 +3,9 @@ author: j91
 title: ALDN-374 Mother-son Creampie, Mother Fujisaki Murasaki's First Creampie By Her Son
 
 url: /v/aldn374pl
-date: 0000-10-05T01:45:00Z
+date: 2024-10-05T01:45:00Z
 image: "aldn374pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Incest, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Fujisaku Akane]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisaku Akane]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Yp2RKBW0z7tvGKr">
     <a href="javascript:;">
         <img src="/v/aldn374pl/aldn374pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn374pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aldn374pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aldn374pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

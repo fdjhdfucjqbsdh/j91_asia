@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-670 The Therapist's Amazing Hand Technique Keeps Him Fully Erect, And He's On The Brink Of Exploding, Teasing Him With Slow Piston-like Thrusts And Kneading His Nipples Until He Ejaculates In Large Quantities - Detox Yumerika
 
 url: /v/dvaj670pl
-date: 0000-10-05T01:50:00Z
+date: 2024-10-05T01:50:00Z
 image: "dvaj670pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Slut, Massage	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Slut, Massage	]
 maker: [ Alice Japan  ]
 actress: [ Yumeri Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yumeri Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Y1e3xqDbgXUv4pp">
     <a href="javascript:;">
         <img src="/v/dvaj670pl/dvaj670pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj670pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yumeri Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj670pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yumeri Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj670pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

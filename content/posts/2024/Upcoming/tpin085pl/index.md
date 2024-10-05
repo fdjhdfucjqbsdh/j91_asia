@@ -3,9 +3,9 @@ author: j91
 title: TPIN-085 Childhood Friend Who Moved To Tokyo 5 Years Ago Has Reunited With Me And Become A Super Gal. I Was Seduced And Lost My Virginity And Experienced My First Creampie On A Summer Day. Rika Tsubaki
 
 url: /v/tpin085pl
-date: 0000-10-05T01:50:00Z
+date: 2024-10-05T01:50:00Z
 image: "tpin085pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Outdoors, Gal, Urination, Virgin Man	]
+tags: [Censored, Creampie, Solowork, Outdoors, Gal, Urination, Virgin Man	]
 maker: [ Tsubakihoin  ]
 actress: [ Tsubaki Rika]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="J3dwWPkowxujwpD">
     <a href="javascript:;">
         <img src="/v/tpin085pl/tpin085pl.jpg" width="WIDTH" height="HEIGHT" alt="tpin085pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tpin085pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tpin085pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

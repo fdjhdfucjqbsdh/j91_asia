@@ -3,9 +3,9 @@ author: j91
 title: LUKE-040 Tsukasa Fujino, A Dirty, Slutty, Devilish Schoolgirl Who Loves Dicks
 
 url: /v/luke040pl
-date: 0000-10-05T01:50:00Z
+date: 2024-10-05T01:50:00Z
 image: "luke040pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Dirty Words, Big Tits, Slut, Submissive Men	]
+tags: [Censored, Solowork, School Girls, Dirty Words, Big Tits, Slut, Submissive Men	]
 maker: [ Digital Ark  ]
 actress: [ Yagami Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yagami Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0DrGPdkKbATbX1V">
     <a href="javascript:;">
         <img src="/v/luke040pl/luke040pl.jpg" width="WIDTH" height="HEIGHT" alt="luke040pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yagami Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/luke040pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yagami Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/luke040pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
