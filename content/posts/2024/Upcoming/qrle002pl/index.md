@@ -3,9 +3,9 @@ author: j91
 title: QRLE-002 Lesbian SM Series, I Tried Confining And Training A Landmine-type Sugar Daddy Girl
 
 url: /v/qrle002pl
-date: 0000-10-05T01:20:00Z
+date: 2024-10-05T01:20:00Z
 image: "qrle002pl.jpg"
-tags: [Upcoming releases, SM, Lesbian, Restraint, Confinement	]
+tags: [Censored, SM, Lesbian, Restraint, Confinement	]
 maker: [ Queen Road  ]
 actress: [ Kannatsuki Ramyi, Shiraishi Kanna, Tomio Nana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kannatsuki Ramyi, Shiraishi Kanna, Tomio Nana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="79KxY4vM4vsAOdB">
     <a href="javascript:;">
         <img src="/v/qrle002pl/qrle002pl.jpg" width="WIDTH" height="HEIGHT" alt="qrle002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kannatsuki Ramyi, Shiraishi Kanna, Tomio Nana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/qrle002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kannatsuki Ramyi, Shiraishi Kanna, Tomio Nana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/qrle002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

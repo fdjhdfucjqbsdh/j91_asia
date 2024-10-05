@@ -3,9 +3,9 @@ author: j91
 title: CEMD-589 Ecstasy Date With A Split Tongue And A Full Body Japanese Tattoo Girl, Shizuku Yuki
 
 url: /v/cemd589pl
-date: 0000-10-05T01:20:00Z
+date: 2024-10-05T01:20:00Z
 image: "cemd589pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Cunnilingus, POV, Debut Production, Shaved	]
+tags: [Censored, Creampie, Solowork, Cunnilingus, POV, Debut Production, Shaved	]
 maker: [ Serebu No Tomo  ]
 actress: [ Yuiki Shizuku]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuiki Shizuku]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="aoq79AVaDRSJvy">
     <a href="javascript:;">
         <img src="/v/cemd589pl/cemd589pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd589pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuiki Shizuku]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cemd589pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuiki Shizuku]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cemd589pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

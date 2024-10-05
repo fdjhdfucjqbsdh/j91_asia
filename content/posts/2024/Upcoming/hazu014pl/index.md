@@ -3,9 +3,9 @@ author: j91
 title: HAZU-014 The Strongest Shiroto Legend \I-Cup Slut \Civil Servant \M-Attribute \Sayuri
 
 url: /v/hazu014pl
-date: 0000-10-05T01:20:00Z
+date: 2024-10-05T01:20:00Z
 image: "hazu014pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, Titty Fuck, Ultra-Huge Tits	]
+tags: [Censored, Amateur, Big Tits, Titty Fuck, Ultra-Huge Tits	]
 maker: [ Shirouto Kissa - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="q7yg473eL3fWLY">
     <a href="javascript:;">
         <img src="/v/hazu014pl/hazu014pl.jpg" width="WIDTH" height="HEIGHT" alt="hazu014pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hazu014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hazu014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BAGR-045 I'm A Girl With A Strong Desire To Masturbate! After I Discovered My Classmate Taking Erotic Selfies While Masturbating, I Became Her Obedient M-slave Urara Kanon
 
 url: /v/bagr045pl
-date: 0000-10-05T01:15:00Z
+date: 2024-10-05T01:15:00Z
 image: "bagr045pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, POV, Beautiful Girl, Slut, School Uniform	]
+tags: [Censored, Blow, Solowork, POV, Beautiful Girl, Slut, School Uniform	]
 maker: [ Barutan  ]
 actress: [ Kanon Urara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanon Urara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AXyLoK70WMcwWz">
     <a href="javascript:;">
         <img src="/v/bagr045pl/bagr045pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr045pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kanon Urara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bagr045pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kanon Urara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bagr045pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

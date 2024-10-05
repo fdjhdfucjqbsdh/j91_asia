@@ -3,9 +3,9 @@ author: j91
 title: BACJ-121 Saki Yuina Licks The Man's Dick So Hard That His Brain Goes Haywire And He Loses His Freedom.
 
 url: /v/bacj121pl
-date: 0000-10-05T01:15:00Z
+date: 2024-10-05T01:15:00Z
 image: "bacj121pl.jpg"
-tags: [Upcoming releases, Blow, Handjob, Solowork, Slut, Slender, Kiss	]
+tags: [Censored, Blow, Handjob, Solowork, Slut, Slender, Kiss	]
 maker: [ Barutan  ]
 actress: [ Yuna Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuna Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JwZ3Qqr66rIjDBQ">
     <a href="javascript:;">
         <img src="/v/bacj121pl/bacj121pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj121pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuna Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj121pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuna Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj121pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

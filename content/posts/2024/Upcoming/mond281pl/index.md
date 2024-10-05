@@ -3,9 +3,9 @@ author: j91
 title: MOND-281 The Beautiful Neighbor's Wife Is Hoshi Asuna
 
 url: /v/mond281pl
-date: 0000-10-05T01:45:00Z
+date: 2024-10-05T01:45:00Z
 image: "mond281pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Glasses, Massage, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Glasses, Massage, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Hoshi Asuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshi Asuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Xyx8Ak47Y4fD9Rr">
     <a href="javascript:;">
         <img src="/v/mond281pl/mond281pl.jpg" width="WIDTH" height="HEIGHT" alt="mond281pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mond281pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mond281pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

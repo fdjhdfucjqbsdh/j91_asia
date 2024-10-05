@@ -3,9 +3,9 @@ author: j91
 title: BAZX-406 Extremely Beautiful Office Lady 4 Hours Premier Remix 06
 
 url: /v/bazx406pl
-date: 0000-10-05T01:00:00Z
+date: 2024-10-05T01:00:00Z
 image: "bazx406pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Pantyhose, Other Fetish, 4HR+, Business Attire	]
+tags: [Censored, OL, Creampie, Pantyhose, Other Fetish, 4HR+, Business Attire	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2kj4yZ27gWuZkpr">
     <a href="javascript:;">
         <img src="/v/bazx406pl/bazx406pl.jpg" width="WIDTH" height="HEIGHT" alt="bazx406pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bazx406pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bazx406pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

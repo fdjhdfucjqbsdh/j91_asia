@@ -3,9 +3,9 @@ author: j91
 title: PFAS-022 Neko And Tachi Sister Lesbian Tears Of Tears
 
 url: /v/pfas022pl
-date: 0000-10-05T01:20:00Z
+date: 2024-10-05T01:20:00Z
 image: "pfas022pl.jpg"
-tags: [Upcoming releases, Lesbian, Nasty, Hardcore, Breasts, Lesbian Kiss, Drama	]
+tags: [Censored, Lesbian, Nasty, Hardcore, Breasts, Lesbian Kiss, Drama	]
 maker: [ FA Pro . Platinum  ]
 actress: [ Suzuki Satomi ,Nogi Chiharu]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzuki Satomi ,Nogi Chiharu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="eg79K1kzrVsY4Xo">
     <a href="javascript:;">
         <img src="/v/pfas022pl/pfas022pl.jpg" width="WIDTH" height="HEIGHT" alt="pfas022pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzuki Satomi ,Nogi Chiharu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pfas022pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzuki Satomi ,Nogi Chiharu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pfas022pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

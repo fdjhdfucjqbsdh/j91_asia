@@ -3,9 +3,9 @@ author: j91
 title: CEMD-587 Shame, Violation, Wearing Flying Fish, Downtown Date! 25 Ayaka Tomoda
 
 url: /v/cemd587pl
-date: 0000-10-05T01:20:00Z
+date: 2024-10-05T01:20:00Z
 image: "cemd587pl.jpg"
-tags: [Upcoming releases, Solowork, Outdoors, Humiliation, POV, Nasty, Hardcore, Mature Woman	]
+tags: [Censored, Solowork, Outdoors, Humiliation, POV, Nasty, Hardcore, Mature Woman	]
 maker: [ Serebu No Tomo  ]
 actress: [ Tomoda Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="R98yGeLbbKFdMkO">
     <a href="javascript:;">
         <img src="/v/cemd587pl/cemd587pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd587pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cemd587pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cemd587pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
