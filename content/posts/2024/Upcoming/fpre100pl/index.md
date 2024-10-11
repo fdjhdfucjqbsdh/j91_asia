@@ -3,9 +3,9 @@ author: j91
 title: FPRE-100 I Want To Be Stared At And Violated By A Big-breasted Celebrity Slut Akari Niimura
 
 url: /v/fpre100pl
-date: 0000-10-11T01:25:00Z
+date: 2024-10-11T01:25:00Z
 image: "fpre100pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Solowork, Big Tits, Slut, Celebrity	]
+tags: [Censored, Handjob, Creampie, Solowork, Big Tits, Slut, Celebrity	]
 maker: [Fitch]
 actress: [ Niimura Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Niimura Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="w7kDKGRjRVcJy7a">
     <a href="javascript:;">
         <img src="/v/fpre100pl/fpre100pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre100pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre100pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Niimura Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre100pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

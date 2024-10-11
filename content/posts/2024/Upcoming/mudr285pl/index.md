@@ -3,9 +3,9 @@ author: j91
 title: MUDR-285 The Leader!! Throat-deep Throat School, A College-going Urinal Who Is Raped And Gang-raped To Relieve Frustration, Stress, And Improve Her Grades, Mizumoto Yo
 
 url: /v/mudr285pl
-date: 0000-10-11T01:10:00Z
+date: 2024-10-11T01:10:00Z
 image: "mudr285pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Facials, Deep Throating, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Facials, Deep Throating, Acme · Orgasm	]
 maker: [Muku]
 actress: [ Mizumoto Shou ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizumoto Shou ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6jwZW90PQkS9kge">
     <a href="javascript:;">
         <img src="/v/mudr285pl/mudr285pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr285pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizumoto Shou ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr285pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizumoto Shou ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr285pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

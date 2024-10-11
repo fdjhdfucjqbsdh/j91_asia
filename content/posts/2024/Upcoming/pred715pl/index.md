@@ -3,9 +3,9 @@ author: j91
 title: PRED-715 Beautiful-legged CA Slut Harem, I Was Made To Cum Over And Over Again By The Tall Ladies' Smooth Black Tights Until My Dick Went Numb. Ichika Hoshimiya, Himari Kinoshita, Hinako Mori
 
 url: /v/pred715pl
-date: 0000-10-11T01:45:00Z
+date: 2024-10-11T01:45:00Z
 image: "pred715pl.jpg"
-tags: [Upcoming releases, Creampie, Slut, Slender, Leg Fetish	]
+tags: [Censored, Creampie, Slut, Slender, Leg Fetish	]
 maker: [Premium]
 actress: [ Hoshimiya Ichika, Hanazawa Himari, Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshimiya Ichika, Hanazawa Himari, Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="x37qkWDojaikLB4">
     <a href="javascript:;">
         <img src="/v/pred715pl/pred715pl.jpg" width="WIDTH" height="HEIGHT" alt="pred715pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshimiya Ichika, Hanazawa Himari, Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pred715pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshimiya Ichika, Hanazawa Himari, Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pred715pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: PRED-716 I'm Looking Forward To Friday Nights When A Drunk Yamagishi-san Comes Into My Room... The More She Gets Drunk, The Faster She Gets, And The More We Creampie Each Other With Our Beautiful Ass Pistons And Close-up French Kisses... Ayaka Yamagishi
 
 url: /v/pred716pl
-date: 0000-10-11T01:45:00Z
+date: 2024-10-11T01:45:00Z
 image: "pred716pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Cowgirl, Affair, Kiss	]
+tags: [Censored, OL, Creampie, Solowork, Cowgirl, Affair, Kiss	]
 maker: [Premium]
 actress: [ Yamagishi Aika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamagishi Aika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="j6l8KgmVpATaeA">
     <a href="javascript:;">
         <img src="/v/pred716pl/pred716pl.jpg" width="WIDTH" height="HEIGHT" alt="pred716pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamagishi Aika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pred716pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamagishi Aika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pred716pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

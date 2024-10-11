@@ -3,9 +3,9 @@ author: j91
 title: KAM-220 Three Days Without Her Husband... A Record Of A Beautiful Wife's Indulgence In Adultery And Creampie Sex Asami Mizubata
 
 url: /v/kam220pl
-date: 0000-10-11T01:09:00Z
+date: 2024-10-11T01:09:00Z
 image: "kam220pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Affair, Slender	]
+tags: [Censored, Creampie, Solowork, Married Woman, Affair, Slender	]
 maker: [Karuma]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YDRjzgVAO1Iv021">
     <a href="javascript:;">
         <img src="/v/kam220pl/kam220pl.jpg" width="WIDTH" height="HEIGHT" alt="kam220pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam220pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam220pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
