@@ -3,9 +3,9 @@ author: j91
 title: MOPT-038 M Men Are Creatures That Need To Be Restrained. Slutty Restraints, M Switch. Hikaru Miyanishi
 
 url: /v/mopt038pl
-date: 0000-10-12T01:45:00Z
+date: 2024-10-12T01:45:00Z
 image: "mopt038pl.jpg"
-tags: [Upcoming releases, Anal, Blow, Restraint, Solowork, Slut, Submissive Men	]
+tags: [Censored, Anal, Blow, Restraint, Solowork, Slut, Submissive Men	]
 maker: [ M O Paradise  ]
 actress: [ Miyanishi Hikaru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyanishi Hikaru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="26rb2Rd1LVSZkbp">
     <a href="javascript:;">
         <img src="/v/mopt038pl/mopt038pl.jpg" width="WIDTH" height="HEIGHT" alt="mopt038pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyanishi Hikaru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mopt038pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyanishi Hikaru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mopt038pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

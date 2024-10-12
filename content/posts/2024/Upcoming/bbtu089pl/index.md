@@ -3,9 +3,9 @@ author: j91
 title: BBTU-089 ○ Ripai A Little Angel Who Is Secret From Daddy Akari Morimoto
 
 url: /v/bbtu089pl
-date: 0000-10-12T01:20:00Z
+date: 2024-10-12T01:20:00Z
 image: "bbtu089pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Lotion	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, Titty Fuck, Beautiful Girl, Lotion	]
 maker: [ Dogma  ]
 actress: [ Morimoto Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Morimoto Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Xba08Rjem0hDqjy">
     <a href="javascript:;">
         <img src="/v/bbtu089pl/bbtu089pl.jpg" width="WIDTH" height="HEIGHT" alt="bbtu089pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Morimoto Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbtu089pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Morimoto Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbtu089pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

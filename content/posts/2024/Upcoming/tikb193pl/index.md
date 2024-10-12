@@ -3,9 +3,9 @@ author: j91
 title: TIKB-193 [God Gal Hall Of Fame] Gals Are The Strongest After All! Vol.9
 
 url: /v/tikb193pl
-date: 0000-10-12T01:45:00Z
+date: 2024-10-12T01:45:00Z
 image: "tikb193pl.jpg"
-tags: [Upcoming releases, Gal, Big Tits, POV, 4HR+, Butt,Huge Butt	]
+tags: [Censored, Gal, Big Tits, POV, 4HR+, Butt,Huge Butt	]
 maker: [ Chikichikiba-gu- Mousozoku  ]
 actress: [ Tsubaki Rika]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="a2akDlDkMeHxDyB">
     <a href="javascript:;">
         <img src="/v/tikb193pl/tikb193pl.jpg" width="WIDTH" height="HEIGHT" alt="tikb193pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tikb193pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tikb193pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

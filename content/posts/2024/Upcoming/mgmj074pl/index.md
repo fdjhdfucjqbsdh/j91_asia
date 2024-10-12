@@ -3,9 +3,9 @@ author: j91
 title: MGMJ-074 We Can't Stop Watching Her Black Stockings. Momo Shiraishi
 
 url: /v/mgmj074pl
-date: 0000-10-12T01:45:00Z
+date: 2024-10-12T01:45:00Z
 image: "mgmj074pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Pantyhose, Slut, Butt, Leg Fetish	]
+tags: [Censored, Blow, Solowork, Pantyhose, Slut, Butt, Leg Fetish	]
 maker: [ MEGAMI  ]
 actress: [ Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="L1Bg7XDdVKsRVbJ">
     <a href="javascript:;">
         <img src="/v/mgmj074pl/mgmj074pl.jpg" width="WIDTH" height="HEIGHT" alt="mgmj074pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mgmj074pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mgmj074pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

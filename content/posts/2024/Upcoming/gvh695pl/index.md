@@ -3,9 +3,9 @@ author: j91
 title: GVH-695 A Date With A Sadistic Female Boss Where You Drink Her Pee All Day Long! If You Drink It All, You Get A Reward Of A Splash Of Cum! Waka Misono
 
 url: /v/gvh695pl
-date: 0000-10-12T01:55:00Z
+date: 2024-10-12T01:55:00Z
 image: "gvh695pl.jpg"
-tags: [Upcoming releases, Solowork, Squirting, Slut, Urination, Piss Drinking, Facesitting, Submissive Men, Female Boss	]
+tags: [Censored, Solowork, Squirting, Slut, Urination, Piss Drinking, Facesitting, Submissive Men, Female Boss	]
 maker: [ Glory Quest  ]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="bryPAJa4ezhdqe">
     <a href="javascript:;">
         <img src="/v/gvh695pl/gvh695pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh695pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh695pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh695pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

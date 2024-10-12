@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-339 Son's Wife And Father-in-law Who Are Looking For A Sugar Daddy - Sayu Nanahara
 
 url: /v/ksbj339pl
-date: 0000-10-12T01:45:00Z
+date: 2024-10-12T01:45:00Z
 image: "ksbj339pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Drama, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Drama, Huge Butt	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Nanahara Sayu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanahara Sayu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="XB0A76Kag8SD6mL">
     <a href="javascript:;">
         <img src="/v/ksbj339pl/ksbj339pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj339pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanahara Sayu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj339pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanahara Sayu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj339pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
