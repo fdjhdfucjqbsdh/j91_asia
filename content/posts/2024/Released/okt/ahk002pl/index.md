@@ -1,21 +1,21 @@
 ---
 author: j91
-title: FSDSS-897 A Married Woman Who Couldn’t Resist The Erotic Massage Therapist’s Careful Nipple Play And Became A Cuckold Woman – Elisa Kusunoki
+title: AHK-002 Brainwashed And Trained Nurse Returns! Seeding Shoko Fukasawa
 
-url: /v/fsdss897
-date: 2024-10-13T02:00:00Z
-image: "fsdss897.jpg"
-tags: [Censored, Big Tits, Drama, Older Sister, Solowork]
-maker: [FALENO]
-actress: [Kusunoki Erisa]
+url: /v/ahk002pl
+date: 2024-10-13T01:15:00Z
+image: "ahk002pl.jpg"
+tags: [Censored, Blow, Creampie, Solowork, Nasty, Hardcore, Cum, Nurse, Kiss	]
+maker: [Mega Heart  ]
+actress: [Fukasawa Shouko ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="bPJBrLepk3SPrxd">
+<div class="video" data-videoid="7zaYqd2xjBIJ2v">
     <a href="javascript:;">
-        <img src="/v/fsdss897/fsdss897.jpg" width="WIDTH" height="HEIGHT" alt="fsdss897.mp4" loading="lazy">
+        <img src="/v/ahk002pl/ahk002pl.jpg" width="WIDTH" height="HEIGHT" alt="ahk002pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Kusunoki Erisa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/fsdss897/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ahk002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Kusunoki Erisa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/fsdss897/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ahk002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
