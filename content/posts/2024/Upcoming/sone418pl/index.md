@@ -3,9 +3,9 @@ author: j91
 title: SONE-418 For Your Best Masturbation, Saki Shirakami Will Look At You Cutely, Stimulate Your Penis, And Accept Your Ejaculation With A Smile... Massive Facial Smile Masturbation Support
 
 url: /v/sone418pl
-date: 0000-10-18T01:55:00Z
+date: 2024-10-18T01:55:00Z
 image: "sone418pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Beautiful Girl, Facials, Masturbation Support	]
+tags: [Censored, Handjob, Solowork, Beautiful Girl, Facials, Masturbation Support	]
 maker: [S1 NO.1 STYLE]
 actress: [ Shirakami Emika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirakami Emika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6eXRxMDXDvT9BmJ">
     <a href="javascript:;">
         <img src="/v/sone418pl/sone418pl.jpg" width="WIDTH" height="HEIGHT" alt="sone418pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirakami Emika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone418pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirakami Emika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone418pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

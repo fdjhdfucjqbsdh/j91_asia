@@ -3,9 +3,9 @@ author: j91
 title: SONE-411 Isn't It Okay To Do Anything To A Quiet And Docile Female Student? The Plain Library Committee Member Came Over And Over Even After Being Raped By Her Homeroom Teacher. Kokoro Asano
 
 url: /v/sone411pl
-date: 0000-10-18T01:55:00Z
+date: 2024-10-18T01:55:00Z
 image: "sone411pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Uniform, Beautiful Girl, Cowgirl, Otaku	]
+tags: [Censored, Blow, Solowork, Uniform, Beautiful Girl, Cowgirl, Otaku	]
 maker: [S1 NO.1 STYLE]
 actress: [ Asano Kokoro]
 ---
@@ -13,13 +13,13 @@ actress: [ Asano Kokoro]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DaXz8Kr1rBT6J3">
     <a href="javascript:;">
         <img src="/v/sone411pl/sone411pl.jpg" width="WIDTH" height="HEIGHT" alt="sone411pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asano Kokoro]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone411pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asano Kokoro]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone411pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
