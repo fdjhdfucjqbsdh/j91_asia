@@ -3,9 +3,9 @@ author: j91
 title: JUQ-949 A Mommy Friend Invited Me To Use A Matching App, And Together We Sweetly Tame A Younger Guy I Like.
 
 url: /v/juq949pl
-date: 0000-10-18T01:50:00Z
+date: 2024-10-18T01:50:00Z
 image: "juq949pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Married Woman, Mature Woman, Submissive Men, Mom Friends	]
+tags: [Censored, 3P, 4P, Married Woman, Mature Woman, Submissive Men, Mom Friends	]
 maker: [Madonna]
 actress: [ Ohana Non ,Saeki Sayuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ohana Non ,Saeki Sayuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="dPQxZyplaDT9Kx">
     <a href="javascript:;">
         <img src="/v/juq949pl/juq949pl.jpg" width="WIDTH" height="HEIGHT" alt="juq949pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ohana Non ,Saeki Sayuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq949pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ohana Non ,Saeki Sayuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq949pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
