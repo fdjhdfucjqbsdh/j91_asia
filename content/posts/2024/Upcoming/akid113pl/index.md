@@ -3,9 +3,9 @@ author: j91
 title: AKID-113 Year-round Estrus! Pregnancy OK! Sase Wives' Over-the-top POV (Individual Shooting) Vol.2 Moe/G Cup/30 Years Old Miyuki/D Cup/31 Years Old
 
 url: /v/akid113pl
-date: 0000-10-18T01:07:00Z
+date: 2024-10-18T01:07:00Z
 image: "akid113pl.jpg"
-tags: [Upcoming releases, Creampie, Gal, Married Woman, POV, Bride, Young Wife	]
+tags: [Censored, Creampie, Gal, Married Woman, POV, Bride, Young Wife	]
 maker: [Omochikaeri - Mousozoku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="dQWdQgvX0QfkKwL">
     <a href="javascript:;">
         <img src="/v/akid113pl/akid113pl.jpg" width="WIDTH" height="HEIGHT" alt="akid113pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/akid113pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/akid113pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

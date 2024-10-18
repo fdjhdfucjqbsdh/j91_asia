@@ -3,9 +3,9 @@ author: j91
 title: EMLB-071 Congratulations On The Deep Throat Pregnancy! Thick Semen Is Poured Into The Throat Of The Toilet Girl Without A Moment's Pause For Breath, And The Overkill Service Is Given To Her! 30 Consecutive, Wild And Angry Deep Throating Sessions BEST
 
 url: /v/emlb071pl
-date: 0000-10-18T01:00:00Z
+date: 2024-10-18T01:00:00Z
 image: "emlb071pl.jpg"
-tags: [Upcoming releases, SM, Best, Omnibus, Nasty, Hardcore, 4HR+, Deep Throating, Submissive Woman	]
+tags: [Censored, SM, Best, Omnibus, Nasty, Hardcore, 4HR+, Deep Throating, Submissive Woman	]
 maker: [Emumusume Lab]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Pq8O0bdd4bF0wLO">
     <a href="javascript:;">
         <img src="/v/emlb071pl/emlb071pl.jpg" width="WIDTH" height="HEIGHT" alt="emlb071pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/emlb071pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/emlb071pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
