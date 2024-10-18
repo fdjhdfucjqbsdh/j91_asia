@@ -3,9 +3,9 @@ author: j91
 title: BONY-123 Today's Prey Is This Mother And Daughter 24 Hour Stay Rape 01
 
 url: /v/bony123pl
-date: 0000-10-18T01:07:00Z
+date: 2024-10-18T01:07:00Z
 image: "bony123pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Deep Throating, Promiscuity, Evil	]
+tags: [Censored, Creampie, 3P, 4P, Deep Throating, Promiscuity, Evil	]
 maker: [ボニータ-妄想族]
 actress: [ Aoi Yurika ,Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Yurika ,Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Yqb866Rl3MFvJ9a">
     <a href="javascript:;">
         <img src="/v/bony123pl/bony123pl.jpg" width="WIDTH" height="HEIGHT" alt="bony123pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aoi Yurika ,Yura Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bony123pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aoi Yurika ,Yura Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bony123pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

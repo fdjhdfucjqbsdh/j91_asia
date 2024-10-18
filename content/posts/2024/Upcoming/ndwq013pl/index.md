@@ -3,9 +3,9 @@ author: j91
 title: NDWQ-013 Deep Throat Demon Training, Awakening Of The Exercise Maniac Miharu Kumagai
 
 url: /v/ndwq013pl
-date: 0000-10-18T01:08:00Z
+date: 2024-10-18T01:08:00Z
 image: "ndwq013pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Facials, Cum, Deep Throating, Sport	]
+tags: [Censored, Creampie, Solowork, Facials, Cum, Deep Throating, Sport	]
 maker: [Toyohiko]
 actress: [ Kumagai Miharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kumagai Miharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XA8YaBKwK0iD7Rv">
     <a href="javascript:;">
         <img src="/v/ndwq013pl/ndwq013pl.jpg" width="WIDTH" height="HEIGHT" alt="ndwq013pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kumagai Miharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ndwq013pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kumagai Miharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ndwq013pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

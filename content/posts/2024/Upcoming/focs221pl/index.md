@@ -3,9 +3,9 @@ author: j91
 title: FOCS-221 The Plan To Break Out Of Being A NEET Is To Seduce My Big-assed Step-sister In Tight Pants!? I Can't Resist The Temptation Of Her Sexy Ass, So I Use My Dick To Cum All Over Her Ass And Cum Inside Her Again And Again!
 
 url: /v/focs221pl
-date: 0000-10-18T01:29:00Z
+date: 2024-10-18T01:29:00Z
 image: "focs221pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Butt, Lotion, Sister, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Butt, Lotion, Sister, Huge Butt	]
 maker: [Abc- Mousou Zoku]
 actress: [ Kuzuha An ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuzuha An ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8vP328mY7lHoQDw">
     <a href="javascript:;">
         <img src="/v/focs221pl/focs221pl.jpg" width="WIDTH" height="HEIGHT" alt="focs221pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuzuha An ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs221pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuzuha An ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs221pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: REXD-537 Woman In Black Tights Mizubata Asami
 
 url: /v/rexd537pl
-date: 0000-10-18T01:10:00Z
+date: 2024-10-18T01:10:00Z
 image: "rexd537pl.jpg"
-tags: [Upcoming releases, OL, Blow, Creampie, Solowork, Female Teacher, Pantyhose	]
+tags: [Censored, OL, Blow, Creampie, Solowork, Female Teacher, Pantyhose	]
 maker: [Reddo]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ylKoDO0yoMIoRd">
     <a href="javascript:;">
         <img src="/v/rexd537pl/rexd537pl.jpg" width="WIDTH" height="HEIGHT" alt="rexd537pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rexd537pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rexd537pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

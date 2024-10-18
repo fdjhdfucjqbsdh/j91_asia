@@ -3,9 +3,9 @@ author: j91
 title: VENX-290 Mother And Son's Sweaty, Passionate Sex Begins With The Sound Of Urination Izumi Yamagishi
 
 url: /v/venx290pl
-date: 0000-10-18T01:30:00Z
+date: 2024-10-18T01:30:00Z
 image: "venx290pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Incest, Urination, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Incest, Urination, Mature Woman	]
 maker: [Venus]
 actress: [ Yamagishi Izumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamagishi Izumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="69Ob71bo3lS9w8v">
     <a href="javascript:;">
         <img src="/v/venx290pl/venx290pl.jpg" width="WIDTH" height="HEIGHT" alt="venx290pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamagishi Izumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/venx290pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamagishi Izumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/venx290pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

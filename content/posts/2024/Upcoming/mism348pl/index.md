@@ -3,9 +3,9 @@ author: j91
 title: MISM-348 Innocent And Shy Beautiful Girl Begs For Deep Throat Release! Deep Throating Virgin Penetration Ceremony Wakana Hachimori
 
 url: /v/mism348pl
-date: 0000-10-18T01:20:00Z
+date: 2024-10-18T01:20:00Z
 image: "mism348pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Beautiful Girl, Nasty, Hardcore, Deep Throating	]
+tags: [Censored, SM, Solowork, Beautiful Girl, Nasty, Hardcore, Deep Throating	]
 maker: [Emumusume Lab]
 actress: [ Yamori Wakana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamori Wakana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Xq8Wmo92eaHPyj">
     <a href="javascript:;">
         <img src="/v/mism348pl/mism348pl.jpg" width="WIDTH" height="HEIGHT" alt="mism348pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamori Wakana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mism348pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamori Wakana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mism348pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
