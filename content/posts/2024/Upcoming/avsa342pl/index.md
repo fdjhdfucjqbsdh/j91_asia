@@ -3,9 +3,9 @@ author: j91
 title: AVSA-342 It's Your Fault For Going Out Dressed Like That. You Kidnapped A Beautiful Girl And Exposed Her To A Disgrace. Shiina Eru
 
 url: /v/avsa342pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "avsa342pl.jpg"
-tags: [Upcoming releases, Solowork, Abuse, Confinement	]
+tags: [Censored, Solowork, Abuse, Confinement	]
 maker: [ Avs  ]
 actress: [ Shiina Eru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Eru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wkd9OxP1z6FGrz">
     <a href="javascript:;">
         <img src="/v/avsa342pl/avsa342pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa342pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Eru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa342pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Eru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa342pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

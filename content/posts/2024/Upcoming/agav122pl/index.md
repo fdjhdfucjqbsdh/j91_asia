@@ -3,9 +3,9 @@ author: j91
 title: AGAV-122 Cum With Her Face!! Close-up POV Of Face. Living With An Older Girlfriend Who Uses Kansai Dialect To Manage My Ejaculation. Rio Rukawa
 
 url: /v/agav122pl
-date: 0000-10-19T01:15:00Z
+date: 2024-10-19T01:15:00Z
 image: "agav122pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Beautiful Girl, Subjectivity, Close Up, Huge Butt	]
+tags: [Censored, OL, Solowork, Beautiful Girl, Subjectivity, Close Up, Huge Butt	]
 maker: [ Sex Agent  ]
 actress: [ Nagarekawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagarekawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8KDgMB64xoSoraj">
     <a href="javascript:;">
         <img src="/v/agav122pl/agav122pl.jpg" width="WIDTH" height="HEIGHT" alt="agav122pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagarekawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/agav122pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagarekawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/agav122pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

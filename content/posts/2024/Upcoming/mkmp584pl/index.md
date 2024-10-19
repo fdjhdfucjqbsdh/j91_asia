@@ -3,9 +3,9 @@ author: j91
 title: MKMP-584 All Of You, Take Out Your Dicks And Line Up. Men's Rights Are ZERO. Masochist Training Prison.
 
 url: /v/mkmp584pl
-date: 0000-10-19T01:50:00Z
+date: 2024-10-19T01:50:00Z
 image: "mkmp584pl.jpg"
-tags: [Upcoming releases, Slut, Footjob, Submissive Men, Insult	]
+tags: [Censored, Slut, Footjob, Submissive Men, Insult	]
 maker: [ K.M.Produce  ]
 actress: [ Hamasaki Mao ,Mori Hinako ,Kinoshita Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao ,Mori Hinako ,Kinoshita Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="go606B82ZJsJQV">
     <a href="javascript:;">
         <img src="/v/mkmp584pl/mkmp584pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp584pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao ,Mori Hinako ,Kinoshita Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkmp584pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao ,Mori Hinako ,Kinoshita Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkmp584pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

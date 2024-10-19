@@ -3,9 +3,9 @@ author: j91
 title: GMEM-118 Confinement! Torture! Training! Screams! Climax! Forced Orgasm Screaming Torture Training. Indomitable And Strong Elite Narcotics Investigator. A Divine Female Body That Shines At The End Of Breaking Through The Limits. Ai Inoyama.
 
 url: /v/gmem118pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "gmem118pl.jpg"
-tags: [Upcoming releases, Solowork, Female Investigator]
+tags: [Censored, Solowork, Female Investigator]
 maker: [ Avs  ]
 actress: [ Kiyama Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kiyama Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="yxMP6GPrArF19rd">
     <a href="javascript:;">
         <img src="/v/gmem118pl/gmem118pl.jpg" width="WIDTH" height="HEIGHT" alt="gmem118pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kiyama Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gmem118pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kiyama Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gmem118pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

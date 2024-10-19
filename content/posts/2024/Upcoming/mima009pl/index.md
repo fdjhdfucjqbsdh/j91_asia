@@ -3,9 +3,9 @@ author: j91
 title: MIMA-009 Sexy Erotic Race Queen, Super Obscene WRQ, Hard Piston
 
 url: /v/mima009pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "mima009pl.jpg"
-tags: [Upcoming releases, CosplayRace Queen,Erotic Wear	]
+tags: [Censored, CosplayRace Queen,Erotic Wear	]
 maker: [ Miru  ]
 actress: [ Momonaga Sarina ,Haruhi Moka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Momonaga Sarina ,Haruhi Moka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ydA4kbZkZ3f1WK3">
     <a href="javascript:;">
         <img src="/v/mima009pl/mima009pl.jpg" width="WIDTH" height="HEIGHT" alt="mima009pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Momonaga Sarina ,Haruhi Moka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mima009pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Momonaga Sarina ,Haruhi Moka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mima009pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

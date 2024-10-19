@@ -3,9 +3,9 @@ author: j91
 title: FAZM-018 "Recruited On SNS" Real, Serious, Virgin-losing, One-on-one Sex With 5 People, Over 3 Hours, Second Installment, Special, Sweet, Lovey-dovey, Long, Deep Kisses, Hugs, And Deep Blowjobs → How To Touch A Pussy, And Even Insertion [teaches You Everything, And Makes You Cum Over And Over Again, Super Sensitive] Service HOWTO Sex With Super Sexy Angels
 
 url: /v/fazm018pl
-date: 0000-10-19T01:15:00Z
+date: 2024-10-19T01:15:00Z
 image: "fazm018pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur]
+tags: [Censored, Cosplay, Amateur]
 maker: [ Zennihon Kameko Kyoudou Kumiai- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="G6z22Qb1P7U1r8R">
     <a href="javascript:;">
         <img src="/v/fazm018pl/fazm018pl.jpg" width="WIDTH" height="HEIGHT" alt="fazm018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fazm018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fazm018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

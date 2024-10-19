@@ -3,9 +3,9 @@ author: j91
 title: DPMI-095 Sexy Looking Older Sister's Obscene Clothed Sex Emi Nishino
 
 url: /v/dpmi095pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "dpmi095pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Butt, Race Queen, Leg Fetish	]
+tags: [Censored, Solowork, Pantyhose, Butt, Race Queen, Leg Fetish	]
 maker: [ Miru  ]
 actress: [ Nishino Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishino Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="l04qBxQrlkH7RkB">
     <a href="javascript:;">
         <img src="/v/dpmi095pl/dpmi095pl.jpg" width="WIDTH" height="HEIGHT" alt="dpmi095pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dpmi095pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dpmi095pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

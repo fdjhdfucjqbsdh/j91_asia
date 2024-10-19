@@ -3,9 +3,9 @@ author: j91
 title: ENKI-076 Momo-chan, The Slutty Gal Who Has A Male Orgasm, Is A Masochist Who Is Fucked Raw And Fucked Like A Slut.
 
 url: /v/enki076pl
-date: 0000-10-19T01:00:00Z
+date: 2024-10-19T01:00:00Z
 image: "enki076pl.jpg"
-tags: [Upcoming releases, Creampie, Gal, 4HR+]
+tags: [Censored, Creampie, Gal, 4HR+]
 maker: [ K.M.Produce  ]
 actress: [ Ninomiya Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ninomiya Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YpyeM8PoX2iv0xD">
     <a href="javascript:;">
         <img src="/v/enki076pl/enki076pl.jpg" width="WIDTH" height="HEIGHT" alt="enki076pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ninomiya Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/enki076pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ninomiya Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/enki076pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

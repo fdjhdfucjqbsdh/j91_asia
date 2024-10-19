@@ -3,9 +3,9 @@ author: j91
 title: APNS-355 "I'm Going To Be Raped And Impregnated By My Shut-in Classmate And His Family... Yes, Every Day From Now On..." Her Delicate Body Becomes A Victim Of Their Cocks... The Tragic Impregnated Schoolgirl, Nagano Suzu
 
 url: /v/apns355pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "apns355pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, School Girls, Facials, Drama	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, School Girls, Facials, Drama	]
 maker: [ Aurora Project Annex  ]
 actress: [ Nagano Suzu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagano Suzu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="LpVA2vVAm1CRogb">
     <a href="javascript:;">
         <img src="/v/apns355pl/apns355pl.jpg" width="WIDTH" height="HEIGHT" alt="apns355pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagano Suzu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apns355pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagano Suzu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apns355pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

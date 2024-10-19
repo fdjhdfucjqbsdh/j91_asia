@@ -3,9 +3,9 @@ author: j91
 title: CMC-316 Anal Destruction Female Teacher - Captive Of The Experienced And Violent Janitor, Hanamatsu Momoha
 
 url: /v/cmc316pl
-date: 0000-10-19T01:15:00Z
+date: 2024-10-19T01:15:00Z
 image: "cmc316pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Enema, Female Teacher, Shibari	]
+tags: [Censored, SM, Solowork, Enema, Female Teacher, Shibari	]
 maker: [ CineMagic  ]
 actress: [ Hanamatsu Momoha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanamatsu Momoha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DZrDlL24qOSkvqM">
     <a href="javascript:;">
         <img src="/v/cmc316pl/cmc316pl.jpg" width="WIDTH" height="HEIGHT" alt="cmc316pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanamatsu Momoha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cmc316pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanamatsu Momoha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cmc316pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

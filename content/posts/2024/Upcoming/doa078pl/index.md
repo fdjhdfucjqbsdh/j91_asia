@@ -3,9 +3,9 @@ author: j91
 title: DOA-078 Deep Throating With A Huge Dick! Furious Deep Throating 2
 
 url: /v/doa078pl
-date: 0000-10-19T01:15:00Z
+date: 2024-10-19T01:15:00Z
 image: "doa078pl.jpg"
-tags: [Upcoming releases, SM, Deep Throating, Evil, Vomit	]
+tags: [Censored, SM, Deep Throating, Evil, Vomit	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="KXKdDOB4yQU0x0O">
     <a href="javascript:;">
         <img src="/v/doa078pl/doa078pl.jpg" width="WIDTH" height="HEIGHT" alt="doa078pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/doa078pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/doa078pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

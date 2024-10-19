@@ -3,9 +3,9 @@ author: j91
 title: NEWM-092 Forbidden Sex With My Wife's Mother, Part 53, My Mother-in-Law Is Better Than My Wife... Emi Toyonaga
 
 url: /v/newm092pl
-date: 0000-10-19T01:20:00Z
+date: 2024-10-19T01:20:00Z
 image: "newm092pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Mature Woman, Mother, Stepmother	]
+tags: [Censored, Solowork, Married Woman, Mature Woman, Mother, Stepmother	]
 maker: [ Global Media Entertainment  ]
 actress: [ Toyonaga Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Toyonaga Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GkZq6pWP0vH1Rwy">
     <a href="javascript:;">
         <img src="/v/newm092pl/newm092pl.jpg" width="WIDTH" height="HEIGHT" alt="newm092pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Toyonaga Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/newm092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Toyonaga Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/newm092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
