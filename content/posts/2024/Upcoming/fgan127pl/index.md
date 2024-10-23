@@ -3,9 +3,9 @@ author: j91
 title: FGAN-127 A Pheromone-filled Female Teacher's Erotic Sex Education Is Definitely More Useful Than Math Or English! An Important Lesson For The Procreation Of Descendants
 
 url: /v/fgan127pl
-date: 0000-10-24T01:30:00Z
+date: 2024-10-23T15:30:00Z
 image: "fgan127pl.jpg"
-tags: [Upcoming releases, Underwear, Dirty Words, Slut, Subjectivity, Leg Fetish	]
+tags: [Censored, Underwear, Dirty Words, Slut, Subjectivity, Leg Fetish	]
 maker: [ Fechi Me  ]
 actress: [ Koharu Mari, Aizawa Mio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Koharu Mari, Aizawa Mio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="8R2pgyrVlWhG4w">
     <a href="javascript:;">
         <img src="/v/fgan127pl/fgan127pl.jpg" width="WIDTH" height="HEIGHT" alt="fgan127pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Koharu Mari, Aizawa Mio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fgan127pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Koharu Mari, Aizawa Mio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fgan127pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DANDY-942 I Was Caught Smelling My Slutty Stepsister's Panties, So Now She Sits On My Face Everywhere
 
 url: /v/dandy942jp
-date: 0000-10-24T01:45:00Z
+date: 2024-10-23T15:45:00Z
 image: "dandy942jp.jpg"
-tags: [Upcoming releases, School Girls, Slut, Facesitting, Sister, Tsundere	]
+tags: [Censored, School Girls, Slut, Facesitting, Sister, Tsundere	]
 maker: [ Dandy  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="zkj9rqaw6jCYl4p">
     <a href="javascript:;">
         <img src="/v/dandy942jp/dandy942jp.jpg" width="WIDTH" height="HEIGHT" alt="dandy942jp.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dandy942jp/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dandy942jp/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

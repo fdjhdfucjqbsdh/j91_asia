@@ -3,9 +3,9 @@ author: j91
 title: SW-973 Men's Beauty Salon That Invites Erections With Big Ass Panty Shots And Close Breast Oil Massages "If You Move Like That, Your Penis Will Tear Your Panties And Get In (heart)"
 
 url: /v/sw973pl
-date: 0000-10-24T01:45:00Z
+date: 2024-10-23T15:45:00Z
 image: "sw973pl.jpg"
-tags: [Upcoming releases, Beauty Shop, Underwear, Mini Skirt, Big Tits, Huge Butt	]
+tags: [Censored, Beauty Shop, Underwear, Mini Skirt, Big Tits, Huge Butt	]
 maker: [ SWITCH  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="1OYaMj4a1xCeg6b">
     <a href="javascript:;">
         <img src="/v/sw973pl/sw973pl.jpg" width="WIDTH" height="HEIGHT" alt="sw973pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sw973pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sw973pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

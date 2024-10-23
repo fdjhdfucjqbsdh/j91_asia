@@ -3,9 +3,9 @@ author: j91
 title: DANDY-945 I Invited A Men's Massage Girl Who Secretly Provided Me With A Nasty Service To A Hot Spring Trip And Had Raw Sex With Her, And She Turned Out To Be A Slut Who Kept Asking For More VOL.9
 
 url: /v/dandy945jp
-date: 0000-10-24T01:45:00Z
+date: 2024-10-23T15:45:00Z
 image: "dandy945jp.jpg"
-tags: [Upcoming releases, Creampie, Beauty Shop, POV, Breasts, Cuckold	]
+tags: [Censored, Creampie, Beauty Shop, POV, Breasts, Cuckold	]
 maker: [ Dandy  ]
 actress: [ Imai Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Imai Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="zw1Kl7JB0wcYPaV">
     <a href="javascript:;">
         <img src="/v/dandy945jp/dandy945jp.jpg" width="WIDTH" height="HEIGHT" alt="dandy945jp.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Imai Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dandy945jp/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Imai Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dandy945jp/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DANDY-943 I Am A Housewife Who Is Addicted To Landmine Makeup. The Other Day, When I Went Back Home For A Memorial Service, I Drank Too Much Like A Student And Ended Up Having An Orgy With My Tennis Club Friends. Should I Tell My Husband?
 
 url: /v/dandy943jp
-date: 0000-10-24T01:45:00Z
+date: 2024-10-23T15:45:00Z
 image: "dandy943jp.jpg"
-tags: [Upcoming releases, Blow, Creampie, Married Woman, Cum, Promiscuity	]
+tags: [Censored, Blow, Creampie, Married Woman, Cum, Promiscuity	]
 maker: [ Dandy  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="ezZ2wmogBmUYV7W">
     <a href="javascript:;">
         <img src="/v/dandy943jp/dandy943jp.jpg" width="WIDTH" height="HEIGHT" alt="dandy943jp.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dandy943jp/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dandy943jp/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
