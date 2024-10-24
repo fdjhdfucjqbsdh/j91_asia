@@ -3,9 +3,9 @@ author: j91
 title: SKMJ-563 Happy Halloween 2024 In Shibuya Shameful Rock-Paper-Scissors Showdown Featuring 4 Costumed Amateur College Girls
 
 url: /v/skmj563pl
-date: 0000-10-25T01:15:00Z
+date: 2024-10-24T15:15:00Z
 image: "skmj563pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Amateur, Beautiful Girl, Nampa, Female College Student	]
+tags: [Censored, Cosplay, Creampie, Amateur, Beautiful Girl, Nampa, Female College Student	]
 maker: [ Sekimenjoshi  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9ORdy6yZ2vhad79">
     <a href="javascript:;">
         <img src="/v/skmj563pl/skmj563pl.jpg" width="WIDTH" height="HEIGHT" alt="skmj563pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/skmj563pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/skmj563pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

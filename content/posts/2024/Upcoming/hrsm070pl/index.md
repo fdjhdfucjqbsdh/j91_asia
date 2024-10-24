@@ -3,9 +3,9 @@ author: j91
 title: HRSM-070 Beer Garden Open Air Molester
 
 url: /v/hrsm070pl
-date: 0000-10-25T01:15:00Z
+date: 2024-10-24T15:15:00Z
 image: "hrsm070pl.jpg"
-tags: [Upcoming releases, Creampie, Outdoors, Humiliation, Amateur, Drinking Party	]
+tags: [Censored, Creampie, Outdoors, Humiliation, Amateur, Drinking Party	]
 maker: [ Harassment  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="D4KY38L3m2tk09g">
     <a href="javascript:;">
         <img src="/v/hrsm070pl/hrsm070pl.jpg" width="WIDTH" height="HEIGHT" alt="hrsm070pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hrsm070pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hrsm070pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
