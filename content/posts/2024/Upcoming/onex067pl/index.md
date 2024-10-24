@@ -1,21 +1,21 @@
 ---
 author: j91
-title: ABF-166 Absolutely Loyal Secretary Rukawa Yu
+title: ONEX-067 Sex With A Memorable Idol That Drives Me Crazy, A Video Posted By A Producer In His 40s 01
 
-url: /v/abf166pl
-date: 2024-10-24T01:59:00Z
-image: "abf166pl.jpg"
-tags: [Censored, Solowork, Masturbation, Facials, Slender, Shaved, AV Actress	]
-maker: [ Prestige  ]
-actress: [ Rukawa Yuu ]
+url: /v/onex067pl
+date: 2024-10-24T01:25:00Z
+image: "onex067pl.jpg"
+tags: [Censored, Cosplay, Blow, Creampie, Beautiful Girl, 4HR+, Entertainer	]
+maker: [ONE MORE  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="jpx2zyA44DUzBep">
+<div class="video" data-videoid="6boxkLAoOMcezG">
     <a href="javascript:;">
-        <img src="/v/abf166pl/abf166pl.jpg" width="WIDTH" height="HEIGHT" alt="abf166pl.mp4" loading="lazy">
+        <img src="/v/onex067pl/onex067pl.jpg" width="WIDTH" height="HEIGHT" alt="onex067pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Rukawa Yuu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/abf166pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/onex067pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Rukawa Yuu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/abf166pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/onex067pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
