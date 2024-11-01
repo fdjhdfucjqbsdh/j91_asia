@@ -3,9 +3,9 @@ author: j91
 title: CAWD-756 Even Though She's Only Had Sex With Three People, The Super Positive Amateur "Asahi Yuuna" Is Full Of Confidence And Believes In Anything. She Came To Tokyo From Nagoya To Become An AV Actress. Her Proud No-hands Blowjob Is Pretty Good, But Her Big, Plump Ass Is So Tight That All The Male Actors Came And Cummed On Her Face. Asahi Yuuna
 
 url: /v/cawd756pl
-date: 0000-11-01T01:50:00Z
+date: 2024-11-01T01:50:00Z
 image: "cawd756pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Debut Production, Documentary, Huge Butt, Back	]
+tags: [Censored, Blow, Solowork, Debut Production, Documentary, Huge Butt, Back	]
 maker: [Kawaii]
 actress: [ Asahi Yuuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asahi Yuuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0dRD6yBJvmCb7M8">
     <a href="javascript:;">
         <img src="/v/cawd756pl/cawd756pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd756pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asahi Yuuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd756pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asahi Yuuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd756pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MIAB-362 Only I Knew The Secret Side Of The Female Teacher. My Beloved Teacher, Rara, Was Being Developed By The Bad Boys To Have Deep Throating Skills After School... Rara Shinozaki
 
 url: /v/miab362pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "miab362pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Female Teacher, Nasty, Hardcore, Deep Throating	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Female Teacher, Nasty, Hardcore, Deep Throating	]
 maker: [MOODYZ]
 actress: [ Shinozaki Rara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shinozaki Rara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6apYkR6OL9C9JmG">
     <a href="javascript:;">
         <img src="/v/miab362pl/miab362pl.jpg" width="WIDTH" height="HEIGHT" alt="miab362pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shinozaki Rara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab362pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shinozaki Rara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab362pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

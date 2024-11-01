@@ -3,9 +3,9 @@ author: j91
 title: MIAB-356 Because I'm Bored... I'm Being Seduced By A Smart Tutor With Dirty Talk And Sweaty Panties, OK To Cum Inside Her 10 Times. Rima Arai
 
 url: /v/miab356pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "miab356pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Dirty Words, Gal, Slut, Tutor	]
+tags: [Censored, Creampie, Solowork, Dirty Words, Gal, Slut, Tutor	]
 maker: [MOODYZ]
 actress: [ Arai Rima ]
 ---
@@ -13,13 +13,13 @@ actress: [ Arai Rima ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6q7Ze7ka6RFZz7">
     <a href="javascript:;">
         <img src="/v/miab356pl/miab356pl.jpg" width="WIDTH" height="HEIGHT" alt="miab356pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Arai Rima ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab356pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Arai Rima ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab356pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

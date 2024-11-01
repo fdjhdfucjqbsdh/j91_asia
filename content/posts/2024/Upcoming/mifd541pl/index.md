@@ -3,9 +3,9 @@ author: j91
 title: MIFD-541 Newcomer, When She Took Off Her Clothes, Her Nipples Were Amazing. A Trainee Doctor With Hidden Perverted Nipples Who Passed The Entrance Exam To A Prestigious Medical School Makes Her AV Debut. Miri Otozuki
 
 url: /v/mifd541pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "mifd541pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student, Nurse	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Slender, Female College Student, Nurse	]
 maker: [MOODYZ]
 actress: [ Otozuki Miri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Otozuki Miri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="L3LW7WzaR0HyDg">
     <a href="javascript:;">
         <img src="/v/mifd541pl/mifd541pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd541pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Otozuki Miri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd541pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Otozuki Miri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd541pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

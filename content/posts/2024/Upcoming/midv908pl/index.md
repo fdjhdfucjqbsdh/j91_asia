@@ -3,9 +3,9 @@ author: j91
 title: MIDV-908 If I Marry My Childhood Friend... Mio (my Stepsister), Who I've Known Since I Was Little, Will Tease Me Every Day And Make Me Cum, But She'll Keep On Teasing Me Like A Little Devil... Yes, Tonight Too. Mio Ishikawa
 
 url: /v/midv908pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "midv908pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Slut, Subjectivity, Slender, Sister	]
+tags: [Censored, Solowork, Beautiful Girl, Slut, Subjectivity, Slender, Sister	]
 maker: [MOODYZ]
 actress: [ Ishikawa Mio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ishikawa Mio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gLxLW8KW1miqbBV">
     <a href="javascript:;">
         <img src="/v/midv908pl/midv908pl.jpg" width="WIDTH" height="HEIGHT" alt="midv908pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ishikawa Mio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv908pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ishikawa Mio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv908pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

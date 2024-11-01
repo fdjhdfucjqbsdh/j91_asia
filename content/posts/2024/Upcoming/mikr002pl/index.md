@@ -3,9 +3,9 @@ author: j91
 title: MIKR-002 Newcomer Do You Like Beautiful Older Women? Yuri Kudo, A Healing Counselor Working At The Ginza AGA Specialty Clinic
 
 url: /v/mikr002pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "mikr002pl.jpg"
-tags: [Upcoming releases, Blow, 3P, 4P, Solowork, Older Sister, Debut Production, Facials	]
+tags: [Censored, Blow, 3P, 4P, Solowork, Older Sister, Debut Production, Facials	]
 maker: [MOODYZ]
 actress: [ Kudou Yuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kudou Yuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oW3VKe0mpZUJl77">
     <a href="javascript:;">
         <img src="/v/mikr002pl/mikr002pl.jpg" width="WIDTH" height="HEIGHT" alt="mikr002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kudou Yuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mikr002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kudou Yuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mikr002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

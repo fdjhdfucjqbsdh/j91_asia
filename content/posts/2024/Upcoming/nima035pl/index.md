@@ -3,9 +3,9 @@ author: j91
 title: NIMA-035 A Doujin Comic About Love And Romance With A Sexy And Kind Single Mother! Live-action Version! The Defenseless And Saintly Gal Mom Next Door, Kitano Mina
 
 url: /v/nima035pl
-date: 0000-11-01T01:36:00Z
+date: 2024-11-01T01:36:00Z
 image: "nima035pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Gal, Big Tits, Mother, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, Gal, Big Tits, Mother, Original Collaboration	]
 maker: [Fitch]
 actress: [ Kitano Mina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitano Mina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GwQjbWkW7yt1wwG">
     <a href="javascript:;">
         <img src="/v/nima035pl/nima035pl.jpg" width="WIDTH" height="HEIGHT" alt="nima035pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitano Mina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima035pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitano Mina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima035pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

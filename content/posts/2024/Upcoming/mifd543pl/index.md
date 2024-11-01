@@ -3,9 +3,9 @@ author: j91
 title: MIFD-543 Ranked *1 In The Sex Industry Photo Diary Rankings Nationwide!! Emi-chan, The Revolutionary Of The Sex Industry, Makes Her AV Debut Hoshizuki Emi
 
 url: /v/mifd543pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "mifd543pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Breasts, Prostitutes, Slender	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Breasts, Prostitutes, Slender	]
 maker: [MOODYZ]
 actress: [ Hoshizuki Emu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshizuki Emu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="b77lpRBaM2UPe2P">
     <a href="javascript:;">
         <img src="/v/mifd543pl/mifd543pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd543pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshizuki Emu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd543pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshizuki Emu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd543pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
