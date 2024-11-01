@@ -3,9 +3,9 @@ author: j91
 title: FPRE-112 Devilishly Slow Ejaculation Control, A Voluptuous Slut Who Plays With Her Cock Pet, Ran Kikuno
 
 url: /v/fpre112pl
-date: 0000-11-01T01:35:00Z
+date: 2024-11-01T01:35:00Z
 image: "fpre112pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Dirty Words, Big Tits, Cowgirl, Slut	]
+tags: [Censored, Handjob, Solowork, Dirty Words, Big Tits, Cowgirl, Slut	]
 maker: [Fitch]
 actress: [ Kikuno Ran ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kikuno Ran ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LqMqwbrMXyu4Db">
     <a href="javascript:;">
         <img src="/v/fpre112pl/fpre112pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre112pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kikuno Ran ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre112pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kikuno Ran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre112pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

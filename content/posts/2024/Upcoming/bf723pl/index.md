@@ -3,9 +3,9 @@ author: j91
 title: BF-723 I Moved To The Countryside For Work, And The Woman Living Downstairs Seduced Me Every Day And I Ended Up Cumming Inside Her Many Times... Emi Nishino
 
 url: /v/bf723pl
-date: 0000-11-01T01:26:00Z
+date: 2024-11-01T01:26:00Z
 image: "bf723pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Slut, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Slut, Cuckold	]
 maker: [Befree]
 actress: [ Nishino Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishino Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bZyJjYzgbvsPb3D">
     <a href="javascript:;">
         <img src="/v/bf723pl/bf723pl.jpg" width="WIDTH" height="HEIGHT" alt="bf723pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf723pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf723pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

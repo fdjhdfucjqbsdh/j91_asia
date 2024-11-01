@@ -3,9 +3,9 @@ author: j91
 title: WAAA-437 Undercover Investigator, Aphrodisiac-soaked, Convulsing And Incontinence! Sensitive Nipples Lynched, Surrendering To Orgasm, Tsukinoe Sui
 
 url: /v/waaa437pl
-date: 0000-11-01T01:45:00Z
+date: 2024-11-01T01:45:00Z
 image: "waaa437pl.jpg"
-tags: [Upcoming releases, Solowork, Squirting, Deep Throating, Confinement, Female Investigator, Acme · Orgasm	]
+tags: [Censored, Solowork, Squirting, Deep Throating, Confinement, Female Investigator, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Tsukinoe Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XxO8lvko3mUD8zL">
     <a href="javascript:;">
         <img src="/v/waaa437pl/waaa437pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa437pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa437pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa437pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

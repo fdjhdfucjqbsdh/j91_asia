@@ -3,9 +3,9 @@ author: j91
 title: MIDV-906 Teacher, Please Let Me Cum... I Can't Say No. The New Teacher's Dick Made Me Cum All Over The School Without Me Even Being Able To Make A Sound, And My Heart Was In Turmoil. Chihiro Miyazaki
 
 url: /v/midv906pl
-date: 0000-11-01T01:55:00Z
+date: 2024-11-01T01:55:00Z
 image: "midv906pl.jpg"
-tags: [Upcoming releases, Solowork, Uniform, School Girls, Beautiful Girl, Slender, Kiss	]
+tags: [Censored, Solowork, Uniform, School Girls, Beautiful Girl, Slender, Kiss	]
 maker: [MOODYZ]
 actress: [ Miyazaki Chihiro ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyazaki Chihiro ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DW03XLa2WlcBrY">
     <a href="javascript:;">
         <img src="/v/midv906pl/midv906pl.jpg" width="WIDTH" height="HEIGHT" alt="midv906pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyazaki Chihiro ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv906pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyazaki Chihiro ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv906pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

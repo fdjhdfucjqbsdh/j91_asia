@@ -3,9 +3,9 @@ author: j91
 title: JUNY-134 A Voluptuous And Sexy School Uniform Gal's After-school Creampie Slut Life! Hina Omomo
 
 url: /v/juny134pl
-date: 0000-11-01T01:35:00Z
+date: 2024-11-01T01:35:00Z
 image: "juny134pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Solowork, School Girls, Big Tits, Titty Fuck	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Solowork, School Girls, Big Tits, Titty Fuck	]
 maker: [Fitch]
 actress: [ Oomomo Hina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Oomomo Hina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6aKBl8WVWmi92kw">
     <a href="javascript:;">
         <img src="/v/juny134pl/juny134pl.jpg" width="WIDTH" height="HEIGHT" alt="juny134pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Oomomo Hina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny134pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Oomomo Hina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny134pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

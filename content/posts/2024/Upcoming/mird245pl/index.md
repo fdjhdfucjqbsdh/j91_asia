@@ -3,9 +3,9 @@ author: j91
 title: MIRD-245 [MOODYZ! S1! Idea Pocket!] Beautiful Girl Paradise Dream Collaboration Special!! Honoka Furukawa, Nana Miho, Nana Yagi
 
 url: /v/mird245pl
-date: 0000-11-01T01:57:00Z
+date: 2024-11-01T01:57:00Z
 image: "mird245pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Beautiful Girl, Breasts, Slender	]
+tags: [Censored, 3P, 4P, Beautiful Girl, Breasts, Slender	]
 maker: [MOODYZ]
 actress: [ Yagi Nana ,Furukawa Honoka ,Miho Nana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yagi Nana ,Furukawa Honoka ,Miho Nana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="px76bgW6xjIrOko">
     <a href="javascript:;">
         <img src="/v/mird245pl/mird245pl.jpg" width="WIDTH" height="HEIGHT" alt="mird245pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yagi Nana ,Furukawa Honoka ,Miho Nana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mird245pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yagi Nana ,Furukawa Honoka ,Miho Nana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mird245pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
