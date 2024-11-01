@@ -3,9 +3,9 @@ author: j91
 title: HZGD-286 At Home Without Her Husband, From 8am To 5pm... Frustrated L-cup Super-breasted Wife's Creampie At The Men's Massage Parlor In The Housing Complex, Yuki Nitta
 
 url: /v/hzgd286pl
-date: 0000-11-01T01:28:00Z
+date: 2024-11-01T01:28:00Z
 image: "hzgd286pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Big Tits, Married Woman, Titty Fuck, Drama, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Big Tits, Married Woman, Titty Fuck, Drama, Ultra-Huge Tits	]
 maker: [Hitodzuma Hanazono Gekijou]
 actress: [ Nitta Yuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nitta Yuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Lkrvd2k77OIRG9W">
     <a href="javascript:;">
         <img src="/v/hzgd286pl/hzgd286pl.jpg" width="WIDTH" height="HEIGHT" alt="hzgd286pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nitta Yuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hzgd286pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nitta Yuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hzgd286pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

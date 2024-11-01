@@ -3,9 +3,9 @@ author: j91
 title: DVMM-163 A Beautiful Female College Student Who Wants To Be A Female Announcer Appears! Extremely Radical! A Remote Control Vibrator Squirting Report "No Matter What Happens, Keep Smiling And Read The Manuscript To The End!" A JD Who Loses To Naughty Prank Interference And Keeps Giving NGs Is Immediately Fucked With A Big Dick! The Big Dick Pleasure Changes Her Neat Face Into An Ahegao Face And She Can't Stop Squirting!
 
 url: /v/dvmm163pl
-date: 0000-11-01T01:25:00Z
+date: 2024-11-01T01:25:00Z
 image: "dvmm163pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Squirting, Female College Student, Anchorwoman	]
+tags: [Censored, Creampie, Amateur, Squirting, Female College Student, Anchorwoman	]
 maker: [Deeps]
 actress: [ Maeta Minami, Sakuragi Mion ,Kojima Miko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Maeta Minami, Sakuragi Mion ,Kojima Miko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="z67oyyAek0Ceb8">
     <a href="javascript:;">
         <img src="/v/dvmm163pl/dvmm163pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm163pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Maeta Minami, Sakuragi Mion ,Kojima Miko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm163pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Maeta Minami, Sakuragi Mion ,Kojima Miko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm163pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

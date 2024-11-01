@@ -3,9 +3,9 @@ author: j91
 title: DVMM-165 Ordinary Men And Women Monitoring AV Female College Students Only Challenge To Endure Orgasms With A Fixed Vibrator In A Leg-Hanging Position! The Vibrator Gets Thicker And Stronger While In An Embarrassing Position, She Cums Publicly! Her Sensitivity Is Increased, And Her Pussy Is Instantly Inserted With A Huge Dick As A Punishment Game! Everyone Cums Inside!
 
 url: /v/dvmm165pl
-date: 0000-11-01T01:25:00Z
+date: 2024-11-01T01:25:00Z
 image: "dvmm165pl.jpg"
-tags: [Upcoming releases, Creampie, Vibe, Amateur, Planning, Huge Cock	]
+tags: [Censored, Creampie, Vibe, Amateur, Planning, Huge Cock	]
 maker: [Deeps]
 actress: [ Shinonome Azusa, Kago Rina, Misaki Oto, Kosaka Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shinonome Azusa, Kago Rina, Misaki Oto, Kosaka Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8JxAjJpmOjHovgL">
     <a href="javascript:;">
         <img src="/v/dvmm165pl/dvmm165pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm165pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shinonome Azusa, Kago Rina, Misaki Oto, Kosaka Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm165pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shinonome Azusa, Kago Rina, Misaki Oto, Kosaka Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm165pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

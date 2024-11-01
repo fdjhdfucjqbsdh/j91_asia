@@ -3,9 +3,9 @@ author: j91
 title: BOBB-422 Big-breasted J-cup Angel In A White Coat. Secret Breast Nursing Begins With A Nurse Call. Boin "Nono Mochizuki" Box 2
 
 url: /v/bobb422
-date: 0000-11-01T01:27:00Z
+date: 2024-11-01T01:27:00Z
 image: "bobb422.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Nurse, Busty Fetish, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Solowork, Big Tits, Nurse, Busty Fetish, Ultra-Huge Tits	]
 maker: [Abc- Mousou Zoku]
 actress: [ Mochizuki Nono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mochizuki Nono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RyVrAkVJ6Acd1pm">
     <a href="javascript:;">
         <img src="/v/bobb422/bobb422.jpg" width="WIDTH" height="HEIGHT" alt="bobb422.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mochizuki Nono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bobb422/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mochizuki Nono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bobb422/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DVMM-160 Face-revealing MM-ban, Female College Students Only, The Magic Mirror, Two Close Female Friends Work Together To Take On The No-hands Blowjob Quickie Challenge! Licking And Sucking With Just Their Mouths And Tongues To Get The Cum Out! Time-up Leads To A Punishment Game Of Big Dicks In A Quickie 4P! [All Creampies]
 
 url: /v/dvmm160pl
-date: 0000-11-01T01:25:00Z
+date: 2024-11-01T01:25:00Z
 image: "dvmm160pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Amateur, Female College Student, Huge Cock	]
+tags: [Censored, Blow, Creampie, Amateur, Female College Student, Huge Cock	]
 maker: [Deeps]
 actress: [ Tenma Yui ,Takeuchi Misuzu, Minami Tsubasa, Toyooka Satsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ,Takeuchi Misuzu, Minami Tsubasa, Toyooka Satsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8Zgx4ZjB1ySoQZ1">
     <a href="javascript:;">
         <img src="/v/dvmm160pl/dvmm160pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm160pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ,Takeuchi Misuzu, Minami Tsubasa, Toyooka Satsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm160pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ,Takeuchi Misuzu, Minami Tsubasa, Toyooka Satsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm160pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
