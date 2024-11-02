@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-309 [Viewer Discretion Advised] Gang Rape Footage, Uncut And Unedited "Record Of Rape Crimes Against Women" Voluptuous Women's Bodies Are Violated Endlessly! Stunned With Chloroform And A Stun Gun, Squirting With Aphrodisiacs, A Voluptuous Mature Wife Who Continues To Struggle And Resist While Being Raped, Drugged And Repeatedly Ejaculated Into Her Vagina, She Keeps Cumming And Breaks Down!! Mizuki Narazaki
 
 url: /v/embz309pl
-date: 0000-11-02T01:20:00Z
+date: 2024-11-02T01:20:00Z
 image: "embz309pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Squirting, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Squirting, Mature Woman	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Narazaki Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Narazaki Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QdVo8MxoDXI03Rm">
     <a href="javascript:;">
         <img src="/v/embz309pl/embz309pl.jpg" width="WIDTH" height="HEIGHT" alt="embz309pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Narazaki Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/embz309pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Narazaki Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/embz309pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

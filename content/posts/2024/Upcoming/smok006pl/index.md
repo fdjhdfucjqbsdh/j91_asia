@@ -3,9 +3,9 @@ author: j91
 title: SMOK-006 [Peeing Sexual Harassment] A Big-assed Subordinate Office Lady, Yui Tenma, Stimulates The Young Man's Pussy, Which Has Become Sensitive To Premature Ejaculation Due To An Aphrodisiac Diuretic, And Makes Him Urinate And Cum Over And Over Again
 
 url: /v/smok006pl
-date: 0000-11-02T01:45:00Z
+date: 2024-11-02T01:45:00Z
 image: "smok006pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Squirting, Butt	]
+tags: [Censored, OL, Creampie, Solowork, Squirting, Butt	]
 maker: [ Smoke Films - Mousouzoku  ]
 actress: [ Tenma Yui]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="px3mYvo0vxsr4Ym">
     <a href="javascript:;">
         <img src="/v/smok006pl/smok006pl.jpg" width="WIDTH" height="HEIGHT" alt="smok006pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/smok006pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/smok006pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

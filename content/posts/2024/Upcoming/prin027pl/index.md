@@ -3,9 +3,9 @@ author: j91
 title: PRIN-027 "It's A Waste If You Don't Drink The Semen!" She Swallows Everything That's Released! A Luxurious Double Feature Of Doujin AV Featuring A Beautiful, Busty Girl With A Plump Body And An Overwhelmingly Beautiful Cosplayer! [H-cup] [The Ultimate Paizuri] [Explosive Ejaculation In The Mouth] [Pounding] [Second-second Orgasm] [Amazing Vagina] [Vaginal Bulge Memorandum]
 
 url: /v/prin027pl
-date: 0000-11-02T01:40:00Z
+date: 2024-11-02T01:40:00Z
 image: "prin027pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur, Big Tits, POV, Cum	]
+tags: [Censored, Cosplay, Amateur, Big Tits, POV, Cum	]
 maker: [ Za-jiru Ooji- Mousozoku  ]
 actress: [ Tanaka Nene ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tanaka Nene ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0WLqBojqK6UZxg">
     <a href="javascript:;">
         <img src="/v/prin027pl/prin027pl.jpg" width="WIDTH" height="HEIGHT" alt="prin027pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/prin027pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/prin027pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
