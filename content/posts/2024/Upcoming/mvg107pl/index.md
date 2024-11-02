@@ -3,9 +3,9 @@ author: j91
 title: MVG-107 A 110-day Filming Record Of A Doujin Masochistic Cosplayer Being Tied Up And Gang-banged And Trained In Bukkake. Aya Konami
 
 url: /v/mvg107pl
-date: 0000-11-02T01:50:00Z
+date: 2024-11-02T01:50:00Z
 image: "mvg107pl.jpg"
-tags: [Upcoming releases, Cosplay, 3P, 4P, Solowork, Shibari, Submissive Woman	]
+tags: [Censored, Cosplay, 3P, 4P, Solowork, Shibari, Submissive Woman	]
 maker: [ Glory Quest  ]
 actress: [ Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="g26aj003X1uqKgy">
     <a href="javascript:;">
         <img src="/v/mvg107pl/mvg107pl.jpg" width="WIDTH" height="HEIGHT" alt="mvg107pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvg107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvg107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

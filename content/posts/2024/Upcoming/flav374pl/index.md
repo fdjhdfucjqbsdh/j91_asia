@@ -3,9 +3,9 @@ author: j91
 title: FLAV-374 Bukkake Dirty Big Ass Frustrated Wife Seduces And Serves Mom Sakura Tsukishima With Hard Nipples
 
 url: /v/flav374pl
-date: 0000-11-02T01:45:00Z
+date: 2024-11-02T01:45:00Z
 image: "flav374pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Slut, Bukkake, Urination, Butt	]
+tags: [Censored, Solowork, Married Woman, Slut, Bukkake, Urination, Butt	]
 maker: [ Digital Ark  ]
 actress: [ Kashiwagi Riko]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Riko]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ylQb4wKkXMSyaj">
     <a href="javascript:;">
         <img src="/v/flav374pl/flav374pl.jpg" width="WIDTH" height="HEIGHT" alt="flav374pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Riko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/flav374pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Riko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/flav374pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
