@@ -3,9 +3,9 @@ author: j91
 title: BBAN-504 They Are My Exclusive Lesbian Maids. I Hire Girls I Like And Have Sex With Them As I Please In A Threesome With My Favorite Girls.
 
 url: /v/bban504pl
-date: 0000-11-08T01:10:00Z
+date: 2024-11-08T01:10:00Z
 image: "bban504pl.jpg"
-tags: [Upcoming releases, Cosplay, Maid, 3P, 4P, Lesbian, Lesbian Kiss	]
+tags: [Censored, Cosplay, Maid, 3P, 4P, Lesbian, Lesbian Kiss	]
 maker: [Bibian]
 actress: [ Tenma Yui ,Onodera Mai, Toujou Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ,Onodera Mai, Toujou Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AAxmqo6W3BfXqx4">
     <a href="javascript:;">
         <img src="/v/bban504pl/bban504pl.jpg" width="WIDTH" height="HEIGHT" alt="bban504pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ,Onodera Mai, Toujou Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban504pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ,Onodera Mai, Toujou Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban504pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

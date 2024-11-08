@@ -3,9 +3,9 @@ author: j91
 title: BBAN-495 Holy Water Slut Lesbians, Beautiful Women Pee All Over Each Other In A Triple Lesbian Sex Session! Waka Misono, Uta Hibiki, Mao Hamasaki
 
 url: /v/bban495pl
-date: 0000-11-08T01:10:00Z
+date: 2024-11-08T01:10:00Z
 image: "bban495pl.jpg"
-tags: [Upcoming releases, OL, Lesbian, Squirting, Slut, Urination	]
+tags: [Censored, OL, Lesbian, Squirting, Slut, Urination	]
 maker: [Bibian]
 actress: [ Hamasaki Mao, Misono Waka, Hibino Uta ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao, Misono Waka, Hibino Uta ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3V2DmR86ZdTDJq">
     <a href="javascript:;">
         <img src="/v/bban495pl/bban495pl.jpg" width="WIDTH" height="HEIGHT" alt="bban495pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao, Misono Waka, Hibino Uta ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban495pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao, Misono Waka, Hibino Uta ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban495pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BOKD-294 AV Debut, I May Look Like This, But I Have A Penis. Yuka Tori
 
 url: /v/bokd294pl
-date: 0000-11-09T01:05:00Z
+date: 2024-11-08T01:05:00Z
 image: "bokd294pl.jpg"
-tags: [Upcoming releases, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
+tags: [Censored, Transsexual, Creampie, Solowork, Debut Production, Cross Dressing	]
 maker: [ K.M.Produce  ]
 actress: [ Higashiri Yuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Higashiri Yuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="b7e8kGvJv3TPVWD">
     <a href="javascript:;">
         <img src="/v/bokd294pl/bokd294pl.jpg" width="WIDTH" height="HEIGHT" alt="bokd294pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Higashiri Yuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bokd294pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Higashiri Yuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bokd294pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
