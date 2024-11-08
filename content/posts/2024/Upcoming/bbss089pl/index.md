@@ -3,9 +3,9 @@ author: j91
 title: BBSS-089 Pleasure-starved Sex Monsters Make Each Other Cum In Ecstasy! A 4-hour Lesbian Battle Of Maximum Heat Where They Devour Each Other So Ferociously That Their Pussies Go Numb!
 
 url: /v/bbss089pl
-date: 0000-11-08T01:00:00Z
+date: 2024-11-08T01:00:00Z
 image: "bbss089pl.jpg"
-tags: [Upcoming releases, Lesbian, Nasty, Hardcore, Squirting, 4HR+, Huge Butt, Acme · Orgasm	]
+tags: [Censored, Lesbian, Nasty, Hardcore, Squirting, 4HR+, Huge Butt, Acme · Orgasm	]
 maker: [Bibian]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YWMaPLrvQwtB1M">
     <a href="javascript:;">
         <img src="/v/bbss089pl/bbss089pl.jpg" width="WIDTH" height="HEIGHT" alt="bbss089pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbss089pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbss089pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
