@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-406 \\Excellent Compatibility// Aphrodisiac Makes Her Go Crazy. Newly Married Husband Is Away For 3 Days... Ex-boyfriend Reunites At Class Reunion... Continuous Creampies, Drug-induced Sex, NTR, Azusa Hikari
 
 url: /v/ipzz406pl
-date: 0000-11-08T01:50:00Z
+date: 2024-11-08T01:50:00Z
 image: "ipzz406pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Big Tits, Beautiful Girl, Cuckold	]
+tags: [Censored, Blow, Creampie, Solowork, Big Tits, Beautiful Girl, Cuckold	]
 maker: [IDEA POCKET]
 actress: [ Azusa Hikari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Azusa Hikari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p4RGm0q4PMIr63m">
     <a href="javascript:;">
         <img src="/v/ipzz406pl/ipzz406pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz406pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Azusa Hikari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz406pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Azusa Hikari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz406pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

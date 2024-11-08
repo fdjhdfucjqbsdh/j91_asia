@@ -3,9 +3,9 @@ author: j91
 title: DASS-511 Ejaculation Fool Specialist M-sensation. Restrained Dick Is Made To Cum Repeatedly Until It Ejaculates 12 Times, 5 Times! Sarina Momonaga
 
 url: /v/dass511pl
-date: 0000-11-08T01:40:00Z
+date: 2024-11-08T01:40:00Z
 image: "dass511pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Slut, Bondage, Submissive Men	]
+tags: [Censored, Restraint, Solowork, Slut, Bondage, Submissive Men	]
 maker: [Das !]
 actress: [ Momonaga Sarina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Momonaga Sarina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Zb3bmeWdgkTq6v6">
     <a href="javascript:;">
         <img src="/v/dass511pl/dass511pl.jpg" width="WIDTH" height="HEIGHT" alt="dass511pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Momonaga Sarina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass511pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Momonaga Sarina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass511pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

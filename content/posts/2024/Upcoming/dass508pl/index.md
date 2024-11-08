@@ -3,9 +3,9 @@ author: j91
 title: DASS-508 She Was Forced To Have Sex With Her Father's Boss, And Even Though She Hated It, She Was Driven Crazy By A Sinister Penis That Was Bigger Than His, And Fell Into A Disgusting NTR. Akane Mitani
 
 url: /v/dass508pl
-date: 0000-11-08T01:40:00Z
+date: 2024-11-08T01:40:00Z
 image: "dass508pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Slender, Drama, Cuckold	]
+tags: [Censored, Creampie, Solowork, Slender, Drama, Cuckold	]
 maker: [Das !]
 actress: [ Mitani Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitani Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zXjPYZ427oUYLDD">
     <a href="javascript:;">
         <img src="/v/dass508pl/dass508pl.jpg" width="WIDTH" height="HEIGHT" alt="dass508pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass508pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass508pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

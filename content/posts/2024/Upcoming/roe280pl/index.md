@@ -3,9 +3,9 @@ author: j91
 title: ROE-280 Brainwashing Training, The Arrogant Wife Of A President Who Was Turned Into A Human Toilet For Laid-off Employees By A Hypnosis App, Reiko Seo
 
 url: /v/roe280pl
-date: 0000-11-08T01:45:00Z
+date: 2024-11-08T01:45:00Z
 image: "roe280pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Married Woman, Abuse, Slender, Mature Woman	]
+tags: [Censored, Solowork, Humiliation, Married Woman, Abuse, Slender, Mature Woman	]
 maker: [Madonna]
 actress: [ Seo Reiko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seo Reiko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RpyKRRAwOgUdlM6">
     <a href="javascript:;">
         <img src="/v/roe280pl/roe280pl.jpg" width="WIDTH" height="HEIGHT" alt="roe280pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seo Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/roe280pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seo Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/roe280pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

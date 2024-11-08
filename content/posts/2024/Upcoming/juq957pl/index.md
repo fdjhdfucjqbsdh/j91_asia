@@ -3,9 +3,9 @@ author: j91
 title: JUQ-957 At School, I Was Taught That The Teacher's Naked Body Was The "blackboard." Graffiti Homeroom Rinko Kinoshita
 
 url: /v/juq957pl
-date: 0000-11-08T01:45:00Z
+date: 2024-11-08T01:45:00Z
 image: "juq957pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Female Teacher, Big Tits, Married Woman, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Female Teacher, Big Tits, Married Woman, Mature Woman	]
 maker: [Madonna]
 actress: [ Kinoshita Ririko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kinoshita Ririko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Z1eYd3K4ekiqWLj">
     <a href="javascript:;">
         <img src="/v/juq957pl/juq957pl.jpg" width="WIDTH" height="HEIGHT" alt="juq957pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq957pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kinoshita Ririko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq957pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
