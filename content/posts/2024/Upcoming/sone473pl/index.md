@@ -3,9 +3,9 @@ author: j91
 title: SONE-473 Former Odaiba Terrestrial TV Idol Karen Ishida Has Been Selected As An Exclusive S1 Actress!!! 3 Miraculous Scenes
 
 url: /v/sone473pl
-date: 0000-11-08T01:55:00Z
+date: 2024-11-08T01:55:00Z
 image: "sone473pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Slender, Documentary, Entertainer, Kiss	]
+tags: [Censored, Solowork, Debut Production, Slender, Documentary, Entertainer, Kiss	]
 maker: [S1 NO.1 STYLE]
 actress: [ Ishida Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ishida Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8wr0a44kXXsoPAW">
     <a href="javascript:;">
         <img src="/v/sone473pl/sone473pl.jpg" width="WIDTH" height="HEIGHT" alt="sone473pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ishida Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone473pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ishida Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone473pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

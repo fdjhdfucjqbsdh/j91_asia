@@ -3,9 +3,9 @@ author: j91
 title: SONE-447 "I'll Let You Do It If You Lose The Next Game" Devoted Slut Manager Nakamori Kokona Sells Her Body For The Team
 
 url: /v/sone447pl
-date: 0000-11-08T01:55:00Z
+date: 2024-11-08T01:55:00Z
 image: "sone447pl.jpg"
-tags: [Upcoming releases, Blow, 3P, 4P, Solowork, Beautiful Girl, Slender, Acme · Orgasm	]
+tags: [Censored, Blow, 3P, 4P, Solowork, Beautiful Girl, Slender, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nakamori Kokona ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nakamori Kokona ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gqdxkWK0pbhqpRk">
     <a href="javascript:;">
         <img src="/v/sone447pl/sone447pl.jpg" width="WIDTH" height="HEIGHT" alt="sone447pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nakamori Kokona ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone447pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nakamori Kokona ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone447pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
