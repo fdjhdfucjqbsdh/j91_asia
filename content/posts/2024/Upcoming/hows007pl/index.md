@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MMMB-132 14 60's And 50's Aunts' Slurping And Slurping Masturbation
+title: HOWS-007 How To Gakuen, If You Watch It, You Will Definitely Become Good At Sex. This Is A Textbook AV [Virgin Graduation Edition ~ Must-see For Beginners Who Are Not Confident In Sex ~] Mio Ichijo
 
-url: /v/mmmb132pl
-date: 2024-11-09T01:00:00Z
-image: "mmmb132pl.jpg"
-tags: [Censored, Masturbation, Big Tits, Married Woman, 4HR+, Mature Woman, Mother	]
-maker: [ Mellow Moon  ]
-actress: [ ]
+url: /v/hows007pl
+date: 2024-11-09T01:04:00Z
+image: "hows007pl.jpg"
+tags: [Censored, Solowork, Uniform, Big Tits, School Stuff, 4HR+, Virgin Man, How To	]
+maker: [Bareman~tsu!! - Mousozoku]
+actress: [Ichijou Mio ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="4PYqK3VQlqC2mx">
+<div class="video" data-videoid="LQP7w6aXkeH7PO">
     <a href="javascript:;">
-        <img src="/v/mmmb132pl/mmmb132pl.jpg" width="WIDTH" height="HEIGHT" alt="mmmb132pl.mp4" loading="lazy">
+        <img src="/v/hows007pl/hows007pl.jpg" width="WIDTH" height="HEIGHT" alt="hows007pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/mmmb132pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hows007pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/mmmb132pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hows007pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
