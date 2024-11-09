@@ -3,9 +3,9 @@ author: j91
 title: APGH-025 The Teacher Takes Care Of Everything In A Private Lesson For Just The Two Of You. "I've Come To Love This Dick!" She Grabs Her Own Ass Cheeks! She Shows Off Her Lewd Side While Riding On Top Of You! Satomi Mioka
 
 url: /v/apgh025pl
-date: 0000-11-09T01:20:00Z
+date: 2024-11-09T01:20:00Z
 image: "apgh025pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Big Tits, POV, Facials, Slut	]
+tags: [Censored, Solowork, Female Teacher, Big Tits, POV, Facials, Slut	]
 maker: [ Aurora Project Annex  ]
 actress: [ Tachibana Yuuka]
 ---
@@ -13,13 +13,13 @@ actress: [ Tachibana Yuuka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QXZqGea73QhGpp">
     <a href="javascript:;">
         <img src="/v/apgh025pl/apgh025pl.jpg" width="WIDTH" height="HEIGHT" alt="apgh025pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tachibana Yuuka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apgh025pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tachibana Yuuka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apgh025pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

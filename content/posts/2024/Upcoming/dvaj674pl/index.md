@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-674 In A Deserted Town After Cheering For The National Tournament, The Only Two People Left Were The Two Of Them. I Got Mad At My Ex-girlfriend, Who Is Now A Married Woman, And We Had An Affair For Three Days Straight. Kasumi Tsukino
 
 url: /v/dvaj674pl
-date: 0000-11-09T01:50:00Z
+date: 2024-11-09T01:50:00Z
 image: "dvaj674pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold	]
 maker: [ Alice Japan  ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0VbyYDr8AZibXwk">
     <a href="javascript:;">
         <img src="/v/dvaj674pl/dvaj674pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj674pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj674pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj674pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
