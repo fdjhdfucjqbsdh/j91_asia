@@ -3,9 +3,9 @@ author: j91
 title: KTRA-674 Seeding Citizen Committee Work 2 Aya Konami
 
 url: /v/ktra674pl
-date: 0000-11-09T01:20:00Z
+date: 2024-11-09T01:20:00Z
 image: "ktra674pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Drama, Sexy	]
+tags: [Censored, Blow, Creampie, Solowork, Drama, Sexy	]
 maker: [ Ke- . Toraibu  ]
 actress: [ Suzumiya Haruka]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="79AkRwR9q8FAlby">
     <a href="javascript:;">
         <img src="/v/ktra674pl/ktra674pl.jpg" width="WIDTH" height="HEIGHT" alt="ktra674pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ktra674pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ktra674pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

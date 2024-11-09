@@ -3,9 +3,9 @@ author: j91
 title: BAGR-047 Shiori Izumida, A Dangerous Girl Who Has Gone Through A Complicated Adolescence And Seduces The Nearest Man To The Limit By Becoming A Masturbation Material
 
 url: /v/bagr047pl
-date: 0000-11-09T01:15:00Z
+date: 2024-11-09T01:15:00Z
 image: "bagr047pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Other Fetish, Beautiful Girl, Slut, Submissive Men	]
+tags: [Censored, Solowork, School Girls, Other Fetish, Beautiful Girl, Slut, Submissive Men	]
 maker: [ Barutan  ]
 actress: [ Izumida Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Izumida Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="mDgxvwegDbIb9WR">
     <a href="javascript:;">
         <img src="/v/bagr047pl/bagr047pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr047pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Izumida Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bagr047pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Izumida Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bagr047pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

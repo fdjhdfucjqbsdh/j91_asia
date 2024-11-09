@@ -3,9 +3,9 @@ author: j91
 title: HAZU-015 Miracle Widow, Sachiko Hayakawa (72 Years Old) "My Second Life Begins Now, A Century's Life..."
 
 url: /v/hazu015pl
-date: 0000-11-09T01:20:00Z
+date: 2024-11-09T01:20:00Z
 image: "hazu015pl.jpg"
-tags: [Upcoming releases, Amateur, Married Woman, Mature Woman, Granny	]
+tags: [Censored, Amateur, Married Woman, Mature Woman, Granny	]
 maker: [ Shirouto Kissa - Mousozoku  ]
 actress: [ Suzuki Miyoko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzuki Miyoko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vWlRVDkkJwCDAP">
     <a href="javascript:;">
         <img src="/v/hazu015pl/hazu015pl.jpg" width="WIDTH" height="HEIGHT" alt="hazu015pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzuki Miyoko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hazu015pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzuki Miyoko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hazu015pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

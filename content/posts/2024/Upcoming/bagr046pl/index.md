@@ -3,9 +3,9 @@ author: j91
 title: BAGR-046 Pull It Out With Your Face!! Close-up POV Of Face, Monami-san, The Master Of Teasing And Killing, Monami Suzu
 
 url: /v/bagr046pl
-date: 0000-11-09T01:15:00Z
+date: 2024-11-09T01:15:00Z
 image: "bagr046pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Beautiful Girl, Slut, Bloomers, School Uniform	]
+tags: [Censored, Blow, Solowork, Beautiful Girl, Slut, Bloomers, School Uniform	]
 maker: [ Barutan  ]
 actress: [ Monami Suzu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Monami Suzu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1qqy31do44HeQRW">
     <a href="javascript:;">
         <img src="/v/bagr046pl/bagr046pl.jpg" width="WIDTH" height="HEIGHT" alt="bagr046pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Monami Suzu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bagr046pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Monami Suzu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bagr046pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
