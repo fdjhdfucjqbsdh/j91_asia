@@ -3,9 +3,9 @@ author: j91
 title: EBWH-164 In The VIP Private Room Ward For 1 Million Yen Per Night, You Can Enjoy Unlimited Service From The Divinely-beautiful Nurses, Who Will Treat You Like A State Guest. Nanase Alice
 
 url: /v/ebwh164pl
-date: 0000-11-15T01:30:00Z
+date: 2024-11-15T01:30:00Z
 image: "ebwh164pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Titty Fuck, Subjectivity, Nurse, Masturbation Support	]
+tags: [Censored, Blow, Solowork, Titty Fuck, Subjectivity, Nurse, Masturbation Support	]
 maker: [E-body]
 actress: [ Nanase Arisu]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Arisu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oWV4JL0eX0FJkg7">
     <a href="javascript:;">
         <img src="/v/ebwh164pl/ebwh164pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh164pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh164pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh164pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

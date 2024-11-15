@@ -3,9 +3,9 @@ author: j91
 title: MIDV-920 A Busty Student Tempts Me With Her Boobs And Her Devilish Tongue Kisses, And I Was Cuckolded 13 Times. Kissing NTR Toa Yuki
 
 url: /v/midv920pl
-date: 0000-11-15T01:55:00Z
+date: 2024-11-15T01:55:00Z
 image: "midv920pl.jpg"
-tags: [Upcoming releases, Solowork, Uniform, Big Tits, Titty Fuck, Cuckold, Kiss	]
+tags: [Censored, Solowork, Uniform, Big Tits, Titty Fuck, Cuckold, Kiss	]
 maker: [MOODYZ]
 actress: [ Yuuki Toa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuuki Toa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RWbKzVK7J4Ud4KW">
     <a href="javascript:;">
         <img src="/v/midv920pl/midv920pl.jpg" width="WIDTH" height="HEIGHT" alt="midv920pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuuki Toa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv920pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuuki Toa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv920pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

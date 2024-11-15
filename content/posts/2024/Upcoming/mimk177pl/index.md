@@ -3,9 +3,9 @@ author: j91
 title: MIMK-177 Virginity Prohibition Law, Forced Child-Making According To National Rules ~Live-Action~ Original, Tamashii Domu Sales, 30,000 Copies Restraint Slut
 
 url: /v/mimk177pl
-date: 0000-11-15T01:56:00Z
+date: 2024-11-15T01:56:00Z
 image: "mimk177pl.jpg"
-tags: [Upcoming releases, Restraint, Big Tits, Cowgirl, Slut, Original Collaboration	]
+tags: [Censored, Restraint, Big Tits, Cowgirl, Slut, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ Tanaka Nene ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tanaka Nene ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="G2vA9P0dJKU137Y">
     <a href="javascript:;">
         <img src="/v/mimk177pl/mimk177pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk177pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk177pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk177pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

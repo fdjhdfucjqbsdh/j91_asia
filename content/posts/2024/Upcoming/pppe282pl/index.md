@@ -3,9 +3,9 @@ author: j91
 title: PPPE-282 A Plain Big-breasted High School Girl Who Just Moved To Tokyo And Lives Alone With Low Security Awareness Breaks In, Unconsciously Rapes, And Is Stalked And Creampied.
 
 url: /v/pppe282pl
-date: 0000-11-15T01:40:00Z
+date: 2024-11-15T01:40:00Z
 image: "pppe282pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Voyeur, Big Tits, Abuse	]
+tags: [Censored, Creampie, School Girls, Voyeur, Big Tits, Abuse	]
 maker: [Oppai]
 actress: [ Kashiwagi Konatsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kZDoWkRGxWUykb">
     <a href="javascript:;">
         <img src="/v/pppe282pl/pppe282pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe282pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe282pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Konatsu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe282pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

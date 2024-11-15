@@ -3,9 +3,9 @@ author: j91
 title: PRED-729 My Very Own Competitive Swimsuit Model. I Indulge In Creampie Sex Alone With JULIA, A Busty Beauty Who Can't Resist Pressure. JULIA
 
 url: /v/pred729pl
-date: 0000-11-15T01:45:00Z
+date: 2024-11-15T01:45:00Z
 image: "pred729pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Big Tits, Titty Fuck, School Swimsuit	]
+tags: [Censored, OL, Creampie, Solowork, Big Tits, Titty Fuck, School Swimsuit	]
 maker: [Premium]
 actress: [ Julia ]
 ---
@@ -13,13 +13,13 @@ actress: [ Julia ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kLogxo1RVvCO2ZP">
     <a href="javascript:;">
         <img src="/v/pred729pl/pred729pl.jpg" width="WIDTH" height="HEIGHT" alt="pred729pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Julia ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pred729pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Julia ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pred729pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

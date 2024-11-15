@@ -3,9 +3,9 @@ author: j91
 title: EBWH-167 Record Heatwave, I Suddenly Had To Share A Room With My Boss, The Woman I Admire, On A Business Trip. I Couldn't Resist Her Sweaty Slim Body And Big Breasts, So I, A Virgin, Kept Seeking Her Until The Morning. Miyamoto Rui
 
 url: /v/ebwh167pl
-date: 0000-11-15T01:30:00Z
+date: 2024-11-15T01:30:00Z
 image: "ebwh167pl.jpg"
-tags: [Upcoming releases, Solowork, Lingerie, Slender, Drama, Cuckold, Sweat	]
+tags: [Censored, Solowork, Lingerie, Slender, Drama, Cuckold, Sweat	]
 maker: [E-body]
 actress: [ Miyamoto Rui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyamoto Rui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p2d39b290ZfrMYV">
     <a href="javascript:;">
         <img src="/v/ebwh167pl/ebwh167pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh167pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyamoto Rui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh167pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyamoto Rui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh167pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MIRD-244 Erotic Maid Training School, Service Straddle Department, Sticky Tongue-kissing, Cowgirl, Creampie Department
 
 url: /v/mird244pl
-date: 0000-11-15T01:56:00Z
+date: 2024-11-15T01:56:00Z
 image: "mird244pl.jpg"
-tags: [Upcoming releases, Maid, Creampie, Cowgirl, Kiss	]
+tags: [Censored, Maid, Creampie, Cowgirl, Kiss	]
 maker: [MOODYZ]
 actress: [ Futaba Ema, Satsuki Ena, Itou Meru, Tenma Yui ,Kurumi Sakura, Shiraishi Momo, Kikuchi Haru, Himekawa Kanon ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ema, Satsuki Ena, Itou Meru, Tenma Yui ,Kurumi Sakura, Shirais
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="V0l77pwOddcKG6y">
     <a href="javascript:;">
         <img src="/v/mird244pl/mird244pl.jpg" width="WIDTH" height="HEIGHT" alt="mird244pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ema, Satsuki Ena, Itou Meru, Tenma Yui ,Kurumi Sakura, Shirais
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mird244pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ema, Satsuki Ena, Itou Meru, Tenma Yui ,Kurumi Sakura, Shirais
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mird244pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

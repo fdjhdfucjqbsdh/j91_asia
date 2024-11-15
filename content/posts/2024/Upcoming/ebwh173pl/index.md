@@ -3,9 +3,9 @@ author: j91
 title: EBWH-173 Even Though She's An Adult, You'll Want To Dress Her In Girl's Clothes. A Rare Legal Lolita With A Plump Figure Makes Her AV Debut. Yui Hashimoto
 
 url: /v/ebwh173pl
-date: 0000-11-15T01:30:00Z
+date: 2024-11-15T01:30:00Z
 image: "ebwh173pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Other Fetish, Debut Production, Nasty, Hardcore, Documentary, BBW	]
+tags: [Censored, Cosplay, Solowork, Other Fetish, Debut Production, Nasty, Hardcore, Documentary, BBW	]
 maker: [E-body]
 actress: [ Hashimoto Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hashimoto Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mQ3GBzjyAWtbgwl">
     <a href="javascript:;">
         <img src="/v/ebwh173pl/ebwh173pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh173pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hashimoto Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh173pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hashimoto Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh173pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
