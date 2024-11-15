@@ -3,9 +3,9 @@ author: j91
 title: DVRT-044 Insurance Sales Lady With Beautiful Legs And Pantyhose Seduces You And Makes You Fall For Her Instantly!
 
 url: /v/dvrt044pl
-date: 0000-11-15T01:07:00Z
+date: 2024-11-15T01:07:00Z
 image: "dvrt044pl.jpg"
-tags: [Upcoming releases, OL, Pantyhose, Slut, Footjob, Butt	]
+tags: [Censored, OL, Pantyhose, Slut, Footjob, Butt	]
 maker: [Deeps]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="do00ayoQRwCbz6">
     <a href="javascript:;">
         <img src="/v/dvrt044pl/dvrt044pl.jpg" width="WIDTH" height="HEIGHT" alt="dvrt044pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvrt044pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvrt044pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

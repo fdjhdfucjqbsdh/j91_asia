@@ -3,9 +3,9 @@ author: j91
 title: MUKD-516 Making The Cheeky Girls Who Look Down On Old Men Understand And Double Rape Akari Kana
 
 url: /v/mukd516pl
-date: 0000-11-15T01:10:00Z
+date: 2024-11-15T01:10:00Z
 image: "mukd516pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, School Girls, Squirting, Acme · Orgasm	]
+tags: [Censored, Creampie, 3P, 4P, School Girls, Squirting, Acme · Orgasm	]
 maker: [Muku]
 actress: [ Minase Akari, Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minase Akari, Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7p3pGY6qPdiA3vA">
     <a href="javascript:;">
         <img src="/v/mukd516pl/mukd516pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd516pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minase Akari, Yura Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd516pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minase Akari, Yura Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd516pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

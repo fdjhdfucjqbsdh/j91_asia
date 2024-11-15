@@ -3,9 +3,9 @@ author: j91
 title: MUDR-283 Exclusive, An Innocent Beautiful Girl In Uniform And An Old Man. Rediscover The Charm Of A Life-sized Black-haired Girl In This Classic SEX. Sumire Kuramoto
 
 url: /v/mudr283pl
-date: 0000-11-15T01:10:00Z
+date: 2024-11-15T01:10:00Z
 image: "mudr283pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Nasty, Hardcore, Slender	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Nasty, Hardcore, Slender	]
 maker: [Muku]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7K86yVMLkacVlk">
     <a href="javascript:;">
         <img src="/v/mudr283pl/mudr283pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr283pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr283pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr283pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MEYD-946 Lesbian NTR Sharing A Room On A Business Trip, A Lesbian Boss Working At A Local Lingerie Company And A Straight Subordinate... A 2-day, 1-night Tokyo Lesbian Story, Rion Izumi, Kanna Misaki
 
 url: /v/meyd946pl
-date: 0000-11-15T01:50:00Z
+date: 2024-11-15T01:50:00Z
 image: "meyd946pl.jpg"
-tags: [Upcoming releases, Lesbian, Married Woman, Mature Woman, Lesbian Kiss, Kiss	]
+tags: [Censored, Lesbian, Married Woman, Mature Woman, Lesbian Kiss, Kiss	]
 maker: [Tameike Goro-]
 actress: [ Misaki Kanna ,Isumi Rion ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Kanna ,Isumi Rion ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pbGv1RxJokHrY9g">
     <a href="javascript:;">
         <img src="/v/meyd946pl/meyd946pl.jpg" width="WIDTH" height="HEIGHT" alt="meyd946pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misaki Kanna ,Isumi Rion ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/meyd946pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misaki Kanna ,Isumi Rion ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/meyd946pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUDR-278 Kaede And Suzu The Masterpiece By The Master Of The Dazed Face, Kyokucho Sensei, Has Finally Been Made Into A Live-action Film! Tsundere Kaede And Naturally Cool Suzu. A Naughty School Life Surrounded By Twin Beautiful Girls Begins! Hikaru Minazuki Akari Minase
 
 url: /v/mudr278pl
-date: 0000-11-15T01:10:00Z
+date: 2024-11-15T01:10:00Z
 image: "mudr278pl.jpg"
-tags: [Upcoming releases, Maid, Shaved, Tits, Sister, Original Collaboration	]
+tags: [Censored, Maid, Shaved, Tits, Sister, Original Collaboration	]
 maker: [Muku]
 actress: [ Minasuki Hikaru, Minase Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minasuki Hikaru, Minase Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Lpbgk4vplrFbyx">
     <a href="javascript:;">
         <img src="/v/mudr278pl/mudr278pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr278pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minasuki Hikaru, Minase Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr278pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minasuki Hikaru, Minase Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr278pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

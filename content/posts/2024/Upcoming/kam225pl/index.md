@@ -3,9 +3,9 @@ author: j91
 title: KAM-225 A Beautiful Wife, Ayumi Natsukawa, Is Relentlessly Pursued And Pervertedly Raped By Her Husband's Colleague Who Lives In The Same Company Housing.
 
 url: /v/kam225pl
-date: 0000-11-15T01:09:00Z
+date: 2024-11-15T01:09:00Z
 image: "kam225pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Documentary	]
+tags: [Censored, Creampie, Solowork, Humiliation, Big Tits, Married Woman, Documentary	]
 maker: [Karuma]
 actress: [ Natsukawa Ayumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukawa Ayumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wzrx79WQLkHJRd1">
     <a href="javascript:;">
         <img src="/v/kam225pl/kam225pl.jpg" width="WIDTH" height="HEIGHT" alt="kam225pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam225pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsukawa Ayumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam225pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

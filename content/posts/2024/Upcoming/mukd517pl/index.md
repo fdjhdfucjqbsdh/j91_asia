@@ -3,9 +3,9 @@ author: j91
 title: MUKD-517 Was Surprised To Find Out That The Girls From The Cheerleading Club I Was Secretly Filming Were Super Lewd. They Turned Into Little Devil Sluts And Toyed With Me, Squeezing Out All My Semen! The Sweaty Girls In The Club Are Carnivorous Sluts And Take On A Harem Reverse Threesome
 
 url: /v/mukd517pl
-date: 0000-11-15T01:10:00Z
+date: 2024-11-15T01:10:00Z
 image: "mukd517pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Slut, Club Activities - Manager	]
+tags: [Censored, Creampie, School Girls, Slut, Club Activities - Manager	]
 maker: [Muku]
 actress: [ Natsukuri Rio, Mochizuki Tsubomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Natsukuri Rio, Mochizuki Tsubomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MYAwveM7zLi6Op">
     <a href="javascript:;">
         <img src="/v/mukd517pl/mukd517pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd517pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Natsukuri Rio, Mochizuki Tsubomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd517pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Natsukuri Rio, Mochizuki Tsubomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd517pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

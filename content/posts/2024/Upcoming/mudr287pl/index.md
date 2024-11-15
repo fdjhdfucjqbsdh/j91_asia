@@ -3,9 +3,9 @@ author: j91
 title: MUDR-287 A Sexy Schoolgirl In A School Uniform Is So Full Of Sexual Desire That She Sweats And Devours A Man In An Insatiable Sexual Encounter. Ito Akana
 
 url: /v/mudr287pl
-date: 0000-11-15T01:10:00Z
+date: 2024-11-15T01:10:00Z
 image: "mudr287pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Creampie, 3P, 4P, Solowork, Beautiful Girl, Sweat	]
+tags: [Censored, Sailor Suit, Creampie, 3P, 4P, Solowork, Beautiful Girl, Sweat	]
 maker: [Muku]
 actress: [ Akana Ito ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akana Ito ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lWRd7gBpK0tZw9">
     <a href="javascript:;">
         <img src="/v/mudr287pl/mudr287pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr287pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akana Ito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr287pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akana Ito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr287pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
