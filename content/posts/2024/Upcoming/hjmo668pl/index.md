@@ -3,9 +3,9 @@ author: j91
 title: HJMO-668 A Sticky Aphrodisiac Lotion Massage Experience! Sticky Kneading Of The Breasts And Nipples Of A Tiny Bikini-clad College Girl! If You Continue To Tease Her, Will You End Up With Raw Creampie Sex?
 
 url: /v/hjmo668pl
-date: 0000-11-15T01:08:00Z
+date: 2024-11-15T01:08:00Z
 image: "hjmo668pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Massage, Swimsuit, Lotion	]
+tags: [Censored, Creampie, Big Tits, Massage, Swimsuit, Lotion	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ak46jlyxmBhx8mK">
     <a href="javascript:;">
         <img src="/v/hjmo668pl/hjmo668pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo668pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo668pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo668pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

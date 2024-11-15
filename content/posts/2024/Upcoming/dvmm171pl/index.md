@@ -3,9 +3,9 @@ author: j91
 title: DVMM-171 Instant Sex With A Fair-skinned Housewife With A Big Ass! The Married Woman Who Was Addicted To My Big Dick Came Over The Next Day Without Permission, So I Creampied Her Many Times Until She Was Satisfied 36 Kasumi Tsukino
 
 url: /v/dvmm171pl
-date: 0000-11-15T01:07:00Z
+date: 2024-11-15T01:07:00Z
 image: "dvmm171pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Butt, Impromptu Sex	]
+tags: [Censored, Creampie, Solowork, Big Tits, Butt, Impromptu Sex	]
 maker: [Deeps]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gVxqVJAwa1CqjDB">
     <a href="javascript:;">
         <img src="/v/dvmm171pl/dvmm171pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm171pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm171pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm171pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: HJMO-666 Micro Bikini Fixed Vibrator Treasure Hunt. A Powerful Vibrator Falls Out Of Your Private Parts. Search For Hidden Treasure With A Powerful Vibrator In Your Pussy And Win 1 Million Yen! If You Open The Fake Treasure Chest, You'll Get An Erotic Punishment Game! A Quick And Raw Creampie Crisis! 6
 
 url: /v/hjmo666pl
-date: 0000-11-15T01:08:00Z
+date: 2024-11-15T01:08:00Z
 image: "hjmo666pl.jpg"
-tags: [Upcoming releases, Creampie, Vibe, Big Tits, Squirting, Swimsuit	]
+tags: [Censored, Creampie, Vibe, Big Tits, Squirting, Swimsuit	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="M6BQW7M0xXFma9M">
     <a href="javascript:;">
         <img src="/v/hjmo666pl/hjmo666pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo666pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo666pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo666pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

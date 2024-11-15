@@ -3,9 +3,9 @@ author: j91
 title: HJMO-665 A Swimsuit Gal And A Regular Big-dick Man Meet At The Beach In Shonan And Try Out A "sumata Oil Massage" In A Matching Car For The First Time! Will The Strangers End Up Getting So Excited That They End Up Cumming Inside Each Other?! 7
 
 url: /v/hjmo665pl
-date: 0000-11-15T01:08:00Z
+date: 2024-11-15T01:08:00Z
 image: "hjmo665pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Humiliation, Massage, 4HR+, Swimsuit	]
+tags: [Censored, Blow, Creampie, Humiliation, Massage, 4HR+, Swimsuit	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gdwPDQOqm8I9V4">
     <a href="javascript:;">
         <img src="/v/hjmo665pl/hjmo665pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo665pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo665pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo665pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
