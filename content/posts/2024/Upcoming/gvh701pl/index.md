@@ -3,9 +3,9 @@ author: j91
 title: GVH-701 "Mom Is My Personal Lingerie Mom..." ~A Mother Who Is Addicted To Rejuvenating Creampie Sex With Her Lingerie-loving Son With A Big Dick~ Rieko Hiraoka
 
 url: /v/gvh701pl
-date: 0000-11-16T01:55:00Z
+date: 2024-11-16T01:55:00Z
 image: "gvh701pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Lingerie,Incest,Mother,Huge Cock	]
+tags: [Censored, Creampie,Solowork,Lingerie,Incest,Mother,Huge Cock	]
 maker: [ Glory Quest  ]
 actress: [ Hiraoka Rieko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hiraoka Rieko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qjPLJRp7JYhLx6">
     <a href="javascript:;">
         <img src="/v/gvh701pl/gvh701pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh701pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hiraoka Rieko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh701pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hiraoka Rieko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh701pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

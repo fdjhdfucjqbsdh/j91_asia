@@ -3,9 +3,9 @@ author: j91
 title: BBTU-092 Paisha! Big Tits Cumshot Rin Hasumi
 
 url: /v/bbtu092pl
-date: 0000-11-16T01:45:00Z
+date: 2024-11-16T01:45:00Z
 image: "bbtu092pl.jpg"
-tags: [Upcoming releases, Creampie, Restraint, Solowork, Titty Fuck, Busty Fetish, Lotion	]
+tags: [Censored, Creampie, Restraint, Solowork, Titty Fuck, Busty Fetish, Lotion	]
 maker: [ Dogma  ]
 actress: [ Hasumi Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hasumi Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wrYvard2jGiJ9MX">
     <a href="javascript:;">
         <img src="/v/bbtu092pl/bbtu092pl.jpg" width="WIDTH" height="HEIGHT" alt="bbtu092pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hasumi Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbtu092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hasumi Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbtu092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

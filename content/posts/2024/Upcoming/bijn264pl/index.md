@@ -3,9 +3,9 @@ author: j91
 title: BIJN-264 THE Documentary, Orgasmic Sex With Instincts Barely Exposed, A Plump, Super Mature Woman Wants A Dick And Goes Wild Covered In Semen Natsuko Kayama
 
 url: /v/bijn264pl
-date: 0000-11-16T01:20:00Z
+date: 2024-11-16T01:20:00Z
 image: "bijn264pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Mature Woman, Promiscuity, BBW	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Mature Woman, Promiscuity, BBW	]
 maker: [ Bijin Majo  ]
 actress: [ Kayama Natsuko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kayama Natsuko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QwgDrv6o68FRZW">
     <a href="javascript:;">
         <img src="/v/bijn264pl/bijn264pl.jpg" width="WIDTH" height="HEIGHT" alt="bijn264pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kayama Natsuko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bijn264pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kayama Natsuko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bijn264pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

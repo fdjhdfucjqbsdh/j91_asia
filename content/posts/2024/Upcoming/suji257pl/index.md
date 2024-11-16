@@ -3,9 +3,9 @@ author: j91
 title: SUJI-257 If Only I Hadn't Believed In That Man Back Then... The Adolescence Of These Sailor-suited Girls Would Have Been Ruined.
 
 url: /v/suji257pl
-date: 0000-11-16T01:45:00Z
+date: 2024-11-16T01:45:00Z
 image: "suji257pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Creampie, Beautiful Girl, Shaved, School Uniform	]
+tags: [Censored, Sailor Suit, Creampie, Beautiful Girl, Shaved, School Uniform	]
 maker: [ Kan Ran Mono  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9Olyqwrmj9Ia2dy">
     <a href="javascript:;">
         <img src="/v/suji257pl/suji257pl.jpg" width="WIDTH" height="HEIGHT" alt="suji257pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji257pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji257pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

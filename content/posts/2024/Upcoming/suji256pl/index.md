@@ -3,9 +3,9 @@ author: j91
 title: SUJI-256 "Big Brother! I Can See You Even If You're Hiding! Come In!" When I Was Secretly Peeking At My Sister While She Was Taking A Bath, I Noticed Her Erection! Incestuous Brother-sister Bath
 
 url: /v/suji256pl
-date: 0000-11-16T01:45:00Z
+date: 2024-11-16T01:45:00Z
 image: "suji256pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Incest, Sister, Bath	]
+tags: [Censored, Creampie, Beautiful Girl, Incest, Sister, Bath	]
 maker: [ Kan Ran Mono  ]
 actress: [ Kashiwagi Konatsu, Yura Kana, Iori Hinano ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu, Yura Kana, Iori Hinano ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="g0JaPW20l9Uq6rG">
     <a href="javascript:;">
         <img src="/v/suji256pl/suji256pl.jpg" width="WIDTH" height="HEIGHT" alt="suji256pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Konatsu, Yura Kana, Iori Hinano ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji256pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Konatsu, Yura Kana, Iori Hinano ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji256pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
