@@ -3,9 +3,9 @@ author: j91
 title: PAP-249 What! Is She Really In Her 40s? She Has Amazing Looks And Huge Boobs! She's Addicted To Sex With Japanese Men! Beautiful Mature Women From Around The World!
 
 url: /v/pap249pl
-date: 0000-11-16T01:00:00Z
+date: 2024-11-16T01:00:00Z
 image: "pap249pl.jpg"
-tags: [Upcoming releases, Big Tits, Titty Fuck, Nampa, 4HR+, Mature Woman, Oversea Import	]
+tags: [Censored, Big Tits, Titty Fuck, Nampa, 4HR+, Mature Woman, Oversea Import	]
 maker: [ Ruby  ]
 actress: [ Chiara Road, Kathy Haven, Melina May, Kayla Green ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chiara Road, Kathy Haven, Melina May, Kayla Green ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Bvb6Pmxmyrhyo66">
     <a href="javascript:;">
         <img src="/v/pap249pl/pap249pl.jpg" width="WIDTH" height="HEIGHT" alt="pap249pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chiara Road, Kathy Haven, Melina May, Kayla Green ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pap249pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chiara Road, Kathy Haven, Melina May, Kayla Green ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pap249pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

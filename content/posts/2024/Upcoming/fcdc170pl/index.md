@@ -3,9 +3,9 @@ author: j91
 title: FCDC-170 Bukkake Big Tits Big Ass Secretary Seduces Employees With Her Nipples Hard (FCDC-170)
 
 url: /v/fcdc170pl
-date: 0000-11-16T01:45:00Z
+date: 2024-11-16T01:45:00Z
 image: "fcdc170pl.jpg"
-tags: [Upcoming releases, OL, Pantyhose, Busty Fetish, Butt, BBW	]
+tags: [Censored, OL, Pantyhose, Busty Fetish, Butt, BBW	]
 maker: [ Weekender  ]
 actress: [ Minami Amane ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minami Amane ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wP7lMeG8vMuGvM">
     <a href="javascript:;">
         <img src="/v/fcdc170pl/fcdc170pl.jpg" width="WIDTH" height="HEIGHT" alt="fcdc170pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minami Amane ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fcdc170pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minami Amane ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fcdc170pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

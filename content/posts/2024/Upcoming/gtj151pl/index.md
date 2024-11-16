@@ -1,21 +1,21 @@
 ---
 author: j91
-title: PKPD-337 My Sexual Propensity Document **002 Amo Kano
+title: GTJ-151 Bondage Rhapsody Aya Shiomi (GTJ-151)
 
-url: /v/pkpd337pl
-date: 2024-11-16T01:20:00Z
-image: "pkpd337pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, POV, Breasts, Documentary	]
-maker: [ Pakopakodan To Yukaina Nakamatachi  ]
-actress: [ Kano Amo ]
+url: /v/gtj151pl
+date: 2024-11-16T01:30:00Z
+image: "gtj151pl.jpg"
+tags: [Censored, SM, Solowork, Squirting, Shibari, Kimono, Mourning	]
+maker: [Dogma  ]
+actress: [Shiomi Akari ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="2PKb2Y88OdCAJQ">
+<div class="video" data-videoid="gRwvRR2rxAtBbx">
     <a href="javascript:;">
-        <img src="/v/pkpd337pl/pkpd337pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd337pl.mp4" loading="lazy">
+        <img src="/v/gtj151pl/gtj151pl.jpg" width="WIDTH" height="HEIGHT" alt="gtj151pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kano Amo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/pkpd337pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gtj151pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kano Amo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/pkpd337pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gtj151pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
