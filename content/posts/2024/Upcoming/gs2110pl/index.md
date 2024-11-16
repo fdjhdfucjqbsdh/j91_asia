@@ -1,21 +1,21 @@
 ---
 author: j91
-title: ERDM-132 Hidden Camera Footage Of A Completely Private Men's Beauty Salon! A Sneak Peek Into A Married Woman's Radical Secret Options! 4 Hours
+title: GS-2110 That's Right, Let's Go On A Trip With Someone Else's Wife. VOL.03
 
-url: /v/erdm132pl
+url: /v/gs2110pl
 date: 2024-11-16T01:00:00Z
-image: "erdm132pl.jpg"
-tags: [Censored, Amateur, Married Woman, Planning, Prostitutes, Bride, Young Wife, 4HR+	]
-maker: [ Ero Daruma - Emaniel]
+image: "gs2110pl.jpg"
+tags: [Censored, Best, Omnibus, Married Woman, Affair, 4HR+	]
+maker: [Go-go-zu  ]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="wdRLMb8VbaiGYx">
+<div class="video" data-videoid="690RgZk9XwC9M9Z">
     <a href="javascript:;">
-        <img src="/v/erdm132pl/erdm132pl.jpg" width="WIDTH" height="HEIGHT" alt="erdm132pl.mp4" loading="lazy">
+        <img src="/v/gs2110pl/gs2110pl.jpg" width="WIDTH" height="HEIGHT" alt="gs2110pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/erdm132pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gs2110pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/erdm132pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gs2110pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
