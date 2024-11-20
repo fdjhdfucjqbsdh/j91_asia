@@ -3,9 +3,9 @@ author: j91
 title: JUKF-124 A Busty Female Manager Working At A Certain AV Agency Provides Sexual Entertainment To Her Clients. "If I Do As The President Says, Will You Really Give Me The Job?" Kasumi Sena Kasumi
 
 url: /v/jukf124pl
-date: 0000-11-23T01:20:00Z
+date: 2024-11-20T01:23:00Z
 image: "jukf124pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Masturbation, Humiliation, Big Tits, Electric Massager, Various Professions	]
+tags: [Censored, Creampie, Solowork, Masturbation, Humiliation, Big Tits, Electric Massager, Various Professions	]
 maker: [ Jump  ]
 actress: [ Kasumi Sena]
 ---
@@ -13,13 +13,13 @@ actress: [ Kasumi Sena]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="elW6g3y3AVfwmA">
     <a href="javascript:;">
         <img src="/v/jukf124pl/jukf124pl.jpg" width="WIDTH" height="HEIGHT" alt="jukf124pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kasumi Sena]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jukf124pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kasumi Sena]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jukf124pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
