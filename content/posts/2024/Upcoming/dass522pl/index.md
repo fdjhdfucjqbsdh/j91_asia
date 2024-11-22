@@ -3,9 +3,9 @@ author: j91
 title: DASS-522 A Voluptuous High Tower From Above The Clouds. A Shower Of Sweet, Teasing Motherhood That Drives Your Erect Penis Crazy. An Empire State Goddess Who Invites You To A Heavenly Ejaculation. Serina Usui
 
 url: /v/dass522pl
-date: 0000-11-22T01:40:00Z
+date: 2024-11-22T01:40:00Z
 image: "dass522pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Slut, Footjob, Tall, Leg Fetish	]
+tags: [Censored, Solowork, Big Tits, Slut, Footjob, Tall, Leg Fetish	]
 maker: [Das !]
 actress: [ Usui Serina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Usui Serina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1jVkP3AagjH0MQ">
     <a href="javascript:;">
         <img src="/v/dass522pl/dass522pl.jpg" width="WIDTH" height="HEIGHT" alt="dass522pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Usui Serina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass522pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Usui Serina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass522pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

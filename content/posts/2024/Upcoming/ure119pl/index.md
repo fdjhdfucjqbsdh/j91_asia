@@ -3,9 +3,9 @@ author: j91
 title: URE-119 Over 100,000 Downloads!! Breaking The Limits!! Five Immoral Sex Scenes!! Original, Bad End Dreamer Please Consider Cuckolding. The Pleasure Drama Of A Married Woman Addicted To An Affair With Her Husband's Approval Is All Live-action Right Up To The Final Chapter!! Fumino Satsuki
 
 url: /v/ure119pl
-date: 0000-11-22T01:54:00Z
+date: 2024-11-22T01:54:00Z
 image: "ure119pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Affair, Mature Woman, Cuckold, Original Collaboration	]
+tags: [Censored, Solowork, Married Woman, Affair, Mature Woman, Cuckold, Original Collaboration	]
 maker: [Madonna]
 actress: [ Satsuki Fumino ]
 ---
@@ -13,13 +13,13 @@ actress: [ Satsuki Fumino ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6KYe90lzzmulo1">
     <a href="javascript:;">
         <img src="/v/ure119pl/ure119pl.jpg" width="WIDTH" height="HEIGHT" alt="ure119pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Satsuki Fumino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ure119pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Satsuki Fumino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ure119pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

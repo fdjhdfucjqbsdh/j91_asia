@@ -3,9 +3,9 @@ author: j91
 title: HMN-639 Slutty Hypnotist Clinic, A Beautiful Female Doctor Who Will Make Your Head Spin With Dirty Talk And A Deep Vaginal Riding Position To Induce Creampies. A Special ED Treatment Just For You, 15 Ejaculations, Alice Nanase
 
 url: /v/hmn639pl
-date: 0000-11-22T01:45:00Z
+date: 2024-11-22T01:45:00Z
 image: "hmn639pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Cowgirl, Female Doctor, Slut	]
+tags: [Censored, Creampie, Solowork, Big Tits, Cowgirl, Female Doctor, Slut	]
 maker: [Honnaka]
 actress: [ Nanase Arisu]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Arisu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="eg1q79emQ8CJW3">
     <a href="javascript:;">
         <img src="/v/hmn639pl/hmn639pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn639pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn639pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Arisu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn639pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

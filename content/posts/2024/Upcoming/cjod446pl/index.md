@@ -3,9 +3,9 @@ author: j91
 title: CJOD-446 After A Month Of Abstinence, Torture, And Devilish Ejaculation Control - A Lustful Succubus Slut's 24-hour Squirting Orgasm, Sato Nonoka
 
 url: /v/cjod446pl
-date: 0000-11-22T01:25:00Z
+date: 2024-11-22T01:25:00Z
 image: "cjod446pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Dirty Words, Cowgirl, Slut, Male Squirting	]
+tags: [Censored, Creampie, Solowork, Dirty Words, Cowgirl, Slut, Male Squirting	]
 maker: [Bi]
 actress: [ Katou Momoka]
 ---
@@ -13,13 +13,13 @@ actress: [ Katou Momoka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JKGoJOLe6KTjpwL">
     <a href="javascript:;">
         <img src="/v/cjod446pl/cjod446pl.jpg" width="WIDTH" height="HEIGHT" alt="cjod446pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Katou Momoka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjod446pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Katou Momoka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjod446pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

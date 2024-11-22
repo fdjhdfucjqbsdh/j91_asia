@@ -3,9 +3,9 @@ author: j91
 title: JUQ-984 A Thorough Look At The Ultimate Private Parts Of The Body That She Has Never Shown To Her Husband, Her Anus. Shameful Asshole Exposed And Impregnated Sex Rio Kuriyama
 
 url: /v/juq984pl
-date: 0000-11-22T01:50:00Z
+date: 2024-11-22T01:50:00Z
 image: "juq984pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Married Woman, Breasts, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Humiliation, Married Woman, Breasts, Mature Woman	]
 maker: [Madonna]
 actress: [ Kuriyama Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuriyama Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JA4MorrPy9sjdwl">
     <a href="javascript:;">
         <img src="/v/juq984pl/juq984pl.jpg" width="WIDTH" height="HEIGHT" alt="juq984pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuriyama Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq984pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuriyama Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq984pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

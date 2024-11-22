@@ -3,9 +3,9 @@ author: j91
 title: JUQ-959 Personnel Transfer NTR, I'm An Elite, But An Elite From The Head Office Came And Took My Status, Honor, And Even My Wife... Ayami Ikeda
 
 url: /v/juq959pl
-date: 0000-11-22T01:50:00Z
+date: 2024-11-22T01:50:00Z
 image: "juq959pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, OL, Creampie, Solowork, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Ikeda Ayami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ikeda Ayami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4vzpzLJkxAtGwy">
     <a href="javascript:;">
         <img src="/v/juq959pl/juq959pl.jpg" width="WIDTH" height="HEIGHT" alt="juq959pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ikeda Ayami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq959pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ikeda Ayami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq959pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

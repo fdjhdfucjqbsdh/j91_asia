@@ -3,9 +3,9 @@ author: j91
 title: DASS-547 No Script, No Direction, No Acting. Just Go With Your Instincts And Surrender To Pleasure In This 1VS1 Scene With Kana Hiiragi.
 
 url: /v/dass547pl
-date: 0000-11-22T01:05:00Z
+date: 2024-11-22T01:05:00Z
 image: "dass547pl.jpg"
-tags: [Upcoming releases, Transsexual, Creampie, Solowork, Huge Cock	]
+tags: [Censored, Transsexual, Creampie, Solowork, Huge Cock	]
 maker: [Das !]
 actress: [ Hiiragi Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hiiragi Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="komr740m4ZSrAL">
     <a href="javascript:;">
         <img src="/v/dass547pl/dass547pl.jpg" width="WIDTH" height="HEIGHT" alt="dass547pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hiiragi Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass547pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hiiragi Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass547pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

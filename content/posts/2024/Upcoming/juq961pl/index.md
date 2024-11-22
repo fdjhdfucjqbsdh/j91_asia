@@ -3,9 +3,9 @@ author: j91
 title: JUQ-961 I Made My Wife Stand On A Street Corner For An Hour And She Was A Streetwalker. Rei Kimura
 
 url: /v/juq961pl
-date: 0000-11-22T01:50:00Z
+date: 2024-11-22T01:50:00Z
 image: "juq961pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Kimura Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kimura Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="yj46MwKgyvT1r4z">
     <a href="javascript:;">
         <img src="/v/juq961pl/juq961pl.jpg" width="WIDTH" height="HEIGHT" alt="juq961pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq961pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq961pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

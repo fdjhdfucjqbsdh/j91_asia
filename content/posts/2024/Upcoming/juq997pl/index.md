@@ -3,9 +3,9 @@ author: j91
 title: JUQ-997 Forced To Deep Throat And Won't Let Go Until She Cums, The Nastiest Stepbrother's Mouth-to-mouth Urinal. Ai Mukai
 
 url: /v/juq997pl
-date: 0000-11-22T01:50:00Z
+date: 2024-11-22T01:50:00Z
 image: "juq997pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Squirting, Mature Woman, Deep Throating	]
+tags: [Censored, Creampie, Solowork, Married Woman, Squirting, Mature Woman, Deep Throating	]
 maker: [Madonna]
 actress: [ Mukai Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mukai Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zwQ68QeLA4tYA8v">
     <a href="javascript:;">
         <img src="/v/juq997pl/juq997pl.jpg" width="WIDTH" height="HEIGHT" alt="juq997pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mukai Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq997pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mukai Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq997pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
