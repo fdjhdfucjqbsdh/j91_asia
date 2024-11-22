@@ -3,9 +3,9 @@ author: j91
 title: ROYD-208 Aphrodisiac-addicted Schoolgirl Sleeps And Is Raped. A Medical Record Of A Girl Who Is Toyed With By An Unscrupulous Doctor And Repeatedly Creampied In Her Convulsing Vagina Until She Breaks Down. Hikaru Minazuki
 
 url: /v/royd208pl
-date: 0000-11-22T01:35:00Z
+date: 2024-11-22T01:35:00Z
 image: "royd208pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, School Girls, Squirting, Tits, Drug	]
+tags: [Censored, 3P, 4P, Solowork, School Girls, Squirting, Tits, Drug	]
 maker: [ROYAL]
 actress: [ Minasuki Hikaru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Minasuki Hikaru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wGmxbWYx28FJKpl">
     <a href="javascript:;">
         <img src="/v/royd208pl/royd208pl.jpg" width="WIDTH" height="HEIGHT" alt="royd208pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Minasuki Hikaru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd208pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Minasuki Hikaru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd208pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

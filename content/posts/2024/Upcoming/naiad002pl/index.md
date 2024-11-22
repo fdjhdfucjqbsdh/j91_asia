@@ -3,9 +3,9 @@ author: j91
 title: NAIAD-002 Newcomer Hairy Idol AI An Overwhelmingly Cute 18-year-old Who Is So Dedicated To Badminton That She Even Made It To The National Athletic Meet. Her First Time Having Sex And Cumming Like Crazy Makes Her AV Debut.
 
 url: /v/naiad002pl
-date: 0000-11-22T01:44:00Z
+date: 2024-11-22T01:44:00Z
 image: "naiad002pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Debut Production, Beautiful Girl, Cowgirl, Back	]
+tags: [Censored, Blow, Solowork, Debut Production, Beautiful Girl, Cowgirl, Back	]
 maker: [Das !]
 actress: [ Honmou Kirari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Honmou Kirari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="prgZJeDd72urgmY">
     <a href="javascript:;">
         <img src="/v/naiad002pl/naiad002pl.jpg" width="WIDTH" height="HEIGHT" alt="naiad002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Honmou Kirari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/naiad002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Honmou Kirari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/naiad002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
