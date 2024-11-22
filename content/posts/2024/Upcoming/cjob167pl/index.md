@@ -3,9 +3,9 @@ author: j91
 title: CJOB-167 Once You Know It, You'll Love The Pleasure. The No.1 Erotic Play With A Slutty Footjob That Made Me Cum Many Times. My Best
 
 url: /v/cjob167pl
-date: 0000-11-22T01:00:00Z
+date: 2024-11-22T01:00:00Z
 image: "cjob167pl.jpg"
-tags: [Upcoming releases, Older Sister, Best, Omnibus, Beautiful Girl, Slut, 4HR+, Footjob	]
+tags: [Censored, Older Sister, Best, Omnibus, Beautiful Girl, Slut, 4HR+, Footjob	]
 maker: [Bi]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Qd78vzzAO2u0Dl2">
     <a href="javascript:;">
         <img src="/v/cjob167pl/cjob167pl.jpg" width="WIDTH" height="HEIGHT" alt="cjob167pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjob167pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjob167pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
