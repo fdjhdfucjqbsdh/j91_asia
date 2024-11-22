@@ -1,21 +1,21 @@
 ---
 author: j91
-title: OAE-270 Naked God Gojo Koi
+title: FSDSS-931 Saturday Morning I Woke Up At My Male Friend’s House. We Had Lunch, Had Sex, Went To A Convenience Store At Night, Had Sex, And Slept Together Again On Sunday Night. Ami Tokita
 
-url: /v/oae270pl
-date: 2024-11-22T01:08:00Z
-image: "oae270pl.jpg"
-tags: [Censored, Solowork, Image Video]
-maker: [Air Control]
-actress: [ Gojou Ren ]
+url: /v/fsdss931
+date: 2024-11-22T16:16:00Z
+image: "fsdss931.jpg"
+tags: [Censored, Beautiful Girl, Drama, Slender, Solowork]
+maker: [FALENO]
+actress: [Tokita Ami]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="xgzVRBdWKkFvqr">
+<div class="video" data-videoid="gVbWDGz6z1UGY4">
     <a href="javascript:;">
-        <img src="/v/oae270pl/oae270pl.jpg" width="WIDTH" height="HEIGHT" alt="oae270pl.mp4" loading="lazy">
+        <img src="/v/fsdss931/fsdss931.jpg" width="WIDTH" height="HEIGHT" alt="fsdss931.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Gojou Ren ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/oae270pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fsdss931/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Gojou Ren ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/oae270pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fsdss931/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
