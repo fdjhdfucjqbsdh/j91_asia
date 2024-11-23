@@ -3,9 +3,9 @@ author: j91
 title: NSFS-336 A Wife Who Was Used As A Tool For Sexual Desire From Morning Till Night. A Married Couple Was Taken Hostage. VOL.4
 
 url: /v/nsfs336pl
-date: 0000-11-23T01:00:00Z
+date: 2024-11-23T01:00:00Z
 image: "nsfs336pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Big Tits, Married Woman, Drama	]
+tags: [Censored, Best, Omnibus, Big Tits, Married Woman, Drama	]
 maker: [ Nagae Style  ]
 actress: [ Hachino Tsubasa, Asakura Kokona ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hachino Tsubasa, Asakura Kokona ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="1W0vBgr7MlCeOaV">
     <a href="javascript:;">
         <img src="/v/nsfs336pl/nsfs336pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs336pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hachino Tsubasa, Asakura Kokona ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs336pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hachino Tsubasa, Asakura Kokona ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs336pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

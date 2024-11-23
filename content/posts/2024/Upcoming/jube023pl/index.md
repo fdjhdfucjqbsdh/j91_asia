@@ -3,9 +3,9 @@ author: j91
 title: JUBE-023 | Uraaka Girls' True Thoughts Tweeted By Kiyomi Reno
 
 url: /v/jube023pl
-date: 0000-11-23T01:20:00Z
+date: 2024-11-23T01:20:00Z
 image: "jube023pl.jpg"
-tags: [Upcoming releases, OL, Blow, Handjob, Creampie, Solowork, Breasts	]
+tags: [Censored, OL, Blow, Handjob, Creampie, Solowork, Breasts	]
 maker: [ JUMP BEYOND  ]
 actress: [ Kiyomi Reno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kiyomi Reno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zK4JA31qvpfYBk1">
     <a href="javascript:;">
         <img src="/v/jube023pl/jube023pl.jpg" width="WIDTH" height="HEIGHT" alt="jube023pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kiyomi Reno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jube023pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kiyomi Reno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jube023pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

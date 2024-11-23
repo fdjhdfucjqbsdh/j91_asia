@@ -3,9 +3,9 @@ author: j91
 title: AGAV-123 A Scornful Glare And A Facial. Taking Advantage Of My Weakness, I Turned My Brother's Wife Into A Submissive Sex Toy And Now My Purpose In Life As A NEET Is To Splash My Thick Semen On Her Face. Yuri Adachi
 
 url: /v/agav123pl
-date: 0000-11-23T01:15:00Z
+date: 2024-11-23T01:15:00Z
 image: "agav123pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Married Woman, Facials, Squirting, Cuckold	]
+tags: [Censored, Blow, Solowork, Married Woman, Facials, Squirting, Cuckold	]
 maker: [ Sex Agent  ]
 actress: [ Adachi Yuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Adachi Yuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Ke6mOqXaorhJKP">
     <a href="javascript:;">
         <img src="/v/agav123pl/agav123pl.jpg" width="WIDTH" height="HEIGHT" alt="agav123pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Adachi Yuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/agav123pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Adachi Yuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/agav123pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: RMER-043 Like A Beast, A Woman With A Full Body Japanese Tattoo, Shizuku Yuki
 
 url: /v/rmer043pl
-date: 0000-11-23T01:20:00Z
+date: 2024-11-23T01:20:00Z
 image: "rmer043pl.jpg"
-tags: [Upcoming releases, Solowork, Nasty, Hardcore, Documentary, Close Up, Kiss]
+tags: [Censored, Solowork, Nasty, Hardcore, Documentary, Close Up, Kiss]
 maker: [ Mare (Rare) - Mousouzoku  ]
 actress: [ Yuiki Shizuku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuiki Shizuku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OXp7drDm2mSZB1b">
     <a href="javascript:;">
         <img src="/v/rmer043pl/rmer043pl.jpg" width="WIDTH" height="HEIGHT" alt="rmer043pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuiki Shizuku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rmer043pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuiki Shizuku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rmer043pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
