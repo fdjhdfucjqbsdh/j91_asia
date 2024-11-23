@@ -3,9 +3,9 @@ author: j91
 title: MKON-107 Love The Pubic Hair Too... Kasumi Tsukino, A JK With A Neat Face And Thick Hair All The Way Down To Her Ass
 
 url: /v/mkon107pl
-date: 0000-11-23T01:50:00Z
+date: 2024-11-23T01:50:00Z
 image: "mkon107pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Other Fetish, School Uniform	]
+tags: [Censored, Creampie, Solowork, School Girls, Other Fetish, School Uniform	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WGwkAD9bX3hW2q">
     <a href="javascript:;">
         <img src="/v/mkon107pl/mkon107pl.jpg" width="WIDTH" height="HEIGHT" alt="mkon107pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkon107pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkon107pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
