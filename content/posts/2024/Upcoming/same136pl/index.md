@@ -3,9 +3,9 @@ author: j91
 title: SAME-136 Being Fucked Like A Bitch In Front Of My Daughter Hinata Tachibana Yukari Nono
 
 url: /v/same136pl
-date: 0000-11-29T01:40:00Z
+date: 2024-11-29T01:40:00Z
 image: "same136pl.jpg"
-tags: [Upcoming releases, Abuse, Mother, Drama, Adopted Daughter	]
+tags: [Censored, Abuse, Mother, Drama, Adopted Daughter	]
 maker: [Attackers]
 actress: [ Akari Nonoka, Kitsunai Hinata ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Nonoka, Kitsunai Hinata ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="k9XQzr461WtOVw4">
     <a href="javascript:;">
         <img src="/v/same136pl/same136pl.jpg" width="WIDTH" height="HEIGHT" alt="same136pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Nonoka, Kitsunai Hinata ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/same136pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Nonoka, Kitsunai Hinata ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/same136pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

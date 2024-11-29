@@ -3,9 +3,9 @@ author: j91
 title: CAWD-772 Her Special Skills Are Throat Machio (deep Throat Blowjob) And Pounding Cowgirl Position. Her Weapons Are Her Soft, White Skin And G-cup Breasts. "Can I Become An AV Actress?" Innocent Baby-faced Beautiful Girl Makes Her AV Debut With Sparkling Eyes. Miyase Ruka
 
 url: /v/cawd772pl
-date: 0000-11-29T01:45:00Z
+date: 2024-11-29T01:45:00Z
 image: "cawd772pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Debut Production, Cowgirl, Deep Throating, Kiss	]
+tags: [Censored, Solowork, Big Tits, Debut Production, Cowgirl, Deep Throating, Kiss	]
 maker: [Kawaii]
 actress: [ Miyase Ruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyase Ruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OdO0RGDYJoUZpOY">
     <a href="javascript:;">
         <img src="/v/cawd772pl/cawd772pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd772pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyase Ruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd772pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyase Ruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd772pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

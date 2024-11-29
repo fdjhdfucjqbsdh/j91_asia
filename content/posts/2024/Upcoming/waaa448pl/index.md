@@ -3,9 +3,9 @@ author: j91
 title: WAAA-448 "I've Already Cum!" She Cums Inside Me Again And Again! Nanaka Kosaka
 
 url: /v/waaa448pl
-date: 0000-11-29T01:50:00Z
+date: 2024-11-29T01:50:00Z
 image: "waaa448pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Nasty, Hardcore, Squirting, Slender, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, Nasty, Hardcore, Squirting, Slender, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Kosaka Nanaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kosaka Nanaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qWdkj939Rlsz8Yx">
     <a href="javascript:;">
         <img src="/v/waaa448pl/waaa448pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa448pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa448pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa448pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

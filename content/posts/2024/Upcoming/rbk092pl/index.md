@@ -3,9 +3,9 @@ author: j91
 title: RBK-092 First Bondage Anal Enema, A Uniform Figure Girl's Nightmare, Shion Chibana
 
 url: /v/rbk092pl
-date: 0000-11-29T01:40:00Z
+date: 2024-11-29T01:40:00Z
 image: "rbk092pl.jpg"
-tags: [Upcoming releases, Solowork, Enema, Uniform, Shibari, Drama	]
+tags: [Censored, Solowork, Enema, Uniform, Shibari, Drama	]
 maker: [Attackers]
 actress: [ Chika Shion ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chika Shion ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0zmB0ZALd3IbwbP">
     <a href="javascript:;">
         <img src="/v/rbk092pl/rbk092pl.jpg" width="WIDTH" height="HEIGHT" alt="rbk092pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chika Shion ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/rbk092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chika Shion ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/rbk092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

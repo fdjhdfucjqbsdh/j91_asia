@@ -3,9 +3,9 @@ author: j91
 title: ADN-641 Shared Room With Married Secretary On Business Trip
 
 url: /v/adn641pl
-date: 0000-11-29T01:40:00Z
+date: 2024-11-29T01:40:00Z
 image: "adn641pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Big Tits, Affair, Secretary, Cuckold	]
+tags: [Censored, Solowork, Pantyhose, Big Tits, Affair, Secretary, Cuckold	]
 maker: [Attackers]
 actress: [ Shiromine Miu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiromine Miu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mQRWoxZRrqFbjv6">
     <a href="javascript:;">
         <img src="/v/adn641pl/adn641pl.jpg" width="WIDTH" height="HEIGHT" alt="adn641pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiromine Miu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn641pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiromine Miu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn641pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
