@@ -3,9 +3,9 @@ author: j91
 title: MIDV-969 Teacher... Let's Have An Affair Just For Today! While Living In A Hotel With My Student, We Ended Up Sharing A Room... She Didn't Care That My Wife Was There, But She Straddled Me And Kept Shaking Her Hips In Sweat Until The Morning Came. Tono Karin
 
 url: /v/midv969pl
-date: 0000-11-29T01:55:00Z
+date: 2024-11-29T01:55:00Z
 image: "midv969pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Cowgirl, Slut, Slender, Cuckold	]
+tags: [Censored, Solowork, School Girls, Cowgirl, Slut, Slender, Cuckold	]
 maker: [MOODYZ]
 actress: [ Touno Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Touno Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pjYxxa4kzmir6wb">
     <a href="javascript:;">
         <img src="/v/midv969pl/midv969pl.jpg" width="WIDTH" height="HEIGHT" alt="midv969pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Touno Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv969pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Touno Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv969pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

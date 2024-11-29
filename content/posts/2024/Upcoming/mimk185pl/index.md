@@ -3,9 +3,9 @@ author: j91
 title: MIMK-185 When I Released My Busty Sex Slave, I Was Milked Every Night ~The Service Duties Of A Woman Who Has Been Trained In Sexual Techniques For Years~ Original Work, Tokuseihanten. A Live-action Adaptation Of The Popular Work That Sold 55,000 Copies!
 
 url: /v/mimk185pl
-date: 0000-11-29T01:55:00Z
+date: 2024-11-29T01:55:00Z
 image: "mimk185pl.jpg"
-tags: [Upcoming releases, Big Tits, Titty Fuck, Slut, Drama, Original Collaboration	]
+tags: [Censored, Big Tits, Titty Fuck, Slut, Drama, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m1ZK42Y49AcbYkr">
     <a href="javascript:;">
         <img src="/v/mimk185pl/mimk185pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk185pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk185pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk185pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
