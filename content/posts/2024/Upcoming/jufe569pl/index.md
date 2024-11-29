@@ -3,9 +3,9 @@ author: j91
 title: JUFE-569 Weak Yen NTR, The Story Of My Wife Being Taken By A Black Tourist With A Big Dick Waka Misono
 
 url: /v/jufe569pl
-date: 0000-11-29T01:35:00Z
+date: 2024-11-29T01:35:00Z
 image: "jufe569pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Black Actor, Cuckold, Huge Cock	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Black Actor, Cuckold, Huge Cock	]
 maker: [Fitch]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VO4g1W26pRUKd9d">
     <a href="javascript:;">
         <img src="/v/jufe569pl/jufe569pl.jpg" width="WIDTH" height="HEIGHT" alt="jufe569pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jufe569pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jufe569pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

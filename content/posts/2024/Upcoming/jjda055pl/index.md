@@ -3,9 +3,9 @@ author: j91
 title: JJDA-055 My Colleague's Wife, Ayaka Tomoda
 
 url: /v/jjda055pl
-date: 0000-11-29T01:23:00Z
+date: 2024-11-29T01:23:00Z
 image: "jjda055pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Slender, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Slender, Cuckold	]
 maker: [Jukujo Daigaku- Jukujo Manji]
 actress: [ Tomoda Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p1jOAOJ3P9CWb6">
     <a href="javascript:;">
         <img src="/v/jjda055pl/jjda055pl.jpg" width="WIDTH" height="HEIGHT" alt="jjda055pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjda055pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjda055pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

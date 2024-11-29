@@ -3,9 +3,9 @@ author: j91
 title: NPJS-094 Fishing Fanatic Pick-up Artist Takes A Fishing Girl Home And Has A Chase Sex Session Where He Brings Her To A Crying Orgasm And Cums Inside Her As Much As He Wants!
 
 url: /v/npjs094pl
-date: 0000-11-29T01:09:00Z
+date: 2024-11-29T01:09:00Z
 image: "npjs094pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Big Tits, Beautiful Girl, Slender	]
+tags: [Censored, Creampie, Amateur, Big Tits, Beautiful Girl, Slender	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VmaRMWZpPKhK1Qy">
     <a href="javascript:;">
         <img src="/v/npjs094pl/npjs094pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs094pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs094pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs094pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

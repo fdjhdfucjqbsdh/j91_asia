@@ -3,9 +3,9 @@ author: j91
 title: LULU-346 A New Small-breasted Cosplayer Who Annoys Dicks With Her Unconscious Nipple Flashes, So I Continue To Harass Her Nipples Until She Cums In A Spasmodic Peeing Fit And I Repeatedly Cum Inside Her Sensitive, Prematurely Ejaculating Pussy. Monami Suzu
 
 url: /v/lulu346pl
-date: 0000-11-29T01:25:00Z
+date: 2024-11-29T01:25:00Z
 image: "lulu346pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Squirting, Tits	]
+tags: [Censored, Cosplay, Creampie, Solowork, Squirting, Tits	]
 maker: [LUNATICS]
 actress: [ Monami Suzu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Monami Suzu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RQrZKMYoJWFjoQ">
     <a href="javascript:;">
         <img src="/v/lulu346pl/lulu346pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu346pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Monami Suzu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu346pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Monami Suzu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu346pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

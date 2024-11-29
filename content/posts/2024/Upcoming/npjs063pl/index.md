@@ -3,9 +3,9 @@ author: j91
 title: NPJS-063 A Female Otaku Who Seems To Have Little Experience With Men And Frequents Akihabara (but Looks Amazing When She Takes Off Her Clothes) Is Lured To A Trial Monitor For A Female Sex Service, And Her Love For The Girls Is Used To Trick Her Into Falling In Love With Them, And Her Sex Video Is Leaked.
 
 url: /v/npjs063pl
-date: 0000-11-29T01:09:00Z
+date: 2024-11-29T01:09:00Z
 image: "npjs063pl.jpg"
-tags: [Upcoming releases, Amateur, POV, Nampa, Huge Butt, Otaku	]
+tags: [Censored, Amateur, POV, Nampa, Huge Butt, Otaku	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="g2VVekxyVZhxRJ">
     <a href="javascript:;">
         <img src="/v/npjs063pl/npjs063pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs063pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs063pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs063pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
