@@ -1,21 +1,21 @@
 ---
 author: j91
-title: COGM-079 Koguma Presents Amateur NN (Creampie) Blurry Dripping Special
+title: OLM-133 The Goddess Of Beauty Descends! This Is The Collaboration Between The Greatest Actresses In History! Maki Hojo & Yui Hatano (OLM-133)
 
-url: /v/cogm079pl
-date: 2024-11-30T01:00:00Z
-image: "cogm079pl.jpg"
-tags: [Censored, Creampie, Amateur, Best, Omnibus, 4HR+	]
-maker: [ Koguma -Mousouzoku  ]
-actress: [ ]
+url: /v/olm133pl
+date: 2024-11-30T01:16:00Z
+image: "olm133pl.jpg"
+tags: [Censored, 4HR+,AV Actress	]
+maker: [ Olympus  ]
+actress: [ Hatano Yui, Houjou Maki ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="xeyL6o2JrpSDZx">
+<div class="video" data-videoid="wV3vVjjMyZhJvGz">
     <a href="javascript:;">
-        <img src="/v/cogm079pl/cogm079pl.jpg" width="WIDTH" height="HEIGHT" alt="cogm079pl.mp4" loading="lazy">
+        <img src="/v/olm133pl/olm133pl.jpg" width="WIDTH" height="HEIGHT" alt="olm133pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/cogm079pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/olm133pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/cogm079pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/olm133pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
