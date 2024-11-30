@@ -3,9 +3,9 @@ author: j91
 title: BABD-018 Having Raw Sex On A Dangerous Day Once A Month 018 Suzu Nagano Suzu
 
 url: /v/babd018pl
-date: 0000-11-30T01:20:00Z
+date: 2024-11-30T01:20:00Z
 image: "babd018pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, POV, Beautiful Girl, Conceived	]
+tags: [Censored, Blow, Creampie, Solowork, POV, Beautiful Girl, Conceived	]
 maker: [ deep - Mousozoku  ]
 actress: [ Nagano Suzu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagano Suzu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Ld4GolrlYgTRVk4">
     <a href="javascript:;">
         <img src="/v/babd018pl/babd018pl.jpg" width="WIDTH" height="HEIGHT" alt="babd018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagano Suzu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/babd018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagano Suzu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/babd018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

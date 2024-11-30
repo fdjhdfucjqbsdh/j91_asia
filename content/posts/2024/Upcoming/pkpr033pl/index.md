@@ -3,9 +3,9 @@ author: j91
 title: PKPR-033 Lovey-dovey Documentary, A One-day Date With The G-cup Healing Goddess Hono Wakana
 
 url: /v/pkpr033pl
-date: 0000-11-30T01:20:00Z
+date: 2024-11-30T01:20:00Z
 image: "pkpr033pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Breasts, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Breasts, Huge Butt	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Wakana Hono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakana Hono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rA4gv4xww6sbrQw">
     <a href="javascript:;">
         <img src="/v/pkpr033pl/pkpr033pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpr033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakana Hono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpr033pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakana Hono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpr033pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DSD-895 Asshole Girl. Sex Night Special
 
 url: /v/dsd895pl
-date: 0000-11-30T01:20:00Z
+date: 2024-11-30T01:20:00Z
 image: "dsd895pl.jpg"
-tags: [Upcoming releases, Anal, Lesbian, Toy, Oversea Import, Huge Cock	]
+tags: [Censored, Anal, Lesbian, Toy, Oversea Import, Huge Cock	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Sina Shaw, Candy Crush, Lady Snow, Polly Petrova, Lady Milf ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sina Shaw, Candy Crush, Lady Snow, Polly Petrova, Lady Milf ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OqokR9VgYZTZM9K">
     <a href="javascript:;">
         <img src="/v/dsd895pl/dsd895pl.jpg" width="WIDTH" height="HEIGHT" alt="dsd895pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sina Shaw, Candy Crush, Lady Snow, Polly Petrova, Lady Milf ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dsd895pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sina Shaw, Candy Crush, Lady Snow, Polly Petrova, Lady Milf ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dsd895pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
