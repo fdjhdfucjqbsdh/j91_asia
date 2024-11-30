@@ -3,9 +3,9 @@ author: j91
 title: GVH-705 I Took Revenge On My Classmate's Beloved Daughter Who Used To Bully Me In My School Days By Giving Her A Blowjob. Maika Hizumi
 
 url: /v/gvh705pl
-date: 0000-11-30T01:55:00Z
+date: 2024-11-30T01:55:00Z
 image: "gvh705pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Deep Throating, Erotic Wear	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Deep Throating, Erotic Wear	]
 maker: [ Glory Quest  ]
 actress: [ Nizumi Maika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nizumi Maika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="O4ewlpd9MDcZM2D">
     <a href="javascript:;">
         <img src="/v/gvh705pl/gvh705pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh705pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nizumi Maika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh705pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nizumi Maika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh705pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

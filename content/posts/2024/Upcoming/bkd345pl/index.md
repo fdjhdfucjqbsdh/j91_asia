@@ -3,9 +3,9 @@ author: j91
 title: BKD-345 Mother-son Intercourse ~Yuyariso Onsen Road~ Kaori Yamamoto
 
 url: /v/bkd345pl
-date: 0000-11-30T01:45:00Z
+date: 2024-11-30T01:45:00Z
 image: "bkd345pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Incest, Mature Woman, Mother, Kimono, Mourning	]
+tags: [Censored, Solowork, Big Tits, Incest, Mature Woman, Mother, Kimono, Mourning	]
 maker: [ Ruby  ]
 actress: [ Yamamoto Kaori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamamoto Kaori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RqqXbe7LbeCdoBd">
     <a href="javascript:;">
         <img src="/v/bkd345pl/bkd345pl.jpg" width="WIDTH" height="HEIGHT" alt="bkd345pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamamoto Kaori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bkd345pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamamoto Kaori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bkd345pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: SORA-574 Brainwashing Hypnosis, I Brainwashed A Real-Life Traveling Instructor's Future Plans By Pissing And Drooling Ruisa Tsukizuki
 
 url: /v/sora574pl
-date: 0000-11-30T01:50:00Z
+date: 2024-11-30T01:50:00Z
 image: "sora574pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Nasty, Hardcore, Drama, Cuckold, Instructor	]
+tags: [Censored, Solowork, Big Tits, Nasty, Hardcore, Drama, Cuckold, Instructor	]
 maker: [ Yama To Sora  ]
 actress: [ Totsuki Ruisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Totsuki Ruisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WPqjlXlyQYfbayl">
     <a href="javascript:;">
         <img src="/v/sora574pl/sora574pl.jpg" width="WIDTH" height="HEIGHT" alt="sora574pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora574pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Totsuki Ruisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora574pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

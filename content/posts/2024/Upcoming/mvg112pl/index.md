@@ -3,9 +3,9 @@ author: j91
 title: MVG-112 A 110-day Filming Record Of A Doujin Masochistic Cosplayer Being Tied Up And Gang-banged And Trained In Bukkake - Miku Arima
 
 url: /v/mvg112pl
-date: 0000-11-30T01:50:00Z
+date: 2024-11-30T01:50:00Z
 image: "mvg112pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Bukkake, Shibari, Submissive Woman	]
+tags: [Censored, Cosplay, Solowork, Bukkake, Shibari, Submissive Woman	]
 maker: [ Glory Quest  ]
 actress: [ Arima Miku ]
 ---
@@ -13,13 +13,13 @@ actress: [ Arima Miku ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BjAOky8VzwTy1GX">
     <a href="javascript:;">
         <img src="/v/mvg112pl/mvg112pl.jpg" width="WIDTH" height="HEIGHT" alt="mvg112pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Arima Miku ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvg112pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Arima Miku ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvg112pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

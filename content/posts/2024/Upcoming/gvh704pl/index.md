@@ -3,9 +3,9 @@ author: j91
 title: GVH-704 "Isn't A Blowjob On The Underside Of My Penis The Most Pleasurable...?" My Childhood Friend Rie, Who Is Addicted To Posting Videos, Has Been Licking My Underside Of My Penis Every Day In Search Of The Ultimate Ejaculation. Rie Miyagi
 
 url: /v/gvh704pl
-date: 0000-11-30T01:55:00Z
+date: 2024-11-30T01:55:00Z
 image: "gvh704pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Slut, Footjob, Childhood Friend	]
+tags: [Censored, Blow, Creampie, Solowork, Slut, Footjob, Childhood Friend	]
 maker: [ Glory Quest  ]
 actress: [ Miyagi Rie ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyagi Rie ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vPJm31DARQCw9p">
     <a href="javascript:;">
         <img src="/v/gvh704pl/gvh704pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh704pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyagi Rie ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh704pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyagi Rie ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh704pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
