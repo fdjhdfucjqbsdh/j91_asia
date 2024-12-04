@@ -1,21 +1,21 @@
 ---
 author: j91
-title: VEO-080 Genuine Amateur Wife AV Debut!! Over 170cm Tall, This Glamorous Wife With A 9.5-head Body Proportions Rivals Any Foreign Model And Has A Super Sensitive Body That Squirts A Lot, Iroha Wakatsuki
+title: LOL-238 After This... I Had Sex Until Curfew... Student Suzu Nagano
 
-url: /v/veo080pl
-date: 2024-12-04T16:00:00Z
-image: "veo080pl.jpg"
-tags: [Censored, Creampie, Solowork, Married Woman, Debut Production, Mature Woman, Tall	]
-maker: [Venus  ]
-actress: [Wakatsuki Iroha ]
+url: /v/lol238pl
+date: 2024-12-04T15:22:00Z
+image: "lol238pl.jpg"
+tags: [Censored, Blow, Sailor Suit, Creampie, Solowork, Girl, Beautiful Girl, School Uniform, Mini	]
+maker: [ GLAYz  ]
+actress: [ Nagano Suzu ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="9qQdkOvMdLUOKB">
+<div class="video" data-videoid="Y8X0yVAQJjIv4P7">
     <a href="javascript:;">
-        <img src="/v/veo080pl/veo080pl.jpg" width="WIDTH" height="HEIGHT" alt="veo080pl.mp4" loading="lazy">
+        <img src="/v/lol238pl/lol238pl.jpg" width="WIDTH" height="HEIGHT" alt="lol238pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Wakatsuki Iroha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/veo080pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lol238pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Wakatsuki Iroha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/veo080pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lol238pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
