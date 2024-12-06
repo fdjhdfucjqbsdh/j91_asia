@@ -3,9 +3,9 @@ author: j91
 title: SONE-483 Fresh Student Teacher Falls For Her Middle-aged Teacher Rather Than Her Young Boyfriend In This Aphrodisiac-filled NTR Film By Yuka Murakami
 
 url: /v/sone483pl
-date: 0000-12-06T01:55:00Z
+date: 2024-12-06T01:55:00Z
 image: "sone483pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Squirting, Cuckold, Kiss, Acme · Orgasm	]
+tags: [Censored, Solowork, Humiliation, Squirting, Cuckold, Kiss, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Murakami Yuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Murakami Yuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lqdRbyz0GaHdXr">
     <a href="javascript:;">
         <img src="/v/sone483pl/sone483pl.jpg" width="WIDTH" height="HEIGHT" alt="sone483pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Murakami Yuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone483pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Murakami Yuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone483pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

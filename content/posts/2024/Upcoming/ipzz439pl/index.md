@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-439 Record Rainfall On Business Trip Leads To Sharing A Room With Virgin Subordinate... Excited By Her Rain-soaked Body, He Attacks Her And They Have Nine Climaxes Until The Morning, Soaking Wet And Insatiable Sex Marina Yakuno
 
 url: /v/ipzz439pl
-date: 0000-12-06T01:50:00Z
+date: 2024-12-06T01:50:00Z
 image: "ipzz439pl.jpg"
-tags: [Upcoming releases, OL, Blow, Solowork, Older Sister, Big Tits, Cuckold	]
+tags: [Censored, OL, Blow, Solowork, Older Sister, Big Tits, Cuckold	]
 maker: [IDEA POCKET]
 actress: [ Yakuno Marina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yakuno Marina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lGWxkZwJJmC7JBA">
     <a href="javascript:;">
         <img src="/v/ipzz439pl/ipzz439pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz439pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yakuno Marina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz439pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yakuno Marina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz439pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

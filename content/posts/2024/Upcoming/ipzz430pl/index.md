@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-430 Went To A Training Camp With My Beloved Childhood Friend... She Was Ordered To Cum To Death By The Most Horny Senior In School, And I Watched From The Shadows, Feeling Humiliated And Excited. Wakana Sakura
 
 url: /v/ipzz430pl
-date: 0000-12-06T01:50:00Z
+date: 2024-12-06T01:50:00Z
 image: "ipzz430pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Slender, Bloomers, Tits, Athlete	]
+tags: [Censored, 3P, 4P, Solowork, Slender, Bloomers, Tits, Athlete	]
 maker: [IDEA POCKET]
 actress: [ Sakura Wakana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakura Wakana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oAA2zR98Lbcd6K">
     <a href="javascript:;">
         <img src="/v/ipzz430pl/ipzz430pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz430pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz430pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz430pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

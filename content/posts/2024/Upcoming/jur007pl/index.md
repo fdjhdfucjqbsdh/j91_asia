@@ -3,9 +3,9 @@ author: j91
 title: JUR-007 Every Night, I Heard The Moans Of The Woman Next Door, And I Was Worried About It... ~A Sweaty Afternoon With A Frustrated Married Woman~ Rena Fukiishi
 
 url: /v/jur007pl
-date: 0000-12-06T01:45:00Z
+date: 2024-12-06T01:45:00Z
 image: "jur007pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Slut, Mature Woman, Sun tan	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Slut, Mature Woman, Sun tan	]
 maker: [Madonna]
 actress: [ Fukiishi Rena]
 ---
@@ -13,13 +13,13 @@ actress: [ Fukiishi Rena]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LdKKV4jkVbIRjyQ">
     <a href="javascript:;">
         <img src="/v/jur007pl/jur007pl.jpg" width="WIDTH" height="HEIGHT" alt="jur007pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fukiishi Rena]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur007pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fukiishi Rena]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur007pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

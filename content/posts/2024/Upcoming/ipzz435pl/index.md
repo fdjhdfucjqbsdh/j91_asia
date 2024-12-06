@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-435 On A Business Trip To Check Out The School Trip, I Ended Up Sharing A Room With A Sexually Harassing Teacher... I Was Made To Climax So Much By The Creepy Teacher I Despised, And I Was Humiliated By This Humiliating Sex. Karen Kaede
 
 url: /v/ipzz435pl
-date: 0000-12-06T01:50:00Z
+date: 2024-12-06T01:50:00Z
 image: "ipzz435pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Slender, Bloomers, Tits, Athlete	]
+tags: [Censored, 3P, 4P, Solowork, Slender, Bloomers, Tits, Athlete	]
 maker: [IDEA POCKET]
 actress: [ Kaede Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kaede Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6pK9W7ybXKC9RRR">
     <a href="javascript:;">
         <img src="/v/ipzz435pl/ipzz435pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz435pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kaede Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz435pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kaede Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz435pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

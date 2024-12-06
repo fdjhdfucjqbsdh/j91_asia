@@ -3,9 +3,9 @@ author: j91
 title: SONE-479 She Squeezes It Between Her Huge K-cup Breasts And Rubs It! She Makes It Explode In Her Cleavage. A Titty-fuck-crazy Older Sister Who Hides In Everyday Life, Hikaru Nagi
 
 url: /v/sone479pl
-date: 0000-12-06T01:55:00Z
+date: 2024-12-06T01:55:00Z
 image: "sone479pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Titty Fuck, Erotic Wear, Ultra-Huge Tits	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, Titty Fuck, Erotic Wear, Ultra-Huge Tits	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nagi Hikaru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagi Hikaru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8Ob17DeDl7SGw3">
     <a href="javascript:;">
         <img src="/v/sone479pl/sone479pl.jpg" width="WIDTH" height="HEIGHT" alt="sone479pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagi Hikaru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone479pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagi Hikaru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone479pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
