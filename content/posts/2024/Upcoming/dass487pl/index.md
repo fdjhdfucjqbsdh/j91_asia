@@ -3,9 +3,9 @@ author: j91
 title: DASS-487 We Are Crazy Babies (one-time Special Sex). Even The Gaps In Our Love Are A Secret Space Where We Seek Each Other's Saliva, Body Heat, And Love Juices. Forget About Everyday Life And Get Immersed In A Lesbian Date For The First Time With A Transsexual. Ichika Matsumoto And Megu Nishino
 
 url: /v/dass487pl
-date: 0000-12-06T01:05:00Z
+date: 2024-12-06T01:05:00Z
 image: "dass487pl.jpg"
-tags: [Upcoming releases, Transsexual, Creampie, 3P, 4P, Beautiful Girl, Date	]
+tags: [Censored, Transsexual, Creampie, 3P, 4P, Beautiful Girl, Date	]
 maker: [Das !]
 actress: [ Matsumoto Ichika, Nishino Megu]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsumoto Ichika, Nishino Megu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="J64XgAoMj4hjYO1">
     <a href="javascript:;">
         <img src="/v/dass487pl/dass487pl.jpg" width="WIDTH" height="HEIGHT" alt="dass487pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsumoto Ichika, Nishino Megu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass487pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsumoto Ichika, Nishino Megu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass487pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

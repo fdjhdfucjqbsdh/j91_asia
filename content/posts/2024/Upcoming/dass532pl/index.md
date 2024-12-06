@@ -3,9 +3,9 @@ author: j91
 title: DASS-532 A Two-day, One-night Lovey-dovey Creampie Sex Session With A Secretly Lewd, Plain-looking Girl With Big Breasts Who I Met During A King's Game. Akane Mitani
 
 url: /v/dass532pl
-date: 0000-12-06T01:40:00Z
+date: 2024-12-06T01:40:00Z
 image: "dass532pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Cowgirl, Glasses	]
+tags: [Censored, Creampie, Solowork, Big Tits, Cowgirl, Glasses	]
 maker: [Das !]
 actress: [ Mitani Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitani Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WeK284m6WVFb6oB">
     <a href="javascript:;">
         <img src="/v/dass532pl/dass532pl.jpg" width="WIDTH" height="HEIGHT" alt="dass532pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass532pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass532pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

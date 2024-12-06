@@ -3,9 +3,9 @@ author: j91
 title: BBAN-507 Lesbian Sex Toy Sales Demonstration, A Married Woman Who Becomes A Lesbian After Being Made To Cum Over And Over Again With Toys That Are Called A Sales Demonstration. Kaho Tamaki And Rei Misumi
 
 url: /v/bban507pl
-date: 0000-12-06T01:09:00Z
+date: 2024-12-06T01:09:00Z
 image: "bban507pl.jpg"
-tags: [Upcoming releases, Lesbian, Married Woman]
+tags: [Censored, Lesbian, Married Woman]
 maker: [Bibian]
 actress: [ Tamashiro Kaho, Misumi Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tamashiro Kaho, Misumi Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ldv1oebwbph7G7L">
     <a href="javascript:;">
         <img src="/v/bban507pl/bban507pl.jpg" width="WIDTH" height="HEIGHT" alt="bban507pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tamashiro Kaho, Misumi Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban507pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tamashiro Kaho, Misumi Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban507pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

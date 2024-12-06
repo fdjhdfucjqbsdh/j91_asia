@@ -3,9 +3,9 @@ author: j91
 title: NGOD-238 My Wife Was Seduced By The Director's Sex Scene Instruction And Was Made To Cum A Lot With His Acting Instruction... Hoshi Asuna
 
 url: /v/ngod238pl
-date: 0000-12-06T01:20:00Z
+date: 2024-12-06T01:20:00Z
 image: "ngod238pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Cuckold, Ultra-Huge Tits, Huge Butt, Huge Cock	]
+tags: [Censored, Solowork, Married Woman, Cuckold, Ultra-Huge Tits, Huge Butt, Huge Cock	]
 maker: [JET Eizou]
 actress: [ Hoshi Asuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshi Asuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kpQOYdaabYH9Xm">
     <a href="javascript:;">
         <img src="/v/ngod238pl/ngod238pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod238pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod238pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshi Asuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod238pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
