@@ -3,9 +3,9 @@ author: j91
 title: SONE-481 A Neat Female Announcer Is Abducted Into A Stinky Sleeping Quarters While Reporting On A Group Of Homeless People, And Is Pounded 10 Times By A Man Hungry For Beautiful Women!
 
 url: /v/sone481pl
-date: 0000-12-06T01:55:00Z
+date: 2024-12-06T01:55:00Z
 image: "sone481pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Abuse, Slender, Drama, Acme · Orgasm	]
+tags: [Censored, 3P, 4P, Solowork, Abuse, Slender, Drama, Acme · Orgasm	]
 maker: [S1 NO.1 STYLE]
 actress: [ Ashitaba Mitsuha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ashitaba Mitsuha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="z600dxGVR7tYDry">
     <a href="javascript:;">
         <img src="/v/sone481pl/sone481pl.jpg" width="WIDTH" height="HEIGHT" alt="sone481pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ashitaba Mitsuha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone481pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ashitaba Mitsuha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone481pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

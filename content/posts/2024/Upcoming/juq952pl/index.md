@@ -3,9 +3,9 @@ author: j91
 title: JUQ-952 After The Graduation Ceremony... A Gift From Your Stepmother To You Now That You're An Adult. Rinka Ono
 
 url: /v/juq952pl
-date: 0000-12-06T01:45:00Z
+date: 2024-12-06T01:45:00Z
 image: "juq952pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Slut, Mature Woman, Virgin Man, Stepmother	]
+tags: [Censored, Solowork, Married Woman, Slut, Mature Woman, Virgin Man, Stepmother	]
 maker: [Madonna]
 actress: [ Ono Rinka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ono Rinka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QDxKRL1Gk3Trgj">
     <a href="javascript:;">
         <img src="/v/juq952pl/juq952pl.jpg" width="WIDTH" height="HEIGHT" alt="juq952pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ono Rinka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juq952pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ono Rinka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juq952pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
