@@ -3,9 +3,9 @@ author: j91
 title: BBSS-091 This Is Where We Really Are. Frustrated Wives Sweat And Get Engrossed In Infidelity, And Have Passionate Lesbian Sex For 4 Hours.
 
 url: /v/bbss091pl
-date: 0000-12-06T01:00:00Z
+date: 2024-12-06T01:00:00Z
 image: "bbss091pl.jpg"
-tags: [Upcoming releases, Lesbian, Married Woman, Affair, 4HR+, Lesbian Kiss	]
+tags: [Censored, Lesbian, Married Woman, Affair, 4HR+, Lesbian Kiss	]
 maker: [Bibian]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gaxdvKDRWmSq0Z4">
     <a href="javascript:;">
         <img src="/v/bbss091pl/bbss091pl.jpg" width="WIDTH" height="HEIGHT" alt="bbss091pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bbss091pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bbss091pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
