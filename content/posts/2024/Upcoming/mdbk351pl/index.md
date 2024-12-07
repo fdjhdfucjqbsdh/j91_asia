@@ -3,9 +3,9 @@ author: j91
 title: MDBK-351 A Sister Who Loves Me Too Much Restrains Me And Teases My Nipples. A Night Of Being Trained By A Submissive Masochist In A Reverse Night-time Encounter...
 
 url: /v/mdbk351pl
-date: 0000-12-07T01:55:00Z
+date: 2024-12-07T01:55:00Z
 image: "mdbk351pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Big Tits, Slut, Submissive Men	]
+tags: [Censored, Creampie, School Girls, Big Tits, Slut, Submissive Men	]
 maker: [ K.M.Produce  ]
 actress: [ Tsukino Kasumi, Kurumi Sakura, Sakura Mahiru ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi, Kurumi Sakura, Sakura Mahiru ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="g119XYoW7pUBz8">
     <a href="javascript:;">
         <img src="/v/mdbk351pl/mdbk351pl.jpg" width="WIDTH" height="HEIGHT" alt="mdbk351pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi, Kurumi Sakura, Sakura Mahiru ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mdbk351pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi, Kurumi Sakura, Sakura Mahiru ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mdbk351pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

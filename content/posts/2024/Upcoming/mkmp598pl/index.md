@@ -3,9 +3,9 @@ author: j91
 title: MKMP-598 After A Drinking Party, I Let My Subordinate Stay Over After He Missed The Last Train... I Gave In To His Fair, Soft Breasts That My Wife Doesn't Have And His Aggressive Temptations, And Had An Affair With Him Until The Morning, Cumming Inside Him Multiple Times Kasumi Tsukino
 
 url: /v/mkmp598pl
-date: 0000-12-07T01:55:00Z
+date: 2024-12-07T01:55:00Z
 image: "mkmp598pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Big Tits, Slut, Breasts, Cuckold	]
+tags: [Censored, OL, Solowork, Big Tits, Slut, Breasts, Cuckold	]
 maker: [ K.M.Produce  ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="mOJWgYRlAgTbYx3">
     <a href="javascript:;">
         <img src="/v/mkmp598pl/mkmp598pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp598pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkmp598pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukino Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkmp598pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

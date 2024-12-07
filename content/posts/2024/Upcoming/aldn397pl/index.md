@@ -3,9 +3,9 @@ author: j91
 title: ALDN-397 You're Making An Old Lady Like Me Excited... What Are You Going To Do With Me... Reiko Kobayakawa
 
 url: /v/aldn397pl
-date: 0000-12-07T01:45:00Z
+date: 2024-12-07T01:45:00Z
 image: "aldn397pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Kobayakawa Reiko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kobayakawa Reiko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8XJM74Y8KqCXW7">
     <a href="javascript:;">
         <img src="/v/aldn397pl/aldn397pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn397pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aldn397pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aldn397pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
