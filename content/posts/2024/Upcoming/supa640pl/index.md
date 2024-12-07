@@ -3,9 +3,9 @@ author: j91
 title: SUPA-640 This Is Such A Cute Girl, But Her Erotic Vagina Is So Soft And Smooth, It's Like A SSS-class Pussy That Feels So Good, And It's Been Creampied In The BEST
 
 url: /v/supa640pl
-date: 0000-12-07T01:00:00Z
+date: 2024-12-07T01:00:00Z
 image: "supa640pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Big Tits, Slut, 4HR+	]
+tags: [Censored, Creampie, Best, Omnibus, Big Tits, Slut, 4HR+	]
 maker: [ S Kyuu Shirouto  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MX2P86dvx9cmVxP">
     <a href="javascript:;">
         <img src="/v/supa640pl/supa640pl.jpg" width="WIDTH" height="HEIGHT" alt="supa640pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/supa640pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/supa640pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
