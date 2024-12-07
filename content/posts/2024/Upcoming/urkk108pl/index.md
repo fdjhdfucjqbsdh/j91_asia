@@ -3,9 +3,9 @@ author: j91
 title: URKK-108 REC Train Molester NTR I Saw A Pretty Face On The Platform, But I Don't Know Her Name... Until I Caught Her... Aya Konami
 
 url: /v/urkk108pl
-date: 0000-12-07T01:55:00Z
+date: 2024-12-07T01:55:00Z
 image: "urkk108pl.jpg"
-tags: [Upcoming releases, Solowork,Cuckold	]
+tags: [Censored, Solowork,Cuckold	]
 maker: [ Unfinished  ]
 actress: [ Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lP27ZBZRvWS7GRW">
     <a href="javascript:;">
         <img src="/v/urkk108pl/urkk108pl.jpg" width="WIDTH" height="HEIGHT" alt="urkk108pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/urkk108pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/urkk108pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

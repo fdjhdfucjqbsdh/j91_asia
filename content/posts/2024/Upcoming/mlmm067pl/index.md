@@ -3,9 +3,9 @@ author: j91
 title: MLMM-067 Fifty-something Beautiful Mature Woman Best Ryoko Asamiya 4 Hours Black Armpit Hair Madonna
 
 url: /v/mlmm067pl
-date: 0000-12-07T01:00:00Z
+date: 2024-12-07T01:00:00Z
 image: "mlmm067pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, 4HR+, Mature Woman, Drama	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, 4HR+, Mature Woman, Drama	]
 maker: [ Mellow Moon  ]
 actress: [ Asamiya Ryouko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asamiya Ryouko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="abJxLaB1mVix6JL">
     <a href="javascript:;">
         <img src="/v/mlmm067pl/mlmm067pl.jpg" width="WIDTH" height="HEIGHT" alt="mlmm067pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asamiya Ryouko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mlmm067pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asamiya Ryouko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mlmm067pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DAVK-100 I Reluctantly Supported A Fat Guy... I Had A 6P Orgy With Him Until I Got Pregnant. He Inserted His Sperm Into My Pussy And Creampied Me. The Cocky Gal Fell For His Dick.
 
 url: /v/davk100pl
-date: 0000-12-07T01:20:00Z
+date: 2024-12-07T01:20:00Z
 image: "davk100pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, Gal, Slender, Promiscuity	]
+tags: [Censored, Creampie, Uniform, Gal, Slender, Promiscuity	]
 maker: [ Doujin AV kurabu- Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="03JwkRxxmmTZ93">
     <a href="javascript:;">
         <img src="/v/davk100pl/davk100pl.jpg" width="WIDTH" height="HEIGHT" alt="davk100pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/davk100pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/davk100pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

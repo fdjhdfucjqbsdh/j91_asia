@@ -3,9 +3,9 @@ author: j91
 title: BASJ-022 Menopausal Women Remember The Joy Of Sex Through Dating Apps - Asami Shiina
 
 url: /v/basj022pl
-date: 0000-12-07T01:15:00Z
+date: 2024-12-07T01:15:00Z
 image: "basj022pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, 3P, 4P, Solowork, Masturbation, Mature Woman	]
+tags: [Censored, Blow, Creampie, 3P, 4P, Solowork, Masturbation, Mature Woman	]
 maker: [ Barutan  ]
 actress: [ Shiina Asai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Asai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lajlpQRwD9UORO">
     <a href="javascript:;">
         <img src="/v/basj022pl/basj022pl.jpg" width="WIDTH" height="HEIGHT" alt="basj022pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Asai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/basj022pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Asai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/basj022pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

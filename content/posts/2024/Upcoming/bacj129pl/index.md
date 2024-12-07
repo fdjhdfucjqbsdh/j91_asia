@@ -3,9 +3,9 @@ author: j91
 title: BACJ-129 The Beauty Salon Where Repeat Customers Keep Coming Back For Their Gorgeous Fingering Skills, Rakuen Mina
 
 url: /v/bacj129pl
-date: 0000-12-07T01:15:00Z
+date: 2024-12-07T01:15:00Z
 image: "bacj129pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Solowork, Slut, Massage, Lotion	]
+tags: [Censored, Handjob, Creampie, Solowork, Slut, Massage, Lotion	]
 maker: [ Barutan  ]
 actress: [Rakuen Mina  ]
 ---
@@ -13,13 +13,13 @@ actress: [Rakuen Mina  ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9BXB2d4mgOuaxld">
     <a href="javascript:;">
         <img src="/v/bacj129pl/bacj129pl.jpg" width="WIDTH" height="HEIGHT" alt="bacj129pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Rakuen Mina  ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bacj129pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Rakuen Mina  ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bacj129pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

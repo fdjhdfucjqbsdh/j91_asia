@@ -3,9 +3,9 @@ author: j91
 title: CEMD-608 "All The Ordinary Men! Please Make Me Cum!" ~A Sex Documentary Of An Amateur Man I Found On The Street Who Made Me Cum So Hard I Almost Broke~ 7 Serina Tsutsumi
 
 url: /v/cemd608pl
-date: 0000-12-07T01:20:00Z
+date: 2024-12-07T01:20:00Z
 image: "cemd608pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Reversed Role, Shaved, Tits	]
+tags: [Censored, Blow, Solowork, Reversed Role, Shaved, Tits	]
 maker: [ Serebu No Tomo  ]
 actress: [ Tsutsumi Serena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsutsumi Serena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="gPyxpd0qVdhqR68">
     <a href="javascript:;">
         <img src="/v/cemd608pl/cemd608pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd608pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsutsumi Serena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cemd608pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsutsumi Serena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cemd608pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

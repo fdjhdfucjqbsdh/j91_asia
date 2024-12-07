@@ -3,9 +3,9 @@ author: j91
 title: BASB-015 I Love To Blame Men! Small-breasted Sluts Assemble Specially!
 
 url: /v/basb015pl
-date: 0000-12-07T01:00:00Z
+date: 2024-12-07T01:00:00Z
 image: "basb015pl.jpg"
-tags: [Upcoming releases, Handjob, Best, Omnibus, Slut, 4HR+, SlenderTits	]
+tags: [Censored, Handjob, Best, Omnibus, Slut, 4HR+, SlenderTits	]
 maker: [ Barutan  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8qROyrVdG3flxJ">
     <a href="javascript:;">
         <img src="/v/basb015pl/basb015pl.jpg" width="WIDTH" height="HEIGHT" alt="basb015pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/basb015pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/basb015pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
