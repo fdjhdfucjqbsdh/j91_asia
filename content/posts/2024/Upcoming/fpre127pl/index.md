@@ -3,9 +3,9 @@ author: j91
 title: FPRE-127 A Personal Trainer Overflowing With Sexual Desire Stimulates A Man's Lower Body With Her Well-trained Big Ass In A Workout Cowgirl Position Covered In Bodily Fluids! Hana Kurosaki
 
 url: /v/fpre127pl
-date: 0000-12-13T01:20:00Z
+date: 2024-12-13T01:20:00Z
 image: "fpre127pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Gal, Big Tits, Instructor	]
+tags: [Censored, Blow, Creampie, Solowork, Gal, Big Tits, Instructor	]
 maker: [Fitch]
 actress: [ Kurosaki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurosaki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ayA3QOmvLyhxKBR">
     <a href="javascript:;">
         <img src="/v/fpre127pl/fpre127pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre127pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurosaki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre127pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurosaki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre127pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

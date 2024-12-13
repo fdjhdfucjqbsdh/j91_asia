@@ -3,9 +3,9 @@ author: j91
 title: DVMM-181 Ordinary Men And Women Monitoring AV In A Special Magic Mirror Room, A Lovey-dovey College Couple Splits Into Men And Women And Challenges The AV Actress And Actor To Endure The Amazing Techniques Of Orgasm!! Tall, Slender, Beautiful-legged Slut Kinoshita Himari X Amateur Male College Student (boyfriend)/(girlfriend) Amateur Female College Student X Big-dick Intense Piston Actor
 
 url: /v/dvmm181pl
-date: 0000-12-13T01:09:00Z
+date: 2024-12-13T01:09:00Z
 image: "dvmm181pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Female College Student, Cuckold, Huge Cock	]
+tags: [Censored, Creampie, Amateur, Female College Student, Cuckold, Huge Cock	]
 maker: [Deeps]
 actress: [ Hanazawa Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hanazawa Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6qbGOxqeeGh9mRM">
     <a href="javascript:;">
         <img src="/v/dvmm181pl/dvmm181pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm181pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hanazawa Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm181pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hanazawa Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm181pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUKC-086 Genuine Virgin Cosplayer AV Debut, Suzuka Nishikata, The Ideal Virgin Loss Desired By A Delusional Girl
 
 url: /v/mukc086pl
-date: 0000-12-13T01:10:00Z
+date: 2024-12-13T01:10:00Z
 image: "mukc086pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Humiliation, Debut Production, Documentary, Virgin	]
+tags: [Censored, Cosplay, Solowork, Humiliation, Debut Production, Documentary, Virgin	]
 maker: [Muku]
 actress: [ Saihou Suzuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Saihou Suzuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="78momejjrjfVyv">
     <a href="javascript:;">
         <img src="/v/mukc086pl/mukc086pl.jpg" width="WIDTH" height="HEIGHT" alt="mukc086pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Saihou Suzuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukc086pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Saihou Suzuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukc086pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUCD-321 Favorite AV That Hits The Maniac Sexual Fetish. A Girl's Face Is Covered In Saliva... She Cums Over And Over Again While Covered In Sticky, Stinky Saliva! The Ultimate 4-hours For Saliva Maniacs
 
 url: /v/mucd321pl
-date: 0000-12-13T01:00:00Z
+date: 2024-12-13T01:00:00Z
 image: "mucd321pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, Best, Omnibus, Beautiful Girl, 4HR+, Kiss	]
+tags: [Censored, Creampie, Uniform, Best, Omnibus, Beautiful Girl, 4HR+, Kiss	]
 maker: [Muku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ekYqmY6oR0IYBr8">
     <a href="javascript:;">
         <img src="/v/mucd321pl/mucd321pl.jpg" width="WIDTH" height="HEIGHT" alt="mucd321pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mucd321pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mucd321pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: KAM-232 A Party Celebrating Her Husband's Boss' Promotion Goes Wild. NTR Voluptuous Body Wife Home Party. Big Tits And Ass Wife Gets Drunk And Cums Like Crazy Reo Fujisawa
 
 url: /v/kam232pl
-date: 0000-12-13T01:15:00Z
+date: 2024-12-13T01:15:00Z
 image: "kam232pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Promiscuity, BBW	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Promiscuity, BBW	]
 maker: [Karuma]
 actress: [ Fujisawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Y8bZqqkoW0TobG">
     <a href="javascript:;">
         <img src="/v/kam232pl/kam232pl.jpg" width="WIDTH" height="HEIGHT" alt="kam232pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam232pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam232pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUDR-293 A Schoolgirl In Her Prime Sneaks Out Of Her School Trip For A French Kiss Date With A Man Of Her Father's Generation. She Stays In A Hotel And Has Creampie Sex Over And Over Again, Feeling Like An Adult. Amasawa Rin
 
 url: /v/mudr293pl
-date: 0000-12-13T01:10:00Z
+date: 2024-12-13T01:10:00Z
 image: "mudr293pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,School Girls,Beautiful Girl,Breasts,Date	]
+tags: [Censored, Creampie,Solowork,School Girls,Beautiful Girl,Breasts,Date	]
 maker: [Muku]
 actress: [ Amazawa Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amazawa Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ybVZXXBaQ1tw6X">
     <a href="javascript:;">
         <img src="/v/mudr293pl/mudr293pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr293pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amazawa Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr293pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amazawa Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr293pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

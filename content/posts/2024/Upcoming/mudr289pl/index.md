@@ -3,9 +3,9 @@ author: j91
 title: MUDR-289 [Muku Exclusive Actress] Sumire Kuramoto - A Sloppy, Dense, Saliva-swapping Kiss And A Super-intense Sex Session Covered In Thick Body Fluids
 
 url: /v/mudr289pl
-date: 0000-12-13T01:10:00Z
+date: 2024-12-13T01:10:00Z
 image: "mudr289pl.jpg"
-tags: [Upcoming releases, Solowork, Nasty, Hardcore, Facials, Slut, Bukkake, Kiss	]
+tags: [Censored, Solowork, Nasty, Hardcore, Facials, Slut, Bukkake, Kiss	]
 maker: [Muku]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aya368YARyU2eB">
     <a href="javascript:;">
         <img src="/v/mudr289pl/mudr289pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr289pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr289pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr289pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUDR-296 Sexy, Overflowing, Sexually-charged Beautiful Girl In Uniform Sweats And Devours A Man In An Insatiable Sexual Encounter. Shiina Koharu
 
 url: /v/mudr296pl
-date: 0000-12-13T01:10:00Z
+date: 2024-12-13T01:10:00Z
 image: "mudr296pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Nasty, Hardcore, Slut, Sweat, Acme · Orgasm	]
+tags: [Censored, 3P, 4P, Solowork, Nasty, Hardcore, Slut, Sweat, Acme · Orgasm	]
 maker: [Muku]
 actress: [ Shiina Koharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Koharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="yg2QWyyaDoU1Q8g">
     <a href="javascript:;">
         <img src="/v/mudr296pl/mudr296pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr296pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Koharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr296pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Koharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr296pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUDR-282 Sex With Otaku Friends Feels Amazing 2. The Two Of Them, Who Have Experienced The Pleasure Of Sex, Seek Even More Pleasure And Climax With Cosplay Creampie Sex! Himesaki Hana
 
 url: /v/mudr282pl
-date: 0000-12-13T01:10:00Z
+date: 2024-12-13T01:10:00Z
 image: "mudr282pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Big Tits, Original Collaboration, Otaku	]
+tags: [Censored, Cosplay, Creampie, Solowork, Big Tits, Original Collaboration, Otaku	]
 maker: [Muku]
 actress: [ Himesaki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himesaki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JwV9Laq769tjKZX">
     <a href="javascript:;">
         <img src="/v/mudr282pl/mudr282pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr282pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Himesaki Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr282pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Himesaki Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr282pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
