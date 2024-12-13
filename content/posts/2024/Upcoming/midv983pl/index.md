@@ -3,9 +3,9 @@ author: j91
 title: MIDV-983 FRUITS J Newcomer Current College Student Exclusive Kanna Miki AV Debut!
 
 url: /v/midv983pl
-date: 0000-12-13T01:55:00Z
+date: 2024-12-13T01:55:00Z
 image: "midv983pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Titty Fuck, Debut Production, Facials	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, Titty Fuck, Debut Production, Facials	]
 maker: [MOODYZ]
 actress: [ Miki Kanna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miki Kanna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="r8z2DyMoGKUbwea">
     <a href="javascript:;">
         <img src="/v/midv983pl/midv983pl.jpg" width="WIDTH" height="HEIGHT" alt="midv983pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miki Kanna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/midv983pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miki Kanna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/midv983pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

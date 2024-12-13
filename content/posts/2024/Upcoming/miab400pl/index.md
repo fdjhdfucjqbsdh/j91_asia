@@ -3,9 +3,9 @@ author: j91
 title: MIAB-400 [I Called A Fair-skinned College Girl To A Hotel Without Telling Her Boyfriend] Even If She Was Already Cumming, I Didn't Let Her Go And I Creampied Her 10 Times, Which Guaranteed She'd Get Pregnant Shizuka-chan Shizuka
 
 url: /v/miab400pl
-date: 0000-12-13T01:55:00Z
+date: 2024-12-13T01:55:00Z
 image: "miab400pl.jpg"
-tags: [Upcoming releases, Creampie, 3P, 4P, Solowork, Amateur, Squirting, Acme · Orgasm	]
+tags: [Censored, Creampie, 3P, 4P, Solowork, Amateur, Squirting, Acme · Orgasm	]
 maker: [MOODYZ]
 actress: [ Shizuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7zRAvqMl2LIAppG">
     <a href="javascript:;">
         <img src="/v/miab400pl/miab400pl.jpg" width="WIDTH" height="HEIGHT" alt="miab400pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab400pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab400pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MOER-005 Once You Fuck Her, You'll Want To Fuck Her Again. She May Have A Classy Look, But She Has Erotic Sex With A Girl Who Is Just Convenient For Her! The Amateur Found By A Friend Of An AV Director Is A College Student Who Is OK With Anything. She Makes Her Debut By Cumming Like Crazy On A Male Actor's Dick. Ayuka Futaba
 
 url: /v/moer005pl
-date: 0000-12-13T01:57:00Z
+date: 2024-12-13T01:57:00Z
 image: "moer005pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, POV, Debut Production, Female College Student	]
+tags: [Censored, 3P, 4P, Solowork, Big Tits, POV, Debut Production, Female College Student	]
 maker: [MOODYZ]
 actress: [ Futaba Ayuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Futaba Ayuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZrZbx7R72ZtqlJy">
     <a href="javascript:;">
         <img src="/v/moer005pl/moer005pl.jpg" width="WIDTH" height="HEIGHT" alt="moer005pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Futaba Ayuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/moer005pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Futaba Ayuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/moer005pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
