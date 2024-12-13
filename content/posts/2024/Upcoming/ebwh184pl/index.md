@@ -3,9 +3,9 @@ author: j91
 title: EBWH-184 "Even Though You're A Weak Tutor, You've Got The Guts To Cum Inside Me" I Want To Be Defeated By This Literary Big-breasted Brat Who Seduces Adults And Makes Fun Of Them... Haruka Lili
 
 url: /v/ebwh184pl
-date: 0000-12-13T01:35:00Z
+date: 2024-12-13T01:35:00Z
 image: "ebwh184pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Titty Fuck, Tutor, Submissive Men	]
+tags: [Censored, Creampie, Solowork, Titty Fuck, Tutor, Submissive Men	]
 maker: [E-body]
 actress: [ Riri Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Riri Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oLRoGwYd7OfJgma">
     <a href="javascript:;">
         <img src="/v/ebwh184pl/ebwh184pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh184pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Riri Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh184pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Riri Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh184pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MVSD-628 On A Business Trip To A Hotel, I Unexpectedly Ended Up Sharing A Single Bed With A Quiet Junior Female Employee. Suddenly, She Changed Completely And Seduced Me, Who Was Confused, And Continued To Be A Slut Until The Morning Came. Karin Kitaoka
 
 url: /v/mvsd628pl
-date: 0000-12-13T01:30:00Z
+date: 2024-12-13T01:30:00Z
 image: "mvsd628pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Cowgirl, Slut, Cuckold	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Cowgirl, Slut, Cuckold	]
 maker: [M's Video Group]
 actress: [ Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zxqgOoOR7gHY6qB">
     <a href="javascript:;">
         <img src="/v/mvsd628pl/mvsd628pl.jpg" width="WIDTH" height="HEIGHT" alt="mvsd628pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mvsd628pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mvsd628pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

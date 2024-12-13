@@ -3,9 +3,9 @@ author: j91
 title: NIMA-040 Shocking Mama Shota Doujin Comic! Live-action Version! My Childhood Friend Is Doing It With My Mom. 1 & 2 Yuma Sano
 
 url: /v/nima040pl
-date: 0000-12-13T01:24:00Z
+date: 2024-12-13T01:24:00Z
 image: "nima040pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Big Tits, Mother, Original Collaboration	]
+tags: [Censored, Blow, Creampie, Solowork, Big Tits, Mother, Original Collaboration	]
 maker: [Fitch]
 actress: [ Sano Yuma ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sano Yuma ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="PkYMXRwZG6T0zoX">
     <a href="javascript:;">
         <img src="/v/nima040pl/nima040pl.jpg" width="WIDTH" height="HEIGHT" alt="nima040pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima040pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sano Yuma ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima040pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
