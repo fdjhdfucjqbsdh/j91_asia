@@ -3,9 +3,9 @@ author: j91
 title: SLAP-141 Nowadays, High School Girls Enjoy Dieting Through Games! Panty Shots And Panty-flashing Fitness (SLAP-141)
 
 url: /v/slap141pl
-date: 0000-12-14T01:05:00Z
+date: 2024-12-14T01:05:00Z
 image: "slap141pl.jpg"
-tags: [Upcoming releases, School Girls, Underwear, Voyeur, Butt, Leg Fetish	]
+tags: [Censored, School Girls, Underwear, Voyeur, Butt, Leg Fetish	]
 maker: [ Digital Ark  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="o6mL9zjvjwcJXvd">
     <a href="javascript:;">
         <img src="/v/slap141pl/slap141pl.jpg" width="WIDTH" height="HEIGHT" alt="slap141pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/slap141pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/slap141pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

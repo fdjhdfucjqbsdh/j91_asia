@@ -3,9 +3,9 @@ author: j91
 title: MYBA-077 A Married Woman's Petals Turned Over Riona Kudo
 
 url: /v/myba077pl
-date: 0000-12-14T01:20:00Z
+date: 2024-12-14T01:20:00Z
 image: "myba077pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Affair, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Affair, Mature Woman	]
 maker: [ Hitodzumaengokai-Emanuel  ]
 actress: [ Kudou Riona ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kudou Riona ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WopW9Ardbvfbxby">
     <a href="javascript:;">
         <img src="/v/myba077pl/myba077pl.jpg" width="WIDTH" height="HEIGHT" alt="myba077pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kudou Riona ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/myba077pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kudou Riona ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/myba077pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

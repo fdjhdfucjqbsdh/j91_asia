@@ -3,9 +3,9 @@ author: j91
 title: ANKB-033 Squirting Girl! Super Elastic J Cup Outdoor Hot Spring Carnal Play
 
 url: /v/ankb033pl
-date: 0000-12-14T01:45:00Z
+date: 2024-12-14T01:45:00Z
 image: "ankb033pl.jpg"
-tags: [Upcoming releases, Big Tits, Titty Fuck, Facials, Squirting, Hot Spring	]
+tags: [Censored, Big Tits, Titty Fuck, Facials, Squirting, Hot Spring	]
 maker: [ LOVE Ma￮ko - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dPelrvPOGrIkkmp">
     <a href="javascript:;">
         <img src="/v/ankb033pl/ankb033pl.jpg" width="WIDTH" height="HEIGHT" alt="ankb033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ankb033pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ankb033pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

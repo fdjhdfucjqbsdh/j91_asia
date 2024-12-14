@@ -3,9 +3,9 @@ author: j91
 title: AUKG-614 Stepsister Lesbians ~Lesbian Stepsister Has Full-on Lesbian Sex With Her Beautiful Brother's Wife~
 
 url: /v/aukg614pl
-date: 0000-12-14T01:05:00Z
+date: 2024-12-14T01:05:00Z
 image: "aukg614pl.jpg"
-tags: [Upcoming releases, Lesbian, Married Woman, Shaved, Drama, Cuckold	]
+tags: [Censored, Lesbian, Married Woman, Shaved, Drama, Cuckold	]
 maker: [ U & K  ]
 actress: [ Suehiro Jun, Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suehiro Jun, Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Bb20rXQyoLuy1qb">
     <a href="javascript:;">
         <img src="/v/aukg614pl/aukg614pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg614pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suehiro Jun, Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg614pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suehiro Jun, Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg614pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
