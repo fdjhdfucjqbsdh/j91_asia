@@ -3,9 +3,9 @@ author: j91
 title: ASIA-113 Shemale And Lesbian? He Shows Off His Big Erect Dick To The Girl He Picked Up! She's Surprised, But He Has Creampie Sex With Her!
 
 url: /v/asia113pl
-date: 0000-12-14T00:00:00Z
+date: 2024-12-14T00:00:00Z
 image: "asia113pl.jpg"
-tags: [Upcoming releases, Transsexual, Creampie, Lesbian, Nampa, 4HR+, Cross Dressing, Other Asian	]
+tags: [Censored, Transsexual, Creampie, Lesbian, Nampa, 4HR+, Cross Dressing, Other Asian	]
 maker: [ Asia- Mousou Zoku Inta-nashonaru  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="X1lV8bAXbVsDl8J">
     <a href="javascript:;">
         <img src="/v/asia113pl/asia113pl.jpg" width="WIDTH" height="HEIGHT" alt="asia113pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/asia113pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/asia113pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
