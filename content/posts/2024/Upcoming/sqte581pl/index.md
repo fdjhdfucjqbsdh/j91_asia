@@ -3,9 +3,9 @@ author: j91
 title: SQTE-581 More Than A Sex Friend, But Less Than A Lover. Sex Is 100% On My Mind. POV Sex With A Horny Girl! Mizuki Yayoi
 
 url: /v/sqte581pl
-date: 0000-12-14T01:55:00Z
+date: 2024-12-14T01:55:00Z
 image: "sqte581pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Masturbation, POV, Beautiful Girl	]
+tags: [Censored, Blow, Creampie, Solowork, Masturbation, POV, Beautiful Girl	]
 maker: [ S-cute  ]
 actress: [ Yayoi Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yayoi Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8VXoD2OrAxcooBr">
     <a href="javascript:;">
         <img src="/v/sqte581pl/sqte581pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte581pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yayoi Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sqte581pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yayoi Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sqte581pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

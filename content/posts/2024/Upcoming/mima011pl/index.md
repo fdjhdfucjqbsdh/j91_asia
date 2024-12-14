@@ -3,9 +3,9 @@ author: j91
 title: MIMA-011 Cosplay Erotic Fantasy Big Tits And Big Butt, Leopard Print Bunny And Fishnet Stockings Clothed SEX Tsubaki Rika
 
 url: /v/mima011pl
-date: 0000-12-14T01:50:00Z
+date: 2024-12-14T01:50:00Z
 image: "mima011pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Other Fetish, Big Tits, Erotic Wear, Huge Butt	]
+tags: [Censored, Cosplay, Solowork, Other Fetish, Big Tits, Erotic Wear, Huge Butt	]
 maker: [ Miru  ]
 actress: [ Tsubaki Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="46xR9pdrarsKvR0">
     <a href="javascript:;">
         <img src="/v/mima011pl/mima011pl.jpg" width="WIDTH" height="HEIGHT" alt="mima011pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mima011pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mima011pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

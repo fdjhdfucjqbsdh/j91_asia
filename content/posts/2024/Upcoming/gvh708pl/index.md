@@ -3,9 +3,9 @@ author: j91
 title: GVH-708 Overwhelming Super Busty Sandwich! Plump Reverse 3P Slut Brothel Full Course SP! Reo Fujisawa / Nina Nishimura
 
 url: /v/gvh708pl
-date: 0000-12-14T01:55:00Z
+date: 2024-12-14T01:55:00Z
 image: "gvh708pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Slut, BBW, Ultra-Huge Tits, Soapland	]
+tags: [Censored, 3P, 4P, Slut, BBW, Ultra-Huge Tits, Soapland	]
 maker: [ Glory Quest  ]
 actress: [ Nishimura Nina ,Fujisawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimura Nina ,Fujisawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2OA8K8a72QIVor">
     <a href="javascript:;">
         <img src="/v/gvh708pl/gvh708pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh708pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishimura Nina ,Fujisawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh708pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishimura Nina ,Fujisawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh708pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

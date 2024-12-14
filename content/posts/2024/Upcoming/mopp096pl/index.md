@@ -3,9 +3,9 @@ author: j91
 title: MOPP-096 Reverse Anal For A Cheeky Bratty Childhood Friend Who Finds Out She's A Shitty Masochist And Makes Her Understand Momo Shiraishi
 
 url: /v/mopp096pl
-date: 0000-12-14T01:05:00Z
+date: 2024-12-14T01:05:00Z
 image: "mopp096pl.jpg"
-tags: [Upcoming releases, Anal, Blow, Solowork, Slut, Childhood Friend, Submissive Men	]
+tags: [Censored, Anal, Blow, Solowork, Slut, Childhood Friend, Submissive Men	]
 maker: [ M O Paradise  ]
 actress: [ Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0p0owMre6PSDzg">
     <a href="javascript:;">
         <img src="/v/mopp096pl/mopp096pl.jpg" width="WIDTH" height="HEIGHT" alt="mopp096pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mopp096pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mopp096pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

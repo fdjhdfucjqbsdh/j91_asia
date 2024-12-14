@@ -3,9 +3,9 @@ author: j91
 title: MIBB-048 Race Queen Gets Hammered, Tied Up With A Shaved Pussy And Spread Legs, Electric Massager Torture, And A Massive Squirting RQ Gets Fucked Hard! Mizubata Asami
 
 url: /v/mibb048pl
-date: 0000-12-14T01:50:00Z
+date: 2024-12-14T01:50:00Z
 image: "mibb048pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Electric Massager, Squirting, Shaved, Race Queen	]
+tags: [Censored, Restraint, Solowork, Electric Massager, Squirting, Shaved, Race Queen	]
 maker: [ Miru  ]
 actress: [ Mizuhata Asami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuhata Asami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JoQX7L33BkUjd43">
     <a href="javascript:;">
         <img src="/v/mibb048pl/mibb048pl.jpg" width="WIDTH" height="HEIGHT" alt="mibb048pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mibb048pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuhata Asami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mibb048pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
