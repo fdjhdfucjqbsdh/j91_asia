@@ -3,9 +3,9 @@ author: j91
 title: JUR-127 During My Wife's Pregnancy, I Was Even Forbidden To Masturbate, So I Ended Up Having Sex With My Stepmother, Rei, Who Came To Tokyo, Over And Over Again... Rei Kimura
 
 url: /v/jur127pl
-date: 0000-12-20T01:50:00Z
+date: 2024-12-20T01:50:00Z
 image: "jur127pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Stepmother	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Stepmother	]
 maker: [Madonna]
 actress: [ Kimura Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kimura Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="61WW8lvrJqsZRz">
     <a href="javascript:;">
         <img src="/v/jur127pl/jur127pl.jpg" width="WIDTH" height="HEIGHT" alt="jur127pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur127pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur127pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

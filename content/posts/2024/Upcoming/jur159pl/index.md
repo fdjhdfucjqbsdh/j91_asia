@@ -3,9 +3,9 @@ author: j91
 title: JUR-159 A Thorough Look At The Ultimate Private Parts, The Anus, That She Has Never Shown To Her Husband. Shameful Asshole Exposed Pregnancy Intercourse Haruka Rukawa
 
 url: /v/jur159pl
-date: 0000-12-20T01:50:00Z
+date: 2024-12-20T01:50:00Z
 image: "jur159pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Married Woman, Butt, Mature Woman, Cuckold	]
+tags: [Censored, Solowork, Humiliation, Married Woman, Butt, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Rukawa Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Rukawa Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7dd3bzZqvrsA7zd">
     <a href="javascript:;">
         <img src="/v/jur159pl/jur159pl.jpg" width="WIDTH" height="HEIGHT" alt="jur159pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Rukawa Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur159pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Rukawa Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur159pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

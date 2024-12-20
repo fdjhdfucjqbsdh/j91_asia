@@ -3,9 +3,9 @@ author: j91
 title: JUR-134 My Childhood Friend, Who Used To Like Me, Has Grown Into A Big-dick Man With A Strong Sex Drive, So I Ended Up Having Raw Sex With Him Again And Again... Maki Hojo
 
 url: /v/jur134pl
-date: 0000-12-20T01:50:00Z
+date: 2024-12-20T01:50:00Z
 image: "jur134pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Mature Woman, Huge Butt, Huge Cock	]
+tags: [Censored, Creampie, Solowork, Married Woman, Mature Woman, Huge Butt, Huge Cock	]
 maker: [Madonna]
 actress: [ Houjou Maki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Houjou Maki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BkagDL9jzgtyqbP">
     <a href="javascript:;">
         <img src="/v/jur134pl/jur134pl.jpg" width="WIDTH" height="HEIGHT" alt="jur134pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Houjou Maki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur134pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Houjou Maki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur134pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
