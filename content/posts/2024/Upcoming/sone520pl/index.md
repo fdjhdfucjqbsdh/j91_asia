@@ -3,9 +3,9 @@ author: j91
 title: SONE-520 Elegant And Sophisticated Adult Eroticism, Shiori Yomoto, Is The First In Her Life To Do All Of The Following,5 Major Releases 1. Big Dick 2. Swallowing 3. Bondage 4. Male Squirting 5. Aphrodisiac 5P Orgy
 
 url: /v/sone520pl
-date: 0000-12-20T01:55:00Z
+date: 2024-12-20T01:55:00Z
 image: "sone520pl.jpg"
-tags: [Upcoming releases, Solowork, Cum, Shibari, Promiscuity, Huge Cock, Male Squirting	]
+tags: [Censored, Solowork, Cum, Shibari, Promiscuity, Huge Cock, Male Squirting	]
 maker: [S1 NO.1 STYLE]
 actress: [ Yorimoto Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yorimoto Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AwOVJOwYkyhXrdG">
     <a href="javascript:;">
         <img src="/v/sone520pl/sone520pl.jpg" width="WIDTH" height="HEIGHT" alt="sone520pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yorimoto Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone520pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yorimoto Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone520pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
