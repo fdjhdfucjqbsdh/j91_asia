@@ -1,21 +1,21 @@
 ---
 author: j91
-title: ENKI-078 Slutty Female Orgasm Gal Hina-chan's Nipples Are Completely Pounded And Then Her Pussy Is Creampied With Hot Cum
+title: KIR-070 Is My Big Sister With A Plump Figure And Always Showing Her Panty Lines Trying To Seduce Me? Yume Aikawa
 
-url: /v/enki078pl
-date: 2024-12-20T01:00:00Z
-image: "enki078pl.jpg"
-tags: [Censored, Creampie, Nasty, Hardcore, 4HR+, Deep Throating, Promiscuity, Piss Drinking, Vomit	]
-maker: [ K.M.Produce  ]
-actress: [ ]
+url: /v/kir070pl
+date: 2024-12-20T00:15:00Z
+image: "kir070pl.jpg"
+tags: [Censored, Creampie, Solowork, Big Tits, Slender, Sister, Drama	]
+maker: [ Next  ]
+actress: [ Ayakawa Yume ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="4zvyRy0z79TyOm">
+<div class="video" data-videoid="jqVRrZbpo8fzV3Q">
     <a href="javascript:;">
-        <img src="/v/enki078pl/enki078pl.jpg" width="WIDTH" height="HEIGHT" alt="enki078pl.mp4" loading="lazy">
+        <img src="/v/kir070pl/kir070pl.jpg" width="WIDTH" height="HEIGHT" alt="kir070pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/enki078pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kir070pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/enki078pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kir070pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
