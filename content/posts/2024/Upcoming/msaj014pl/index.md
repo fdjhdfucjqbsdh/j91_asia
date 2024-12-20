@@ -3,9 +3,9 @@ author: j91
 title: MSAJ-014 SEX-addicted Woman, Sex-crazed Flight Attendant Rino, 33 Years Old, Sasami Rino
 
 url: /v/msaj014pl
-date: 0000-12-20T01:09:00Z
+date: 2024-12-20T01:09:00Z
 image: "msaj014pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Nasty, Hardcore, Cum, Stewardess	]
+tags: [Censored, Blow, Creampie, Solowork, Nasty, Hardcore, Cum, Stewardess	]
 maker: [Toyohiko]
 actress: [ Sasami Rino ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sasami Rino ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="r09Jla0GGPIbVby">
     <a href="javascript:;">
         <img src="/v/msaj014pl/msaj014pl.jpg" width="WIDTH" height="HEIGHT" alt="msaj014pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sasami Rino ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/msaj014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sasami Rino ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/msaj014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

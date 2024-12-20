@@ -3,9 +3,9 @@ author: j91
 title: BONY-130 French Kissing, Blowjob, Licking, Saliva Dripping, Tongue Fucking, Mouth Play, Rara Shinozaki
 
 url: /v/bony130pl
-date: 0000-12-20T01:14:00Z
+date: 2024-12-20T01:14:00Z
 image: "bony130pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Other Fetish, Beautiful Girl, Kiss	]
+tags: [Censored, Blow, Creampie, Solowork, Other Fetish, Beautiful Girl, Kiss	]
 maker: [ボニータ-妄想族]
 actress: [ Shinozaki Rara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shinozaki Rara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="L3PVDM06gvU7xj">
     <a href="javascript:;">
         <img src="/v/bony130pl/bony130pl.jpg" width="WIDTH" height="HEIGHT" alt="bony130pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shinozaki Rara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bony130pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shinozaki Rara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bony130pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: ROYD-216 If You Keep Teasing Your Innocent And Extremely Shy Stepsister Every Day, She Will Become Super Sensitive And Prematurely Ejaculating! She Will Suddenly Turn Into A Perverted Girl Who Keeps Cumming With A Dirty Face. Karin Kitaoka
 
 url: /v/royd216pl
-date: 0000-12-20T01:35:00Z
+date: 2024-12-20T01:35:00Z
 image: "royd216pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Other Fetish, Sister, No Bra	]
+tags: [Censored, Creampie, Solowork, School Girls, Other Fetish, Sister, No Bra	]
 maker: [ROYAL]
 actress: [ Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Yge1BoqgA7uvy0L">
     <a href="javascript:;">
         <img src="/v/royd216pl/royd216pl.jpg" width="WIDTH" height="HEIGHT" alt="royd216pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd216pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd216pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

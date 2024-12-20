@@ -3,9 +3,9 @@ author: j91
 title: FOCS-228 I Was Seduced By The Blonde Gal Next Door... I Was Caught Peeping And To Make Up For It, She Treated Me Like A Sex Toy... Nana Kisaki
 
 url: /v/focs228pl
-date: 0000-12-20T01:14:00Z
+date: 2024-12-20T01:14:00Z
 image: "focs228pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Slut, Tits	]
+tags: [Censored, Solowork, Gal, Slut, Tits	]
 maker: [Abc- Mousou Zoku]
 actress: [ Kisaki Nana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kisaki Nana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lgK2Lxp8lgt7G8e">
     <a href="javascript:;">
         <img src="/v/focs228pl/focs228pl.jpg" width="WIDTH" height="HEIGHT" alt="focs228pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kisaki Nana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs228pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kisaki Nana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs228pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AKID-114 Year-round Horniness! Pregnancy OK! Slutty Wives' Excessive Sex (individual Shooting) Vol.3 Tall Wives Having Serious Sex With Younger Men Rika-san/F Cup/33 Years Old Rei-san/D Cup/31 Years Old
 
 url: /v/akid114pl
-date: 0000-12-20T01:14:00Z
+date: 2024-12-20T01:14:00Z
 image: "akid114pl.jpg"
-tags: [Upcoming releases, Voyeur, Married Woman, POV, Slut, Tall	]
+tags: [Censored, Voyeur, Married Woman, POV, Slut, Tall	]
 maker: [Omochikaeri - Mousozoku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wJ2YRxKL4pUJMRo">
     <a href="javascript:;">
         <img src="/v/akid114pl/akid114pl.jpg" width="WIDTH" height="HEIGHT" alt="akid114pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/akid114pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/akid114pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
