@@ -3,9 +3,9 @@ author: j91
 title: BLOR-258 She's Charming, Easy-going, And Has A Cute Smile! A Beautiful Arcade Store Clerk Was Turned Into A Female By A Super-strong Dick... She Was Penetrated Deep Inside And Kept Yelling "I'm Coming" Like An Animal
 
 url: /v/blor258pl
-date: 0000-12-21T01:15:00Z
+date: 2024-12-21T01:15:00Z
 image: "blor258pl.jpg"
-tags: [Upcoming releases, Older Sister, Facials, Breasts, Massage, Acme · Orgasm	]
+tags: [Censored, Older Sister, Facials, Breasts, Massage, Acme · Orgasm	]
 maker: [ Burokkori-  Mousou Zoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GQZkkYoPopu1e68">
     <a href="javascript:;">
         <img src="/v/blor258pl/blor258pl.jpg" width="WIDTH" height="HEIGHT" alt="blor258pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/blor258pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/blor258pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
