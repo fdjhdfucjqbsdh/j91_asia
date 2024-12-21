@@ -3,9 +3,9 @@ author: j91
 title: AVSA-353 It's Your Fault For Going Out Dressed Like That. You Kidnapped A Beautiful Girl And Exposed Her To A Disgrace. Shion Nishiumi
 
 url: /v/avsa353pl
-date: 0000-12-21T01:20:00Z
+date: 2024-12-21T01:20:00Z
 image: "avsa353pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Abuse, Confinement, Evil	]
+tags: [Censored, Restraint, Solowork, Abuse, Confinement, Evil	]
 maker: [ Avs  ]
 actress: [ Saikai Shion ]
 ---
@@ -13,13 +13,13 @@ actress: [ Saikai Shion ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="llBmVGYgrPC7yJZ">
     <a href="javascript:;">
         <img src="/v/avsa353pl/avsa353pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa353pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Saikai Shion ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa353pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Saikai Shion ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa353pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

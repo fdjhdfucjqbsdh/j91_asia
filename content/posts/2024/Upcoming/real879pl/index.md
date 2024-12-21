@@ -3,9 +3,9 @@ author: j91
 title: REAL-879 Aya Konami, A Student Teacher At A Former School, Is Impregnated And Gang-raped By A Virgin Student Who Has Too Much Sexual Desire As A Teaching Material For Female Body Training.
 
 url: /v/real879pl
-date: 0000-12-21T01:55:00Z
+date: 2024-12-21T01:55:00Z
 image: "real879pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Female Teacher, Nasty, Hardcore, Leotard, Rape, Deep Throating	]
+tags: [Censored, Solowork, Humiliation, Female Teacher, Nasty, Hardcore, Leotard, Rape, Deep Throating	]
 maker: [ K.M.Produce  ]
 actress: [ Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Zr8ZpD2MB2uqxwZ">
     <a href="javascript:;">
         <img src="/v/real879pl/real879pl.jpg" width="WIDTH" height="HEIGHT" alt="real879pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/real879pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/real879pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
