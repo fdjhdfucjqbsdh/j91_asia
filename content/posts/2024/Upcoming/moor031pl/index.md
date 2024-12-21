@@ -3,9 +3,9 @@ author: j91
 title: MOOR-031 Hibiki Otsuki, The Health Teacher, Devours A Man In An Extraordinary Sexual Encounter
 
 url: /v/moor031pl
-date: 0000-12-21T01:20:00Z
+date: 2024-12-21T01:20:00Z
 image: "moor031pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, 3P, 4P, Solowork, Female Teacher, Slut	]
+tags: [Censored, Handjob, Creampie, 3P, 4P, Solowork, Female Teacher, Slut	]
 maker: [ Mushroom - Mousozoku  ]
 actress: [ Ootsuki Hibiki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootsuki Hibiki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wPjjKJdpaZcJkBj">
     <a href="javascript:;">
         <img src="/v/moor031pl/moor031pl.jpg" width="WIDTH" height="HEIGHT" alt="moor031pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ootsuki Hibiki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/moor031pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ootsuki Hibiki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/moor031pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JSOP-045 New Beautiful Mature Woman Bathhouse Rich And Sticky Luxury Soap Miki Yamase
 
 url: /v/jsop045pl
-date: 0000-12-21T01:40:00Z
+date: 2024-12-21T01:40:00Z
 image: "jsop045pl.jpg"
-tags: [Upcoming releases, Solowork, Mature Woman, Lotion, Kimono, Mourning, Soapland	]
+tags: [Censored, Solowork, Mature Woman, Lotion, Kimono, Mourning, Soapland	]
 maker: [ Global Media Entertainment  ]
 actress: [ Yamase Miki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yamase Miki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AklGwwWr8vTvGY">
     <a href="javascript:;">
         <img src="/v/jsop045pl/jsop045pl.jpg" width="WIDTH" height="HEIGHT" alt="jsop045pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yamase Miki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jsop045pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yamase Miki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jsop045pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

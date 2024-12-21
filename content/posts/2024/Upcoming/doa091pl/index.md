@@ -3,9 +3,9 @@ author: j91
 title: DOA-091 Doujin AV Big Breasted Masochist Cosplayer Is Tied Up And Made To Cum! She Is So Excited By Her Tightly Bound Breasts That Seem To Burst!
 
 url: /v/doa091pl
-date: 0000-12-21T01:15:00Z
+date: 2024-12-21T01:15:00Z
 image: "doa091pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Shibari, Abuse	]
+tags: [Censored, Cosplay, Creampie, Shibari, Abuse	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3o9wb43pr0S6Lk">
     <a href="javascript:;">
         <img src="/v/doa091pl/doa091pl.jpg" width="WIDTH" height="HEIGHT" alt="doa091pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/doa091pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/doa091pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
