@@ -16,8 +16,67 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-
-
+  <style>
+    .overlay.is-active {
+      background: rgba(0, 0, 0, 0.6);
+      transition: all 0.3s ease;
+    }
+      
+      
+    svg:hover {
+      stroke: #4CAF50;
+      transform: rotate(15deg);
+      transition: all 0.3s ease;
+    }
+      
+    .burger-line {
+      transition: all 0.3s ease;
+    }
+    
+    .burger:hover .burger-line {
+      background-color: #4CAF50; /* Mengubah warna garis saat hover */
+    }
+    
+    .burger.is-active .burger-line:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+    }
+    
+    .burger.is-active .burger-line:nth-child(2) {
+      opacity: 0;
+    }
+    
+    .burger.is-active .burger-line:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+    }
+    
+      
+    .menu-link {
+      position: relative;
+      color: #333;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    
+    .menu-link::after {
+      content: '';
+      position: absolute;
+      width: 0;
+      height: 3px;
+      bottom: 0;
+      left: 0;
+      background-color: #4CAF50;
+      transition: width 0.3s ease-in-out;
+    }
+    
+    .menu-link:hover::after {
+      width: 100%;
+    }
+    
+    .menu-link:hover {
+      color: #4CAF50; /* Mengubah warna teks saat hover */
+    }
+    </style>
+    
   </head>
   <body>
     <script type="text/javascript" src="https://j91.asia/asset/toggle.js"></script>
