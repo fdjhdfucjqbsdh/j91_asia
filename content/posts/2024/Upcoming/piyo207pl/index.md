@@ -3,9 +3,9 @@ author: j91
 title: PIYO-207 "If You Love Me, Put It In Raw!" My Student Is Trying To Get Me Pregnant With Her Vaginal Cum Shot. My Love Life Is Crazy. Chapter 10 - Exchange Student Edition
 
 url: /v/piyo207pl
-date: 0000-12-26T01:15:00Z
+date: 2024-12-25T15:15:00Z
 image: "piyo207pl.jpg"
-tags: [Upcoming releases, Creampie, Girl, School Girls, Breasts, Shaved	]
+tags: [Censored, Creampie, Girl, School Girls, Breasts, Shaved	]
 maker: [ Hiyoko  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="Myy36Aod8ZSdBO">
     <a href="javascript:;">
         <img src="/v/piyo207pl/piyo207pl.jpg" width="WIDTH" height="HEIGHT" alt="piyo207pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/piyo207pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/piyo207pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

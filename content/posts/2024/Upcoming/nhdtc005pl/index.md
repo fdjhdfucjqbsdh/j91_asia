@@ -3,9 +3,9 @@ author: j91
 title: NHDTC-005 I Can't Break The Habit Of Being Lesbianized Every Tuesday... A Sensitive Girl Falls Into The Lesbian Hairdresser's Trap And Climaxes Until She Pisses Herself In The Crossdresser's Clothes
 
 url: /v/nhdtc005pl
-date: 0000-12-26T01:45:00Z
+date: 2024-12-25T15:45:00Z
 image: "nhdtc005pl.jpg"
-tags: [Upcoming releases, Lesbian, Humiliation, Finger Fuck, Squirting, Kiss	]
+tags: [Censored, Lesbian, Humiliation, Finger Fuck, Squirting, Kiss	]
 maker: [ Natural High  ]
 actress: [ Yuuri Maina, Minase Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuuri Maina, Minase Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_3.html">
+<div class="video" data-videoid="d88A2m28x6skv7p">
     <a href="javascript:;">
         <img src="/v/nhdtc005pl/nhdtc005pl.jpg" width="WIDTH" height="HEIGHT" alt="nhdtc005pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuuri Maina, Minase Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nhdtc005pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuuri Maina, Minase Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_3.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nhdtc005pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
