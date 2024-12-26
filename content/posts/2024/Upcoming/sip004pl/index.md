@@ -1,21 +1,21 @@
 ---
 author: j91
-title: FGAN-134 Bloomer Manager's Penis Ejaculation Support The Manager Who Is Said To Be The Cutest In The School Is Devoted And Even Takes Care Of Your Lower Body
+title: SIP-004 Shirouto TV X PRESTIGE PREMIUM 55
 
-url: /v/fgan134pl
-date: 2024-12-26T01:15:00Z
-image: "fgan134pl.jpg"
-tags: [Censored, Masturbation, School Girls, Butt, Bloomers	]
-maker: [ Fechi Me  ]
-actress: [ Kuraki Shiori ,Akana Ito ]
+url: /v/sip004pl
+date: 2024-12-26T01:33:00Z
+image: "sip004pl.jpg"
+tags: [Censored, Amateur, Big Tits, POV, Facials, Squirting, 4HR+	]
+maker: [Shirouto TV  ]
+actress: [Sakura Yume, Imai Emi, Yazawa Nano, Takimoto Shizuha ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="VmQkoy2e8gfKMVo">
+<div class="video" data-videoid="dPOWB3pLowskxJv">
     <a href="javascript:;">
-        <img src="/v/fgan134pl/fgan134pl.jpg" width="WIDTH" height="HEIGHT" alt="fgan134pl.mp4" loading="lazy">
+        <img src="/v/sip004pl/sip004pl.jpg" width="WIDTH" height="HEIGHT" alt="sip004pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kuraki Shiori ,Akana Ito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/fgan134pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sip004pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuraki Shiori ,Akana Ito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/fgan134pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sip004pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
