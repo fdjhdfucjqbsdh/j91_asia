@@ -3,9 +3,9 @@ author: j91
 title: TFOR-001 Immoral NTR Desire Please Mess With My Girlfriend! Forbidden Choking Sex Leads To Creampie Orgasm
 
 url: /v/tfor001pl
-date: 0000-12-27T01:15:00Z
+date: 2024-12-26T15:15:00Z
 image: "tfor001pl.jpg"
-tags: [Upcoming releases, Creampie, Squirting, Bukkake, Couple, Cuckold	]
+tags: [Censored, Creampie, Squirting, Bukkake, Couple, Cuckold	]
 maker: [ MERCURY (Mercury)  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vk49RG8aO8ubxJ">
     <a href="javascript:;">
         <img src="/v/tfor001pl/tfor001pl.jpg" width="WIDTH" height="HEIGHT" alt="tfor001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tfor001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tfor001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

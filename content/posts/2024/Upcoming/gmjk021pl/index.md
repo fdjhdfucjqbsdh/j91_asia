@@ -3,9 +3,9 @@ author: j91
 title: GMJK-021 A Masked Amateur Who Charms Men With Her Outstanding Proportions
 
 url: /v/gmjk021pl
-date: 0000-12-27T01:15:00Z
+date: 2024-12-26T15:15:00Z
 image: "gmjk021pl.jpg"
-tags: [Upcoming releases, Creampie,Amateur,Big Tits,Lotion,Masked	]
+tags: [Censored, Creampie,Amateur,Big Tits,Lotion,Masked	]
 maker: [ MERCURY (Mercury)  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6oKO9jjxget90XD">
     <a href="javascript:;">
         <img src="/v/gmjk021pl/gmjk021pl.jpg" width="WIDTH" height="HEIGHT" alt="gmjk021pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gmjk021pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gmjk021pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

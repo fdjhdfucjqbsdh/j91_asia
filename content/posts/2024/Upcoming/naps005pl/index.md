@@ -3,9 +3,9 @@ author: j91
 title: NAPS-005 Picking Up And Instant Sex 05 She's A Student And Also Works At A Cafe. "She's So Cute, Anything Suits Her!" She Often Gets Picked Up, And Her Slender, Beautiful Nipples Are Erected And Fucked Hard! Moeka-chan
 
 url: /v/naps005pl
-date: 0000-12-27T01:15:00Z
+date: 2024-12-26T15:15:00Z
 image: "naps005pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Nampa, School Uniform, Tits	]
+tags: [Censored, Blow, Creampie, Nampa, School Uniform, Tits	]
 maker: [ First Star  ]
 actress: [ Marui Moeka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Marui Moeka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1BvWvwB6BRiez7g">
     <a href="javascript:;">
         <img src="/v/naps005pl/naps005pl.jpg" width="WIDTH" height="HEIGHT" alt="naps005pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Marui Moeka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/naps005pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Marui Moeka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/naps005pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
