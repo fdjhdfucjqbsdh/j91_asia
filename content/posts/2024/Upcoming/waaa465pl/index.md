@@ -3,9 +3,9 @@ author: j91
 title: WAAA-465 "Do You Want To Kiss Me?" A Naughty Student Is A Tongue-kissing Devil Who Drips Saliva And Drowns In Orgasms With Close Contact Pounding And Creampie Suzunoie Rin
 
 url: /v/waaa465pl
-date: 0000-01-03T01:45:00Z
+date: 2025-01-03T01:45:00Z
 image: "waaa465pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Other Fetish, Cowgirl, Kiss	]
+tags: [Censored, Creampie, Solowork, School Girls, Other Fetish, Cowgirl, Kiss	]
 maker: [WANZ FACTORY]
 actress: [ Suzunoya Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzunoya Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qyZd0LG7a1hzezg">
     <a href="javascript:;">
         <img src="/v/waaa465pl/waaa465pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa465pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzunoya Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa465pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzunoya Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa465pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: WAAA-464 The First Massive Squirt Of Her Life! Karin Kitaoka Has A Massive Orgasm With Her Portico Pushed To Its Limits
 
 url: /v/waaa464pl
-date: 0000-01-03T01:45:00Z
+date: 2025-01-03T01:45:00Z
 image: "waaa464pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Squirting, Cervix, Sweat, Acme · Orgasm	]
+tags: [Censored, Solowork, Beautiful Girl, Squirting, Cervix, Sweat, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="APa1BxOp49CZje">
     <a href="javascript:;">
         <img src="/v/waaa464pl/waaa464pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa464pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa464pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa464pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

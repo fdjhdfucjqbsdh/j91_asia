@@ -3,9 +3,9 @@ author: j91
 title: NPJS-128 Repeat Customers Are Coming In One After Another With The Mistress App! Good Vibes! Big Tits! Plump! Tall! A Big Woman Is Fucked By A Fellow Man In A Chain!
 
 url: /v/npjs128pl
-date: 0000-01-03T01:15:00Z
+date: 2025-01-03T01:15:00Z
 image: "npjs128pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Amateur, Big Tits, Nampa, Huge Butt	]
+tags: [Censored, 3P, 4P, Amateur, Big Tits, Nampa, Huge Butt	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zKRLMXGZqdfYjoe">
     <a href="javascript:;">
         <img src="/v/npjs128pl/npjs128pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs128pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs128pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs128pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

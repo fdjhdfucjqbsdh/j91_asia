@@ -3,9 +3,9 @@ author: j91
 title: WAAA-428 I'm Getting In Shape For You, My Beloved... But My Trainer's Intense Back Piston Is So Amazing That I Can't Stop Going To The Gym. Beautiful Ass Wife Sweaty Muscle Creampie! Hinako Mori
 
 url: /v/waaa428pl
-date: 0000-01-03T01:45:00Z
+date: 2025-01-03T01:45:00Z
 image: "waaa428pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Squirting, Cuckold, Acme · Orgasm, Back	]
+tags: [Censored, Creampie, Solowork, Squirting, Cuckold, Acme · Orgasm, Back	]
 maker: [WANZ FACTORY]
 actress: [ Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Jo9OXpGegMFjxdB">
     <a href="javascript:;">
         <img src="/v/waaa428pl/waaa428pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa428pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa428pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa428pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BF-727 I Can't Believe My Fiancée Turned Out To Be The Sex Friend Of A Rich Old Man... Emi Nishino
 
 url: /v/bf727pl
-date: 0000-01-03T01:26:00Z
+date: 2025-01-03T01:26:00Z
 image: "bf727pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Big Tits, Drama, Cuckold	]
+tags: [Censored, Blow, Solowork, Big Tits, Drama, Cuckold	]
 maker: [Befree]
 actress: [ Nishino Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishino Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="qrZXxKddLOUzelW">
     <a href="javascript:;">
         <img src="/v/bf727pl/bf727pl.jpg" width="WIDTH" height="HEIGHT" alt="bf727pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf727pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf727pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

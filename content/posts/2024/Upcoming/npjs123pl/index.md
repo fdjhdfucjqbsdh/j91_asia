@@ -3,9 +3,9 @@ author: j91
 title: NPJS-123 "Hold Me Until It's Time To Pick Up The Kids..." The Busty Wife With A Child I Matched With Was A Bitch Wife Who Brought Her Sex Friend Home To Release Her Sexual Desires. Married Woman, Waka-san.
 
 url: /v/npjs123pl
-date: 0000-01-03T01:15:00Z
+date: 2025-01-03T01:15:00Z
 image: "npjs123pl.jpg"
-tags: [Upcoming releases, Older Sister, Amateur, Big Tits, Married Woman, POV	]
+tags: [Censored, Older Sister, Amateur, Big Tits, Married Woman, POV	]
 maker: [Nampa JAPAN]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8809eJXx4gTX2e">
     <a href="javascript:;">
         <img src="/v/npjs123pl/npjs123pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs123pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs123pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs123pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

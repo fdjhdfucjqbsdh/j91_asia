@@ -3,9 +3,9 @@ author: j91
 title: LULU-351 My Neighbor's Beautiful-legged Beautician Wife Runs A Home Salon Where She Teases Me With Her Sweaty Pantyhose And Makes My Dick Stick Out, And Then She Uses Her Amazing Footjob Technique To Make Me Cum Over And Over Again. Waka Misono
 
 url: /v/lulu351pl
-date: 0000-01-03T01:28:00Z
+date: 2025-01-03T01:28:00Z
 image: "lulu351pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Beauty Shop, Married Woman, Cuckold	]
+tags: [Censored, Solowork, Pantyhose, Beauty Shop, Married Woman, Cuckold	]
 maker: [LUNATICS]
 actress: [ Misono Waka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="r8Dv9YkYWrTbm49">
     <a href="javascript:;">
         <img src="/v/lulu351pl/lulu351pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu351pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu351pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu351pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

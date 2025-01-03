@@ -3,9 +3,9 @@ author: j91
 title: JJDA-056 My Senior's Wife, Hono Wakana
 
 url: /v/jjda056pl
-date: 0000-01-03T01:26:00Z
+date: 2025-01-03T01:26:00Z
 image: "jjda056pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Breasts, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Breasts, Cuckold	]
 maker: [Jukujo Daigaku- Jukujo Manji]
 actress: [ Wakamiya Hono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakamiya Hono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YGLkkX3oQ1T6y8">
     <a href="javascript:;">
         <img src="/v/jjda056pl/jjda056pl.jpg" width="WIDTH" height="HEIGHT" alt="jjda056pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjda056pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakamiya Hono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjda056pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
