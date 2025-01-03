@@ -3,9 +3,9 @@ author: j91
 title: CAWD-792 Ao Ishihara, 20 Years Old, AV Debut. A Former Idol, Now An Ordinary Girl Working Part-time At A Local Bookstore. This College Student Is The Furthest Thing From Being An AV Actress, But She Has A Body And Sensitivity That Are Just Right For AV...
 
 url: /v/cawd792pl
-date: 0000-01-03T01:50:00Z
+date: 2025-01-03T01:50:00Z
 image: "cawd792pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Facials, Squirting, Slender, Entertainer	]
+tags: [Censored, Solowork, Debut Production, Facials, Squirting, Slender, Entertainer	]
 maker: [Kawaii]
 actress: [ Ishihara Ao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ishihara Ao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MxKz9JAbb4Sm7Mr">
     <a href="javascript:;">
         <img src="/v/cawd792pl/cawd792pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd792pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ishihara Ao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd792pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ishihara Ao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd792pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

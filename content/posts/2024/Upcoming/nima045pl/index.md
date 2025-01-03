@@ -3,9 +3,9 @@ author: j91
 title: NIMA-045 A Huge Hit With Over 210,000 Downloads From FANZA Doujin Comics! Live-action Version! A Story About My Childhood Friend, Who Is Like A Male Friend, Being Turned Into A Female By A Playboy. Kana Yura Waka Misono
 
 url: /v/nima045pl
-date: 0000-01-03T01:36:00Z
+date: 2025-01-03T01:36:00Z
 image: "nima045pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Female College Student, Cuckold, Original Collaboration	]
+tags: [Censored, Creampie, Big Tits, Female College Student, Cuckold, Original Collaboration	]
 maker: [Fitch]
 actress: [ Misono Waka, Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka, Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jgB8AzOYW1Hzzkd">
     <a href="javascript:;">
         <img src="/v/nima045pl/nima045pl.jpg" width="WIDTH" height="HEIGHT" alt="nima045pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka, Yura Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima045pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka, Yura Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima045pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

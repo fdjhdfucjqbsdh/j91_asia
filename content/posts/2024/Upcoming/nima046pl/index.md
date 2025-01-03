@@ -3,9 +3,9 @@ author: j91
 title: NIMA-046 Live-action Version! While Mom And Dad Are Away... By Azu Amatsuki
 
 url: /v/nima046pl
-date: 0000-01-03T01:36:00Z
+date: 2025-01-03T01:36:00Z
 image: "nima046pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Titty Fuck, Sister, Original Collaboration	]
+tags: [Censored, Blow, Creampie, Solowork, Titty Fuck, Sister, Original Collaboration	]
 maker: [Fitch]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="D22BvxGvwDcdB8">
     <a href="javascript:;">
         <img src="/v/nima046pl/nima046pl.jpg" width="WIDTH" height="HEIGHT" alt="nima046pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima046pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima046pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
