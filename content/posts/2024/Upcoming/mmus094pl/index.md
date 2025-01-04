@@ -3,9 +3,9 @@ author: j91
 title: MMUS-094 MJOI The Best Perverted Masturbation Instruction Absolute Provocative Dirty Talk Masturbation Control Kurumi Sakura
 
 url: /v/mmus094pl
-date: 0000-01-04T01:50:00Z
+date: 2025-01-04T01:50:00Z
 image: "mmus094pl.jpg"
-tags: [Upcoming releases, Solowork, Masturbation, Dirty Words	]
+tags: [Censored, Solowork, Masturbation, Dirty Words	]
 maker: [ Marrion  ]
 actress: [ Kurumi Sakura]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="7PDXw9GXWduAdeA">
     <a href="javascript:;">
         <img src="/v/mmus094pl/mmus094pl.jpg" width="WIDTH" height="HEIGHT" alt="mmus094pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmus094pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmus094pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: SQTE-587 Perverse Sexual Habit, I Want To Tease And Bully Men Who Are Excited By Erections. Yuuna Himekawa
 
 url: /v/sqte587pl
-date: 0000-01-04T01:55:00Z
+date: 2025-01-04T01:55:00Z
 image: "sqte587pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Restraint, Solowork, Beautiful Girl, Love	]
+tags: [Censored, Blow, Creampie, Restraint, Solowork, Beautiful Girl, Love	]
 maker: [ S-cute  ]
 actress: [ Himekawa Yuuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himekawa Yuuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0r0pLM7oA8ugal">
     <a href="javascript:;">
         <img src="/v/sqte587pl/sqte587pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte587pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Himekawa Yuuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sqte587pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Himekawa Yuuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sqte587pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

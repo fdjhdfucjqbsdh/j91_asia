@@ -3,9 +3,9 @@ author: j91
 title: SORA-580 Lynching The World, A Masochistic Office Lady Falls Into A Choking Bottle And Squirts, Riisa Kisaragi
 
 url: /v/sora580pl
-date: 0000-01-04T01:55:00Z
+date: 2025-01-04T01:55:00Z
 image: "sora580pl.jpg"
-tags: [Upcoming releases, OL, Solowork, Outdoors, Abuse, Cruel Expression, Submissive Woman	]
+tags: [Censored, OL, Solowork, Outdoors, Abuse, Cruel Expression, Submissive Woman	]
 maker: [ Yama To Sora  ]
 actress: [ Kisaragi Riisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kisaragi Riisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qD2kpqorv1IzmYV">
     <a href="javascript:;">
         <img src="/v/sora580pl/sora580pl.jpg" width="WIDTH" height="HEIGHT" alt="sora580pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora580pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kisaragi Riisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora580pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: GVH-712 Pantyhose Specialty Shiina Koharu's Fully Clothed Pantyhose X Cosplay FUCK Shiina Koharu
 
 url: /v/gvh712pl
-date: 0000-01-04T01:55:00Z
+date: 2025-01-04T01:55:00Z
 image: "gvh712pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Pantyhose, Footjob, Leg Fetish, Erotic Wear	]
+tags: [Censored, Cosplay, Solowork, Pantyhose, Footjob, Leg Fetish, Erotic Wear	]
 maker: [ Glory Quest  ]
 actress: [ Shiina Koharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Koharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="RWvW6YKAKvIdR63">
     <a href="javascript:;">
         <img src="/v/gvh712pl/gvh712pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh712pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Koharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gvh712pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Koharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gvh712pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

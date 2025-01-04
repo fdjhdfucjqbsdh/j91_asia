@@ -3,9 +3,9 @@ author: j91
 title: SORA-578 Brainwashing Hypnosis, A Calm And Collected Calligraphy Artist Wife Is Hated As Much As You Want By A Bottom-class Old Man With A Flat-rate Plan, And I Brainwashed Her Into Ruining Her Life With The Best Award. Mizuki Yayoi
 
 url: /v/sora578pl
-date: 0000-01-04T01:55:00Z
+date: 2025-01-04T01:55:00Z
 image: "sora578pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Nasty, Hardcore, Hypnosis, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Nasty, Hardcore, Hypnosis, Drama, Cuckold	]
 maker: [ Yama To Sora  ]
 actress: [ Yayoi Mizuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yayoi Mizuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4Ba0DjOdZLsKXM2">
     <a href="javascript:;">
         <img src="/v/sora578pl/sora578pl.jpg" width="WIDTH" height="HEIGHT" alt="sora578pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yayoi Mizuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora578pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yayoi Mizuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora578pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
