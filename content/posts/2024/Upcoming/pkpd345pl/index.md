@@ -3,9 +3,9 @@ author: j91
 title: PKPD-345 Adulterous Married Woman Documentary Kaede Sakuma
 
 url: /v/pkpd345pl
-date: 0000-01-04T01:20:00Z
+date: 2025-01-04T01:20:00Z
 image: "pkpd345pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, POV, Beautiful Girl, Breasts	]
+tags: [Censored, Creampie, Solowork, Married Woman, POV, Beautiful Girl, Breasts	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Sakuma Kaede ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakuma Kaede ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vYyrpqq8LASbvx">
     <a href="javascript:;">
         <img src="/v/pkpd345pl/pkpd345pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd345pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakuma Kaede ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd345pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakuma Kaede ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd345pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
