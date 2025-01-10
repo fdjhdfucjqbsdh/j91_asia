@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-305 "Whose Underwear Do You Like Best? This Is Part Of The Job, So Take A Good Look!" When I Got A Job At An Underwear Manufacturer, I Was Seduced By 10 Busty Female Employees... It's A Crazy Situation! 2
 
 url: /v/huntc305pl
-date: 0000-01-10T01:15:00Z
+date: 2025-01-10T01:15:00Z
 image: "huntc305pl.jpg"
-tags: [Upcoming releases, OL, Blow, Nasty, Hardcore, Lingerie, Female Boss	]
+tags: [Censored, OL, Blow, Nasty, Hardcore, Lingerie, Female Boss	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kl1glgr89vuO1eB">
     <a href="javascript:;">
         <img src="/v/huntc305pl/huntc305pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc305pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc305pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc305pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
