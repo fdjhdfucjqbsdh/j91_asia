@@ -3,9 +3,9 @@ author: j91
 title: BBAN-513 Schoolgirl In Uniform Gets Lesbian Molested. Her Aching Body Gets So Sensitive That She Becomes Addicted To The Lewd Touches... Jun Mizukawa Hinako Matsui
 
 url: /v/bban513pl
-date: 0000-01-10T01:10:00Z
+date: 2025-01-10T01:10:00Z
 image: "bban513pl.jpg"
-tags: [Upcoming releases, Lesbian, Beautiful Girl, Squirting, Lesbian Kiss, Acme · Orgasm	]
+tags: [Censored, Lesbian, Beautiful Girl, Squirting, Lesbian Kiss, Acme · Orgasm	]
 maker: [Bibian]
 actress: [ Mizukawa Jun ,Matsui Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizukawa Jun ,Matsui Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Y6ap0kDO1xhvkzL">
     <a href="javascript:;">
         <img src="/v/bban513pl/bban513pl.jpg" width="WIDTH" height="HEIGHT" alt="bban513pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizukawa Jun ,Matsui Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban513pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizukawa Jun ,Matsui Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban513pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

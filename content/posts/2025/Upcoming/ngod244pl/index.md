@@ -3,9 +3,9 @@ author: j91
 title: NGOD-244 "Auntie... I've Always Wanted To Have Sex..." A Story About A Man Who Met His Beautiful Aunt For The First Time In Seven Years And Had Sex With Her Like A Monkey. Nami Kuroki
 
 url: /v/ngod244pl
-date: 0000-01-10T01:30:00Z
+date: 2025-01-10T01:30:00Z
 image: "ngod244pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Aunt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Cuckold, Aunt	]
 maker: [JET Eizou]
 actress: [ Kuroki Nami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuroki Nami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="k0ZyrOOVv8COjjw">
     <a href="javascript:;">
         <img src="/v/ngod244pl/ngod244pl.jpg" width="WIDTH" height="HEIGHT" alt="ngod244pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ngod244pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuroki Nami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ngod244pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
