@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-451 [Completely Subjective] A Year Wait For Reservations! A Super High-class Men's Esthetician Who Will Make You Cum Until Your Balls Are Empty, Tsumugi Akari
 
 url: /v/ipzz451pl
-date: 0000-01-10T01:50:00Z
+date: 2025-01-10T01:50:00Z
 image: "ipzz451pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Cowgirl, Butt, Leg Fetish	]
+tags: [Censored, Solowork, Beauty Shop, Cowgirl, Butt, Leg Fetish	]
 maker: [IDEA POCKET]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oZDGrP8eV4cdlB">
     <a href="javascript:;">
         <img src="/v/ipzz451pl/ipzz451pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz451pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz451pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz451pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

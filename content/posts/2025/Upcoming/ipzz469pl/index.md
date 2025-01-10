@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-469 Climax Awakening, I Can't Live Without Sex Anymore... 343 Orgasms, 2194 Pussy Convulsions, 2279 Hard Pistons, Impossible To Measure Pleasure Squirting, Ryo
 
 url: /v/ipzz469pl
-date: 0000-01-10T01:50:00Z
+date: 2025-01-10T01:50:00Z
 image: "ipzz469pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Cowgirl, Squirting, Tall, Sweat	]
+tags: [Censored, Solowork, Big Tits, Cowgirl, Squirting, Tall, Sweat	]
 maker: [IDEA POCKET]
 actress: [ Ryou ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ryou ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9vO0Vq7kRehagV3">
     <a href="javascript:;">
         <img src="/v/ipzz469pl/ipzz469pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz469pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ryou ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz469pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ryou ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz469pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

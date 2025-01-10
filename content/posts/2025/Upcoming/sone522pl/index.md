@@ -3,9 +3,9 @@ author: j91
 title: SONE-522 Ah, Ah, Slurp, Ahhh. I Became The Hot Sex Partner For The Sex-crazed Wife Next Door Who Is So Noisy Every Night. Okuda Saki
 
 url: /v/sone522pl
-date: 0000-01-10T01:55:00Z
+date: 2025-01-10T01:55:00Z
 image: "sone522pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Slut, Affair	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Slut, Affair	]
 maker: [S1 NO.1 STYLE]
 actress: [ Okuda Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Okuda Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GezdZmoRlWh18AG">
     <a href="javascript:;">
         <img src="/v/sone522pl/sone522pl.jpg" width="WIDTH" height="HEIGHT" alt="sone522pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Okuda Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone522pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Okuda Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone522pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

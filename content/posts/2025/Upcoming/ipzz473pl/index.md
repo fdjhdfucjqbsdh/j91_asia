@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-473 A Uniformed Little Sister Who Loves Her Big Brother Whispers And Seduces Her With Zero Distance Sex. Big Brother, Your Penis Is Always Hard And You're A Pervert. Yuna Hinata
 
 url: /v/ipzz473pl
-date: 0000-01-10T01:50:00Z
+date: 2025-01-10T01:50:00Z
 image: "ipzz473pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Uniform, School Girls, Dirty Words, Beautiful Girl	]
+tags: [Censored, Blow, Solowork, Uniform, School Girls, Dirty Words, Beautiful Girl	]
 maker: [IDEA POCKET]
 actress: [ Hinata Yuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Yuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6RQQpQBGJOu9XLr">
     <a href="javascript:;">
         <img src="/v/ipzz473pl/ipzz473pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz473pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hinata Yuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz473pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hinata Yuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz473pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
