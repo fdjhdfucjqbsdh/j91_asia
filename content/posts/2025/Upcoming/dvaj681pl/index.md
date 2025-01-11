@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-681 My Boyish Childhood Friend Is Like A Guy Friend, And Her Unexpected Sexy Lingerie And Mature Body Give Me A Full Erection. I Never Thought Anything Of It Before, And Now I've Been Cumming Inside Her So Many Times, Rika Tsubaki
 
 url: /v/dvaj681pl
-date: 0000-01-11T01:50:00Z
+date: 2025-01-11T01:50:00Z
 image: "dvaj681pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Childhood Friend	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Childhood Friend	]
 maker: [ Alice Japan  ]
 actress: [ Tsubaki Rika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jWzo4vrrygtz88X">
     <a href="javascript:;">
         <img src="/v/dvaj681pl/dvaj681pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj681pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj681pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj681pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

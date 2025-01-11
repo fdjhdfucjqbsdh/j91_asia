@@ -3,9 +3,9 @@ author: j91
 title: AVSA-355 'INGO' IN GOD ECSTACY A Lewd Slut Whispers Obscene And Vulgar Dirty Talk Into The Brain, Squeezing Out All The Semen From The Balls And Dominating The Lower Half Of The Men's Bodies. Hinako Mori, A Little Devil Streamer
 
 url: /v/avsa355pl
-date: 0000-01-11T01:45:00Z
+date: 2025-01-11T01:45:00Z
 image: "avsa355pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Older Sister, Dirty Words, Slut, Breasts	]
+tags: [Censored, Solowork, Pantyhose, Older Sister, Dirty Words, Slut, Breasts	]
 maker: [ Avs  ]
 actress: [ Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DjDPxXQdJ2Uk1oJ">
     <a href="javascript:;">
         <img src="/v/avsa355pl/avsa355pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa355pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa355pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa355pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

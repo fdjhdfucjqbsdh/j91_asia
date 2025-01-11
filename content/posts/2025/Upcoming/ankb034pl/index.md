@@ -3,9 +3,9 @@ author: j91
 title: ANKB-034 Mixed Bathing FUCK With A Beautiful And Sexy I-cup Busty Sister Rui Mizuki
 
 url: /v/ankb034pl
-date: 0000-01-11T01:20:00Z
+date: 2025-01-11T01:20:00Z
 image: "ankb034pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Facials, Hot Spring	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Facials, Hot Spring	]
 maker: [ LOVE Ma￮ko - Mousozoku  ]
 actress: [ Mizuki Rui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuki Rui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DQZkylgbegUkP83">
     <a href="javascript:;">
         <img src="/v/ankb034pl/ankb034pl.jpg" width="WIDTH" height="HEIGHT" alt="ankb034pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuki Rui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ankb034pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuki Rui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ankb034pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

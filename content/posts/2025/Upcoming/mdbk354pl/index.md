@@ -3,9 +3,9 @@ author: j91
 title: MDBK-354 Ass! Ass! Ass!! Knock Down A Man With The Overwhelming Erotic Techniques Of A Gal!! A Hot Gal Hip Call Girl Who Steals His Sperm With Her Ass Piston!!
 
 url: /v/mdbk354pl
-date: 0000-01-11T01:55:00Z
+date: 2025-01-11T01:55:00Z
 image: "mdbk354pl.jpg"
-tags: [Upcoming releases, Creampie, Gal, Cowgirl, Slut, Huge Butt	]
+tags: [Censored, Creampie, Gal, Cowgirl, Slut, Huge Butt	]
 maker: [ K.M.Produce  ]
 actress: [ Seina Arisa ,Ranka ,Otori Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seina Arisa ,Ranka ,Otori Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xMbZ6pzXbpT9av">
     <a href="javascript:;">
         <img src="/v/mdbk354pl/mdbk354pl.jpg" width="WIDTH" height="HEIGHT" alt="mdbk354pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seina Arisa ,Ranka ,Otori Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mdbk354pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seina Arisa ,Ranka ,Otori Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mdbk354pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: LUKE-043 This Lewd Older Sister's Perverted Dick Play Is Too Erotic Fujii Leila
 
 url: /v/luke043pl
-date: 0000-01-11T01:45:00Z
+date: 2025-01-11T01:45:00Z
 image: "luke043pl.jpg"
-tags: [Upcoming releases, Solowork, Dirty Words, Big Tits, Slut, Lingerie, Submissive Men	]
+tags: [Censored, Solowork, Dirty Words, Big Tits, Slut, Lingerie, Submissive Men	]
 maker: [ Digital Ark  ]
 actress: [ Fujii Leila]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujii Leila]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="7Rx9ao9aADTYQY">
     <a href="javascript:;">
         <img src="/v/luke043pl/luke043pl.jpg" width="WIDTH" height="HEIGHT" alt="luke043pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujii Leila]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/luke043pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujii Leila]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/luke043pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

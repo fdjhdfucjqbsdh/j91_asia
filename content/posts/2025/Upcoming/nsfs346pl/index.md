@@ -3,9 +3,9 @@ author: j91
 title: NSFS-346 Kissing Cuckold...5 My Lips Were Stolen. Murasaki Fujisaki
 
 url: /v/nsfs346pl
-date: 0000-01-11T01:56:00Z
+date: 2025-01-11T01:56:00Z
 image: "nsfs346pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Mature Woman, Drama, Cuckold, Kiss	]
+tags: [Censored, Solowork, Married Woman, Mature Woman, Drama, Cuckold, Kiss	]
 maker: [ Nagae Style  ]
 actress: [ Fujisaku Akane ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisaku Akane ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Y6kdXAAXa4Uv0Yg">
     <a href="javascript:;">
         <img src="/v/nsfs346pl/nsfs346pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs346pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisaku Akane ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs346pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisaku Akane ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs346pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

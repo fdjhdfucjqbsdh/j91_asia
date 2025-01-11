@@ -3,9 +3,9 @@ author: j91
 title: KNIP-003 [AI2.0] Rich Expressions And Ultra-realistic Movements That Go Beyond Conventional Generative AI Models. Created Using Cutting-edge Technology (precocious Schoolgirl With Big Breasts, Loves Dicks And Sex, Begs For Creampie With A Smile) Input Sakamichi*Mai
 
 url: /v/knip003pl
-date: 0000-01-11T01:50:00Z
+date: 2025-01-11T01:50:00Z
 image: "knip003pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Beautiful Girl, Subjectivity, AI-Generated Works	]
+tags: [Censored, Creampie, Solowork, Big Tits, Beautiful Girl, Subjectivity, AI-Generated Works	]
 maker: [ KNIP  ]
 actress: [ Sakamichi*Mai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakamichi*Mai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JoX7b6o7GLIoMY">
     <a href="javascript:;">
         <img src="/v/knip003pl/knip003pl.jpg" width="WIDTH" height="HEIGHT" alt="knip003pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakamichi*Mai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/knip003pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakamichi*Mai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/knip003pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

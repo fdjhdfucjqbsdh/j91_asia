@@ -3,9 +3,9 @@ author: j91
 title: GDRD-040 Red Dragon Seto Hinako
 
 url: /v/gdrd040pl
-date: 0000-01-11T01:50:00Z
+date: 2025-01-11T01:50:00Z
 image: "gdrd040pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Prostitutes, Bunny Girl, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, Bunny Girl, Huge Butt	]
 maker: [ GOLD - Mousozoku  ]
 actress: [ Seto Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seto Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YGvL1qG6KpFvM83">
     <a href="javascript:;">
         <img src="/v/gdrd040pl/gdrd040pl.jpg" width="WIDTH" height="HEIGHT" alt="gdrd040pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seto Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gdrd040pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seto Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gdrd040pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
