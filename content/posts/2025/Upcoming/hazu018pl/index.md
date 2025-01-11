@@ -3,9 +3,9 @@ author: j91
 title: HAZU-018 Blushing Slime Busty Virgin Kaori (20 Years Old)
 
 url: /v/hazu018pl
-date: 0000-01-11T01:20:00Z
+date: 2025-01-11T01:20:00Z
 image: "hazu018pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, Virgin, Ultra-Huge Tits	]
+tags: [Censored, Amateur, Big Tits, Virgin, Ultra-Huge Tits	]
 maker: [ Shirouto Kissa - Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="6PAqLDajr9i9y7x">
     <a href="javascript:;">
         <img src="/v/hazu018pl/hazu018pl.jpg" width="WIDTH" height="HEIGHT" alt="hazu018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hazu018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hazu018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: CEMD-619 Suddenly Kidnapping An Ordinary Office Lady And Making Her Into A Sex Slave! 7 Kasumi Amamiya
 
 url: /v/cemd619pl
-date: 0000-01-11T01:20:00Z
+date: 2025-01-11T01:20:00Z
 image: "cemd619pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Mature Woman, Acme · Orgasm, Rolling Back Eyes - Fainting	]
+tags: [Censored, Creampie, Solowork, Big Tits, Mature Woman, Acme · Orgasm, Rolling Back Eyes - Fainting	]
 maker: [ Serebu No Tomo  ]
 actress: [ Amamiya Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="v9zX3zA9lqh40ym">
     <a href="javascript:;">
         <img src="/v/cemd619pl/cemd619pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd619pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cemd619pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cemd619pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

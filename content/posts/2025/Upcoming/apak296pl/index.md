@@ -3,9 +3,9 @@ author: j91
 title: APAK-296 Koko-chan, A Beautiful Girl From The Sakamichi Era, "My Pussy Is Getting Tight!" [Extreme Sex With A Schoolgirl] Her Delicate Body Is Climaxing Like Crazy! | Off-paco Girl And Hotel Room Slutty Climax Sex Anko Koko
 
 url: /v/apak296pl
-date: 0000-01-11T01:20:00Z
+date: 2025-01-11T01:20:00Z
 image: "apak296pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Facials, Slender, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, School Girls, Facials, Slender, Acme · Orgasm	]
 maker: [ Aurora Project Annex  ]
 actress: [ An Coco ]
 ---
@@ -13,13 +13,13 @@ actress: [ An Coco ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="be4gw07x3OcPY9d">
     <a href="javascript:;">
         <img src="/v/apak296pl/apak296pl.jpg" width="WIDTH" height="HEIGHT" alt="apak296pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ An Coco ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/apak296pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ An Coco ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/apak296pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
