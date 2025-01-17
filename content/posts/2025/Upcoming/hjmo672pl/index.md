@@ -3,9 +3,9 @@ author: j91
 title: HJMO-672 If You Lose The Cruel Mirror Game, You Get An Erotic Punishment Game. These Young Wives With Big Dicks That They've Never Experienced Before Have Sex With Their Husbands Next To Them Without Caring About It! Some Young Wives Even Ask For A Handjob! 14
 
 url: /v/hjmo672pl
-date: 0000-01-17T01:08:00Z
+date: 2025-01-17T01:08:00Z
 image: "hjmo672pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, 4HR+, Cuckold, Huge Cock	]
+tags: [Censored, Creampie, Big Tits, Married Woman, 4HR+, Cuckold, Huge Cock	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gRQk86mVggSqDvW">
     <a href="javascript:;">
         <img src="/v/hjmo672pl/hjmo672pl.jpg" width="WIDTH" height="HEIGHT" alt="hjmo672pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjmo672pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjmo672pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

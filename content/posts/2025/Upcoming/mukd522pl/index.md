@@ -3,9 +3,9 @@ author: j91
 title: MUKD-522 After A Music Festival, He And His Sweaty Girlfriend Had Sex Every Day At The Hotel, Creating The Best Summer Memories Ever. This Video Shows A Serious Couple Having Sex To Make A Baby.
 
 url: /v/mukd522pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mukd522pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Couple, Impromptu Sex, Kiss	]
+tags: [Censored, Blow, Creampie, Couple, Impromptu Sex, Kiss	]
 maker: [Muku]
 actress: [ Amamiya Natsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Natsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="e2xRZeKaG1iY4Ge">
     <a href="javascript:;">
         <img src="/v/mukd522pl/mukd522pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd522pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Natsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd522pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Natsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd522pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

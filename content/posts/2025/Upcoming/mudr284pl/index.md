@@ -3,9 +3,9 @@ author: j91
 title: MUDR-284 Kayo-chan From Next Door Is Hypnotized Into Thinking That "this Is The Masturbator That Helped Me The Other Day" Hypnosis Actually Exists! Hypnotize The Beautiful Girl From Next Door To Become A Masturbator And Use Her Mouth Pussy And Shaved Pussy As Much As You Want! Sumire Kuramoto
 
 url: /v/mudr284pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mudr284pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Girl, Beautiful Girl, Shaved, Hypnosis, Mini, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, Girl, Beautiful Girl, Shaved, Hypnosis, Mini, Original Collaboration	]
 maker: [Muku]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ro6bQKYL3jubqXX">
     <a href="javascript:;">
         <img src="/v/mudr284pl/mudr284pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr284pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr284pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr284pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

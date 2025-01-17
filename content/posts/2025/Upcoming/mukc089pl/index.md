@@ -3,9 +3,9 @@ author: j91
 title: MUKC-089 A Pure And Perverted Cosplayer Who Provokes Old Men. A Secret Slut Off-paco. A Slutty Girl Who Milks Semen With Creampie And Costume Sex. Arisa Itoi
 
 url: /v/mukc089pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mukc089pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, Solowork, Nasty, Hardcore, Slut, Breasts	]
+tags: [Censored, Cosplay, Creampie, Solowork, Nasty, Hardcore, Slut, Breasts	]
 maker: [Muku]
 actress: [ Itoi Arisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Itoi Arisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="K0owJ4vL0Ku0eo3">
     <a href="javascript:;">
         <img src="/v/mukc089pl/mukc089pl.jpg" width="WIDTH" height="HEIGHT" alt="mukc089pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itoi Arisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukc089pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itoi Arisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukc089pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

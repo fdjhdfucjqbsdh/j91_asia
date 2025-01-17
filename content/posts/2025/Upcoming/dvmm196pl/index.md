@@ -3,9 +3,9 @@ author: j91
 title: DVMM-196 A Fair-skinned, Big-assed Housewife Gets Fucked Right Away! The Next Day, The Housewife, Who Was Addicted To My Big Dick, Came Over Without Permission, So I Creampied Her Again And Again Until She Was Satisfied 38 Azuma Amatsuki
 
 url: /v/dvmm196pl
-date: 0000-01-17T01:09:00Z
+date: 2025-01-17T01:09:00Z
 image: "dvmm196pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Butt, Impromptu Sex	]
+tags: [Censored, Creampie, Solowork, Big Tits, Butt, Impromptu Sex	]
 maker: [Deeps]
 actress: [ Amatsuki Azu]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="69gw2PGW1OF9Gqx">
     <a href="javascript:;">
         <img src="/v/dvmm196pl/dvmm196pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm196pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvmm196pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvmm196pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

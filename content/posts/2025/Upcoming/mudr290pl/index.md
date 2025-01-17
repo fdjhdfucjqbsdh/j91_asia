@@ -3,9 +3,9 @@ author: j91
 title: MUDR-290 Ever Since That Day... A Beautiful Girl In Uniform Is Tied Up And Trained To Be Creampied. Tsubomi Mochizuki
 
 url: /v/mudr290pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mudr290pl.jpg"
-tags: [Upcoming releases, SM, Creampie, Solowork, School Girls, Shibari, Drama	]
+tags: [Censored, SM, Creampie, Solowork, School Girls, Shibari, Drama	]
 maker: [Muku]
 actress: [ Mochizuki Tsubomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mochizuki Tsubomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VWAjJMO7wptKDky">
     <a href="javascript:;">
         <img src="/v/mudr290pl/mudr290pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr290pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr290pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mochizuki Tsubomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr290pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

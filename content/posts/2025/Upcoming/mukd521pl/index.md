@@ -3,9 +3,9 @@ author: j91
 title: MUKD-521 Absolute Territory Fetishism
 
 url: /v/mukd521pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mukd521pl.jpg"
-tags: [Upcoming releases, Uniform, Other Fetish, Mini Skirt, Bukkake, Leg Fetish	]
+tags: [Censored, Uniform, Other Fetish, Mini Skirt, Bukkake, Leg Fetish	]
 maker: [Muku]
 actress: [ Katayose Shuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Katayose Shuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="evQ2jPpx19sYM7Z">
     <a href="javascript:;">
         <img src="/v/mukd521pl/mukd521pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd521pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Katayose Shuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd521pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Katayose Shuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd521pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

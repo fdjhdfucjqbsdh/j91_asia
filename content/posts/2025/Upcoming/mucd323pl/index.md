@@ -3,9 +3,9 @@ author: j91
 title: MUCD-323 A Super Cheeky Gal Who Looks Down On Adults And Has A Silly Attitude. I Made Her Understand Thoroughly With My Dick. (MUCD-323)
 
 url: /v/mucd323pl
-date: 0000-01-17T01:00:00Z
+date: 2025-01-17T01:00:00Z
 image: "mucd323pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, School Girls, Gal, 4HR+, Acme · Orgasm	]
+tags: [Censored, Creampie, Uniform, School Girls, Gal, 4HR+, Acme · Orgasm	]
 maker: [Muku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="oArKGzDg43sJX0P">
     <a href="javascript:;">
         <img src="/v/mucd323pl/mucd323pl.jpg" width="WIDTH" height="HEIGHT" alt="mucd323pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mucd323pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mucd323pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: MUDR-298 Cute Double Teeth And You In Uniform. Pure 164cm Shaved Slender Beautiful Girl AV DEBUT Minami Matsuyama
 
 url: /v/mudr298pl
-date: 0000-01-17T01:10:00Z
+date: 2025-01-17T01:10:00Z
 image: "mudr298pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Debut Production, Slender, Entertainer	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Debut Production, Slender, Entertainer	]
 maker: [Muku]
 actress: [ Matsuyama Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Matsuyama Minami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="r0JR22b3motbW0M">
     <a href="javascript:;">
         <img src="/v/mudr298pl/mudr298pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr298pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Matsuyama Minami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr298pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Matsuyama Minami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr298pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
