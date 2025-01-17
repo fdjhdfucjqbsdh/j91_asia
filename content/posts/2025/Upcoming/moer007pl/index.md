@@ -3,9 +3,9 @@ author: j91
 title: MOER-007 A Female Teacher's After-school Sex Is... Erotic. G-cup With Hard Nipples. A Japanese Teacher In Ogikubo. A Secret From Her Students And Boyfriend. A Teacher Who Screams And Has A Masochistic Orgasm. AV Debut. Ichijo Ema
 
 url: /v/moer007pl
-date: 0000-01-17T01:55:00Z
+date: 2025-01-17T01:55:00Z
 image: "moer007pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, POV, Debut Production, Promiscuity	]
+tags: [Censored, Creampie, Solowork, Big Tits, POV, Debut Production, Promiscuity	]
 maker: [MOODYZ]
 actress: [ Ichijou Ema ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ichijou Ema ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7RX0YxXeODIA0e4">
     <a href="javascript:;">
         <img src="/v/moer007pl/moer007pl.jpg" width="WIDTH" height="HEIGHT" alt="moer007pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ichijou Ema ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/moer007pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ichijou Ema ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/moer007pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

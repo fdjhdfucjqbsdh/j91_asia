@@ -3,9 +3,9 @@ author: j91
 title: MIMK-187 Yumeka Utsutsuka Hayakawa Nozomi Edition Daily No. 1 Weekly No. 1 Monthly No. 2 Total Sales Of Over 43,000 Copies. A Live-action Version Of The Super Popular Work Starring An S-class Super Solo Actress! Sasaki Saki
 
 url: /v/mimk187pl
-date: 0000-01-17T01:56:00Z
+date: 2025-01-17T01:56:00Z
 image: "mimk187pl.jpg"
-tags: [Upcoming releases, Creampie, School Girls, Beautiful Girl, Original Collaboration, Acme · Orgasm	]
+tags: [Censored, Creampie, School Girls, Beautiful Girl, Original Collaboration, Acme · Orgasm	]
 maker: [MOODYZ]
 actress: [ Sunohara Miki, Sasaki Saki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sunohara Miki, Sasaki Saki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kWlbvDVdAZHOk68">
     <a href="javascript:;">
         <img src="/v/mimk187pl/mimk187pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk187pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sunohara Miki, Sasaki Saki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk187pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sunohara Miki, Sasaki Saki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk187pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

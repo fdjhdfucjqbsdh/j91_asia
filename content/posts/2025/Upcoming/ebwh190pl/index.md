@@ -3,9 +3,9 @@ author: j91
 title: EBWH-190 Surprise Thank You Gift To The Big-breasted Female Teacher Who Pretends To Be A Priest, 12 Shots Of Bukkake And Skewering (lol) Rui Miyamoto
 
 url: /v/ebwh190pl
-date: 0000-01-17T01:30:00Z
+date: 2025-01-17T01:30:00Z
 image: "ebwh190pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Female Teacher, Nasty, Hardcore, Rape, Abuse, Deep Throating	]
+tags: [Censored, Creampie, Solowork, Female Teacher, Nasty, Hardcore, Rape, Abuse, Deep Throating	]
 maker: [E-body]
 actress: [ Miyamoto Rui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyamoto Rui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vx1QYZOYAPU40vk">
     <a href="javascript:;">
         <img src="/v/ebwh190pl/ebwh190pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh190pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyamoto Rui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh190pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyamoto Rui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh190pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: PPPE-300 Brainwashing Your Boobs With Your Eyes And Ears [Super Close-up ASMR Subjective Binaural] Whispering Dirty Talk Trip, Sloppy Saliva, Tit Fucking And Cumshot! Aoi Hazuki
 
 url: /v/pppe300pl
-date: 0000-01-17T01:50:00Z
+date: 2025-01-17T01:50:00Z
 image: "pppe300pl.jpg"
-tags: [Upcoming releases, Solowork, Dirty Words, Big Tits, Titty Fuck, Slut, Subjectivity	]
+tags: [Censored, Solowork, Dirty Words, Big Tits, Titty Fuck, Slut, Subjectivity	]
 maker: [Oppai]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="klWr2xRl6mtOJer">
     <a href="javascript:;">
         <img src="/v/pppe300pl/pppe300pl.jpg" width="WIDTH" height="HEIGHT" alt="pppe300pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pppe300pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pppe300pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

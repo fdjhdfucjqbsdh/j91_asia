@@ -3,9 +3,9 @@ author: j91
 title: MEAD-007 A Strict Upbringing Of A Noble Family's Daughter Overcomes Her Shyness... A Too Innocent Natural I-cup College Student Makes Her AV Debut Yukitsuki Fuwari
 
 url: /v/mead007pl
-date: 0000-01-17T01:25:00Z
+date: 2025-01-17T01:25:00Z
 image: "mead007pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Debut Production, Facials, Female College Student	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Debut Production, Facials, Female College Student	]
 maker: [Fitch]
 actress: [ Yuzuki Fuwari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuzuki Fuwari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6Kj44YbbBas9jOd">
     <a href="javascript:;">
         <img src="/v/mead007pl/mead007pl.jpg" width="WIDTH" height="HEIGHT" alt="mead007pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuzuki Fuwari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mead007pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuzuki Fuwari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mead007pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

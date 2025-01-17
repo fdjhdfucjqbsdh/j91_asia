@@ -3,9 +3,9 @@ author: j91
 title: HMN-633 When I Woke Up, My Boss, Who I Hate, Was Right In Front Of Me... I Was Given An Aphrodisiac And Forced To Have Sex In The Same Room With Him Until The Morning, With Continuous Creampies Nanaka Kosaka
 
 url: /v/hmn633pl
-date: 0000-01-17T01:35:00Z
+date: 2025-01-17T01:35:00Z
 image: "hmn633pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Cuckold, Acme · Orgasm, Subordinates - Colleagues	]
+tags: [Censored, OL, Creampie, Solowork, Cuckold, Acme · Orgasm, Subordinates - Colleagues	]
 maker: [Honnaka]
 actress: [ Kosaka Nanaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kosaka Nanaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="agBRQol7woHx8RW">
     <a href="javascript:;">
         <img src="/v/hmn633pl/hmn633pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn633pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn633pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kosaka Nanaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn633pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
