@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-357 Mika Sumikawa, The Mother Who Sacrificed Her Body To Help Her Son Pass The Entrance Exam
 
 url: /v/ksbj357pl
-date: 0000-01-18T01:50:00Z
+date: 2025-01-18T01:50:00Z
 image: "ksbj357pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Drama, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Drama, Huge Butt	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Sumikawa Mihana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sumikawa Mihana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Day3ZK0JOJikPe0">
     <a href="javascript:;">
         <img src="/v/ksbj357pl/ksbj357pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj357pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sumikawa Mihana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj357pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sumikawa Mihana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj357pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

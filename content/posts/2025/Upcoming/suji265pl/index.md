@@ -3,9 +3,9 @@ author: j91
 title: SUJI-265 Don't Cry Anymore, It's Making Me Even More Excited. A Cowardly, Crybaby, Scared, Shaved Teen Having Obscene Sex
 
 url: /v/suji265pl
-date: 0000-01-18T01:50:00Z
+date: 2025-01-18T01:50:00Z
 image: "suji265pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Shaved, Tits, Evil	]
+tags: [Censored, Creampie, Beautiful Girl, Shaved, Tits, Evil	]
 maker: [ Kan Ran Mono  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="0VZ87081ZYtbdlp">
     <a href="javascript:;">
         <img src="/v/suji265pl/suji265pl.jpg" width="WIDTH" height="HEIGHT" alt="suji265pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji265pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji265pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

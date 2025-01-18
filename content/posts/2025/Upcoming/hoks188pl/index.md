@@ -3,9 +3,9 @@ author: j91
 title: HOKS-188 I'll Pay You Back With My Body... Repaying My Debt With My Body Kokoro Ayase
 
 url: /v/hoks188pl
-date: 0000-01-18T01:20:00Z
+date: 2025-01-18T01:20:00Z
 image: "hoks188pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Big Tits, Nasty, Hardcore, Drama	]
+tags: [Censored, Blow, Solowork, Big Tits, Nasty, Hardcore, Drama	]
 maker: [ FA Pro . Platinum  ]
 actress: [ Ayase Kokoro ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ayase Kokoro ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="mO9xwqL6OkUb1XM">
     <a href="javascript:;">
         <img src="/v/hoks188pl/hoks188pl.jpg" width="WIDTH" height="HEIGHT" alt="hoks188pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hoks188pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ayase Kokoro ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hoks188pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

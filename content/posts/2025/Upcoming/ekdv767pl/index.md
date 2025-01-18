@@ -3,9 +3,9 @@ author: j91
 title: EKDV-767 My Virginity Was Taken By My Childhood Friend... My Childhood Friend, A Caring Gal, Haruhi Moka, Became My Sex Practice Partner For Me, A Virgin Who Had Just Gotten My First Girlfriend.
 
 url: /v/ekdv767pl
-date: 0000-01-18T01:50:00Z
+date: 2025-01-18T01:50:00Z
 image: "ekdv767pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork]
+tags: [Censored, Creampie,Solowork]
 maker: [ Crystal Eizou  ]
 actress: [ Haruhi Moka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruhi Moka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="abVY40GjrJtJOo">
     <a href="javascript:;">
         <img src="/v/ekdv767pl/ekdv767pl.jpg" width="WIDTH" height="HEIGHT" alt="ekdv767pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ekdv767pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruhi Moka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ekdv767pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

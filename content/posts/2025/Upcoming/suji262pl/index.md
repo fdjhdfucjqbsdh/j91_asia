@@ -3,9 +3,9 @@ author: j91
 title: SUJI-262 Rape Crime Footage Targeting Women
 
 url: /v/suji262pl
-date: 0000-01-18T01:50:00Z
+date: 2025-01-18T01:50:00Z
 image: "suji262pl.jpg"
-tags: [Upcoming releases, Creampie, Older Sister, Amateur, Squirting, Evil	]
+tags: [Censored, Creampie, Older Sister, Amateur, Squirting, Evil	]
 maker: [ Kan Ran Mono  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="dAm2wAz717Fgy2">
     <a href="javascript:;">
         <img src="/v/suji262pl/suji262pl.jpg" width="WIDTH" height="HEIGHT" alt="suji262pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji262pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji262pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

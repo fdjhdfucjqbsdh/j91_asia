@@ -3,9 +3,9 @@ author: j91
 title: PKPD-346 Creampie Room Drinking Documentary, Overwhelming Clarity, Beautiful Legs And A Great Vagina, Shiori Kuraki
 
 url: /v/pkpd346pl
-date: 0000-01-18T01:20:00Z
+date: 2025-01-18T01:20:00Z
 image: "pkpd346pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Beautiful Girl, Breasts, Documentary	]
+tags: [Censored, Creampie, Solowork, POV, Beautiful Girl, Breasts, Documentary	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Kuraki Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuraki Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="jPxLw4d2jGTzkzA">
     <a href="javascript:;">
         <img src="/v/pkpd346pl/pkpd346pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd346pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuraki Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd346pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuraki Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd346pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
