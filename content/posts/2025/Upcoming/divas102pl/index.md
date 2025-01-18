@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DVRT-048 I Will Never Take Off My Mask!! Amateur Pussy That Exposes Her Body And Doesn't Take Off Her Mask
+title: DIVAS-102 And They're Huge!! A Big Discovery! European Beauties With Breasts Over 100cm!!
 
-url: /v/dvrt048pl
-date: 2025-01-18T01:50:00Z
-image: "dvrt048pl.jpg"
-tags: [Censored, Creampie, Amateur, POV, Nampa, Bitch	]
-maker: [Deeps  ]
+url: /v/divas102pl
+date: 2025-01-18T01:00:00Z
+image: "divas102pl.jpg"
+tags: [Censored, Big Tits, Married Woman, 4HR+, Mature Woman, White Actress, Ultra-Huge Tits	]
+maker: [Diva- Mousou Zoku Inta-nashonaru  ]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="GbpwgyPX24h1zxx">
+<div class="video" data-videoid="88yZWpL7rgFoqQ1">
     <a href="javascript:;">
-        <img src="/v/dvrt048pl/dvrt048pl.jpg" width="WIDTH" height="HEIGHT" alt="dvrt048pl.mp4" loading="lazy">
+        <img src="/v/divas102pl/divas102pl.jpg" width="WIDTH" height="HEIGHT" alt="divas102pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dvrt048pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/divas102pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dvrt048pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/divas102pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DVRT-048 I Will Never Take Off My Mask!! Amateur Pussy That Exposes Her Body And Doesn't Take Off Her Mask
+title: NMEX-001 10 Horny Wives With Big Tits And Big Asses Who Get Addicted To Cuckold Sex With Men With Huge Penises
 
-url: /v/dvrt048pl
-date: 2025-01-18T01:50:00Z
-image: "dvrt048pl.jpg"
-tags: [Censored, Creampie, Amateur, POV, Nampa, Bitch	]
-maker: [Deeps  ]
-actress: [ ]
+url: /v/nmex001pl
+date: 2025-01-18T01:00:00Z
+image: "nmex001pl.jpg"
+tags: [Censored, Big Tits, Married Woman, Drama, Cuckold, Huge Butt	]
+maker: [Nihonbashi Eizou EX-Emmanuel  ]
+actress: [Isawa Ryouko , Mutou Ayaka, Kobayashi Marika ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="GbpwgyPX24h1zxx">
+<div class="video" data-videoid="YBgjqdKrjyspvz">
     <a href="javascript:;">
-        <img src="/v/dvrt048pl/dvrt048pl.jpg" width="WIDTH" height="HEIGHT" alt="dvrt048pl.mp4" loading="lazy">
+        <img src="/v/nmex001pl/nmex001pl.jpg" width="WIDTH" height="HEIGHT" alt="nmex001pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dvrt048pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nmex001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dvrt048pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nmex001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
