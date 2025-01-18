@@ -1,21 +1,21 @@
 ---
 author: j91
-title: KSBJ-356 Reverse Beauty Treatment! The Customer Massages The Beautician!? Reiko Kobayakawa
+title: ERDM-144 Married Women And Mature Women Party! If You Feel Like It, Just Talk To Them And Have Instant Sex For 4 Hours
 
-url: /v/ksbj356pl
-date: 2025-01-18T01:50:00Z
-image: "ksbj356pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, Slender, Lotion	]
-maker: [ KSB Kikaku - Emmanuelle  ]
-actress: [ Kobayakawa Reiko ]
+url: /v/erdm144pl
+date: 2025-01-18T01:00:00Z
+image: "erdm144pl.jpg"
+tags: [Censored, Amateur, Married Woman, Affair, 4HR+, Documentary, Mature Woman	]
+maker: [ Ero Daruma - Emaniel  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="JW4AKYAd4Rfo67">
+<div class="video" data-videoid="8ve48gbp7lfom9m">
     <a href="javascript:;">
-        <img src="/v/ksbj356pl/ksbj356pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj356pl.mp4" loading="lazy">
+        <img src="/v/erdm144pl/erdm144pl.jpg" width="WIDTH" height="HEIGHT" alt="erdm144pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ksbj356pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/erdm144pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ksbj356pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/erdm144pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

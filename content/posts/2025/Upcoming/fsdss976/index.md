@@ -1,21 +1,21 @@
 ---
 author: j91
-title: KSBJ-356 Reverse Beauty Treatment! The Customer Massages The Beautician!? Reiko Kobayakawa
+title: FSDSS-976 "Can I Stay At Your Place Until The First Train?" My Friend’s Girlfriend Sweetly Invites Me After The Last Train… I Know It’s Wrong To See Her Braless Nipples Through Her Loungewear, But We Still Have Sex Until The Morning! Ami Tokita
 
-url: /v/ksbj356pl
-date: 2025-01-18T01:50:00Z
-image: "ksbj356pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, Slender, Lotion	]
-maker: [ KSB Kikaku - Emmanuelle  ]
-actress: [ Kobayakawa Reiko ]
+url: /v/fsdss976
+date: 2025-01-18T16:00:00Z
+image: "fsdss976.jpg"
+tags: [Censored, Beautiful Girl, Drama, Slender, Solowork]
+maker: [FALENO]
+actress: [Tokita Ami]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="JW4AKYAd4Rfo67">
+<div class="video" data-videoid="MrdaX2v0rGfwby">
     <a href="javascript:;">
-        <img src="/v/ksbj356pl/ksbj356pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj356pl.mp4" loading="lazy">
+        <img src="/v/fsdss976/fsdss976.jpg" width="WIDTH" height="HEIGHT" alt="fsdss976.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ksbj356pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fsdss976/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ksbj356pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fsdss976/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

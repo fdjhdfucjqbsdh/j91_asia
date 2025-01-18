@@ -1,21 +1,21 @@
 ---
 author: j91
-title: KSBJ-356 Reverse Beauty Treatment! The Customer Massages The Beautician!? Reiko Kobayakawa
+title: EVIS-571 Lesbians Who Smell Each Other's Bad Breath And Lick Each Other's Noses
 
-url: /v/ksbj356pl
-date: 2025-01-18T01:50:00Z
-image: "ksbj356pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, Slender, Lotion	]
-maker: [ KSB Kikaku - Emmanuelle  ]
-actress: [ Kobayakawa Reiko ]
+url: /v/evis571pl
+date: 2025-01-18T01:05:00Z
+image: "evis571pl.jpg"
+tags: [Censored, Lesbian, Other Fetish, Dirty Words, Lesbian Kiss, Kiss	]
+maker: [ Ebisusan - Mousou Zoku  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="JW4AKYAd4Rfo67">
+<div class="video" data-videoid="4ovOl30PBDCKPRm">
     <a href="javascript:;">
-        <img src="/v/ksbj356pl/ksbj356pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj356pl.mp4" loading="lazy">
+        <img src="/v/evis571pl/evis571pl.jpg" width="WIDTH" height="HEIGHT" alt="evis571pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/ksbj356pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/evis571pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/ksbj356pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/evis571pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
