@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MKD-246 Tochigi Dialect Fully Exposed, Plump Beautiful Ass Fifty-year-old Wife Makes AV Debut Sayama Akina
+title: SONE-570 Boyish College Student, First Ever Experience Of Male Orgasm! Ruka-chan, Who Has Almost No Experience With Men, Turns Her Fantasies Into Reality In This Shocking 3-shot Special With Her First Experience Ruka Itoi
 
-url: /v/mkd246pl
-date: 0000-01-18T01:20:00Z
-image: "mkd246pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Masturbation, Married Woman, Debut Production, Mature Woman	]
-maker: [ Ruby  ]
-actress: [ Sayama Akina ]
+url: /v/sone570pl
+date: 0000-01-24T01:55:00Z
+image: "sone570pl.jpg"
+tags: [Upcoming releases, 3P, 4P, Solowork, Big Tits, Beautiful Girl, Lotion, Acme · Orgasm	]
+maker: [S1 NO.1 STYLE]
+actress: [ Itoi Ruka ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pending_link.html">
     <a href="javascript:;">
-        <img src="/v/mkd246pl/mkd246pl.jpg" width="WIDTH" height="HEIGHT" alt="mkd246pl.mp4" loading="lazy">
+        <img src="/v/sone570pl/sone570pl.jpg" width="WIDTH" height="HEIGHT" alt="sone570pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Sayama Akina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sayama Akina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
