@@ -3,9 +3,9 @@ author: j91
 title: JUR-149 Friend With A Big Dick Gives Her An Aphrodisiac, Causing Her To Convulse, Writhe In Agony, And Climax Repeatedly. Her Beloved Mother Has Turned Into A Beast. Yuka Oshima
 
 url: /v/jur149pl
-date: 0000-01-24T01:50:00Z
+date: 2025-01-24T01:50:00Z
 image: "jur149pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Mature Woman, Drug, Huge Cock	]
+tags: [Censored, Creampie, Solowork, Married Woman, Mature Woman, Drug, Huge Cock	]
 maker: [Madonna]
 actress: [ Ooshima Yuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ooshima Yuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aV0az9VBG4hx8YM">
     <a href="javascript:;">
         <img src="/v/jur149pl/jur149pl.jpg" width="WIDTH" height="HEIGHT" alt="jur149pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ooshima Yuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur149pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ooshima Yuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur149pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

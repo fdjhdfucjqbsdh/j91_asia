@@ -3,9 +3,9 @@ author: j91
 title: URE-120 A Total Of 200,000 Downloads For The Series!! Circle Hitono Fundoshi Original, Yukiyoshi Masumi A Former Gyaru Mama Suddenly Appears. The Entire Story Has Been Adapted Into Live Action!! In Addition, An Original Episode Supervised By The Original Author Has Also Been Added!! Yuki Takeuchi
 
 url: /v/ure120pl
-date: 0000-01-24T01:50:00Z
+date: 2025-01-24T01:50:00Z
 image: "ure120pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Married Woman, Mature Woman, Stepmother, Original Collaboration	]
+tags: [Censored, Solowork, Gal, Married Woman, Mature Woman, Stepmother, Original Collaboration	]
 maker: [Madonna]
 actress: [ Takeuchi Yuuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takeuchi Yuuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p1j8pO8eB2IrQme">
     <a href="javascript:;">
         <img src="/v/ure120pl/ure120pl.jpg" width="WIDTH" height="HEIGHT" alt="ure120pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takeuchi Yuuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ure120pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takeuchi Yuuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ure120pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JUR-016 The Second Chapter Of The Cheating Hot Woman, The Passionate Kissing And Sex That Will Devour Each Other Until The Sexual Desire Is Exhausted, Shinohara Iyo
 
 url: /v/jur016pl
-date: 0000-01-24T01:50:00Z
+date: 2025-01-24T01:50:00Z
 image: "jur016pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Mature Woman, Kiss, Sweat	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Mature Woman, Kiss, Sweat	]
 maker: [Madonna]
 actress: [ Shinohara Iyo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shinohara Iyo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3PzmjvY2w9S2VP">
     <a href="javascript:;">
         <img src="/v/jur016pl/jur016pl.jpg" width="WIDTH" height="HEIGHT" alt="jur016pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shinohara Iyo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur016pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shinohara Iyo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur016pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

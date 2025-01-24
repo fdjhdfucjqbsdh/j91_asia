@@ -3,9 +3,9 @@ author: j91
 title: JUR-162 《Exclusive》First Time Showing Off The Super-blessed H-cup Body!! I'm Going To Show Off My Proud Wife. Rei Kimura
 
 url: /v/jur162pl
-date: 0000-01-24T01:50:00Z
+date: 2025-01-24T01:50:00Z
 image: "jur162pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Kimura Rei ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kimura Rei ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2rlOZQm1oqsx8J">
     <a href="javascript:;">
         <img src="/v/jur162pl/jur162pl.jpg" width="WIDTH" height="HEIGHT" alt="jur162pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur162pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kimura Rei ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur162pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
