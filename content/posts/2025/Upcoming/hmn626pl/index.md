@@ -3,9 +3,9 @@ author: j91
 title: HMN-626 The Top Student In My Class Asked Me To Help Her Study, So After School I Gave Her An Aphrodisiac And Made Her Cum Like A Shrimp, And Taught Her About Creampies. Sumire Kuramoto
 
 url: /v/hmn626pl
-date: 0000-01-24T01:45:00Z
+date: 2025-01-24T01:45:00Z
 image: "hmn626pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Beautiful Girl, Cowgirl, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, School Girls, Beautiful Girl, Cowgirl, Acme · Orgasm	]
 maker: [Honnaka]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KeRVdgJ6Jqu08RK">
     <a href="javascript:;">
         <img src="/v/hmn626pl/hmn626pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn626pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn626pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn626pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

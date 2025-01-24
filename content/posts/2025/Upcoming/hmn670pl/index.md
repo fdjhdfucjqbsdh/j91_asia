@@ -3,9 +3,9 @@ author: j91
 title: HMN-670 OB Visit Female College Student NTR In Order To Get A Job Offer From Her First Choice Company, She Accepts The Orders Of The HR Department And Gives A Blowjob, And Agrees To A Raw Creampie, Guaranteeing A Job Offer With 10 Ejaculations Shizuka
 
 url: /v/hmn670pl
-date: 0000-01-24T01:45:00Z
+date: 2025-01-24T01:45:00Z
 image: "hmn670pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Cowgirl, Female College Student, Cuckold	]
+tags: [Censored, Blow, Creampie, Solowork, Cowgirl, Female College Student, Cuckold	]
 maker: [Honnaka]
 actress: [ Shizuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jqlYmYev9vczpPW">
     <a href="javascript:;">
         <img src="/v/hmn670pl/hmn670pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn670pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn670pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn670pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

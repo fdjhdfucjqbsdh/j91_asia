@@ -3,9 +3,9 @@ author: j91
 title: CJOD-452 Naughty And Innocent Idol Comes To The Asian Men's Massage Parlor Where You Can Have Sex And Get Creampied Miyu Aizawa
 
 url: /v/cjod452pl
-date: 0000-01-24T01:25:00Z
+date: 2025-01-24T01:25:00Z
 image: "cjod452pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Solowork, Beauty Shop, Cowgirl, Slut	]
+tags: [Censored, Handjob, Creampie, Solowork, Beauty Shop, Cowgirl, Slut	]
 maker: [Bi]
 actress: [ Aizawa Miyu]
 ---
@@ -13,13 +13,13 @@ actress: [ Aizawa Miyu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="PyO8AXv0bYT0P6P">
     <a href="javascript:;">
         <img src="/v/cjod452pl/cjod452pl.jpg" width="WIDTH" height="HEIGHT" alt="cjod452pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aizawa Miyu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjod452pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aizawa Miyu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjod452pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

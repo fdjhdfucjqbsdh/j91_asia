@@ -3,9 +3,9 @@ author: j91
 title: NAIAD-004 The Ultimate Paizuri Maid Support, Rize Kanzaki, Who Will Give You A Luxurious Soothing Dirty Talk And A Sticky G-cup Of Divine Milk.
 
 url: /v/naiad004pl
-date: 0000-01-24T01:40:00Z
+date: 2025-01-24T01:40:00Z
 image: "naiad004pl.jpg"
-tags: [Upcoming releases, Maid, Solowork, Dirty Words, Big Tits, Titty Fuck, Beautiful Girl	]
+tags: [Censored, Maid, Solowork, Dirty Words, Big Tits, Titty Fuck, Beautiful Girl	]
 maker: [Das !]
 actress: [ Kanzaki Rize ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanzaki Rize ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3Jy3O9PQKbulKO">
     <a href="javascript:;">
         <img src="/v/naiad004pl/naiad004pl.jpg" width="WIDTH" height="HEIGHT" alt="naiad004pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kanzaki Rize ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/naiad004pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kanzaki Rize ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/naiad004pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

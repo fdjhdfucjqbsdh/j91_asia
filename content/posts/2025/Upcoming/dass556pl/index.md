@@ -3,9 +3,9 @@ author: j91
 title: DASS-556 If A Super Voluptuous Woman With A Huge Libido Tempts You With Her Dripping Saliva, You're Finished! Lots Of Slippery Lotion! Flesh Trance Sex Ichika Seta
 
 url: /v/dass556pl
-date: 0000-01-24T01:40:00Z
+date: 2025-01-24T01:40:00Z
 image: "dass556pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Slut, Lotion, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Big Tits, Slut, Lotion, Huge Butt	]
 maker: [Das !]
 actress: [ Seta Ichika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seta Ichika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AJDpxYw3WosBw9">
     <a href="javascript:;">
         <img src="/v/dass556pl/dass556pl.jpg" width="WIDTH" height="HEIGHT" alt="dass556pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass556pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass556pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

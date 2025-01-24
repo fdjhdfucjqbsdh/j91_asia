@@ -3,9 +3,9 @@ author: j91
 title: BONY-132 Semen-drinking Girl I Love Swallowing So I Can Drink Endless Amounts Yuno Asahi
 
 url: /v/bony132pl
-date: 0000-01-24T01:16:00Z
+date: 2025-01-24T01:16:00Z
 image: "bony132pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Masturbation, Other Fetish, Big Tits, Cum	]
+tags: [Censored, Blow, Solowork, Masturbation, Other Fetish, Big Tits, Cum	]
 maker: [ボニータ-妄想族]
 actress: [ Asahi Yuno ]
 ---
@@ -13,13 +13,13 @@ actress: [ Asahi Yuno ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zXzO77LxYjtYz0J">
     <a href="javascript:;">
         <img src="/v/bony132pl/bony132pl.jpg" width="WIDTH" height="HEIGHT" alt="bony132pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asahi Yuno ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bony132pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asahi Yuno ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bony132pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
