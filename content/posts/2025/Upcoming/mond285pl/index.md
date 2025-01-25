@@ -3,9 +3,9 @@ author: j91
 title: MOND-285 My Admired Female Boss And Koharu Mari
 
 url: /v/mond285pl
-date: 0000-01-25T01:45:00Z
+date: 2025-01-25T01:45:00Z
 image: "mond285pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Mature Woman, Hot Spring	]
+tags: [Censored, Creampie, Solowork, Married Woman, Mature Woman, Hot Spring	]
 maker: [ Takara Eizou  ]
 actress: [ 	Koharu Mari]
 ---
@@ -13,13 +13,13 @@ actress: [ 	Koharu Mari]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4zwAkmKBkXIK0Xq">
     <a href="javascript:;">
         <img src="/v/mond285pl/mond285pl.jpg" width="WIDTH" height="HEIGHT" alt="mond285pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ 	Koharu Mari]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mond285pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ 	Koharu Mari]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mond285pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: FAB-007 New Countryside Incest, The Moment A Father-in-Law Kills His Daughter-in-Law Mako Oda
 
 url: /v/fab007pl
-date: 0000-01-25T01:50:00Z
+date: 2025-01-25T01:50:00Z
 image: "fab007pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Affair, Mature Woman, Cuckold	]
 maker: [ Global Media Entertainment  ]
 actress: [ Oda Mako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Oda Mako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="AMly9q6G1qFXk0y">
     <a href="javascript:;">
         <img src="/v/fab007pl/fab007pl.jpg" width="WIDTH" height="HEIGHT" alt="fab007pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Oda Mako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fab007pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Oda Mako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fab007pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

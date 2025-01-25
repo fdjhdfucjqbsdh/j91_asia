@@ -3,9 +3,9 @@ author: j91
 title: REAL-887 OD (Overdose) Tokoyoko Kimesek Doll Rape 3 Victims
 
 url: /v/real887pl
-date: 0000-01-25T01:55:00Z
+date: 2025-01-25T01:55:00Z
 image: "real887pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Beautiful Girl, Abuse, Evil	]
+tags: [Censored, Creampie, Big Tits, Beautiful Girl, Abuse, Evil	]
 maker: [ K.M.Produce  ]
 actress: [ Takase Rina 2020, Kurumi Sakura, Kashiwagi Konatsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takase Rina 2020, Kurumi Sakura, Kashiwagi Konatsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="eG9vgo2Revs2or">
     <a href="javascript:;">
         <img src="/v/real887pl/real887pl.jpg" width="WIDTH" height="HEIGHT" alt="real887pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takase Rina 2020, Kurumi Sakura, Kashiwagi Konatsu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/real887pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takase Rina 2020, Kurumi Sakura, Kashiwagi Konatsu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/real887pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

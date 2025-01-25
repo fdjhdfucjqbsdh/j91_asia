@@ -3,9 +3,9 @@ author: j91
 title: MKON-109 Watching Over Her Master's Dick!! With Her Big Tits, Slippery Tongue, And Dripping Wet Pussy, She'll Milk It As Soon As It Gets Hard!! Azu Amatsuki
 
 url: /v/mkon109pl
-date: 0000-01-25T01:50:00Z
+date: 2025-01-25T01:50:00Z
 image: "mkon109pl.jpg"
-tags: [Upcoming releases, Blow, Maid, Creampie, Solowork, Big Tits, Subjectivity	]
+tags: [Censored, Blow, Maid, Creampie, Solowork, Big Tits, Subjectivity	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Amatsuki Azu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DWjKbK9lKDhw0A">
     <a href="javascript:;">
         <img src="/v/mkon109pl/mkon109pl.jpg" width="WIDTH" height="HEIGHT" alt="mkon109pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkon109pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkon109pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

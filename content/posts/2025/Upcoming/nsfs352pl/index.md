@@ -3,9 +3,9 @@ author: j91
 title: NSFS-352 Cute Bride's White Body Punished By Father-in-law...6 Minami Maeda
 
 url: /v/nsfs352pl
-date: 0000-01-25T01:55:00Z
+date: 2025-01-25T01:55:00Z
 image: "nsfs352pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Bride, Young Wife, Drama, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Bride, Young Wife, Drama, Cuckold	]
 maker: [ Nagae Style  ]
 actress: [ Maeta Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Maeta Minami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="O6RGAPQWMLFZ3PZ">
     <a href="javascript:;">
         <img src="/v/nsfs352pl/nsfs352pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs352pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Maeta Minami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs352pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Maeta Minami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs352pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: GQN-002 1st Time, Everyone Loves It, Even Old Men And Creepy Guys! Half In, Half Out & After Ejaculation, The Raw Vaginal Rubbing Thanksgiving Festival, Rion Izumi
 
 url: /v/gqn002pl
-date: 0000-01-25T01:20:00Z
+date: 2025-01-25T01:20:00Z
 image: "gqn002pl.jpg"
-tags: [Upcoming releases, Handjob, Creampie, Solowork, Slut, Submissive Men, Premature Ejaculation	]
+tags: [Censored, Handjob, Creampie, Solowork, Slut, Submissive Men, Premature Ejaculation	]
 maker: [ Glory Quest  ]
 actress: [ Isumi Rion ]
 ---
@@ -13,13 +13,13 @@ actress: [ Isumi Rion ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="01YoeYkQ4pIb9GY">
     <a href="javascript:;">
         <img src="/v/gqn002pl/gqn002pl.jpg" width="WIDTH" height="HEIGHT" alt="gqn002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Isumi Rion ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gqn002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Isumi Rion ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gqn002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

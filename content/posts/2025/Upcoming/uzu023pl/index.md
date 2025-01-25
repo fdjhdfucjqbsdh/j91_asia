@@ -3,9 +3,9 @@ author: j91
 title: UZU-023 Unresponsive Sex My Girlfriend Is Addicted To Her Smartphone. She Doesn't Realize She's Being Tricked Until The Very End.
 
 url: /v/uzu023pl
-date: 0000-01-25T01:55:00Z
+date: 2025-01-25T01:55:00Z
 image: "uzu023pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Cowgirl, Squirting, Huge Butt	]
+tags: [Censored, Creampie, Big Tits, Cowgirl, Squirting, Huge Butt	]
 maker: [ Maruka Ano - Mousozoku  ]
 actress: [ Amatsuki Azu ,Suzumiya Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amatsuki Azu ,Suzumiya Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Q3b3LVZD78u0eeg">
     <a href="javascript:;">
         <img src="/v/uzu023pl/uzu023pl.jpg" width="WIDTH" height="HEIGHT" alt="uzu023pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amatsuki Azu ,Suzumiya Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/uzu023pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amatsuki Azu ,Suzumiya Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/uzu023pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
