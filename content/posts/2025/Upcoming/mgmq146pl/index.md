@@ -3,9 +3,9 @@ author: j91
 title: MGMQ-146 A Young Wife Who Seduces A Younger M-man Is A Slut Who Likes Anal Play And Is Reverse Trained By Her Perverted Husband, Fujisaki Murasaki
 
 url: /v/mgmq146pl
-date: 0000-01-25T01:20:00Z
+date: 2025-01-25T01:20:00Z
 image: "mgmq146pl.jpg"
-tags: [Upcoming releases, Anal, Blow, Solowork, Slut, Facesitting, Submissive Men	]
+tags: [Censored, Anal, Blow, Solowork, Slut, Facesitting, Submissive Men	]
 maker: [ MEGAMI  ]
 actress: [ Fujisaku Akane]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisaku Akane]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="olQKpX23jvIJkqg">
     <a href="javascript:;">
         <img src="/v/mgmq146pl/mgmq146pl.jpg" width="WIDTH" height="HEIGHT" alt="mgmq146pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mgmq146pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisaku Akane]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mgmq146pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
