@@ -3,9 +3,9 @@ author: j91
 title: JUTA-161 Best!! Thirty-something Wife's First Nude AV Documentary Fujii Chika
 
 url: /v/juta161pl
-date: 0000-01-31T01:15:00Z
+date: 2025-01-31T01:15:00Z
 image: "juta161pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Debut Production, Slender, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Debut Production, Slender, Mature Woman	]
 maker: [Juku Onna JAPAN- Emmanuelle]
 actress: [ Fujii Chika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujii Chika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="8zJL1q21B2Fjd7">
     <a href="javascript:;">
         <img src="/v/juta161pl/juta161pl.jpg" width="WIDTH" height="HEIGHT" alt="juta161pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujii Chika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juta161pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujii Chika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juta161pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

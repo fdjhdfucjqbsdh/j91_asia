@@ -3,9 +3,9 @@ author: j91
 title: JJPP-192 A DVD Of A Handsome Man Taking A Married Woman To His Room And Having Sex With Her. 016 ~ He Forced Himself On Her And Came Inside Her ~
 
 url: /v/jjpp192pl
-date: 0000-01-31T01:15:00Z
+date: 2025-01-31T01:15:00Z
 image: "jjpp192pl.jpg"
-tags: [Upcoming releases, Creampie, Voyeur, Amateur, Married Woman, Nampa, 4HR+, Mature Woman	]
+tags: [Censored, Creampie, Voyeur, Amateur, Married Woman, Nampa, 4HR+, Mature Woman	]
 maker: [Juku Onna JAPAN- Emmanuelle]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="g2P7q0krOViqypo">
     <a href="javascript:;">
         <img src="/v/jjpp192pl/jjpp192pl.jpg" width="WIDTH" height="HEIGHT" alt="jjpp192pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjpp192pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjpp192pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: NPJS-139 Street Close-Up Documentary, Toyoko Mocha Nyan Edition Famous For Her Penguin Costume. The Legendary Mocha Nyan Lives In Kabukicho. She Is Working Hard Every Day Using Her Tits And Pussy.
 
 url: /v/npjs139pl
-date: 0000-01-31T01:10:00Z
+date: 2025-01-31T01:10:00Z
 image: "npjs139pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Gal, Titty Fuck, Beautiful Girl	]
+tags: [Censored, Blow, Creampie, Gal, Titty Fuck, Beautiful Girl	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OXploXAww1femL">
     <a href="javascript:;">
         <img src="/v/npjs139pl/npjs139pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs139pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs139pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs139pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

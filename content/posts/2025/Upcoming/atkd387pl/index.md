@@ -3,9 +3,9 @@ author: j91
 title: ATKD-387 Obscene Immoral Massage BEST
 
 url: /v/atkd387pl
-date: 0000-01-31T01:00:00Z
+date: 2025-01-31T01:00:00Z
 image: "atkd387pl.jpg"
-tags: [Upcoming releases, Best, Omnibus, Big Tits, Massage, 4HR+, Lotion, Acme · Orgasm	]
+tags: [Censored, Best, Omnibus, Big Tits, Massage, 4HR+, Lotion, Acme · Orgasm	]
 maker: [Attackers]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mgaBY7Lo4ysbqAv">
     <a href="javascript:;">
         <img src="/v/atkd387pl/atkd387pl.jpg" width="WIDTH" height="HEIGHT" alt="atkd387pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/atkd387pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/atkd387pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

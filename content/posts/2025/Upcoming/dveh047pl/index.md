@@ -3,9 +3,9 @@ author: j91
 title: DVEH-047 "Ah, No! In A Place Like This..." Forced Climax With Sudden Cunnilingus (a Perfect Hit)! Enjoy The Shaved, Super Beautiful Pussy Of A Beloved Female Employee With Fair Skin While At Work! Yui Tenma
 
 url: /v/dveh047pl
-date: 0000-01-31T01:25:00Z
+date: 2025-01-31T01:25:00Z
 image: "dveh047pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Cunnilingus, Shaved, Prank	]
+tags: [Censored, OL, Creampie, Solowork, Cunnilingus, Shaved, Prank	]
 maker: [Deeps]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MzJaypY4QAfma87">
     <a href="javascript:;">
         <img src="/v/dveh047pl/dveh047pl.jpg" width="WIDTH" height="HEIGHT" alt="dveh047pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dveh047pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dveh047pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

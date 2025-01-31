@@ -3,9 +3,9 @@ author: j91
 title: BOBB-427 My Personal Divine Breast Maid! Perfect Breasts For My Master! I'll Serve You With Breastfeeding And Titjobs While You Heal Me! Boin "Kosaka Himari" Box3
 
 url: /v/bobb427pl
-date: 0000-01-31T01:28:00Z
+date: 2025-01-31T01:28:00Z
 image: "bobb427pl.jpg"
-tags: [Upcoming releases, Maid, Creampie, Solowork, Big Tits, Beautiful Girl, Busty Fetish	]
+tags: [Censored, Maid, Creampie, Solowork, Big Tits, Beautiful Girl, Busty Fetish	]
 maker: [Abc- Mousou Zoku]
 actress: [ Kosaka Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kosaka Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jrqr83gw7qh2dj">
     <a href="javascript:;">
         <img src="/v/bobb427pl/bobb427pl.jpg" width="WIDTH" height="HEIGHT" alt="bobb427pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kosaka Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bobb427pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kosaka Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bobb427pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

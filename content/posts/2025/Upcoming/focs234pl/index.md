@@ -3,9 +3,9 @@ author: j91
 title: FOCS-234 [Hairy] Super Sensitive Body Pees A Lot. Thickly Grown Pubic Hair Shines With Love Juice And Squirting. Slippery Pleasure Oil Massage Sara Isshiki
 
 url: /v/focs234pl
-date: 0000-01-31T01:28:00Z
+date: 2025-01-31T01:28:00Z
 image: "focs234pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Big Tits, Massage, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Big Tits, Massage, Huge Butt	]
 maker: [Abc- Mousou Zoku]
 actress: [ Isshiki Sara ]
 ---
@@ -13,13 +13,13 @@ actress: [ Isshiki Sara ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="j4bmKqbjgAFLMa">
     <a href="javascript:;">
         <img src="/v/focs234pl/focs234pl.jpg" width="WIDTH" height="HEIGHT" alt="focs234pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Isshiki Sara ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs234pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Isshiki Sara ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs234pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

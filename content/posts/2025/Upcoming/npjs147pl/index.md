@@ -3,9 +3,9 @@ author: j91
 title: NPJS-147 [Private Shoot] A Girl With A Secret Account Applied For A Private Shoot Because She Wanted To Give Money To Her Host. "Anything Depending On The Amount..." When The Shoot Started, The Perverted Girl's Reason Faded Away And She Became Immersed In Sex. [Sold With Permission]
 
 url: /v/npjs147pl
-date: 0000-01-31T01:10:00Z
+date: 2025-01-31T01:10:00Z
 image: "npjs147pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, POV, Beautiful Girl, Nampa	]
+tags: [Censored, Amateur, Big Tits, POV, Beautiful Girl, Nampa	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kzqP4qaodOt96L">
     <a href="javascript:;">
         <img src="/v/npjs147pl/npjs147pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs147pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs147pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs147pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

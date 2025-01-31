@@ -3,9 +3,9 @@ author: j91
 title: NPJS-135 I Paid A Lot Of Money To Watch A Gamer Girl's Stream, And Then I Was Able To Meet Her Offline!! Mizuki, 20 Years Old, Is A Shut-in Girl Who Loves Games And Cosplay.
 
 url: /v/npjs135pl
-date: 0000-01-31T01:10:00Z
+date: 2025-01-31T01:10:00Z
 image: "npjs135pl.jpg"
-tags: [Upcoming releases, Creampie, Amateur, Beautiful Girl, Nampa, Slender	]
+tags: [Censored, Creampie, Amateur, Beautiful Girl, Nampa, Slender	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="dK1Qp4DAX1FkaXr">
     <a href="javascript:;">
         <img src="/v/npjs135pl/npjs135pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs135pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs135pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs135pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

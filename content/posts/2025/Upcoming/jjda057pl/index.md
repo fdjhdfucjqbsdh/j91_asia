@@ -3,9 +3,9 @@ author: j91
 title: JJDA-057 A Wife, Kana Morisawa, Who Couldn't Resist The Relentless Stimulation Of Her Sensitive Thighs By A Perverted Acupressure Therapist And Fell Into Pleasure
 
 url: /v/jjda057pl
-date: 0000-01-31T01:15:00Z
+date: 2025-01-31T01:15:00Z
 image: "jjda057pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Married Woman, Documentary, Cuckold	]
+tags: [Censored, Creampie, Solowork, Humiliation, Married Woman, Documentary, Cuckold	]
 maker: [Jukujo Daigaku- Jukujo Manji]
 actress: [ Iioka Kanako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QeOoWW6r3BFr93">
     <a href="javascript:;">
         <img src="/v/jjda057pl/jjda057pl.jpg" width="WIDTH" height="HEIGHT" alt="jjda057pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjda057pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjda057pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
