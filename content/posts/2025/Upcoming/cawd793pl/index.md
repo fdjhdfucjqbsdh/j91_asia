@@ -3,9 +3,9 @@ author: j91
 title: CAWD-793 Hana Kayano, A Current Music Teacher At A Private Junior High School In Kyushu, Makes Her AV Debut. Students, This Quiet Teacher In The Music Room Is Actually This Naughty.
 
 url: /v/cawd793pl
-date: 0000-01-31T01:50:00Z
+date: 2025-01-31T01:50:00Z
 image: "cawd793pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Female Teacher, Debut Production, Beautiful Girl, Slender	]
+tags: [Censored, Creampie, Solowork, Female Teacher, Debut Production, Beautiful Girl, Slender	]
 maker: [Kawaii]
 actress: [ Kayano Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kayano Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="APLmB9yK1xsXVaw">
     <a href="javascript:;">
         <img src="/v/cawd793pl/cawd793pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd793pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kayano Hana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd793pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kayano Hana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd793pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

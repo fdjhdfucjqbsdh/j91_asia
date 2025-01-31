@@ -3,9 +3,9 @@ author: j91
 title: MIFD-572 A Princess-like Beautiful Girl With Wide Eyes Shows Off Her Ahegao Face With A Big Dick And Reaches Beastly Orgasm. Her AV Debut Is A Shocking Contrast Between Her Classic Innocent Appearance And Her Animal-like Screams. Momo Hoshimiya
 
 url: /v/mifd572pl
-date: 0000-01-31T01:55:00Z
+date: 2025-01-31T01:55:00Z
 image: "mifd572pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Nasty, Hardcore, Squirting, Acme · Orgasm	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Nasty, Hardcore, Squirting, Acme · Orgasm	]
 maker: [MOODYZ]
 actress: [ Hoshimiya Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hoshimiya Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VOMwJzdpoXCKR3d">
     <a href="javascript:;">
         <img src="/v/mifd572pl/mifd572pl.jpg" width="WIDTH" height="HEIGHT" alt="mifd572pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hoshimiya Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mifd572pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hoshimiya Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mifd572pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
