@@ -3,9 +3,9 @@ author: j91
 title: YUJ-029 "Will You Pretend To Be My Boyfriend?" My Female Friend Asked Me That, And Even Though I Knew I Shouldn't Fall In Love With Her, I Did. I Ended Up Having More Intense Sex With Her Than I Did With A Real Lover.
 
 url: /v/yuj029pl
-date: 0000-01-31T01:40:00Z
+date: 2025-01-31T01:40:00Z
 image: "yuj029pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Slut, Slender	]
+tags: [Censored, Solowork, Beautiful Girl, Slut, Slender	]
 maker: [Attackers]
 actress: [ Itsuha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Itsuha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BzwO6dXlplCQyJ">
     <a href="javascript:;">
         <img src="/v/yuj029pl/yuj029pl.jpg" width="WIDTH" height="HEIGHT" alt="yuj029pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itsuha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/yuj029pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itsuha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/yuj029pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

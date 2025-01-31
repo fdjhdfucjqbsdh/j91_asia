@@ -3,9 +3,9 @@ author: j91
 title: JUNY-148 When I Went Back To My Hometown In The Tranquil Countryside, My Voluptuous Childhood Friend And Cousin Pressed Tightly Against Me And Fought Over My Dick In A Sweaty, Continuous Creampie Harem Sex Session. Shiori Tsukada, Fuka Minamihata
 
 url: /v/juny148pl
-date: 0000-01-31T01:35:00Z
+date: 2025-01-31T01:35:00Z
 image: "juny148pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Titty Fuck, Huge Butt	]
+tags: [Censored, Creampie, Big Tits, Titty Fuck, Huge Butt	]
 maker: [Fitch]
 actress: [ Tsukada Shiori ,Minahata Fuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukada Shiori ,Minahata Fuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6K0Q0Wek32ioqB">
     <a href="javascript:;">
         <img src="/v/juny148pl/juny148pl.jpg" width="WIDTH" height="HEIGHT" alt="juny148pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukada Shiori ,Minahata Fuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny148pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukada Shiori ,Minahata Fuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny148pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

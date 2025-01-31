@@ -3,9 +3,9 @@ author: j91
 title: FPRE-154 A Charming Smile That Will Make You Fall In Love With Her And A Tall Body That Is Worthy Of First Class, The New Cabin Attendant Fujimori Hinami Makes Her AV Debut
 
 url: /v/fpre154pl
-date: 0000-01-31T01:35:00Z
+date: 2025-01-31T01:35:00Z
 image: "fpre154pl.jpg"
-tags: [Upcoming releases, Blow, 3P, 4P, Solowork, Big Tits, Debut Production, Acme · Orgasm	]
+tags: [Censored, Blow, 3P, 4P, Solowork, Big Tits, Debut Production, Acme · Orgasm	]
 maker: [Fitch]
 actress: [ Fujimori Hinami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujimori Hinami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kwX6wqWV6lf9r3">
     <a href="javascript:;">
         <img src="/v/fpre154pl/fpre154pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre154pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujimori Hinami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre154pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujimori Hinami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre154pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

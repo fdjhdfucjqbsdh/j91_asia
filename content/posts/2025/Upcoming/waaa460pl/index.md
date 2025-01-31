@@ -3,9 +3,9 @@ author: j91
 title: WAAA-460 Punishment, Big Dick Training, Intense Piston, Black GAL, Bitch, Female Fall
 
 url: /v/waaa460pl
-date: 0000-01-31T01:45:00Z
+date: 2025-01-31T01:45:00Z
 image: "waaa460pl.jpg"
-tags: [Upcoming releases, Creampie, Gal, Nasty, Hardcore, Squirting, Acme · Orgasm	]
+tags: [Censored, Creampie, Gal, Nasty, Hardcore, Squirting, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KwG2X9ZDOYi00Jq">
     <a href="javascript:;">
         <img src="/v/waaa460pl/waaa460pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa460pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa460pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa460pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

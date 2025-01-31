@@ -3,9 +3,9 @@ author: j91
 title: WAAA-472 I Made My Girlfriend's Sister (plain, Shy, And Not Interested In Sex) Fall Into A State Of Drug-induced Ecstasy And Turned Her Into A Creampie Urinal.
 
 url: /v/waaa472pl
-date: 0000-01-31T01:45:00Z
+date: 2025-01-31T01:45:00Z
 image: "waaa472pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Squirting, Slender, Cuckold, Acme · Orgasm	]
+tags: [Censored, Creampie, Solowork, Squirting, Slender, Cuckold, Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Tsukinoe Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OJx9e9wyxzi7LV">
     <a href="javascript:;">
         <img src="/v/waaa472pl/waaa472pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa472pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa472pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa472pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

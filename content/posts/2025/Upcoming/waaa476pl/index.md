@@ -3,9 +3,9 @@ author: j91
 title: WAAA-476 My Brother-in-law's Insatiable Cock Is A Perfect Hit! My Defenseless T-back Sister-in-law Is Fucked Hard In A Machine Gun Back Piston, Causing Her To Tremble And Pee Repeatedly NTR Ai Sayama
 
 url: /v/waaa476pl
-date: 0000-01-31T01:45:00Z
+date: 2025-01-31T01:45:00Z
 image: "waaa476pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Squirting, Cuckold, Huge Butt, Back	]
+tags: [Censored, Solowork, Married Woman, Squirting, Cuckold, Huge Butt, Back	]
 maker: [WANZ FACTORY]
 actress: [ Sayama Ai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sayama Ai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="zMX0DvwdBLtY0P8">
     <a href="javascript:;">
         <img src="/v/waaa476pl/waaa476pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa476pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa476pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sayama Ai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa476pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
