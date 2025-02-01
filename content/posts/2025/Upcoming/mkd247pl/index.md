@@ -3,9 +3,9 @@ author: j91
 title: MKD-247 A Middle-aged Lady Living In A Luxurious Mansion Makes Her AV Debut As A Hobby And For Profit! Yumika Nanaki
 
 url: /v/mkd247pl
-date: 0000-02-01T01:22:00Z
+date: 2025-02-01T01:22:00Z
 image: "mkd247pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Miss, Debut Production, Urination, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Miss, Debut Production, Urination, Mature Woman	]
 maker: [ Ruby  ]
 actress: [ Nanaki Yumika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanaki Yumika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Aox1Zvlp2XuGVo">
     <a href="javascript:;">
         <img src="/v/mkd247pl/mkd247pl.jpg" width="WIDTH" height="HEIGHT" alt="mkd247pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanaki Yumika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkd247pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanaki Yumika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkd247pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

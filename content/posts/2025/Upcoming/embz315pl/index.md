@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-315 [Viewer Discretion Advised] Gang Rape Footage, Uncut And Unedited "Record Of Rape Crimes Against Women" A Housewife Whose Home Was Identified Is Humiliated And Impregnated! Chloroform And Stun Guns Are Used To Knock Her Unconscious, And Aphrodisiacs Awaken Her Lust. The Raped Wife, Who Continued To Resist Violently, Succumbed To The Aphrodisiac, Rolled Her Eyes And Collapsed As She Was Penetrated And Creampied! Sakuma Kaede
 
 url: /v/embz315pl
-date: 0000-02-01T01:22:00Z
+date: 2025-02-01T01:22:00Z
 image: "embz315pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Abuse, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Abuse, Mature Woman	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Sakuma Kaede ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakuma Kaede ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="qgko3PjrggFzbZw">
     <a href="javascript:;">
         <img src="/v/embz315pl/embz315pl.jpg" width="WIDTH" height="HEIGHT" alt="embz315pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakuma Kaede ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/embz315pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakuma Kaede ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/embz315pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

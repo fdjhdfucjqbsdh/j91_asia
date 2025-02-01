@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MOPP-100 A Masochistic Slut Teases You Until Your Brain Juices Melt And You're Never Allowed To Ejaculate - A Rewarding Torture For Masochistic Sensuality - Wakui Mito
+title: MMPB-065 New Year! New Year's Pussy No. 2! A Lively And Flashy Squirting! Squirting! Squirting! Splash!!
 
-url: /v/mopp100pl
-date: 2025-02-01T01:22:00Z
-image: "mopp100pl.jpg"
-tags: [Censored, Anal, Blow, Handjob, Solowork, Other Fetish, Submissive Men	]
-maker: [ M O Paradise  ]
-actress: [ Wakui Mito]
+url: /v/mmpb065pl
+date: 2025-02-01T01:00:00Z
+image: "mmpb065pl.jpg"
+tags: [Censored, Humiliation, Nasty, Hardcore, Squirting, Breasts, 4HR+	]
+maker: [ Momotarou Eizou Shuppan  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="JD69PlA0MvhjKbO">
+<div class="video" data-videoid="Ly740GpzkYfRBYo">
     <a href="javascript:;">
-        <img src="/v/mopp100pl/mopp100pl.jpg" width="WIDTH" height="HEIGHT" alt="mopp100pl.mp4" loading="lazy">
+        <img src="/v/mmpb065pl/mmpb065pl.jpg" width="WIDTH" height="HEIGHT" alt="mmpb065pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Wakui Mito]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/mopp100pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmpb065pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakui Mito]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/mopp100pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmpb065pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
