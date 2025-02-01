@@ -3,9 +3,9 @@ author: j91
 title: YMDS-198 A Night Of Intimate And Passionate Sex With The Much-admired Mitake Yuuna All To Yourself.
 
 url: /v/ymds198pl
-date: 0000-02-01T01:50:00Z
+date: 2025-02-01T01:50:00Z
 image: "ymds198pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Big Tits, Kiss, Sun tan	]
+tags: [Censored, Creampie, Solowork, Older Sister, Big Tits, Kiss, Sun tan	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Mitake Yuuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitake Yuuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kbQJl363D4SyKW">
     <a href="javascript:;">
         <img src="/v/ymds198pl/ymds198pl.jpg" width="WIDTH" height="HEIGHT" alt="ymds198pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ymds198pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitake Yuuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ymds198pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

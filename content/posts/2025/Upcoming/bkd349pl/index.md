@@ -3,9 +3,9 @@ author: j91
 title: BKD-349 Mother And Child Copulation ~ Okunikko Yutakiji ~ Hitomi Honda
 
 url: /v/bkd349pl
-date: 0000-02-01T01:22:00Z
+date: 2025-02-01T01:22:00Z
 image: "bkd349pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Incest, Mature Woman, Kimono, Mourning, Hot Spring	]
+tags: [Censored, Creampie, Solowork, Incest, Mature Woman, Kimono, Mourning, Hot Spring	]
 maker: [ Ruby  ]
 actress: [ Honda Hitomi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Honda Hitomi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="JJR0d2gkJahjk38">
     <a href="javascript:;">
         <img src="/v/bkd349pl/bkd349pl.jpg" width="WIDTH" height="HEIGHT" alt="bkd349pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Honda Hitomi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bkd349pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Honda Hitomi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bkd349pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
