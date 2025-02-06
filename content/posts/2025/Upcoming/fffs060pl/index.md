@@ -3,9 +3,9 @@ author: j91
 title: FFFS-060 Mature Women Brought Home To Sleep Rape, Housewives Lose Consciousness And Have Their Crotches Pounded With A Huge Cock 5 Yui-san, 32 Years Old, F Cup Satsuki-san, 33 Years Old, E Cup
 
 url: /v/fffs060pl
-date: 0000-02-07T01:10:00Z
+date: 2025-02-06T18:10:00Z
 image: "fffs060pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Married Woman, Tall	]
+tags: [Censored, Creampie, Big Tits, Married Woman, Tall	]
 maker: [Private - Mousozoku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gajggxWV8aiJjy">
     <a href="javascript:;">
         <img src="/v/fffs060pl/fffs060pl.jpg" width="WIDTH" height="HEIGHT" alt="fffs060pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fffs060pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fffs060pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

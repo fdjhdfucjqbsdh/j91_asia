@@ -3,9 +3,9 @@ author: j91
 title: IDBD-952 I Love Sucking Cock So Much That I Can't Stop Thinking About Blowjobs... 33 Ejaculations From Blowjobs Alone Kana Momonogi
 
 url: /v/idbd952pl
-date: 0000-02-07T01:00:00Z
+date: 2025-02-06T18:00:00Z
 image: "idbd952pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Facials, 4HR+, Deep Throating, Actress Best	]
+tags: [Censored, Blow, Solowork, Facials, 4HR+, Deep Throating, Actress Best	]
 maker: [IDEA POCKET]
 actress: [ Momonogi Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Momonogi Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="pg4Pere2DpUzlL">
     <a href="javascript:;">
         <img src="/v/idbd952pl/idbd952pl.jpg" width="WIDTH" height="HEIGHT" alt="idbd952pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Momonogi Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/idbd952pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Momonogi Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/idbd952pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
