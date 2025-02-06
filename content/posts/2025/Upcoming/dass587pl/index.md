@@ -3,9 +3,9 @@ author: j91
 title: DASS-587 A Mother And Her Son Are Locked In A Room Where They Can't Get Out Unless They Ejaculate 10 Times. They Endure Their Desire To Have Sex With Each Other And Ejaculate Over And Over Again. Kana Morisawa
 
 url: /v/dass587pl
-date: 0000-02-07T01:40:00Z
+date: 2025-02-06T18:40:00Z
 image: "dass587pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Slut, Lingerie, Incest, Mother	]
+tags: [Censored, Creampie, Solowork, Slut, Lingerie, Incest, Mother	]
 maker: [Das !]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="k23aJxb0DptOvya">
     <a href="javascript:;">
         <img src="/v/dass587pl/dass587pl.jpg" width="WIDTH" height="HEIGHT" alt="dass587pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass587pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iioka Kanako]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass587pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

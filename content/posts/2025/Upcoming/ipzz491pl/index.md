@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-491 Newcomer! Idol Debut Turned Down For AV Debut! A Beautiful Girl Who Could Have Been An Idol. Shirakumo Ame
 
 url: /v/ipzz491pl
-date: 0000-02-07T01:50:00Z
+date: 2025-02-06T18:50:00Z
 image: "ipzz491pl.jpg"
-tags: [Upcoming releases, Solowork, Debut Production, Beautiful Girl, Slender, Entertainer	]
+tags: [Censored, Solowork, Debut Production, Beautiful Girl, Slender, Entertainer	]
 maker: [IDEA POCKET]
 actress: [ Shirokumo Ame ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirokumo Ame ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="e3mOmM0b3kt2Xv">
     <a href="javascript:;">
         <img src="/v/ipzz491pl/ipzz491pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz491pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirokumo Ame ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz491pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirokumo Ame ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz491pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

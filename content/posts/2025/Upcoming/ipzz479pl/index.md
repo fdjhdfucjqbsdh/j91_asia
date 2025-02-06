@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-479 My Old Man Subordinate's Cunnilingus Is My Favorite! I'm A Regular Employee, But I've Opened A Brothel For Women Without Telling My Company! I Ran Into My Female Boss During A 120-minute Long Session... I Licked Her Until She Begged Me To Extend The Session, Saying "Please Put It In..." And Then I Creampied Her...! Tsumugi Akari
 
 url: /v/ipzz479pl
-date: 0000-02-07T01:50:00Z
+date: 2025-02-06T18:50:00Z
 image: "ipzz479pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Older Sister, Massage, Female Boss	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Older Sister, Massage, Female Boss	]
 maker: [IDEA POCKET]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="LJyV72yGe8URQl1">
     <a href="javascript:;">
         <img src="/v/ipzz479pl/ipzz479pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz479pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz479pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz479pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
