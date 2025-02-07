@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-683 A Devilish Tutor Who Whispers In My Ear From Behind, Teases My Nipples, And Holds My Beautiful Legs Until I'm Teased And Cums, Clearing My Mind Of All My Distractions. A 1-9 Study Session With Her. Hinako Mori
 
 url: /v/dvaj683pl
-date: 0000-02-08T01:51:00Z
+date: 2025-02-07T16:51:00Z
 image: "dvaj683pl.jpg"
-tags: [Upcoming releases, Solowork, Slut, Tutor, Footjob, Leg Fetish	]
+tags: [Censored, Solowork, Slut, Tutor, Footjob, Leg Fetish	]
 maker: [ Alice Japan  ]
 actress: [ Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BGjY6grPVXTybOY">
     <a href="javascript:;">
         <img src="/v/dvaj683pl/dvaj683pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj683pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj683pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj683pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

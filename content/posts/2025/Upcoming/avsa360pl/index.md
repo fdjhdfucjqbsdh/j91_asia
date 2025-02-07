@@ -3,9 +3,9 @@ author: j91
 title: AVSA-360 A Jogger Woman With A Full Body Who Is Given An Aphrodisiac And Has A Mega Incontinence Orgasm And Ejaculates A Lot, Tanaka Nene
 
 url: /v/avsa360pl
-date: 0000-02-08T01:22:00Z
+date: 2025-02-07T16:22:00Z
 image: "avsa360pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, BBW, Huge Butt	]
+tags: [Censored, Solowork, Big Tits, BBW, Huge Butt	]
 maker: [ Avs  ]
 actress: [ Tanaka Nene ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tanaka Nene ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="gwdqJYJaRYSqy0X">
     <a href="javascript:;">
         <img src="/v/avsa360pl/avsa360pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa360pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa360pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tanaka Nene ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa360pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

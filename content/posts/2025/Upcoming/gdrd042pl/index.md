@@ -3,9 +3,9 @@ author: j91
 title: GDRD-042 Red Dragon Karen Nagase
 
 url: /v/gdrd042pl
-date: 0000-02-08T01:50:00Z
+date: 2025-02-07T16:50:00Z
 image: "gdrd042pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Cowgirl, Prostitutes	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Cowgirl, Prostitutes	]
 maker: [ GOLD - Mousozoku  ]
 actress: [ Nagase Karen ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagase Karen ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BYZJm2kmKAh2aa">
     <a href="javascript:;">
         <img src="/v/gdrd042pl/gdrd042pl.jpg" width="WIDTH" height="HEIGHT" alt="gdrd042pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nagase Karen ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gdrd042pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nagase Karen ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gdrd042pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

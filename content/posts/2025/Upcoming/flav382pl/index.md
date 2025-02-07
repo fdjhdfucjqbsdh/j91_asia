@@ -3,9 +3,9 @@ author: j91
 title: FLAV-382 HYPER FETISH High-leg Lewd Queen Emi Nishino
 
 url: /v/flav382pl
-date: 0000-02-08T01:50:00Z
+date: 2025-02-07T16:50:00Z
 image: "flav382pl.jpg"
-tags: [Upcoming releases, Solowork, Pantyhose, Leotard, Squirting, Urination, Race Queen	]
+tags: [Censored, Solowork, Pantyhose, Leotard, Squirting, Urination, Race Queen	]
 maker: [ Digital Ark  ]
 actress: [ Nishino Emi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishino Emi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="K9oaKW9BvjiAD1">
     <a href="javascript:;">
         <img src="/v/flav382pl/flav382pl.jpg" width="WIDTH" height="HEIGHT" alt="flav382pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/flav382pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nishino Emi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/flav382pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

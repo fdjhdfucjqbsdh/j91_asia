@@ -3,9 +3,9 @@ author: j91
 title: MKMP-613 Her Best Friend Is A Carnivorous Gal... She Courts Me With A Titjob And A Lewd Sucking Blowjob In A Reverse NTR Sex Scene. Hinako Mori
 
 url: /v/mkmp613pl
-date: 0000-02-08T01:55:00Z
+date: 2025-02-07T16:55:00Z
 image: "mkmp613pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Gal, Breasts, Slender, Cuckold	]
+tags: [Censored, Creampie, Solowork, Gal, Breasts, Slender, Cuckold	]
 maker: [ K.M.Produce  ]
 actress: [ Mori Hinako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mori Hinako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="W6K1j0P3vwcb9xM">
     <a href="javascript:;">
         <img src="/v/mkmp613pl/mkmp613pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp613pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkmp613pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mori Hinako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkmp613pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

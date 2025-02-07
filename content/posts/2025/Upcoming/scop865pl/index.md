@@ -3,9 +3,9 @@ author: j91
 title: SCOP-865 There Is A Rumor That A Monster Slut With A Big Ass Appears In A Certain Area Of Tokyo And Devours Men Who Are Alone Every Night! We've Got A Thorough SCOOP On This Slut Who Suddenly Appears, Seduces Men, And Milks Their Semen As Much As She Wants!
 
 url: /v/scop865pl
-date: 0000-02-08T01:50:00Z
+date: 2025-02-07T16:50:00Z
 image: "scop865pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Big Tits, Planning, Slut	]
+tags: [Censored, Blow, Creampie, Big Tits, Planning, Slut	]
 maker: [ K.M.Produce  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lwv79bRM7biBXl">
     <a href="javascript:;">
         <img src="/v/scop865pl/scop865pl.jpg" width="WIDTH" height="HEIGHT" alt="scop865pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/scop865pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/scop865pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

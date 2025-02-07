@@ -3,9 +3,9 @@ author: j91
 title: NSFS-356 The Boss And The Subordinate's Wife 26 ~The Unbelievably Dirty Sexual Habits Of That Man~ Kyoka Tachibana
 
 url: /v/nsfs356pl
-date: 0000-02-08T01:56:00Z
+date: 2025-02-07T16:56:00Z
 image: "nsfs356pl.jpg"
-tags: [Upcoming releases, Solowork, Married Woman, Affair, Drama, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Affair, Drama, Cuckold	]
 maker: [ Nagae Style  ]
 actress: [ Tachibana Kyouka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tachibana Kyouka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="VrkP7DdY4WIKDdL">
     <a href="javascript:;">
         <img src="/v/nsfs356pl/nsfs356pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs356pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tachibana Kyouka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs356pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tachibana Kyouka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs356pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
