@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DVMM-205 Ordinary Men And Women Monitoring AV NTR Oil Massage Experience In A Special Magic Mirror Pair Room! A Newly Married Couple Is Made To Cum Over And Over Again By The Amazing Technique Treatment Of An AV Actress And Actor! Yui Hatano & Big Dick Therapist Edition
+title: BANK-196 Busty Married Woman Hot Spring Date - Exquisite L-Cup Lewd Nipples - Kanae, 29 Years Old
 
-url: /v/dvmm205pl
-date: 2025-02-13T16:08:00Z
-image: "dvmm205pl.jpg"
-tags: [Censored, Creampie, Solowork, Married Woman, 4HR+, Cuckold, Huge Cock	]
-maker: [Deeps]
-actress: [ Hatano Yui ]
+url: /v/bank196pl
+date: 2025-02-13T14:22:00Z
+image: "bank196pl.jpg"
+tags: [Censored, Creampie, Big Tits, Married Woman, Titty Fuck, Kimono, Mourning, Ultra-Huge Tits, Hot Spring	]
+maker: [ Ma￮ko Ginkou  ]
+actress: [ Nitta Yuki ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="VBD2vpkOrquy9l">
+<div class="video" data-videoid="bpx6gRqVMvsPZZ3">
     <a href="javascript:;">
-        <img src="/v/dvmm205pl/dvmm205pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm205pl.mp4" loading="lazy">
+        <img src="/v/bank196pl/bank196pl.jpg" width="WIDTH" height="HEIGHT" alt="bank196pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dvmm205pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bank196pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dvmm205pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bank196pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -1,21 +1,21 @@
 ---
 author: j91
-title: DVMM-205 Ordinary Men And Women Monitoring AV NTR Oil Massage Experience In A Special Magic Mirror Pair Room! A Newly Married Couple Is Made To Cum Over And Over Again By The Amazing Technique Treatment Of An AV Actress And Actor! Yui Hatano & Big Dick Therapist Edition
+title: TIMD-006 Submissive Masochistic Boy Alice & Haruka Haruka Kisaragi
 
-url: /v/dvmm205pl
-date: 2025-02-13T16:08:00Z
-image: "dvmm205pl.jpg"
-tags: [Censored, Creampie, Solowork, Married Woman, 4HR+, Cuckold, Huge Cock	]
-maker: [Deeps]
-actress: [ Hatano Yui ]
+url: /v/timd006pl
+date: 2025-02-13T14:00:00Z
+image: "timd006pl.jpg"
+tags: [Censored, Transsexual, Solowork, Cross Dressing]
+maker: [ Sanwa Shuppan  ]
+actress: [ Kisaragi Haruka ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="VBD2vpkOrquy9l">
+<div class="video" data-videoid="qlaoKXdaxyuzBYZ">
     <a href="javascript:;">
-        <img src="/v/dvmm205pl/dvmm205pl.jpg" width="WIDTH" height="HEIGHT" alt="dvmm205pl.mp4" loading="lazy">
+        <img src="/v/timd006pl/timd006pl.jpg" width="WIDTH" height="HEIGHT" alt="timd006pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/dvmm205pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/timd006pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hatano Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/dvmm205pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/timd006pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
