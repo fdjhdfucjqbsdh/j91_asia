@@ -3,9 +3,9 @@ author: j91
 title: MUKD-525 We Are Addicted To Feeling Good. One Day, An Off-party Creampie Orgy
 
 url: /v/mukd525pl
-date: 0000-02-14T01:10:00Z
+date: 2025-02-13T16:10:00Z
 image: "mukd525pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, School Girls, Squirting, Promiscuity	]
+tags: [Censored, Creampie, Uniform, School Girls, Squirting, Promiscuity	]
 maker: [Muku]
 actress: [ Kanon Urara, Kashiwagi Konatsu, Shidzuki Koharu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kanon Urara, Kashiwagi Konatsu, Shidzuki Koharu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="032GxaByrjsbJm4">
     <a href="javascript:;">
         <img src="/v/mukd525pl/mukd525pl.jpg" width="WIDTH" height="HEIGHT" alt="mukd525pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kanon Urara, Kashiwagi Konatsu, Shidzuki Koharu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mukd525pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kanon Urara, Kashiwagi Konatsu, Shidzuki Koharu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mukd525pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

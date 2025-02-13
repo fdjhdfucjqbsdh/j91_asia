@@ -3,9 +3,9 @@ author: j91
 title: JFB-463 Director Aida Yumeno's Dirty Talk FUCK Collection 4 Hours BEST
 
 url: /v/jfb463pl
-date: 0000-02-14T01:00:00Z
+date: 2025-02-13T16:00:00Z
 image: "jfb463pl.jpg"
-tags: [Upcoming releases, Dirty Words, Big Tits, Cowgirl, Slut, 4HR+, Submissive Men	]
+tags: [Censored, Dirty Words, Big Tits, Cowgirl, Slut, 4HR+, Submissive Men	]
 maker: [Fitch]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2bqm88zoLaIR1b">
     <a href="javascript:;">
         <img src="/v/jfb463pl/jfb463pl.jpg" width="WIDTH" height="HEIGHT" alt="jfb463pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jfb463pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jfb463pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

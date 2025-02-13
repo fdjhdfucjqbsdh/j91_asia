@@ -3,9 +3,9 @@ author: j91
 title: HJBB-206 The Best Pose Of Her Writhing Orgasm! 4 Hours Of Incontinence Convulsions With A Fixed Vibrator Stuck In Her Knees! Vol.2
 
 url: /v/hjbb206pl
-date: 0000-02-14T01:00:00Z
+date: 2025-02-13T16:00:00Z
 image: "hjbb206pl.jpg"
-tags: [Upcoming releases, Vibe, Squirting, Urination, Toy, Dildo	]
+tags: [Censored, Vibe, Squirting, Urination, Toy, Dildo	]
 maker: [Hajime Kikaku]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wY7yOJVzjkFJ79Q">
     <a href="javascript:;">
         <img src="/v/hjbb206pl/hjbb206pl.jpg" width="WIDTH" height="HEIGHT" alt="hjbb206pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hjbb206pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hjbb206pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

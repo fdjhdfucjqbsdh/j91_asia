@@ -3,9 +3,9 @@ author: j91
 title: KIBD-327 The Dirty Gal Forgets The Script And The Production And Just Gets Serious About French Kissing! The Saliva Brings The Vibes To The Max! 67 Sex Scenes In The Zone!
 
 url: /v/kibd327pl
-date: 0000-02-14T01:00:00Z
+date: 2025-02-13T16:00:00Z
 image: "kibd327pl.jpg"
-tags: [Upcoming releases, Creampie, Best, Omnibus, Gal, 4HR+, Kiss, Bitch	]
+tags: [Censored, Creampie, Best, Omnibus, Gal, 4HR+, Kiss, Bitch	]
 maker: [Kira ★ Kira]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vwe2pwjwAWi4kZg">
     <a href="javascript:;">
         <img src="/v/kibd327pl/kibd327pl.jpg" width="WIDTH" height="HEIGHT" alt="kibd327pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kibd327pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kibd327pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

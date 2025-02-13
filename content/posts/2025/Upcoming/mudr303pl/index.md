@@ -3,9 +3,9 @@ author: j91
 title: MUDR-303 Schrodinger's Pants, A Single Chemistry Teacher And Her Female Student's Skirt By Ito Akana
 
 url: /v/mudr303pl
-date: 0000-02-14T01:10:00Z
+date: 2025-02-13T16:10:00Z
 image: "mudr303pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Solowork, Other Fetish, Slut, Prank	]
+tags: [Censored, Sailor Suit, Solowork, Other Fetish, Slut, Prank	]
 maker: [Muku]
 actress: [ Akana Ito ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akana Ito ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="6kmaKgJ0Xju4J7">
     <a href="javascript:;">
         <img src="/v/mudr303pl/mudr303pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr303pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akana Ito ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr303pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akana Ito ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr303pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

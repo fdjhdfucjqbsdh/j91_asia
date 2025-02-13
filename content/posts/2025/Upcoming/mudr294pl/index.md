@@ -3,9 +3,9 @@ author: j91
 title: MUDR-294 Innocent Uniform Bondage Toys ~SHIBARI~ Mai Hanagari
 
 url: /v/mudr294pl
-date: 0000-02-14T01:10:00Z
+date: 2025-02-13T16:10:00Z
 image: "mudr294pl.jpg"
-tags: [Upcoming releases, SM, Solowork, Uniform, School Girls, Shibari, Urination	]
+tags: [Censored, SM, Solowork, Uniform, School Girls, Shibari, Urination	]
 maker: [Muku]
 actress: [ Kagari Mai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagari Mai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jVr6GRzYbzUzPVk">
     <a href="javascript:;">
         <img src="/v/mudr294pl/mudr294pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr294pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kagari Mai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr294pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kagari Mai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr294pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

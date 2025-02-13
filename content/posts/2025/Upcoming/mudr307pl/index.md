@@ -3,9 +3,9 @@ author: j91
 title: MUDR-307 A Sweaty Uniformed Beautiful Girl Who Can't Stop Getting Horny And A Closed Room Erotic Steamy Dehydration Orgasm. Sweaty And Drooling, She Is Absorbed In A Super Close Contact And Wet Raw Sex. Shizuka
 
 url: /v/mudr307pl
-date: 0000-02-14T01:10:00Z
+date: 2025-02-13T16:10:00Z
 image: "mudr307pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Beautiful Girl, Squirting, Sweat	]
+tags: [Censored, Creampie, Solowork, School Girls, Beautiful Girl, Squirting, Sweat	]
 maker: [Muku]
 actress: [ Shizuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="mL4lqaw8jVFkKm">
     <a href="javascript:;">
         <img src="/v/mudr307pl/mudr307pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr307pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr307pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr307pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

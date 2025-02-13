@@ -3,9 +3,9 @@ author: j91
 title: VEC-684 Mother's Best Friend Ichika Seta
 
 url: /v/vec684pl
-date: 0000-02-14T01:15:00Z
+date: 2025-02-13T16:15:00Z
 image: "vec684pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Slut, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Slut, Mature Woman	]
 maker: [Venus]
 actress: [ Seta Ichika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Seta Ichika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="YB7Boe4wzZuvVbo">
     <a href="javascript:;">
         <img src="/v/vec684pl/vec684pl.jpg" width="WIDTH" height="HEIGHT" alt="vec684pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/vec684pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seta Ichika ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/vec684pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

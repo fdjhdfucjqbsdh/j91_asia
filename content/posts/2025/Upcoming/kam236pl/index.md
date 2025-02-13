@@ -3,9 +3,9 @@ author: j91
 title: KAM-236 [Compliance Violation] The Whole Story Of How I Seduced A Married Life Insurance Saleswoman With Sex Negotiations, Got Her Wet, And Fucked Her Hard [10-camera Voyeurism] Ayaka Tomoda
 
 url: /v/kam236pl
-date: 0000-02-14T01:09:00Z
+date: 2025-02-13T16:09:00Z
 image: "kam236pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Voyeur, Married Woman, Affair, Slender	]
+tags: [Censored, Creampie, Solowork, Voyeur, Married Woman, Affair, Slender	]
 maker: [Karuma]
 actress: [ Tomoda Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ggbGevbZpqsqw88">
     <a href="javascript:;">
         <img src="/v/kam236pl/kam236pl.jpg" width="WIDTH" height="HEIGHT" alt="kam236pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam236pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam236pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
