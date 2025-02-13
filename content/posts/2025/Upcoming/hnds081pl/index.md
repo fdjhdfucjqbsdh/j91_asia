@@ -3,9 +3,9 @@ author: j91
 title: HNDS-081 A Secret Creampie School Festival, With The Magic Wand That Makes All Your Naughty Wishes Come True, I, The Loner In Class, Get To See 10 Cute Beautiful Girls Show Off Their Pussies And Anuses In A Massive Orgy Special!!
 
 url: /v/hnds081pl
-date: 0000-02-14T01:35:00Z
+date: 2025-02-13T16:35:00Z
 image: "hnds081pl.jpg"
-tags: [Upcoming releases, Creampie, Uniform, 4HR+, Promiscuity, Kiss	]
+tags: [Censored, Creampie, Uniform, 4HR+, Promiscuity, Kiss	]
 maker: [Honnaka]
 actress: [ Misono Waka, Yayoi Mizuki, Matsumoto Ichika, Toujou Natsu ,Satsuki Ena, Kasui Jun ,Kuramoto Sumire ,Kashiwagi Konatsu ,Haruhi Moka ,Nijimura Yumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka, Yayoi Mizuki, Matsumoto Ichika, Toujou Natsu ,Satsuki En
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AQeJWlKjDkfmwv">
     <a href="javascript:;">
         <img src="/v/hnds081pl/hnds081pl.jpg" width="WIDTH" height="HEIGHT" alt="hnds081pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka, Yayoi Mizuki, Matsumoto Ichika, Toujou Natsu ,Satsuki En
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hnds081pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka, Yayoi Mizuki, Matsumoto Ichika, Toujou Natsu ,Satsuki En
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hnds081pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

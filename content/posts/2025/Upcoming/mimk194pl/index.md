@@ -3,9 +3,9 @@ author: j91
 title: MIMK-194 A Live-action Adaptation Of The Delicate And Lascivious Masterpiece That Sold 45,000 Copies. A Live-action Version Of Filling A Hole With An Old Man, A Shy, Sultry, Big-breasted High School Girl Who Is Too Interested In Sex Ends Up Getting Hooked On A Passionate Encounter With A Middle-aged Man She Meets By Chance... Kokoro Asano
 
 url: /v/mimk194pl
-date: 0000-02-14T01:56:00Z
+date: 2025-02-13T16:56:00Z
 image: "mimk194pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, School Girls, Big Tits, Beautiful Girl, Original Collaboration	]
+tags: [Censored, Blow, Solowork, School Girls, Big Tits, Beautiful Girl, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ Asano Kokoro]
 ---
@@ -13,13 +13,13 @@ actress: [ Asano Kokoro]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7mLGpd31klFRDx">
     <a href="javascript:;">
         <img src="/v/mimk194pl/mimk194pl.jpg" width="WIDTH" height="HEIGHT" alt="mimk194pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Asano Kokoro]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mimk194pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Asano Kokoro]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mimk194pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
