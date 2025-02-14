@@ -3,9 +3,9 @@ author: j91
 title: HKD-147 Burning For Work! Sixtieth Birthday Grandma! 2
 
 url: /v/hkd147pl
-date: 0000-02-15T01:22:00Z
+date: 2025-02-14T16:22:00Z
 image: "hkd147pl.jpg"
-tags: [Upcoming releases, Creampie, Married Woman, Various Professions, Mature Woman, Multiple Story	]
+tags: [Censored, Creampie, Married Woman, Various Professions, Mature Woman, Multiple Story	]
 maker: [ Ruby  ]
 actress: [ Miyuki Tsubasa, Nagase Akiko, Kikuzono Etsuko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyuki Tsubasa, Nagase Akiko, Kikuzono Etsuko ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="6WYz8WxA1rs9wYR">
     <a href="javascript:;">
         <img src="/v/hkd147pl/hkd147pl.jpg" width="WIDTH" height="HEIGHT" alt="hkd147pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyuki Tsubasa, Nagase Akiko, Kikuzono Etsuko ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hkd147pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyuki Tsubasa, Nagase Akiko, Kikuzono Etsuko ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hkd147pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

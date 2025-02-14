@@ -3,9 +3,9 @@ author: j91
 title: SUJI-268 First Time With A Stranger... A Video Of A Little Girl With A Shaved Pussy Getting Creampied
 
 url: /v/suji268pl
-date: 0000-02-15T01:50:00Z
+date: 2025-02-14T16:50:00Z
 image: "suji268pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Shaved, Mini, Tits	]
+tags: [Censored, Creampie, Beautiful Girl, Shaved, Mini, Tits	]
 maker: [ Kan Ran Mono  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PyPRpP7l9MuxpR">
     <a href="javascript:;">
         <img src="/v/suji268pl/suji268pl.jpg" width="WIDTH" height="HEIGHT" alt="suji268pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/suji268pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/suji268pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

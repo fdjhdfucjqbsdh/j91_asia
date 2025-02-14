@@ -3,9 +3,9 @@ author: j91
 title: PKPD-354 Newcomer Debut Document, G-Cup Amateur Caregiver With A Nice Personality, Shirato Kanae
 
 url: /v/pkpd354pl
-date: 0000-02-15T01:22:00Z
+date: 2025-02-14T16:22:00Z
 image: "pkpd354pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Debut Production, Beautiful Girl, Huge Butt	]
+tags: [Censored, Creampie, Solowork, POV, Debut Production, Beautiful Girl, Huge Butt	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Shiroto Kanae ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiroto Kanae ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pk0zoDxypWsrQjp">
     <a href="javascript:;">
         <img src="/v/pkpd354pl/pkpd354pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd354pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiroto Kanae ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd354pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiroto Kanae ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd354pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

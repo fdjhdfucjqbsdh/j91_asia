@@ -3,9 +3,9 @@ author: j91
 title: MYBA-079 A Married Woman's Petals Turned Over - Kasumi Amamiya
 
 url: /v/myba079pl
-date: 0000-02-15T01:22:00Z
+date: 2025-02-14T16:22:00Z
 image: "myba079pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Affair, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Affair, Mature Woman	]
 maker: [ Hitodzumaengokai-Emanuel  ]
 actress: [ Amamiya Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="oww9p6RK9lTJzrP">
     <a href="javascript:;">
         <img src="/v/myba079pl/myba079pl.jpg" width="WIDTH" height="HEIGHT" alt="myba079pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/myba079pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Kasumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/myba079pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: AUKG-619 Mature Lesbians ~Pleasure Play In A Four-and-a-Half Tatami Room~
 
 url: /v/aukg619pl
-date: 0000-02-15T01:05:00Z
+date: 2025-02-14T16:05:00Z
 image: "aukg619pl.jpg"
-tags: [Upcoming releases, Lesbian, Big Tits, Nasty, Hardcore, Mature Woman, Drama	]
+tags: [Censored, Lesbian, Big Tits, Nasty, Hardcore, Mature Woman, Drama	]
 maker: [ U & K  ]
 actress: [ Isawa Ryouko ,Tadokoro Yuri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Isawa Ryouko ,Tadokoro Yuri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="myzVJa1yXLUb8be">
     <a href="javascript:;">
         <img src="/v/aukg619pl/aukg619pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg619pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Isawa Ryouko ,Tadokoro Yuri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg619pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Isawa Ryouko ,Tadokoro Yuri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg619pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

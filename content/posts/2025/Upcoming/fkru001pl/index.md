@@ -3,9 +3,9 @@ author: j91
 title: FKRU-001 Blowjob Active Gal Bitch! Oto Alice
 
 url: /v/fkru001pl
-date: 0000-02-15T01:22:00Z
+date: 2025-02-14T16:22:00Z
 image: "fkru001pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Other Fetish, Gal, Big Tits	]
+tags: [Censored, Blow, Creampie, Solowork, Other Fetish, Gal, Big Tits	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Seina Arisa]
 ---
@@ -13,13 +13,13 @@ actress: [ Seina Arisa]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="oZvxZg67Z0TJ6ek">
     <a href="javascript:;">
         <img src="/v/fkru001pl/fkru001pl.jpg" width="WIDTH" height="HEIGHT" alt="fkru001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Seina Arisa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fkru001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Seina Arisa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fkru001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
