@@ -1,21 +1,21 @@
 ---
 author: j91
-title: NVH-044 Supernova Shemale AV Debut Kimoto Miori
+title: EVIS-575 [Slut Attack] Dirty Talk Subjective Lesbian Kissing
 
-url: /v/nvh044pl
+url: /v/evis575pl
 date: 2025-02-14T16:05:00Z
-image: "nvh044pl.jpg"
-tags: [Censored, Transsexual, Anal, Solowork, Debut Production, Cross Dressing	]
-maker: [ Glory Quest  ]
-actress: [ Kimoto Miori ]
+image: "evis575pl.jpg"
+tags: [Censored, Lesbian, Dirty Words, Slut, Lesbian Kiss, Submissive Men	]
+maker: [ Ebisusan - Mousou Zoku  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="3wXxBAQ9gvtdw1b">
+<div class="video" data-videoid="vwDlGGarebU4G0o">
     <a href="javascript:;">
-        <img src="/v/nvh044pl/nvh044pl.jpg" width="WIDTH" height="HEIGHT" alt="nvh044pl.mp4" loading="lazy">
+        <img src="/v/evis575pl/evis575pl.jpg" width="WIDTH" height="HEIGHT" alt="evis575pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kimoto Miori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/nvh044pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/evis575pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kimoto Miori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/nvh044pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/evis575pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

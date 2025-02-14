@@ -1,21 +1,21 @@
 ---
 author: j91
-title: NVH-044 Supernova Shemale AV Debut Kimoto Miori
+title: PAP-253 They Have Amazing Looks And Are So Sexy! I've Never Seen Such Beautiful Korean Women Before! These Korean Beauties Respond With A Lovely Smile To Their First Sex With A Japanese Man!
 
-url: /v/nvh044pl
-date: 2025-02-14T16:05:00Z
-image: "nvh044pl.jpg"
-tags: [Censored, Transsexual, Anal, Solowork, Debut Production, Cross Dressing	]
-maker: [ Glory Quest  ]
-actress: [ Kimoto Miori ]
+url: /v/pap253pl
+date: 2025-02-14T16:00:00Z
+image: "pap253pl.jpg"
+tags: [Censored, Amateur, Nasty, Hardcore, Breasts, Mature Woman, Other Asian	]
+maker: [ Ruby  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="3wXxBAQ9gvtdw1b">
+<div class="video" data-videoid="W8LbmMQeMlcbwwM">
     <a href="javascript:;">
-        <img src="/v/nvh044pl/nvh044pl.jpg" width="WIDTH" height="HEIGHT" alt="nvh044pl.mp4" loading="lazy">
+        <img src="/v/pap253pl/pap253pl.jpg" width="WIDTH" height="HEIGHT" alt="pap253pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Kimoto Miori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/nvh044pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pap253pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kimoto Miori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/nvh044pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pap253pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
