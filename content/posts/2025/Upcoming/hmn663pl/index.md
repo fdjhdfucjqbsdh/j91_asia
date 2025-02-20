@@ -3,9 +3,9 @@ author: j91
 title: HMN-663 On That Day, The University Sports Club Turned Into A Muddy, Semen-filled, Love Juice-splattering, Creampie Gangbang Training Camp.
 
 url: /v/hmn663pl
-date: 0000-02-21T01:45:00Z
+date: 2025-02-20T16:45:00Z
 image: "hmn663pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Beautiful Girl, Cowgirl, Promiscuity	]
+tags: [Censored, Blow, Creampie, Solowork, Beautiful Girl, Cowgirl, Promiscuity	]
 maker: [Honnaka]
 actress: [ Kasui Jun ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kasui Jun ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="p8OLDYvZlKuB0r">
     <a href="javascript:;">
         <img src="/v/hmn663pl/hmn663pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn663pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kasui Jun ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn663pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kasui Jun ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn663pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

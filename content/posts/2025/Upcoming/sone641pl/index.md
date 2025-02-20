@@ -3,9 +3,9 @@ author: j91
 title: SONE-641 The Swimsuit Manufacturer I Got A Job In Is A World Where All The Female Employees Wear Swimsuits. Even If I Get An Erection, My K-cup Instructor, Washio-san, Jerks Me Off, So My Balls Are Empty Every Day.
 
 url: /v/sone641pl
-date: 0000-02-21T01:55:00Z
+date: 2025-02-20T16:55:00Z
 image: "sone641pl.jpg"
-tags: [Upcoming releases, Older Sister, Big Tits, Titty Fuck, School Swimsuit, Swimsuit	]
+tags: [Censored, Older Sister, Big Tits, Titty Fuck, School Swimsuit, Swimsuit	]
 maker: [S1 NO.1 STYLE]
 actress: [ Washio Mei ,Suzaki Miwa ,Miyanoki Shunka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Washio Mei ,Suzaki Miwa ,Miyanoki Shunka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aYzewPzkj4t2ry">
     <a href="javascript:;">
         <img src="/v/sone641pl/sone641pl.jpg" width="WIDTH" height="HEIGHT" alt="sone641pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Washio Mei ,Suzaki Miwa ,Miyanoki Shunka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone641pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Washio Mei ,Suzaki Miwa ,Miyanoki Shunka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone641pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

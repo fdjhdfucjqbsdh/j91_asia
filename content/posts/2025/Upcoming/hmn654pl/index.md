@@ -3,9 +3,9 @@ author: j91
 title: HMN-654 "Can I Tell Your Boyfriend That You're Cheating?" I Raped My Drunk Best Friend's Girlfriend Raw. I Trained Her To Be A Convenient Pussy That's OK With Creampies For 3 Days. Sumire Kuramoto
 
 url: /v/hmn654pl
-date: 0000-02-21T01:45:00Z
+date: 2025-02-20T16:45:00Z
 image: "hmn654pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Nasty, Hardcore, Facials, Squirting, Deep Throating	]
+tags: [Censored, Creampie, Solowork, Nasty, Hardcore, Facials, Squirting, Deep Throating	]
 maker: [Honnaka]
 actress: [ Kuramoto Sumire ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuramoto Sumire ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="k9GgDO24gQTPMZ">
     <a href="javascript:;">
         <img src="/v/hmn654pl/hmn654pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn654pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn654pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuramoto Sumire ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn654pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

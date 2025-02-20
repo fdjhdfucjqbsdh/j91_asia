@@ -3,9 +3,9 @@ author: j91
 title: JUR-011 The Third Shocking Transfer. Drenched In Oil And Infidelity, She Appears In The Full-scale Cuckold Series!! Nude Model NTR Shocking Video Of A Wife Drowning In Shame With Her Boss Minami Kojima
 
 url: /v/jur011pl
-date: 0000-02-21T01:50:00Z
+date: 2025-02-20T16:50:00Z
 image: "jur011pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Mature Woman, Cuckold	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Mature Woman, Cuckold	]
 maker: [Madonna]
 actress: [ Kojima Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kojima Minami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="apYA1qROAQtxgj0">
     <a href="javascript:;">
         <img src="/v/jur011pl/jur011pl.jpg" width="WIDTH" height="HEIGHT" alt="jur011pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kojima Minami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur011pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kojima Minami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur011pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

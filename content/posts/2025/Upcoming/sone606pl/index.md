@@ -3,9 +3,9 @@ author: j91
 title: SONE-606 An Affair Trip With An Obedient, Fair-skinned, Beautiful-skinned College Girl Who Is As Old As My Daughter, Where We Seek Pleasure Together. Mizuno Nanoha
 
 url: /v/sone606pl
-date: 0000-02-21T01:55:00Z
+date: 2025-02-20T16:55:00Z
 image: "sone606pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Affair, Slender, Hot Spring, Submissive Woman	]
+tags: [Censored, Restraint, Solowork, Affair, Slender, Hot Spring, Submissive Woman	]
 maker: [S1 NO.1 STYLE]
 actress: [ Mizuno Nanoha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizuno Nanoha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0pGVz6MwQptblzZ">
     <a href="javascript:;">
         <img src="/v/sone606pl/sone606pl.jpg" width="WIDTH" height="HEIGHT" alt="sone606pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizuno Nanoha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone606pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizuno Nanoha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone606pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

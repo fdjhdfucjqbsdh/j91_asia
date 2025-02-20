@@ -3,9 +3,9 @@ author: j91
 title: JUR-031 Madonna ALL Exclusive Bus Tour 2025 I'm The One Who'll Have The Most Beautiful Women All To Myself!! Grab The Harem Of Your Dreams!! A Huge Orgy With 37 People!! Part 1
 
 url: /v/jur031pl
-date: 0000-02-21T01:50:00Z
+date: 2025-02-20T16:50:00Z
 image: "jur031pl.jpg"
-tags: [Upcoming releases, Married Woman, 4HR+, Documentary, Mature Woman, Promiscuity	]
+tags: [Censored, Married Woman, 4HR+, Documentary, Mature Woman, Promiscuity	]
 maker: [Madonna]
 actress: [ Shiina Yuna, Tachibana Mary, Yoshizawa Yuki, Jinguuji Nao, Fujimori Riho, Ichiki Mahiro ,Asahi Rio, Kotou Mariko, Yoshinaga Touko ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Yuna, Tachibana Mary, Yoshizawa Yuki, Jinguuji Nao, Fujimori R
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Bb1VjZRADMhyegD">
     <a href="javascript:;">
         <img src="/v/jur031pl/jur031pl.jpg" width="WIDTH" height="HEIGHT" alt="jur031pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Yuna, Tachibana Mary, Yoshizawa Yuki, Jinguuji Nao, Fujimori R
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur031pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Yuna, Tachibana Mary, Yoshizawa Yuki, Jinguuji Nao, Fujimori R
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur031pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
