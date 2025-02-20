@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-300 I've Been Dumped 100 Times, I'm Hopelessly Unpopular, And My Female Friend Who Has A Boyfriend Took Pity On Me And Let Me Do All Sorts Of Naughty Things With Her!! Live-action Version
 
 url: /v/huntc300pl
-date: 0000-02-21T01:10:00Z
+date: 2025-02-20T16:10:00Z
 image: "huntc300pl.jpg"
-tags: [Upcoming releases, Creampie, Big Tits, Cuckold	]
+tags: [Censored, Creampie, Big Tits, Cuckold	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="O7GvmDoe8pc993">
     <a href="javascript:;">
         <img src="/v/huntc300pl/huntc300pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc300pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc300pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc300pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DASS-605 My Girlfriend's Mother Is More Appealing To Me Than My Girlfriend, And My Dick Is So Hard It Hurts.
 
 url: /v/dass605pl
-date: 0000-02-21T01:40:00Z
+date: 2025-02-20T16:40:00Z
 image: "dass605pl.jpg"
-tags: [Upcoming releases, Creampie, Cowgirl, Mother, Drama, No Bra	]
+tags: [Censored, Creampie, Cowgirl, Mother, Drama, No Bra	]
 maker: [Das !]
 actress: [ Fujisaku Akane ,Miyanoki Shunka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisaku Akane ,Miyanoki Shunka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="m34e01Pgp1Sb0R7">
     <a href="javascript:;">
         <img src="/v/dass605pl/dass605pl.jpg" width="WIDTH" height="HEIGHT" alt="dass605pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisaku Akane ,Miyanoki Shunka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass605pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisaku Akane ,Miyanoki Shunka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass605pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

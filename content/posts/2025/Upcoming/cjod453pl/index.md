@@ -3,9 +3,9 @@ author: j91
 title: CJOD-453 Seed Squeezing Press That Makes You Cum Until Morning Comes Yui Tenma
 
 url: /v/cjod453pl
-date: 0000-02-21T01:25:00Z
+date: 2025-02-20T16:25:00Z
 image: "cjod453pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, Beautiful Girl, Cowgirl, Huge Butt	]
+tags: [Censored, Creampie, Solowork, Uniform, Beautiful Girl, Cowgirl, Huge Butt	]
 maker: [Bi]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="GAZqgm77zpf1GRP">
     <a href="javascript:;">
         <img src="/v/cjod453pl/cjod453pl.jpg" width="WIDTH" height="HEIGHT" alt="cjod453pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cjod453pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tenma Yui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cjod453pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

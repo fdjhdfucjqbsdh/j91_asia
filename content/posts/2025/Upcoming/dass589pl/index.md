@@ -3,9 +3,9 @@ author: j91
 title: DASS-589 Compete To See Who Will Become Your Daughter. Karin Kitaoka And Momo Shiraishi, Two Slender Sisters Taken In By Their Haughty Uncle, Compete For His Cock And Provide Sexual Service.
 
 url: /v/dass589pl
-date: 0000-02-21T01:40:00Z
+date: 2025-02-20T16:40:00Z
 image: "dass589pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Breasts, Slender, Promiscuity	]
+tags: [Censored, 3P, 4P, Breasts, Slender, Promiscuity	]
 maker: [Das !]
 actress: [ Shiraishi Momo, Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo, Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4A0rDWrbxqIKKvM">
     <a href="javascript:;">
         <img src="/v/dass589pl/dass589pl.jpg" width="WIDTH" height="HEIGHT" alt="dass589pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraishi Momo, Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass589pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraishi Momo, Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass589pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

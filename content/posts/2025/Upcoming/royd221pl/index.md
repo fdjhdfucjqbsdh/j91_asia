@@ -3,9 +3,9 @@ author: j91
 title: ROYD-221 Hey, Let's Study Something Naughty? The Secret Face Of The Petite And Neat Class President Is That She's A Horny Slut Who Hangs Out In My Room And Secretly Devours My Dick! Karin Kitaoka
 
 url: /v/royd221pl
-date: 0000-02-21T01:35:00Z
+date: 2025-02-20T16:35:00Z
 image: "royd221pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Creampie, Solowork, School Girls, Beautiful Girl, Glasses	]
+tags: [Censored, Sailor Suit, Creampie, Solowork, School Girls, Beautiful Girl, Glasses	]
 maker: [ROYAL]
 actress: [ Kitaoka Karin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kitaoka Karin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ZbrKM4o0Moiw6y">
     <a href="javascript:;">
         <img src="/v/royd221pl/royd221pl.jpg" width="WIDTH" height="HEIGHT" alt="royd221pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd221pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kitaoka Karin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd221pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: XYZA-001 Deep Throat Devil Play Yuuhi Shibamori
 
 url: /v/xyza001pl
-date: 0000-02-21T01:09:00Z
+date: 2025-02-20T16:09:00Z
 image: "xyza001pl.jpg"
-tags: [Upcoming releases, Solowork, Uniform, Facials, Cum, Deep Throating, Bloomers	]
+tags: [Censored, Solowork, Uniform, Facials, Cum, Deep Throating, Bloomers	]
 maker: [Toyohiko]
 actress: [ Shibamori Yuuhi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shibamori Yuuhi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="03vYLx41DOF60W">
     <a href="javascript:;">
         <img src="/v/xyza001pl/xyza001pl.jpg" width="WIDTH" height="HEIGHT" alt="xyza001pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shibamori Yuuhi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xyza001pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shibamori Yuuhi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xyza001pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

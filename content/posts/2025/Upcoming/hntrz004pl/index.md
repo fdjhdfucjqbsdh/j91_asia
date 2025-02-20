@@ -3,9 +3,9 @@ author: j91
 title: HNTRZ-004 Slut Harem Holy Swimming Club, The Happiest School Life Drowning In The Bodily Fluids And Pleasures Of A Slender Classmate And A Busty Senior
 
 url: /v/hntrz004pl
-date: 0000-02-21T01:10:00Z
+date: 2025-02-20T16:10:00Z
 image: "hntrz004pl.jpg"
-tags: [Upcoming releases, Big Tits, Slut, Urination, Promiscuity	]
+tags: [Censored, Big Tits, Slut, Urination, Promiscuity	]
 maker: [Hunter]
 actress: [ Misono Waka, Yayoi Mizuki, Satsuki Ena, Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka, Yayoi Mizuki, Satsuki Ena, Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="AJmw8A10JbSXY9G">
     <a href="javascript:;">
         <img src="/v/hntrz004pl/hntrz004pl.jpg" width="WIDTH" height="HEIGHT" alt="hntrz004pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka, Yayoi Mizuki, Satsuki Ena, Shiraishi Momo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hntrz004pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka, Yayoi Mizuki, Satsuki Ena, Shiraishi Momo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hntrz004pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
