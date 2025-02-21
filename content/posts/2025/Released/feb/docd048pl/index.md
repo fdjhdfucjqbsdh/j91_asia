@@ -1,21 +1,21 @@
 ---
 author: j91
-title: HBLA-004 The Pussy And The Back Of The Throat Are Penetrated By A Huge Meat Stick. The Female Hole Is Treated As A Complete Toy For The Pleasure Of The Man. 4 Hours Of Top-down Penetration Skewer Rape.
+title: DOCD-048 "Who Do You Think You Are, Customer?" The Sex Shop With The Worst Customer Service Attitude In Japan. Abusive Language! Insults! The Worst And Best Service From Our Proud, Unsociable Gal Girls!
 
-url: /v/hbla004pl
-date: 2025-02-20T16:00:00Z
-image: "hbla004pl.jpg"
-tags: [Censored, Creampie, Abuse, 4HR+, Deep Throating, Evil	]
-maker: [Hunter]
-actress: [ ]
+url: /v/docd048pl
+date: 2025-02-20T15:00:00Z
+image: "docd048pl.jpg"
+tags: [Censored, Creampie, Gal, Big Tits, Titty Fuck, Insult	]
+maker: [DOC  ]
+actress: [Seina Arisa , Sena Rumina ,Yuzuki Hinata ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="YyblGDyyMQuOMY">
+<div class="video" data-videoid="xgzv6BPbd8u0A3">
     <a href="javascript:;">
-        <img src="/v/hbla004pl/hbla004pl.jpg" width="WIDTH" height="HEIGHT" alt="hbla004pl.mp4" loading="lazy">
+        <img src="/v/docd048pl/docd048pl.jpg" width="WIDTH" height="HEIGHT" alt="docd048pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/hbla004pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/docd048pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/hbla004pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/docd048pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
