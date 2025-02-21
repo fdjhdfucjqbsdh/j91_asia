@@ -3,9 +3,9 @@ author: j91
 title: QRDA-197 Spy Torture W Training Kikyo Hanako
 
 url: /v/qrda197pl
-date: 0000-02-22T01:05:00Z
+date: 2025-02-21T16:05:00Z
 image: "qrda197pl.jpg"
-tags: [Upcoming releases, Anal, Restraint, Bondage, Mistress	]
+tags: [Censored, Anal, Restraint, Bondage, Mistress	]
 maker: [ Queen Road  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="4dAzj9ZL1JiO7X">
     <a href="javascript:;">
         <img src="/v/qrda197pl/qrda197pl.jpg" width="WIDTH" height="HEIGHT" alt="qrda197pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/qrda197pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/qrda197pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

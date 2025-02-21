@@ -3,9 +3,9 @@ author: j91
 title: JSOP-047 New Beautiful Mature Woman Bathhouse Rich And Sticky Luxury Soap Ayako Inoue
 
 url: /v/jsop047pl
-date: 0000-02-22T01:22:00Z
+date: 2025-02-21T16:22:00Z
 image: "jsop047pl.jpg"
-tags: [Upcoming releases, Solowork, Mature Woman, Lotion, Kimono, Mourning, Soapland	]
+tags: [Censored, Solowork, Mature Woman, Lotion, Kimono, Mourning, Soapland	]
 maker: [ Global Media Entertainment  ]
 actress: [ Inoue Ayako ]
 ---
@@ -13,13 +13,13 @@ actress: [ Inoue Ayako ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QKk8DJPBVAI07KK">
     <a href="javascript:;">
         <img src="/v/jsop047pl/jsop047pl.jpg" width="WIDTH" height="HEIGHT" alt="jsop047pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Inoue Ayako ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jsop047pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Inoue Ayako ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jsop047pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

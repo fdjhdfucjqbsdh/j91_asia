@@ -3,9 +3,9 @@ author: j91
 title: GMEM-125 ULTRA SWEET Akagai Beautiful Girl's Lustful Awakening To Pleasure Hell ~ Cruel Orgasmic Orgasm ~ Aoi Hazuki
 
 url: /v/gmem125pl
-date: 0000-02-22T01:22:00Z
+date: 2025-02-21T16:22:00Z
 image: "gmem125pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Big Tits, Beautiful Girl, Torture	]
+tags: [Censored, Restraint, Solowork, Big Tits, Beautiful Girl, Torture	]
 maker: [ Avs  ]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zkVpGb6pRrCYZqj">
     <a href="javascript:;">
         <img src="/v/gmem125pl/gmem125pl.jpg" width="WIDTH" height="HEIGHT" alt="gmem125pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gmem125pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gmem125pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
