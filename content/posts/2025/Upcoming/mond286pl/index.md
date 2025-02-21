@@ -3,9 +3,9 @@ author: j91
 title: MOND-286 With My Admired Female Boss, Haruka Miogawa
 
 url: /v/mond286pl
-date: 0000-02-22T01:45:00Z
+date: 2025-02-21T16:45:00Z
 image: "mond286pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Hot Spring	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Hot Spring	]
 maker: [ Takara Eizou  ]
 actress: [ Miyokawa Haruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Miyokawa Haruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="GAR8PJbxGzf1Lk9">
     <a href="javascript:;">
         <img src="/v/mond286pl/mond286pl.jpg" width="WIDTH" height="HEIGHT" alt="mond286pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Miyokawa Haruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mond286pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Miyokawa Haruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mond286pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

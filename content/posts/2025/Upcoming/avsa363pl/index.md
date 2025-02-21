@@ -3,9 +3,9 @@ author: j91
 title: AVSA-363 [A Documentary On The Destruction Of Friendship By A Huge Cock] Betrayal And Climax Of Pleasure, Ignoring Personality. 140cm "Let's Stay Friends Forever" Childhood Friend Kidnapped And Held Captive. Middle-aged Man Orders Pure Submission. "If You Want To Save Yourself, Make The Other Person Cum" "Hey, Cum For Me, Please..." Mouth-to-mouth Sperm Exchange, Mutual Creampie And Semen Sucking
 
 url: /v/avsa363pl
-date: 0000-02-22T01:40:00Z
+date: 2025-02-21T16:40:00Z
 image: "avsa363pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Confinement, Huge Cock	]
+tags: [Censored, Creampie, Beautiful Girl, Confinement, Huge Cock	]
 maker: [ Avs  ]
 actress: [ Iori Hinano ,Amano Noa]
 ---
@@ -13,13 +13,13 @@ actress: [ Iori Hinano ,Amano Noa]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kq1b8bbmqMF8ax">
     <a href="javascript:;">
         <img src="/v/avsa363pl/avsa363pl.jpg" width="WIDTH" height="HEIGHT" alt="avsa363pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iori Hinano ,Amano Noa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/avsa363pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iori Hinano ,Amano Noa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/avsa363pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
