@@ -3,9 +3,9 @@ author: j91
 title: BF-729 I Met My Childhood Friend For The First Time In A While, And She Had Become A Total Gal And A Bitch, And She Used My Dick As A Dildo And Fucked Me Raw Without My Permission. Amiri Saito
 
 url: /v/bf729pl
-date: 0000-02-28T01:20:00Z
+date: 2025-02-27T16:20:00Z
 image: "bf729pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Slut, Slender, Childhood Friend	]
+tags: [Censored, Solowork, Gal, Slut, Slender, Childhood Friend	]
 maker: [Befree]
 actress: [ Saitou Amiri ]
 ---
@@ -13,13 +13,13 @@ actress: [ Saitou Amiri ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Q0Jl8MdPXRu0MAz">
     <a href="javascript:;">
         <img src="/v/bf729pl/bf729pl.jpg" width="WIDTH" height="HEIGHT" alt="bf729pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Saitou Amiri ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bf729pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Saitou Amiri ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bf729pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BOBB-429 Met My Divine Breasted Sex Friend On A Matching App! Since I Had The Chance, I Asked Her To Do Some Breast Play That I Can't Do With My Girlfriend! Boin "Hazuki Noa" Box7
 
 url: /v/bobb429pl
-date: 0000-02-28T01:15:00Z
+date: 2025-02-27T16:15:00Z
 image: "bobb429pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Busty Fetish, Ultra-Huge Tits	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Busty Fetish, Ultra-Huge Tits	]
 maker: [Abc- Mousou Zoku]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="wdxXz82XeLFJywy">
     <a href="javascript:;">
         <img src="/v/bobb429pl/bobb429pl.jpg" width="WIDTH" height="HEIGHT" alt="bobb429pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bobb429pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Haruna Noa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bobb429pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

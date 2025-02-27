@@ -3,9 +3,9 @@ author: j91
 title: SSPD-176 First Dream Collaboration With Best Friend & Hinata Natsu Bondage Debut. Bound And Seductive Apartment Wife
 
 url: /v/sspd176pl
-date: 0000-02-28T01:40:00Z
+date: 2025-02-27T16:40:00Z
 image: "sspd176pl.jpg"
-tags: [Upcoming releases, Creampie, Beautiful Girl, Shibari, Promiscuity, Confinement	]
+tags: [Censored, Creampie, Beautiful Girl, Shibari, Promiscuity, Confinement	]
 maker: [Attackers]
 actress: [ Hinata Natsu, Itsuha ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinata Natsu, Itsuha ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BAQ4Ge3XGbtyBlO">
     <a href="javascript:;">
         <img src="/v/sspd176pl/sspd176pl.jpg" width="WIDTH" height="HEIGHT" alt="sspd176pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hinata Natsu, Itsuha ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sspd176pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hinata Natsu, Itsuha ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sspd176pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

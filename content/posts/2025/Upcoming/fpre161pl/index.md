@@ -3,9 +3,9 @@ author: j91
 title: FPRE-161 Limited To One Group Per Day. A Beautiful Busty Hostess Will Soothe You With Dirty Talk And A Slow, Close Handjob To Slowly Lead You To Ejaculation At This Rejuvenating Inn. Ran Kikuno
 
 url: /v/fpre161pl
-date: 0000-02-28T01:35:00Z
+date: 2025-02-27T16:35:00Z
 image: "fpre161pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Dirty Words, Big Tits, Massage, Landlady, Hostess	]
+tags: [Censored, Handjob, Solowork, Dirty Words, Big Tits, Massage, Landlady, Hostess	]
 maker: [Fitch]
 actress: [ Kikuno Ran ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kikuno Ran ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="OrGDRXLXyBsZ22o">
     <a href="javascript:;">
         <img src="/v/fpre161pl/fpre161pl.jpg" width="WIDTH" height="HEIGHT" alt="fpre161pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kikuno Ran ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fpre161pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kikuno Ran ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fpre161pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
