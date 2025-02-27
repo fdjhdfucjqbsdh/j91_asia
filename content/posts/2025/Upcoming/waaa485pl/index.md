@@ -3,9 +3,9 @@ author: j91
 title: WAAA-485 Pre-cum And Semen Gushing Out, 20 Shots Of No Mercy, Swimsuit Big Tits Gal Slut Men's Massage, Suzunoie Rin
 
 url: /v/waaa485pl
-date: 0000-02-28T01:45:00Z
+date: 2025-02-27T16:45:00Z
 image: "waaa485pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beauty Shop, Gal, Big Tits, Lotion	]
+tags: [Censored, Creampie, Solowork, Beauty Shop, Gal, Big Tits, Lotion	]
 maker: [WANZ FACTORY]
 actress: [ Suzunoya Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Suzunoya Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="1RAJJDo06Xfy43">
     <a href="javascript:;">
         <img src="/v/waaa485pl/waaa485pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa485pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Suzunoya Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa485pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Suzunoya Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa485pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

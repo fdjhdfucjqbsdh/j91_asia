@@ -3,9 +3,9 @@ author: j91
 title: MIDA-072 Shocking Super Scoop! Nana Yagi Was Taken Home By A Pick-up Artist In A Honey Trap. The Hidden Camera Scandal Video Is Released As An AV! Private SEX Naked Special
 
 url: /v/mida072pl
-date: 0000-02-28T01:55:00Z
+date: 2025-02-27T16:55:00Z
 image: "mida072pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Voyeur, POV, Beautiful Girl, Kiss	]
+tags: [Censored, Blow, Solowork, Voyeur, POV, Beautiful Girl, Kiss	]
 maker: [MOODYZ]
 actress: [ Yagi Nana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yagi Nana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="W6Odb726aeCbOP1">
     <a href="javascript:;">
         <img src="/v/mida072pl/mida072pl.jpg" width="WIDTH" height="HEIGHT" alt="mida072pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yagi Nana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mida072pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yagi Nana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mida072pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

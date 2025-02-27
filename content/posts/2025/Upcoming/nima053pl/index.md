@@ -3,9 +3,9 @@ author: j91
 title: NIMA-053 Nikuman, The Most Erotic Comic Ever Made Into A Live-action Film! A Slightly Ugly Girl Who Ruins People - A Girlfriend With A 40-point Face And A 120-point Body, Shiori Tsukada
 
 url: /v/nima053pl
-date: 0000-02-28T01:36:00Z
+date: 2025-02-27T16:36:00Z
 image: "nima053pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, Huge Butt, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, Huge Butt, Original Collaboration	]
 maker: [Fitch]
 actress: [ Tsukada Shiori ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukada Shiori ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="klkLXM8zMehOLJ1">
     <a href="javascript:;">
         <img src="/v/nima053pl/nima053pl.jpg" width="WIDTH" height="HEIGHT" alt="nima053pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukada Shiori ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima053pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukada Shiori ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima053pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
