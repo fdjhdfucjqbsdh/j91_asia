@@ -3,9 +3,9 @@ author: j91
 title: MIDA-096 Newcomer Nagisa Koizumi's Perfect Body AV Debut
 
 url: /v/mida096pl
-date: 0000-02-28T01:55:00Z
+date: 2025-02-28T01:55:00Z
 image: "mida096pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Debut Production, Slender, Female College Student, Kiss	]
+tags: [Censored, Solowork, Big Tits, Debut Production, Slender, Female College Student, Kiss	]
 maker: [MOODYZ]
 actress: [ Koizumi Nagisa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Koizumi Nagisa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="kWGoe2YZ8ktO10o">
     <a href="javascript:;">
         <img src="/v/mida096pl/mida096pl.jpg" width="WIDTH" height="HEIGHT" alt="mida096pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Koizumi Nagisa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mida096pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Koizumi Nagisa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mida096pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

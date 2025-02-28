@@ -3,9 +3,9 @@ author: j91
 title: CAWD-812 An Extremely Slender F-cup Body That Makes You Want To Have Sex [sweat, Cum, Aphrodisiac Oil] Amaha Ririka Jumps In Ecstasy
 
 url: /v/cawd812pl
-date: 0000-02-28T01:50:00Z
+date: 2025-02-28T01:50:00Z
 image: "cawd812pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Squirting, Slender, Entertainer, Sweat	]
+tags: [Censored, Creampie, Solowork, Squirting, Slender, Entertainer, Sweat	]
 maker: [Kawaii]
 actress: [ Amaha Ririka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amaha Ririka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KP9bOv3ZvgI0kBw">
     <a href="javascript:;">
         <img src="/v/cawd812pl/cawd812pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd812pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amaha Ririka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd812pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amaha Ririka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd812pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

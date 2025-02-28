@@ -3,9 +3,9 @@ author: j91
 title: MOER-008 The Sex Of The Men's Massage Girl Is... Very Masochistic And Erotic. The Owner Of This Lewd Body Is A Men's Massage Girl Who Lives In Takaido And Has A Boyfriend. Even Though She's A Yankee, She's Sensitive And Goes Crazy With The Actor's Dick. AV Debut. Ruka Mizusaki
 
 url: /v/moer008pl
-date: 0000-02-28T01:55:00Z
+date: 2025-02-28T01:55:00Z
 image: "moer008pl.jpg"
-tags: [Upcoming releases, Solowork, Beauty Shop, Big Tits, Debut Production, Huge Butt, Kiss	]
+tags: [Censored, Solowork, Beauty Shop, Big Tits, Debut Production, Huge Butt, Kiss	]
 maker: [MOODYZ]
 actress: [ Mizusaki Ruka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mizusaki Ruka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JqyWvQmDBBCVdA">
     <a href="javascript:;">
         <img src="/v/moer008pl/moer008pl.jpg" width="WIDTH" height="HEIGHT" alt="moer008pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mizusaki Ruka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/moer008pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mizusaki Ruka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/moer008pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

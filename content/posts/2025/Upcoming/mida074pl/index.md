@@ -3,9 +3,9 @@ author: j91
 title: MIDA-074 As A Homeroom Teacher, I Couldn't Resist My Student's Temptation And Ended Up Having Sex With Her Over And Over Again At A Love Hotel After School... Amamiya Kanan
 
 url: /v/mida074pl
-date: 0000-02-28T01:55:00Z
+date: 2025-02-28T01:55:00Z
 image: "mida074pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Big Tits, Beautiful Girl, Kiss	]
+tags: [Censored, Creampie, Solowork, School Girls, Big Tits, Beautiful Girl, Kiss	]
 maker: [MOODYZ]
 actress: [ Amamiya Kanan ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Kanan ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lA7zaLQAAOs7xVM">
     <a href="javascript:;">
         <img src="/v/mida074pl/mida074pl.jpg" width="WIDTH" height="HEIGHT" alt="mida074pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Kanan ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mida074pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Kanan ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mida074pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: CAWD-824 SNS Buzz File 02, A Beautiful Girl Who Was Really Caught On Camera During A Live Baseball Game. She Was A Huge Fan Of A Certain Baseball Team, And When We Went On A Baseball Date, We Had Sex And Released The Video As An AV. She Was So Sensitive That She Squirted And Turned Out To Be A Real Gem.
 
 url: /v/cawd824pl
-date: 0000-02-28T01:50:00Z
+date: 2025-02-28T01:50:00Z
 image: "cawd824pl.jpg"
-tags: [Upcoming releases, POV, Beautiful Girl, Squirting, Slender	]
+tags: [Censored, POV, Beautiful Girl, Squirting, Slender	]
 maker: [Kawaii]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="VBm7kvWDy0uKBqA">
     <a href="javascript:;">
         <img src="/v/cawd824pl/cawd824pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd824pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd824pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd824pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

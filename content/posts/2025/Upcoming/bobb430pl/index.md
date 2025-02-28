@@ -3,9 +3,9 @@ author: j91
 title: BOBB-430 I-cup Huge Breasts! Mom's Big Breasts Are Mine. A Story About How Mom Reo Fulfills My Desires With Lots Of Love. Boin "Reo Fujisawa" Box 2
 
 url: /v/bobb430pl
-date: 0000-02-28T01:15:00Z
+date: 2025-02-28T01:15:00Z
 image: "bobb430pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Busty Fetish, Mother, BBW	]
+tags: [Censored, Creampie, Solowork, Big Tits, Busty Fetish, Mother, BBW	]
 maker: [Abc- Mousou Zoku]
 actress: [ Fujisawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="QDB64WmkGyi0zRJ">
     <a href="javascript:;">
         <img src="/v/bobb430pl/bobb430pl.jpg" width="WIDTH" height="HEIGHT" alt="bobb430pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fujisawa Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bobb430pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fujisawa Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bobb430pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

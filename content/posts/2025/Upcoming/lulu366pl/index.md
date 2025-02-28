@@ -3,9 +3,9 @@ author: j91
 title: LULU-366 A Former Slut With A Big Ass And A Gyaru Mom Called Rin Amemiya Is Asked By Her Son's Virgin Friend To Practice Sex And Gives Him Anal Creampie Training Over And Over Again.
 
 url: /v/lulu366pl
-date: 0000-02-28T01:25:00Z
+date: 2025-02-28T01:25:00Z
 image: "lulu366pl.jpg"
-tags: [Upcoming releases, Anal, Solowork, Gal, Cuckold, Aunt	]
+tags: [Censored, Anal, Solowork, Gal, Cuckold, Aunt	]
 maker: [LUNATICS]
 actress: [ Amamiya Rin]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Rin]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="prB2yJ2qa9frdb0">
     <a href="javascript:;">
         <img src="/v/lulu366pl/lulu366pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu366pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Amamiya Rin]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu366pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amamiya Rin]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu366pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

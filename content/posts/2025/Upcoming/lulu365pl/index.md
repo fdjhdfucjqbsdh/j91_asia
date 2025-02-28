@@ -3,9 +3,9 @@ author: j91
 title: LULU-365 "It's Just A Squeeze..." A Former Slut With Big Tits And A Love For Young, Hard Cocks, Chinamin, Is Forced To Give Her Nephew A Titjob And Cum In It At His Request.
 
 url: /v/lulu365pl
-date: 0000-02-28T01:25:00Z
+date: 2025-02-28T01:25:00Z
 image: "lulu365pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Titty Fuck, Cuckold, Aunt	]
+tags: [Censored, Solowork, Big Tits, Titty Fuck, Cuckold, Aunt	]
 maker: [LUNATICS]
 actress: [ Chinamin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chinamin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="l7RxaXqP8qS7L48">
     <a href="javascript:;">
         <img src="/v/lulu365pl/lulu365pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu365pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Chinamin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu365pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Chinamin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu365pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
