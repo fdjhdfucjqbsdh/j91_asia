@@ -3,9 +3,9 @@ author: j91
 title: SQTE-598 Sweat, Smell And Sex Kasumi Tsukino
 
 url: /v/sqte598pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "sqte598pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Beautiful Girl, Sport, Hot Spring, Sweat	]
+tags: [Censored, Creampie, Solowork, Beautiful Girl, Sport, Hot Spring, Sweat	]
 maker: [ S-cute  ]
 actress: [ Tsukino Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukino Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="KyADwZMlwJSoAe">
     <a href="javascript:;">
         <img src="/v/sqte598pl/sqte598pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte598pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

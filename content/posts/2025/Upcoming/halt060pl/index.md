@@ -3,9 +3,9 @@ author: j91
 title: HALT-060 The Pleasure Of Defilement Of A Girl With A Cute Sleeping Face...
 
 url: /v/halt060pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "halt060pl.jpg"
-tags: [Upcoming releases, Amateur, Bukkake, Various Professions, Butt, Breast Peeker	]
+tags: [Censored, Amateur, Bukkake, Various Professions, Butt, Breast Peeker	]
 maker: [ HALENTINO - Mousouzoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="KgZ3a1d2j8U0xx3">
     <a href="javascript:;">
         <img src="/v/halt060pl/halt060pl.jpg" width="WIDTH" height="HEIGHT" alt="halt060pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

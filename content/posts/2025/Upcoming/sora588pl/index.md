@@ -3,9 +3,9 @@ author: j91
 title: SORA-588 A Teacher Who Doesn't Want To Be Seen But Wants To Be Seen Exposes Herself In School And Feels The Shame And Pleasure Of Urinating Aoi Hazuki
 
 url: /v/sora588pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "sora588pl.jpg"
-tags: [Upcoming releases, Solowork, Outdoors, Humiliation, Female Teacher, Big Tits, Urination	]
+tags: [Censored, Solowork, Outdoors, Humiliation, Female Teacher, Big Tits, Urination	]
 maker: [ Yama To Sora  ]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="P7mw7Dx4AmSBvy">
     <a href="javascript:;">
         <img src="/v/sora588pl/sora588pl.jpg" width="WIDTH" height="HEIGHT" alt="sora588pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

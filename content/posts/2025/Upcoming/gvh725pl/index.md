@@ -3,9 +3,9 @@ author: j91
 title: GVH-725 [Short-statured, Naughty Kid's School!] We, The Insatiable Trio, Reverse-taught Our Admired Tall, Glamorous Teacher By Making Her Squirt, Her Legs Shake, And Her Insemination. Yurika Aoi
 
 url: /v/gvh725pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "gvh725pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Squirting, School Stuff, Tall, Shotacon	]
+tags: [Censored, Solowork, Female Teacher, Squirting, School Stuff, Tall, Shotacon	]
 maker: [ Glory Quest  ]
 actress: [ Aoi Yurika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoi Yurika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="BkzBKAbRG8cydaj">
     <a href="javascript:;">
         <img src="/v/gvh725pl/gvh725pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh725pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

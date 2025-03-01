@@ -3,9 +3,9 @@ author: j91
 title: FJIN-063 A Total Of 12 Shots! My Step-sister, Who Was Born When My Parents Remarried, Is A Virgin. I Was Pounded And Creampied By My Defenseless Big-breasted Sister, Who Was Sloppy But Too Erotic... Reo Fujisawa
 
 url: /v/fjin063pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin063pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Titty Fuck, BBW, Sister	]
+tags: [Censored, Creampie, Solowork, Big Tits, Titty Fuck, BBW, Sister	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Fujisawa Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fujisawa Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2bzzVO0RmQUZJV2">
     <a href="javascript:;">
         <img src="/v/fjin063pl/fjin063pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin063pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

@@ -3,9 +3,9 @@ author: j91
 title: FJIN-065 Too Much Hip-shaking Strap-on Male Squirting Female Orgasm FUCK!! Teachers Who Fell Into Female Status After Being Anally Violated By Devilish JK Bitch Sarara Uruki
 
 url: /v/fjin065pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin065pl.jpg"
-tags: [Upcoming releases, Solowork, School Girls, Nasty, Hardcore, Slut, Male Squirting	]
+tags: [Censored, Solowork, School Girls, Nasty, Hardcore, Slut, Male Squirting	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Uruki Sara]
 ---
@@ -13,13 +13,13 @@ actress: [ Uruki Sara]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3pZZQ6a9dKuRQB">
     <a href="javascript:;">
         <img src="/v/fjin065pl/fjin065pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin065pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

@@ -3,9 +3,9 @@ author: j91
 title: GEBB-011 A Masked Beauty Massage Girl Teases And Erects The Customer's Penis With An Extremely Close-contact Treatment, Rubbing It Through Her Thong And Inviting Him To Have Sex With Her Raw 2
 
 url: /v/gebb011pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "gebb011pl.jpg"
-tags: [Upcoming releases, Creampie, Slut, Prostitutes, Massage, Masked	]
+tags: [Censored, Creampie, Slut, Prostitutes, Massage, Masked	]
 maker: [ Get!! Bonbon-Mousozoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="QDlV6ObPbGuRgo">
     <a href="javascript:;">
         <img src="/v/gebb011pl/gebb011pl.jpg" width="WIDTH" height="HEIGHT" alt="gebb011pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

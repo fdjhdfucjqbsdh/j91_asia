@@ -3,9 +3,9 @@ author: j91
 title: MMUS-095 Little Devil Provocative Beautiful Girl Ankoko
 
 url: /v/mmus095pl
-date: 0000-03-01T01:40:00Z
+date: 2025-03-01T01:40:00Z
 image: "mmus095pl.jpg"
-tags: [Upcoming releases, Solowork, Underwear, Dirty Words	]
+tags: [Censored, Solowork, Underwear, Dirty Words	]
 maker: [ Marrion  ]
 actress: [ An Coco ]
 ---
@@ -13,13 +13,13 @@ actress: [ An Coco ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ad8A3PlKZBtx3PW">
     <a href="javascript:;">
         <img src="/v/mmus095pl/mmus095pl.jpg" width="WIDTH" height="HEIGHT" alt="mmus095pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

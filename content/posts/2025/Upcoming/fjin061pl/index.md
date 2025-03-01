@@ -3,9 +3,9 @@ author: j91
 title: FJIN-061 Pie Activity!! Oily Outdoor Hot Spring Naughty Date Hazuki Aoi
 
 url: /v/fjin061pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin061pl.jpg"
-tags: [Upcoming releases, Solowork, Outdoors, Big Tits, Titty Fuck, Busty Fetish, Travel	]
+tags: [Censored, Solowork, Outdoors, Big Tits, Titty Fuck, Busty Fetish, Travel	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="aPxwY1ROkvsWk8">
     <a href="javascript:;">
         <img src="/v/fjin061pl/fjin061pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin061pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

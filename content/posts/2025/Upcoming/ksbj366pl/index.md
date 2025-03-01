@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-366 Runaway Wife, The Condition For Letting Me Stay With Her Is To Be A Creampie Urinal, Aina Aoyama
 
 url: /v/ksbj366pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "ksbj366pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Breasts, Slender, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Married Woman, Breasts, Slender, Mature Woman	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Aoyama Aina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aoyama Aina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="DkQW4MQ2j3TkoL4">
     <a href="javascript:;">
         <img src="/v/ksbj366pl/ksbj366pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj366pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

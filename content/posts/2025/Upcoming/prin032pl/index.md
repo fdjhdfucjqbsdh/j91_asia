@@ -3,9 +3,9 @@ author: j91
 title: PRIN-032 A Cheating Woman With A Sex Addiction Loves Deep Kissing And Pre-cum! A Gorgeous Double Feature Of A Gravure Idol-level Busty Beauty And A Female College Student Cosplayer In A Doujin AV! [I-cup Busty] [Lady] [Anime Voice] [Glans-teasing Blowjob] [Piercing Deep In The Vagina] [Endless Small-time Orgasm] [Unruly Pussy] [Drinking Saliva And Semen]
 
 url: /v/prin032pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "prin032pl.jpg"
-tags: [Upcoming releases, Cosplay, Amateur, Big Tits, Beautiful Girl, Cum	]
+tags: [Censored, Cosplay, Amateur, Big Tits, Beautiful Girl, Cum	]
 maker: [ Za-jiru Ooji- Mousozoku  ]
 actress: [ Himesaki Hana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Himesaki Hana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ZbmJVrG24McqLe8">
     <a href="javascript:;">
         <img src="/v/prin032pl/prin032pl.jpg" width="WIDTH" height="HEIGHT" alt="prin032pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

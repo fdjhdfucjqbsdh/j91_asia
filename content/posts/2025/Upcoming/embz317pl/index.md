@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-317 [Housewife's Naughty Real Experience] True Story! Real Women's Sex Case Book ・ Real Documentary Situation | Shameful Pregnancy NTR! Busty Married Yoga Instructor Who Violated Compliance, Her Slender Body Is Played With By The Managers In Front Of Her Husband And She Goes Crazy. Maria Chihaya
 
 url: /v/embz317pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "embz317pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Humiliation, Married Woman, Abuse, Cuckold	]
+tags: [Censored, Creampie, Solowork, Humiliation, Married Woman, Abuse, Cuckold	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Chihaya Maria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chihaya Maria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="v29K7y31KBC4rGQ">
     <a href="javascript:;">
         <img src="/v/embz317pl/embz317pl.jpg" width="WIDTH" height="HEIGHT" alt="embz317pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

@@ -3,9 +3,9 @@ author: j91
 title: XVSR-800 Kana Morisawa Can't Resist The Best Cowgirl Creampie Sex
 
 url: /v/xvsr800pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "xvsr800pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Cowgirl, Slut, Dildo	]
+tags: [Censored, Creampie, Solowork, Big Tits, Cowgirl, Slut, Dildo	]
 maker: [ MAX-A  ]
 actress: [ Iioka Kanako]
 ---
@@ -13,13 +13,13 @@ actress: [ Iioka Kanako]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PrDxmYyj2XsxKp">
     <a href="javascript:;">
         <img src="/v/xvsr800pl/xvsr800pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr800pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

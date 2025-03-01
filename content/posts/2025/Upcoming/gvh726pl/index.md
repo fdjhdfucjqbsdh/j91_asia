@@ -3,9 +3,9 @@ author: j91
 title: GVH-726 Pantyhose Specialty, Sakura Kurumi's Fully Clothed Pantyhose X Cosplay FUCK Sakura Kurumi
 
 url: /v/gvh726pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "gvh726pl.jpg"
-tags: [Upcoming releases, Cosplay, Solowork, Pantyhose, Other Fetish, Leg Fetish, Erotic Wear	]
+tags: [Censored, Cosplay, Solowork, Pantyhose, Other Fetish, Leg Fetish, Erotic Wear	]
 maker: [ Glory Quest  ]
 actress: [ Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3BRmAw92PkSdW4x">
     <a href="javascript:;">
         <img src="/v/gvh726pl/gvh726pl.jpg" width="WIDTH" height="HEIGHT" alt="gvh726pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

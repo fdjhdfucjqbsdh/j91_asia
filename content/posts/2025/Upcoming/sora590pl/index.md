@@ -3,9 +3,9 @@ author: j91
 title: SORA-590 NTR, On Our Wedding Anniversary, My Wife Was Discovered By Some Former Club Buddies At A Local Hot Spring Resort And Had An All-night 3P... This Is The Whole Story Of How My Wife, Who Had Somehow Managed To Hold Out, Succumbed To Their Huge Cocks. Kasumi Amamiya
 
 url: /v/sora590pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "sora590pl.jpg"
-tags: [Upcoming releases, 3P, 4P, Solowork, Humiliation, Married Woman, Cuckold, Hot Spring	]
+tags: [Censored, 3P, 4P, Solowork, Humiliation, Married Woman, Cuckold, Hot Spring	]
 maker: [ Yama To Sora  ]
 actress: [ Amamiya Kasumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Kasumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MyPoZBKY87um79W">
     <a href="javascript:;">
         <img src="/v/sora590pl/sora590pl.jpg" width="WIDTH" height="HEIGHT" alt="sora590pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

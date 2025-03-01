@@ -3,9 +3,9 @@ author: j91
 title: PKPL-051 Lovey-dovey Documentary, A Hot, Erotic Scent Running Through The Air. A One-day Date With Yukine Nakazaki.
 
 url: /v/pkpl051pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "pkpl051pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Breasts, Slender	]
+tags: [Censored, Creampie, Solowork, POV, Breasts, Slender	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Nagasaki Yukine ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nagasaki Yukine ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ggYjj41oDVIqelg">
     <a href="javascript:;">
         <img src="/v/pkpl051pl/pkpl051pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpl051pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

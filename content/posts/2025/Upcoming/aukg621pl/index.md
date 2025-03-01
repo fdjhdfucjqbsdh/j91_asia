@@ -3,9 +3,9 @@ author: j91
 title: AUKG-621 Married Woman Yurizoku ~Reunion Lesbian Sex, Nostalgia Brings Lust~
 
 url: /v/aukg621pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "aukg621pl.jpg"
-tags: [Upcoming releases, Lesbian, Big Tits, Married Woman, Drama, Cuckold	]
+tags: [Censored, Lesbian, Big Tits, Married Woman, Drama, Cuckold	]
 maker: [ U & K  ]
 actress: [ Misaki Sakura, Oikawa Umi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misaki Sakura, Oikawa Umi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kqoy2VZwYJIOAAq">
     <a href="javascript:;">
         <img src="/v/aukg621pl/aukg621pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg621pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

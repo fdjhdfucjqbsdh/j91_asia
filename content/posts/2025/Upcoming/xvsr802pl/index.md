@@ -3,9 +3,9 @@ author: j91
 title: XVSR-802 AV Actress Kashiwagi Konatsu Shows Off Her Completely Natural Private Self In This Film!
 
 url: /v/xvsr802pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "xvsr802pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, POV, Beautiful Girl, Facials, Breasts	]
+tags: [Censored, Solowork, Big Tits, POV, Beautiful Girl, Facials, Breasts	]
 maker: [ MAX-A  ]
 actress: [ Kashiwagi Konatsu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lAlMQRWQOjh772r">
     <a href="javascript:;">
         <img src="/v/xvsr802pl/xvsr802pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr802pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

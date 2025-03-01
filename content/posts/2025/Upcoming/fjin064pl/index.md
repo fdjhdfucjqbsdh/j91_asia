@@ -3,9 +3,9 @@ author: j91
 title: FJIN-064 First Time At The Hot Springs Soapland. My Father Remarried And My New Stepmother Was A Busty Soapland Girl With An Insatiable Appetite!? Chinamin
 
 url: /v/fjin064pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin064pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Incest, BBW, Hot Spring, Soapland	]
+tags: [Censored, Solowork, Big Tits, Incest, BBW, Hot Spring, Soapland	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Chinamin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Chinamin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wxxz02G3vatJR0L">
     <a href="javascript:;">
         <img src="/v/fjin064pl/fjin064pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin064pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

@@ -3,9 +3,9 @@ author: j91
 title: BIJN-270 THE Documentary, Orgasmic Sex With Instincts Bared, A Horny, Horny Wife With A Strong Sexual Desire Goes Crazy In A Cum-Covered Orgy, Satsuki Kamimura
 
 url: /v/bijn270pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "bijn270pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Bride, Young Wife, Documentary, Promiscuity	]
+tags: [Censored, Creampie, Solowork, Married Woman, Bride, Young Wife, Documentary, Promiscuity	]
 maker: [ Bijin Majo  ]
 actress: [ Kamimura Satsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kamimura Satsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="WboJ3LagpPfb4XJ">
     <a href="javascript:;">
         <img src="/v/bijn270pl/bijn270pl.jpg" width="WIDTH" height="HEIGHT" alt="bijn270pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

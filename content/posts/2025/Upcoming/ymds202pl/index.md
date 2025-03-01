@@ -3,9 +3,9 @@ author: j91
 title: YMDS-202 A Night Of Intimate And Passionate Sex With The Much-admired Momo Shiraishi.
 
 url: /v/ymds202pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "ymds202pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Slender, Tits, Kiss, Bath	]
+tags: [Censored, Creampie, Solowork, Slender, Tits, Kiss, Bath	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Shiraishi Momo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraishi Momo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="3AJbeL4ddDFdBPg">
     <a href="javascript:;">
         <img src="/v/ymds202pl/ymds202pl.jpg" width="WIDTH" height="HEIGHT" alt="ymds202pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

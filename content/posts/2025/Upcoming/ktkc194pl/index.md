@@ -3,9 +3,9 @@ author: j91
 title: KTKC-194 A Must-see For Maniacs! A Story About A Half-Japanese Mama With Huge J-cup Breasts Who Runs A Bar In The Back Alleys Of Northern Kanto. She's A Slutty, Horny Bitch With A Loud Moan And An Insatiable Sex Drive. Emily (28 Years Old)
 
 url: /v/ktkc194pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "ktkc194pl.jpg"
-tags: [Upcoming releases, Amateur, Big Tits, BBW, Ultra-Huge Tits	]
+tags: [Censored, Amateur, Big Tits, BBW, Ultra-Huge Tits	]
 maker: [ Kichikkusu - Mousou Zoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pkXQy8Lz89HV39">
     <a href="javascript:;">
         <img src="/v/ktkc194pl/ktkc194pl.jpg" width="WIDTH" height="HEIGHT" alt="ktkc194pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

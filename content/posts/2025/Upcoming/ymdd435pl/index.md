@@ -3,9 +3,9 @@ author: j91
 title: YMDD-435 Amateur Observation Monitoring A Bright Smile And A Superb Minimum Body! Mimicking Love Doll Orgy At An Erotic DVD Store And Reverse Pick-up Creampie Sex In The City DVD Store Edition & Virgin Home Assault Edition Yui Tenma
 
 url: /v/ymdd435pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "ymdd435pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Masturbation, Cowgirl, Squirting	]
+tags: [Censored, Blow, Creampie, Solowork, Masturbation, Cowgirl, Squirting	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Tenma Yui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tenma Yui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rbGQKkeLJwUMd6">
     <a href="javascript:;">
         <img src="/v/ymdd435pl/ymdd435pl.jpg" width="WIDTH" height="HEIGHT" alt="ymdd435pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

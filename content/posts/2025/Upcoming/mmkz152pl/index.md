@@ -3,9 +3,9 @@ author: j91
 title: MMKZ-152 Cute Face And Big Ass!! Aoi Hazuki
 
 url: /v/mmkz152pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "mmkz152pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Butt, Huge Butt	]
+tags: [Censored, Solowork, Big Tits, Butt, Huge Butt	]
 maker: [ Marrion  ]
 actress: [ Haruna Noa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Haruna Noa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="26K639p4gLcPqb">
     <a href="javascript:;">
         <img src="/v/mmkz152pl/mmkz152pl.jpg" width="WIDTH" height="HEIGHT" alt="mmkz152pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

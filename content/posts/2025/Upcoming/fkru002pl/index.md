@@ -3,9 +3,9 @@ author: j91
 title: FKRU-002 First Time Anal Licking, Shy JK Yura Kana
 
 url: /v/fkru002pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fkru002pl.jpg"
-tags: [Upcoming releases, Anal, Creampie, Solowork, School Girls, Beautiful Girl, Mini	]
+tags: [Censored, Anal, Creampie, Solowork, School Girls, Beautiful Girl, Mini	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wPdkeGOejkuJybZ">
     <a href="javascript:;">
         <img src="/v/fkru002pl/fkru002pl.jpg" width="WIDTH" height="HEIGHT" alt="fkru002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

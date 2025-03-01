@@ -3,9 +3,9 @@ author: j91
 title: HALE-059 Mommy Friend Eating Infinite Loop Vol.54 Eri
 
 url: /v/hale059pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "hale059pl.jpg"
-tags: [Upcoming releases, Amateur, POV, Facials, Huge Cock, Mom Friends	]
+tags: [Censored, Amateur, POV, Facials, Huge Cock, Mom Friends	]
 maker: [ HALENTINO - Mousouzoku  ]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="PwZoe6yvDbu0ave">
     <a href="javascript:;">
         <img src="/v/hale059pl/hale059pl.jpg" width="WIDTH" height="HEIGHT" alt="hale059pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

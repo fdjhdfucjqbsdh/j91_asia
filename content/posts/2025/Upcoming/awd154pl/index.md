@@ -3,9 +3,9 @@ author: j91
 title: AWD-154 My Friend's Beautiful And Sensual Mother-in-law Shizuka Momoi
 
 url: /v/awd154pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "awd154pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Mature Woman, Cuckold	]
 maker: [ Ruby  ]
 actress: [ Momoi Shizuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Momoi Shizuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vKkmkPG3q4UJVL">
     <a href="javascript:;">
         <img src="/v/awd154pl/awd154pl.jpg" width="WIDTH" height="HEIGHT" alt="awd154pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

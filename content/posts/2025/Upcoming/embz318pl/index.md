@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-318 The Fragrant Steamy Soles Of A Ripe Amateur Wife Amemiya Rin
 
 url: /v/embz318pl
-date: 0000-03-01T01:22:00Z
+date: 2025-03-01T01:22:00Z
 image: "embz318pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Pantyhose, Other Fetish, Mature Woman, Leg Fetish	]
+tags: [Censored, Solowork, Humiliation, Pantyhose, Other Fetish, Mature Woman, Leg Fetish	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Amamiya Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Amamiya Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YZLpPklxggFvXXb">
     <a href="javascript:;">
         <img src="/v/embz318pl/embz318pl.jpg" width="WIDTH" height="HEIGHT" alt="embz318pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

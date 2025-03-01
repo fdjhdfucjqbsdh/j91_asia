@@ -3,9 +3,9 @@ author: j91
 title: XVSR-803 Bubble Princess Shangri-La - Nina Nishimura Thoroughly And Thoroughly Washes The Customer's Sensitive Areas With Bubbles And Love
 
 url: /v/xvsr803pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "xvsr803pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Lotion, BBW, Ultra-Huge Tits, Soapland	]
+tags: [Censored, Creampie, Solowork, Lotion, BBW, Ultra-Huge Tits, Soapland	]
 maker: [ MAX-A  ]
 actress: [ Nishimura Nina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nishimura Nina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zxdVJrgmXgue2p">
     <a href="javascript:;">
         <img src="/v/xvsr803pl/xvsr803pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr803pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

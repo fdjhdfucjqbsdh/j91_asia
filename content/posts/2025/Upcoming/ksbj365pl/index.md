@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-365 I Can't Help But Love My Son! Reika Ichiba
 
 url: /v/ksbj365pl
-date: 0000-03-01T01:50:00Z
+date: 2025-03-01T01:50:00Z
 image: "ksbj365pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Incest, Mature Woman, Mother	]
+tags: [Censored, Creampie, Solowork, Big Tits, Incest, Mature Woman, Mother	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Ichiba Reika ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ichiba Reika ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="8RxwGBwXJXsoKKo">
     <a href="javascript:;">
         <img src="/v/ksbj365pl/ksbj365pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj365pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

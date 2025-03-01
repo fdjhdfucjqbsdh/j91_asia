@@ -3,9 +3,9 @@ author: j91
 title: FJIN-066 Seduction With Sticky French Kisses And Nipple Licking. Slutty JK Who Makes Teachers Wet With Her Drooling Lewd Tongue Blowjob. Yura Kana
 
 url: /v/fjin066pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin066pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, School Girls, Squirting, Cum, Slut	]
+tags: [Censored, Blow, Solowork, School Girls, Squirting, Cum, Slut	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MxvKG2ArGPsm48k">
     <a href="javascript:;">
         <img src="/v/fjin066pl/fjin066pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin066pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

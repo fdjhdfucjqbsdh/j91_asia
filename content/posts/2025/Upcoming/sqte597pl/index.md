@@ -3,9 +3,9 @@ author: j91
 title: SQTE-597 This Girl Is Crazy!! The Gentle Shizuka Wants To Feel A Man Inside Her. Serve With Her Mouth And Pussy SEX Shizuka
 
 url: /v/sqte597pl
-date: 0000-03-01T01:55:00Z
+date: 2025-03-01T01:55:00Z
 image: "sqte597pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, POV, Beautiful Girl, Bath	]
+tags: [Censored, Blow, Creampie, Solowork, POV, Beautiful Girl, Bath	]
 maker: [ S-cute  ]
 actress: [ Shizuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="rKVRWoPZv2ta3e">
     <a href="javascript:;">
         <img src="/v/sqte597pl/sqte597pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte597pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">

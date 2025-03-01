@@ -3,9 +3,9 @@ author: j91
 title: FJIN-062 A Tanned Gal Who Is Kind To A Dirty Room Dweller... A Part-time Housekeeper, Ranka, Who Provokes With Her Big Ass
 
 url: /v/fjin062pl
-date: 0000-03-01T01:45:00Z
+date: 2025-03-01T01:45:00Z
 image: "fjin062pl.jpg"
-tags: [Upcoming releases, Solowork, Gal, Nasty, Hardcore, Various Professions, Butt, Sun tan	]
+tags: [Censored, Solowork, Gal, Nasty, Hardcore, Various Professions, Butt, Sun tan	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Ranka]
 ---
@@ -13,13 +13,13 @@ actress: [ Ranka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="2KRQQzDdZ8iZ2Xm">
     <a href="javascript:;">
         <img src="/v/fjin062pl/fjin062pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin062pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
