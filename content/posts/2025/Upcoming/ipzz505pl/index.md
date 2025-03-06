@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-505 A 2-day, 1-night Hellish Date. A Woman Who Wants To Do It Even If She Has To Kidnap Me. He Kept Me Under House Arrest Under The Pretense Of A Business Trip And Raped Me For 2 Days. Wakana Sakura
 
 url: /v/ipzz505pl
-date: 0000-03-07T01:50:00Z
+date: 2025-03-06T16:50:00Z
 image: "ipzz505pl.jpg"
-tags: [Upcoming releases, Solowork, Abuse, Drama, Date, Subordinates - Colleagues	]
+tags: [Censored, Solowork, Abuse, Drama, Date, Subordinates - Colleagues	]
 maker: [IDEA POCKET]
 actress: [ Sakura Wakana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakura Wakana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WwKlqVwdyafbBl1">
     <a href="javascript:;">
         <img src="/v/ipzz505pl/ipzz505pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz505pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz505pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakura Wakana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz505pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: IPZZ-503 Sweaty Creampie Sex At The End Of Summer. I Couldn't Control My Reason At The Sight Of My Cousin Who Is Now A Married Woman And Her Defenseless Sex Appeal... Tsumugi Akari
 
 url: /v/ipzz503pl
-date: 0000-03-07T01:50:00Z
+date: 2025-03-06T16:50:00Z
 image: "ipzz503pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Older Sister, Cowgirl, Sweat	]
+tags: [Censored, Creampie, Solowork, Older Sister, Cowgirl, Sweat	]
 maker: [IDEA POCKET]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="7kWdmbxjGqUAAX0">
     <a href="javascript:;">
         <img src="/v/ipzz503pl/ipzz503pl.jpg" width="WIDTH" height="HEIGHT" alt="ipzz503pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ipzz503pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ipzz503pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: BBAN-521 Class Reunion Lesbian NTR ~ A Beautiful Busty Woman Before Marriage Is Forced To Become A Lesbian By Her Friend Who Has An Uncontrollable Crush On Her And Keeps Her Quiet While Making Her Cum All Night Long ~ Himari Kosaka Sakura Kurumi
 
 url: /v/bban521pl
-date: 0000-03-07T01:10:00Z
+date: 2025-03-06T16:10:00Z
 image: "bban521pl.jpg"
-tags: [Upcoming releases, Lesbian, Big Tits, Beautiful Girl, Cuckold, Acme · Orgasm	]
+tags: [Censored, Lesbian, Big Tits, Beautiful Girl, Cuckold, Acme · Orgasm	]
 maker: [Bibian]
 actress: [ Kurumi Sakura ,Kosaka Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ,Kosaka Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XkgawMxKzjtDp6D">
     <a href="javascript:;">
         <img src="/v/bban521pl/bban521pl.jpg" width="WIDTH" height="HEIGHT" alt="bban521pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura ,Kosaka Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bban521pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura ,Kosaka Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bban521pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

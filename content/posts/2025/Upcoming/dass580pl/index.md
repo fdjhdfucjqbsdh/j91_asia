@@ -3,9 +3,9 @@ author: j91
 title: DASS-580 A Manicurist Wife Who Unconsciously Spreads Her Big Breasts As A Temptation Falls Victim To A Complainer... Her Bored Pussy Is Immediately Cummed After Being Shamefully Apologized For And Kowtowing To The Ground! She Becomes Addicted To Licking And Orgasms And Repeatedly Obeys Orders In A Passionate Affair. Hono Wakana
 
 url: /v/dass580pl
-date: 0000-03-07T01:40:00Z
+date: 2025-03-06T16:40:00Z
 image: "dass580pl.jpg"
-tags: [Upcoming releases, Solowork, Humiliation, Cunnilingus, Big Tits, Affair, Huge Butt	]
+tags: [Censored, Solowork, Humiliation, Cunnilingus, Big Tits, Affair, Huge Butt	]
 maker: [Das !]
 actress: [ Wakana Hono]
 ---
@@ -13,13 +13,13 @@ actress: [ Wakana Hono]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="MZwqVQkRJLcdOj">
     <a href="javascript:;">
         <img src="/v/dass580pl/dass580pl.jpg" width="WIDTH" height="HEIGHT" alt="dass580pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Wakana Hono]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass580pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Wakana Hono]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass580pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JUR-245 When My Subordinate, Iori-san, Gets Drunk, She Turns Into An L-cup Clingy Slut. Since That Day, I've Been At Her Mercy Every Day... Himeka Iori
 
 url: /v/jur245pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "jur245pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Slut, Various Professions, Mature Woman	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Slut, Various Professions, Mature Woman	]
 maker: [Madonna]
 actress: [ Iori Himeka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Iori Himeka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="rrGovyOwbxcb1mw">
     <a href="javascript:;">
         <img src="/v/jur245pl/jur245pl.jpg" width="WIDTH" height="HEIGHT" alt="jur245pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Iori Himeka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur245pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Iori Himeka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur245pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

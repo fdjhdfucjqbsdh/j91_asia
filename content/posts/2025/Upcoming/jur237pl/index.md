@@ -3,9 +3,9 @@ author: j91
 title: JUR-237 My Fiance Said He Had No Experience In The Sex Industry, But His Technique Was So Amazing That I Was Left Feeling Suspicious And Squirming.
 
 url: /v/jur237pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "jur237pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Prostitutes, Mature Woman, Bride	]
+tags: [Censored, Creampie, Solowork, Married Woman, Prostitutes, Mature Woman, Bride	]
 maker: [Madonna]
 actress: [ Akari Tsumugi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Akari Tsumugi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="2OGZvzzorGcZ0er">
     <a href="javascript:;">
         <img src="/v/jur237pl/jur237pl.jpg" width="WIDTH" height="HEIGHT" alt="jur237pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur237pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akari Tsumugi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur237pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

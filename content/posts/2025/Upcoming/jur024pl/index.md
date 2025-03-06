@@ -3,9 +3,9 @@ author: j91
 title: JUR-024 The Miracle Of Meeting You, A Beautiful Woman That I Will Never Forget For The Rest Of My Life. The First And Best Madonna Super New Star Of 2025. Born, Yuuka Niizuma, 31 Years Old, AV DEBUT. A Beautiful H-cup Married Woman In Every Moment.
 
 url: /v/jur024pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "jur024pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Debut Production, Affair, Mature Woman	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Debut Production, Affair, Mature Woman	]
 maker: [Madonna]
 actress: [ Niizuma Yuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Niizuma Yuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Rp6zRKb41bsd8Ae">
     <a href="javascript:;">
         <img src="/v/jur024pl/jur024pl.jpg" width="WIDTH" height="HEIGHT" alt="jur024pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Niizuma Yuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur024pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Niizuma Yuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur024pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

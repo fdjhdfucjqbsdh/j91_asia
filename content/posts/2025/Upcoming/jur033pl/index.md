@@ -3,9 +3,9 @@ author: j91
 title: JUR-033 Recreational Trip NTR ~ My Wife Was Gang-raped By Her Bosses Who Had Too Much Sexual Desire... ~ Yuna Shiina
 
 url: /v/jur033pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "jur033pl.jpg"
-tags: [Upcoming releases, Solowork, Big Tits, Married Woman, Abuse, Mature Woman, Hot Spring	]
+tags: [Censored, Solowork, Big Tits, Married Woman, Abuse, Mature Woman, Hot Spring	]
 maker: [Madonna]
 actress: [ Shiina Yuna ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiina Yuna ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="W63BOpKoReHbx28">
     <a href="javascript:;">
         <img src="/v/jur033pl/jur033pl.jpg" width="WIDTH" height="HEIGHT" alt="jur033pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiina Yuna ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur033pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiina Yuna ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur033pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

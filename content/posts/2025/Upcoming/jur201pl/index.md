@@ -3,9 +3,9 @@ author: j91
 title: JUR-201 The Two Of Them Are Perfectly Compatible In Body And Mind. A Deep Kissing Soapland Where 'feelings' And 'lips' Overlap. Ikumi Shiramine
 
 url: /v/jur201pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "jur201pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Soapland	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Mature Woman, Soapland	]
 maker: [Madonna]
 actress: [ Shiramine Ikumi ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiramine Ikumi ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="KwmvBW3rBru01ey">
     <a href="javascript:;">
         <img src="/v/jur201pl/jur201pl.jpg" width="WIDTH" height="HEIGHT" alt="jur201pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiramine Ikumi ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur201pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiramine Ikumi ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur201pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

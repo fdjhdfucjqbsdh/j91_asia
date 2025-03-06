@@ -3,9 +3,9 @@ author: j91
 title: ROE-328 Satsuki Kirioka's Miraculous Comeback!! The Second Installment Is A Classic Creampie Drama!! My Mother And I Had Creampie Sex To Get Pregnant - After Finding Out That She Was A Stranger, We Got Carried Away And Indulged In Seeding -
 
 url: /v/roe328pl
-date: 0000-03-07T01:45:00Z
+date: 2025-03-06T16:45:00Z
 image: "roe328pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Married Woman, Incest, Mature Woman, Mother	]
+tags: [Censored, Creampie, Solowork, Married Woman, Incest, Mature Woman, Mother	]
 maker: [Madonna]
 actress: [ Kirioka Satsuki ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kirioka Satsuki ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="ygG6j7g4o2FBZy">
     <a href="javascript:;">
         <img src="/v/roe328pl/roe328pl.jpg" width="WIDTH" height="HEIGHT" alt="roe328pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kirioka Satsuki ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/roe328pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kirioka Satsuki ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/roe328pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
