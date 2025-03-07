@@ -1,21 +1,21 @@
 ---
 author: j91
-title: CEMD-651 A Young Wife Who Cheats On Her Husband With Her Boss And Coworkers On A Daily Basis, Amasawa Rin
+title: NSFS-367 Immoral Eros, A Wife Goes Crazy For Another Man's Dick
 
-url: /v/cemd651pl
-date: 2025-03-07T16:22:00Z
-image: "cemd651pl.jpg"
-tags: [Censored, Solowork, Pantyhose, Married Woman, Facesitting, Huge Cock, Acme · Orgasm	]
-maker: [ Serebu No Tomo  ]
-actress: [ Amazawa Rin ]
+url: /v/nsfs367pl
+date: 2025-03-07T16:00:00Z
+image: "nsfs367pl.jpg"
+tags: [Censored, Best, Omnibus, Married Woman, Affair, 4HR+, Drama, Multiple Story	]
+maker: [ Nagae Style  ]
+actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="MYZ7Pddz2bUm2yX">
+<div class="video" data-videoid="0J6Q7Kql11fb7ea">
     <a href="javascript:;">
-        <img src="/v/cemd651pl/cemd651pl.jpg" width="WIDTH" height="HEIGHT" alt="cemd651pl.mp4" loading="lazy">
+        <img src="/v/nsfs367pl/nsfs367pl.jpg" width="WIDTH" height="HEIGHT" alt="nsfs367pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ Amazawa Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/cemd651pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nsfs367pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Amazawa Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/cemd651pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nsfs367pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

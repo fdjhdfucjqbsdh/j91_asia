@@ -3,9 +3,9 @@ author: j91
 title: GAJK-021 A Schoolgirl Is Tied Up And Trained In A Storehouse. A Sad Girl Is Kidnapped And Imprisoned By A Villainous Group. She Goes Crazy And Faints As Her Anus Is Relentlessly Trained. Rin Ikuta
 
 url: /v/gajk021pl
-date: 0000-03-08T01:11:00Z
+date: 2025-03-07T16:11:00Z
 image: "gajk021pl.jpg"
-tags: [Upcoming releases, Sailor Suit, Solowork, School Girls, Shibari, Confinement	]
+tags: [Censored, Sailor Suit, Solowork, School Girls, Shibari, Confinement	]
 maker: [ Global Media Annex  ]
 actress: [ Ikuta Rin ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ikuta Rin ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9vgjV6KkOQF1XR">
     <a href="javascript:;">
         <img src="/v/gajk021pl/gajk021pl.jpg" width="WIDTH" height="HEIGHT" alt="gajk021pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ikuta Rin ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/gajk021pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ikuta Rin ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/gajk021pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
