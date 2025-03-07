@@ -1,6 +1,6 @@
 ---
 author: j91
-title: SAME-074 OL Who Was Kidnapped And Confined. Recorded Video Leaked. Jun Suehiro
+title: SAME-074 OL Who Was Kidnapped And Confined. Recorded Video L**d. Jun Suehiro
 date: 2023-09-01T00:50:00Z
 image: "same074pl.jpg"
 tags: [Censored,OL,Creampie,Solowork,Documentary	 ]
