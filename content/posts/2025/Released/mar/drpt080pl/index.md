@@ -1,6 +1,6 @@
 ---
 author: j91
-title: DRPT-080 Hinako Matsui, Problem Child Discipline Training Center
+title: DRPT-080 Hinako Matsui, Problem C**d Discipline Training Center
 
 url: /v/drpt080pl
 date: 2025-03-05T15:50:00Z
