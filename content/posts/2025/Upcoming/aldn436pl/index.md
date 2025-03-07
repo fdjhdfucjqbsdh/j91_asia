@@ -3,9 +3,9 @@ author: j91
 title: ALDN-436 A Wife Who Fell Into The Pleasure Of Creampies Kaho Tamaki
 
 url: /v/aldn436pl
-date: 0000-03-08T01:45:00Z
+date: 2025-03-07T16:45:00Z
 image: "aldn436pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Affair, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Affair, Mature Woman	]
 maker: [ Takara Eizou  ]
 actress: [ Tamashiro Kaho ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tamashiro Kaho ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Q84Y4W0L6zf0O07">
     <a href="javascript:;">
         <img src="/v/aldn436pl/aldn436pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn436pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tamashiro Kaho ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aldn436pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tamashiro Kaho ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aldn436pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

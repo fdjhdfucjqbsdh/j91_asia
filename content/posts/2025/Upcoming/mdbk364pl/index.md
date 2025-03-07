@@ -3,9 +3,9 @@ author: j91
 title: MDBK-364 She Will Come Wherever You Call Her And You Can Cum Whenever You Want. The Obedient Delivery Busty Maid Is Popular For Her Guided Ejaculation Course.
 
 url: /v/mdbk364pl
-date: 0000-03-08T01:50:00Z
+date: 2025-03-07T16:50:00Z
 image: "mdbk364pl.jpg"
-tags: [Upcoming releases, Maid, Creampie, Big Tits, Prostitutes, Busty Fetish	]
+tags: [Censored, Maid, Creampie, Big Tits, Prostitutes, Busty Fetish	]
 maker: [ K.M.Produce  ]
 actress: [ Takarada Arisa ,Takase Rina 2020, Morishita Kotono ]
 ---
@@ -13,13 +13,13 @@ actress: [ Takarada Arisa ,Takase Rina 2020, Morishita Kotono ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="17JyD78vY4SxR4">
     <a href="javascript:;">
         <img src="/v/mdbk364pl/mdbk364pl.jpg" width="WIDTH" height="HEIGHT" alt="mdbk364pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Takarada Arisa ,Takase Rina 2020, Morishita Kotono ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mdbk364pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Takarada Arisa ,Takase Rina 2020, Morishita Kotono ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mdbk364pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

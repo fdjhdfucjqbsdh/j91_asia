@@ -3,9 +3,9 @@ author: j91
 title: DVAJ-686 I'm A Gloomy Guy Who Is Made To Watch Over A Bad Couple Having Sex At School, But After The Fact, A Girl Who Is Not Satisfied With Her Premature Ejaculation Boyfriend Secretly Invites Me To Be A Substitute Dick And I Spend My Days Fucking And Cumming Inside Her.
 
 url: /v/dvaj686pl
-date: 0000-03-08T01:50:00Z
+date: 2025-03-07T16:50:00Z
 image: "dvaj686pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Big Tits	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Big Tits	]
 maker: [ Alice Japan  ]
 actress: [ Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="xrRGD2oOqLFkOb1">
     <a href="javascript:;">
         <img src="/v/dvaj686pl/dvaj686pl.jpg" width="WIDTH" height="HEIGHT" alt="dvaj686pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dvaj686pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dvaj686pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
