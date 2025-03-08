@@ -5,7 +5,7 @@ title: IPX-385 "How Far Will You Touch ...?"Voice Of The Heart)] Uniform Girl Wh
 url: /was/ipx385pl
 date: 2019-12-13T00:00:00Z
 image: "ipx385pl.jpg"
-tags: [Old Releases,Censored,Beautiful Girl, Rape, School Uniform, Voyeur ]
+tags: [Old Releases,Censored,Beautiful Girl, (tag-censored), School Uniform, Voyeur ]
 maker: [IDEA POCKET]
 actress: [Momonogi Kana ]
 ---

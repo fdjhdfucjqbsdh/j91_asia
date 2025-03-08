@@ -5,7 +5,7 @@ title: SHKD-919 I thought she liked me, but when I confessed my feelings, she du
 url: /was/shkd919pl
 date: 2020-12-25T01:00:00Z
 image: "shkd919pl.jpg"
-tags: [Old Releases,Censored, OL, Solowork, Big Tits, Rape, Drama	]
+tags: [Old Releases,Censored, OL, Solowork, Big Tits, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Hinohara An ]
 ---

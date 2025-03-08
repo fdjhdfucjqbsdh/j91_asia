@@ -5,7 +5,7 @@ title: GMEM-119 Confinement! Torture! Training! Scream! Climax! Forced Orgasm Sc
 url: /v/gmem119pl
 date: 2024-11-23T01:15:00Z
 image: "gmem119pl.jpg"
-tags: [Censored, Restraint, Solowork, Torture, Shibari, Female Investigator	]
+tags: [Censored, Restraint, Solowork, (tag-censored), Shibari, Female Investigator	]
 maker: [ Avs  ]
 actress: [ Ichijou Mio ]
 ---

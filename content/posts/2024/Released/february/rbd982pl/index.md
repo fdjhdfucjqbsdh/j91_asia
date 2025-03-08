@@ -5,7 +5,7 @@ title: RBD-982 Strong ● Conception Black Market 3 Yui Hatano
 url: /was/rbd982pl
 date: 2020-08-25T12:30:00Z
 image: "rbd982pl.jpg"
-tags: [Old Releases,Censored, abuse, Confinement, Piss Drinking, Rape, Solowork]
+tags: [Old Releases,Censored, abuse, Confinement, Piss Drinking, (tag-censored), Solowork]
 maker: [Attackers]
 actress: [Hatano Yui]
 ---

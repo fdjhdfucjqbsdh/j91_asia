@@ -5,7 +5,7 @@ title: REAL-852 Big-breasted Swimming Team Member, Aphrodisiac Rape Training Cam
 url: /v/real852pl
 date: 2024-06-22T01:55:00Z
 image: "real852pl.jpg"
-tags: [Censored, School Girls, Big Tits, Squirting, School Swimsuit, Rape, Swimsuit	]
+tags: [Censored, School Girls, Big Tits, Squirting, School Swimsuit, (tag-censored), Swimsuit	]
 maker: [ K.M.Produce  ]
 actress: [ Misono Waka, Hanayagi Anna, Kurumi Sakura ]
 ---

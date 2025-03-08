@@ -5,7 +5,7 @@ title: STARS-076 A Female College Student Who Fell For The Pleasure Of Yume Take
 url: /was/1stars076pl
 date: 2020-04-25T13:00:00Z
 image: "1stars076pl.jpg"
-tags: [Old Releases,Censored, Cuckold, Drama, Rape, Slender]
+tags: [Old Releases,Censored, Cuckold, Drama, (tag-censored), Slender]
 maker: [SOD Create]
 actress: [Ichiki Mahiro  ]
 ---

@@ -5,7 +5,7 @@ title: STARS-171 W De M Slave Restraint / Training / Human Body Devil Massive Va
 url: /was/1stars171pl
 date: 2020-06-25T11:00:00Z
 image: "1stars171pl.jpg"
-tags: [Old Releases,Censored, Creampie, Rape, Restraint, Squirting, Training]
+tags: [Old Releases,Censored, Creampie, (tag-censored), Restraint, Squirting, Training]
 maker: [SOD Create]
 actress: [Honjou Suzu, Ogura Yuna]
 ---

@@ -5,7 +5,7 @@ title: SHKD-878 Female Teacher Nanami Kawakami Who Continued To Be Fucked Until 
 url: /was/shkd878pl
 date: 2019-12-12T00:03:00Z
 image: "shkd878pl.jpg"
-tags: [Old Releases,Censored,Drama, Female teacher, Rape ]
+tags: [Old Releases,Censored,Drama, Female teacher, (tag-censored) ]
 maker: [Attackers]
 actress: [ Kawakami Nanami]
 ---

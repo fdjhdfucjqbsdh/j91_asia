@@ -5,7 +5,7 @@ title: ADN-127 Please Forgive Me ....Looking Down On Fallen Sympathy
 url: /was/adn127pl
 date: 2020-07-25T15:00:00Z
 image: "adn127pl.jpg"
-tags: [Old Releases,Censored, Solowork, Rape, Drama, Cuckold	]
+tags: [Old Releases,Censored, Solowork, (tag-censored), Drama, Cuckold	]
 maker: [Attackers  ]
 actress: [Meguri ]
 ---

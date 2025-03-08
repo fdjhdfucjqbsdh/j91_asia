@@ -5,7 +5,7 @@ title: RBD-939 Nanjing Bag Woman
 url: /was/rbd939pl
 date: 2019-12-12T00:03:00Z
 image: "rbd939pl.jpg"
-tags: [Old Releases,Censored,Female College Student, Lesbian, Rape, Training ]
+tags: [Old Releases,Censored,Female College Student, Lesbian, (tag-censored), Training ]
 maker: [Attackers]
 actress: [ Hatsumi Rin, Kawai Nonoka, Ootsuki Hibiki]
 ---

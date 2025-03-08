@@ -5,7 +5,7 @@ title: TNIK-006 Poyokko Collapses! Infinite Clitoris Restraint Torture Mizuki Sh
 url: /v/tnik006pl
 date: 2024-04-26T15:55:00Z
 image: "tnik006pl.jpg"
-tags: [Censored, Creampie, 3P, 4P, Restraint, Solowork, Torture, Shibari	]
+tags: [Censored, Creampie, 3P, 4P, Restraint, Solowork, (tag-censored), Shibari	]
 maker: [ MERCURY (Mercury)  ]
 actress: [ Shida Mizuki ]
 ---

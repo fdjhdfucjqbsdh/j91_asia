@@ -5,7 +5,7 @@ title: RBD-951 Elite Female Boss Pride Fall Training Tojo
 url: /was/rbd951pl
 date: 2019-12-19T00:00:00Z
 image: "rbd951pl.jpg"
-tags: [Old Releases,Censored,Big tits, Drama, OL, Rape, Slender ]
+tags: [Old Releases,Censored,Big tits, Drama, OL, (tag-censored), Slender ]
 maker: [Attackers]
 actress: [ Azuma Rin]
 ---

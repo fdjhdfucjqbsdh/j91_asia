@@ -5,7 +5,7 @@ title: RBD-948 Complete Sister Training Neighbor's Carnal Desire
 url: /was/rbd948pl
 date: 2019-12-14T03:00:00Z
 image: "rbd948pl.jpg"
-tags: [Old Releases,Censored,Beautiful Girl, Big tits, Drama, Rape ]
+tags: [Old Releases,Censored,Beautiful Girl, Big tits, Drama, (tag-censored) ]
 maker: [Attackers]
 actress: [Inaba Ruka, Nagisa Mitsuki ]
 ---

@@ -5,7 +5,7 @@ title: SHKD-884 Gangbang Plan Rikeijo Edition Kanon Kanon
 url: /was/shkd884pl
 date: 2019-12-19T00:00:00Z
 image: "shkd884pl.jpg"
-tags: [Old Releases,Censored,abuse, Documentary, Gangbang, Rape ]
+tags: [Old Releases,Censored,abuse, Documentary, Gangbang, (tag-censored) ]
 maker: [Attackers]
 actress: [Kanade Kanon ]
 ---

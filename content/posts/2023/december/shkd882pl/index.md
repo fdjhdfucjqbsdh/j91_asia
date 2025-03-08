@@ -5,7 +5,7 @@ title: SHKD-882 Female Teacher Violated By A Student School Building Is Dominate
 url: /was/shkd882pl
 date: 2019-12-19T00:00:00Z
 image: "shkd882pl.jpg"
-tags: [Old Releases,Censored,Big tits, Drama, Female teacher, Rape ]
+tags: [Old Releases,Censored,Big tits, Drama, Female teacher, (tag-censored) ]
 maker: [Attackers]
 actress: [ Hoshino Nami]
 ---

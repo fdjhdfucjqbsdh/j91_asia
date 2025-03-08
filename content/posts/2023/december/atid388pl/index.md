@@ -5,7 +5,7 @@ title: ATID-388 I Was Slammed Many Times So Embarrassed By The Worst Worst Man .
 url: /was/atid388pl
 date: 2019-12-19T00:00:00Z
 image: "atid388pl.jpg"
-tags: [Old Releases,Censored,Beautiful Girl, Cuckold, Drama, Rape ]
+tags: [Old Releases,Censored,Beautiful Girl, Cuckold, Drama, (tag-censored) ]
 maker: [Attackers]
 actress: [Ninomiya Hikari ]
 ---

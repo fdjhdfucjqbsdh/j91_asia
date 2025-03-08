@@ -5,7 +5,7 @@ title: SHKD-905 That Day I Was Violated
 url: /was/shkd905pl
 date: 2020-07-25T15:00:00Z
 image: "shkd905pl.jpg"
-tags: [Old Releases,Censored, abuse, OL, Rape, Solowork]
+tags: [Old Releases,Censored, abuse, OL, (tag-censored), Solowork]
 maker: [Attackers]
 actress: [Yuuki Nono]
 ---

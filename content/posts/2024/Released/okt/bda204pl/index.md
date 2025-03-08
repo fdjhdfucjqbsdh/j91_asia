@@ -5,7 +5,7 @@ title: BDA-204 Bound And Tortured Awakening, Bondage Ban Lifted, Horikita Miku
 url: /v/bda204pl
 date: 2024-10-19T01:20:00Z
 image: "bda204pl.jpg"
-tags: [Censored, Sailor Suit, Solowork, School Girls, Torture, Shibari	]
+tags: [Censored, Sailor Suit, Solowork, School Girls, (tag-censored), Shibari	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ Sakura Mahiru ]
 ---

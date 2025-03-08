@@ -5,7 +5,7 @@ title: SHKD-879 Please Commit Me Until You Feel ... Kanna Flower
 url: /was/shkd879pl
 date: 2019-12-14T03:00:00Z
 image: "shkd879pl.jpg"
-tags: [Old Releases,Censored,Rape, Secretary ]
+tags: [Old Releases,Censored,(tag-censored), Secretary ]
 maker: [Attackers]
 actress: [Kano Hana ]
 ---

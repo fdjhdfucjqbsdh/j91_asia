@@ -5,7 +5,7 @@ title: SHKD-908 This guy who was being bullied ended up with a cute girlfriend, 
 url: /was/shkd908pl
 date: 2020-09-25T01:00:00Z
 image: "shkd908pl.jpg"
-tags: [Old Releases,Censored, Beautiful Girl, Documentary, Female College Student, Rape, Solowork]
+tags: [Old Releases,Censored, Beautiful Girl, Documentary, Female College Student, (tag-censored), Solowork]
 maker: [ Attackers]
 actress: [ Kawai Yui]
 ---

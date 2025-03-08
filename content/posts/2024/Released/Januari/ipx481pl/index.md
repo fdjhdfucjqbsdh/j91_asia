@@ -5,7 +5,7 @@ title: IPX-481 Female Teacher Group Lex Puru ● Anna Kami
 url: /was/ipx481pl
 date: 2020-05-25T09:00:00Z
 image: "ipx481pl.jpg"
-tags: [Old Releases,Censored, Digital Mosaic, Female teacher, Pantyhose, Rape, Solowork]
+tags: [Old Releases,Censored, Digital Mosaic, Female teacher, Pantyhose, (tag-censored), Solowork]
 maker: [IDEA POCKET]
 actress: [Kami Anna ]
 ---

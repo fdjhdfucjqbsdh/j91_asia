@@ -5,7 +5,7 @@ title: ATID-370 Dark Stage Idol Gangbang Show Yui Nagase
 url: /was/atid370pl
 date: 2019-12-12T00:03:00Z
 image: "atid370pl.jpg"
-tags: [Old Releases,Censored,abuse, Entertainer, Gangbang, Girl, Rape, Solowork ]
+tags: [Old Releases,Censored,abuse, Entertainer, Gangbang, Girl, (tag-censored), Solowork ]
 maker: [Attackers]
 actress: [Nagase Yui ]
 ---

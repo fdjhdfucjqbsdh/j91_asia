@@ -5,7 +5,7 @@ title: ACZD-158 Beautiful Tortured Slave Sachiko Arima
 url: /v/aczd158pl
 date: 2023-12-07T17:05:00Z
 image: "aczd158pl.jpg"
-tags: [Censored,SM,Restraint,Torture,Shibari,User Submission,Documentary,Submissive Woman,Spanking	 ]
+tags: [Censored,SM,Restraint,(tag-censored),Shibari,User Submission,Documentary,Submissive Woman,Spanking	 ]
 maker: [Sanwa Shuppan   ]
 actress: [ ]
 ---

@@ -5,7 +5,7 @@ title: SSNI-774 Targeted By School Swimmer Mania ... Uniform Girl Who Was Expose
 url: /was/ssni774pl
 date: 2020-05-25T04:00:00Z
 image: "ssni774pl.jpg"
-tags: [Old Releases,Censored, abuse, Humiliation, Rape, Risky Mosaic, School Swimsuit, Solowork, Voyeur]
+tags: [Old Releases,Censored, abuse, Humiliation, (tag-censored), Risky Mosaic, School Swimsuit, Solowork, Voyeur]
 maker: [S1 NO.1 STYLE]
 actress: [Nogi Hotaru ]
 ---

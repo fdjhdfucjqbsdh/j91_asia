@@ -5,7 +5,7 @@ title: SONE-319 "The Teacher's Breasts Are To Blame!" The Problem Of The Pretty 
 url: /v/sone319pl
 date: 2024-08-23T01:55:00Z
 image: "sone319pl.jpg"
-tags: [Censored, 3P, 4P, Solowork, Female Teacher, Nasty, Hardcore, Rape, Abuse, Ultra-Huge Tits	]
+tags: [Censored, 3P, 4P, Solowork, Female Teacher, Nasty, Hardcore, (tag-censored), Abuse, Ultra-Huge Tits	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kagura Momoka ]
 ---

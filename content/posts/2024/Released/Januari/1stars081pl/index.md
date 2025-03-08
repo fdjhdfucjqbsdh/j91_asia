@@ -5,7 +5,7 @@ title: STARS-081 Mahiro Yui A Boy's Appearance Is Barked And Gangbanged ...
 url: /was/1stars081pl
 date: 2020-04-25T13:00:00Z
 image: "1stars081pl.jpg"
-tags: [Old Releases,Censored, 3P, 4P, Deep Throating, Rape, Restraint, Solowork]
+tags: [Old Releases,Censored, 3P, 4P, Deep Throating, (tag-censored), Restraint, Solowork]
 maker: [SOD Create]
 actress: [ Tadai Mahiro]
 ---

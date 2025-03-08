@@ -5,7 +5,7 @@ title: RBD-991 Black Leap Special Investigator Codename Φ Solve The Mystery Of 
 url: /was/rbd991pl
 date: 2020-10-25T03:00:00Z
 image: "rbd991pl.jpg"
-tags: [Old Releases,Censored, Black Actor, Female investigator, Rape, Solowork]
+tags: [Old Releases,Censored, Black Actor, Female investigator, (tag-censored), Solowork]
 maker: [ Attackers]
 actress: [ Honma Yuri]
 ---

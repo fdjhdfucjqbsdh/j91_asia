@@ -5,7 +5,7 @@ title: SAME-121 A Female Teacher Is Kidnapped And Imprisoned. Recorded Footage L
 url: /v/same121pl
 date: 2024-08-02T01:50:00Z
 image: "same121pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Rape, Sister, Entertainer	]
+tags: [Censored, Solowork, Female Teacher, (tag-censored), Sister, Entertainer	]
 maker: [Attackers]
 actress: [ Miyanishi Hikaru ]
 ---

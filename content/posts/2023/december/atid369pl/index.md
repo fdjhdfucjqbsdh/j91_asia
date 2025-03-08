@@ -5,7 +5,7 @@ title: ATID-369 Panic 5 Countdown To Humiliation Hotaru Mori
 url: /was/atid369pl
 date: 2019-12-12T00:03:00Z
 image: "atid369pl.jpg"
-tags: [Old Releases,Censored,Confinement, OL, Rape ]
+tags: [Old Releases,Censored,Confinement, OL, (tag-censored) ]
 maker: [Attackers]
 actress: [ Mori Hotaru]
 ---

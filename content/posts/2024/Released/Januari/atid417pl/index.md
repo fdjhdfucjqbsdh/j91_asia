@@ -5,7 +5,7 @@ title: ATID-417 A Childhood Friend Who Liked Me And A Reunion After Five Years. 
 url: /was/atid417pl
 date: 2020-05-25T08:00:00Z
 image: "atid417pl.jpg"
-tags: [Old Releases,Censored,Creampie,Solowork,Beautiful Girl,Rape,Drama	 ]
+tags: [Old Releases,Censored,Creampie,Solowork,Beautiful Girl,(tag-censored),Drama	 ]
 maker: [Attackers]
 actress: [ Neo Akari ]
 ---

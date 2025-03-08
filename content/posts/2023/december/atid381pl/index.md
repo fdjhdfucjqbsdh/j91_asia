@@ -5,7 +5,7 @@ title: ATID-381 Strict And Ascetic Female Teachers Are Deceived By Sex Teachers 
 url: /was/atid381pl
 date: 2019-12-19T00:00:00Z
 image: "atid381pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Female teacher, Rape, Squirting]
+tags: [Old Releases,Censored, abuse, Drama, Female teacher, (tag-censored), Squirting]
 maker: [Attackers]
 actress: [ Kano Hana]
 ---

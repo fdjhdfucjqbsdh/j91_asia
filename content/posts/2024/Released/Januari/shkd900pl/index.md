@@ -5,7 +5,7 @@ title: SHKD-900 It's Just A Cute Story That Everyone Around Me Called A Serious 
 url: /was/shkd900pl
 date: 2020-05-25T08:00:00Z
 image: "shkd900pl.jpg"
-tags: [Old Releases,Censored, Beautiful Girl, Drama, Rape, Solowork]
+tags: [Old Releases,Censored, Beautiful Girl, Drama, (tag-censored), Solowork]
 maker: [Attackers]
 actress: [Yuutsuki Kokona ]
 ---

@@ -5,7 +5,7 @@ title: GTJ-149 Torture Drugs Maika Hizumi
 url: /v/gtj149pl
 date: 2024-10-12T01:20:00Z
 image: "gtj149pl.jpg"
-tags: [Censored, SM, Restraint, Solowork, Torture, Shibari, Piss Drinking	]
+tags: [Censored, SM, Restraint, Solowork, (tag-censored), Shibari, Piss Drinking	]
 maker: [ Dogma  ]
 actress: [ Nizumi Maika]
 ---

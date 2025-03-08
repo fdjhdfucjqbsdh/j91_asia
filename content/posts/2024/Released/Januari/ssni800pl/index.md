@@ -5,7 +5,7 @@ title: SSNI-800 Circle-Leopped New Female Teacher-I Was Caught By Weaknesses And
 url: /was/ssni800pl
 date: 2020-06-25T04:00:00Z
 image: "ssni800pl.jpg"
-tags: [Old Releases,Censored, Big tits, Female teacher, Hardcore, Leg Fetish, Nasty, Pantyhose, Rape, Risky Mosaic, Solowork]
+tags: [Old Releases,Censored, Big tits, Female teacher, Hardcore, Leg Fetish, Nasty, Pantyhose, (tag-censored), Risky Mosaic, Solowork]
 maker: [S1 NO.1 STYLE]
 actress: [Hanamiya Amu]
 ---

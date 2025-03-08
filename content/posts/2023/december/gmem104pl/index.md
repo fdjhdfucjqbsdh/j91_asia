@@ -5,7 +5,7 @@ title: GMEM-104 Crazy Torture Institute Dr. Cruelty Episode 1 ~Sacrifice Beautif
 url: /v/gmem104pl
 date: 2023-12-23T01:30:00Z
 image: "gmem104pl.jpg"
-tags: [Censored, Sailor Suit,Restraint,Solowork,Beautiful Girl,Torture,Confinement	]
+tags: [Censored, Sailor Suit,Restraint,Solowork,Beautiful Girl,(tag-censored),Confinement	]
 maker: [Avs   ]
 actress: [ Akari Nonoka ]
 ---

@@ -5,7 +5,7 @@ title: STARS-042 Confinement Of The Beautiful Scoop Photographer Masami Ichikawa
 url: /was/1stars042pl
 date: 2020-03-25T12:30:00Z
 image: "1stars042pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Rape, Slender, Solowork]
+tags: [Old Releases,Censored, abuse, Drama, (tag-censored), Slender, Solowork]
 maker: [SOD Create  ]
 actress: [Ichikawa Masami ]
 ---

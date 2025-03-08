@@ -5,7 +5,7 @@ title: CMC-315 Best 30 Cinemagic DVDs Part XVIII
 url: /v/cmc315pl
 date: 2024-10-05T01:03:00Z
 image: "cmc315pl.jpg"
-tags: [Censored, SM, Best, Omnibus, Torture, Shibari	]
+tags: [Censored, SM, Best, Omnibus, (tag-censored), Shibari	]
 maker: [ CineMagic  ]
 actress: [ ]
 ---

@@ -5,7 +5,7 @@ title: SAME-144 Hotel Woman, I Was Asked To Provide Lewd Service, Ruu Tokutaka
 url: /v/same144pl
 date: 2025-01-03T01:40:00Z
 image: "same144pl.jpg"
-tags: [Censored, Creampie, Solowork, Pantyhose, Rape, Abuse, Drama	]
+tags: [Censored, Creampie, Solowork, Pantyhose, (tag-censored), Abuse, Drama	]
 maker: [Attackers]
 actress: [ Totsuka Ruu ]
 ---

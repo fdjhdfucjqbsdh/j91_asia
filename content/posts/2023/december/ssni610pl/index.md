@@ -5,7 +5,7 @@ title: SSNI-610 Dirty And Violent Pure Heart Sailor Suit Investigator Virgin Los
 url: /was/ssni610pl
 date: 2019-12-14T02:00:00Z
 image: "ssni610pl.jpg"
-tags: [Old Releases,Censored,Beautiful Girl, Blow, Female investigator, Rape, Risky Mosaic ]
+tags: [Old Releases,Censored,Beautiful Girl, Blow, Female investigator, (tag-censored), Risky Mosaic ]
 maker: [S1 NO.1 STYLE]
 actress: [ Nogi Hotaru]
 ---

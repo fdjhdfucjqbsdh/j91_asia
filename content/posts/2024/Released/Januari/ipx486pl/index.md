@@ -5,7 +5,7 @@ title: IPX-486 A Noble Female Investigator Who Fell Into Aphrodisiac Acme Tortur
 url: /was/ipx486pl
 date: 2020-05-25T09:00:00Z
 image: "ipx486pl.jpg"
-tags: [Old Releases,Censored, Digital Mosaic, Entertainer, Female investigator, Hardcore, Nasty, Rape]
+tags: [Old Releases,Censored, Digital Mosaic, Entertainer, Female investigator, Hardcore, Nasty, (tag-censored)]
 maker: [IDEA POCKET]
 actress: [ Momonogi Kana]
 ---

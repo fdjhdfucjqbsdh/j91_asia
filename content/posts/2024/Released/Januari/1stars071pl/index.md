@@ -5,7 +5,7 @@ title: STARS-071 Even If Being Threatened With Idol Hunters By A Pin Salo Bite A
 url: /was/1stars071pl
 date: 2020-04-25T13:00:00Z
 image: "1stars071pl.jpg"
-tags: [Old Releases,Censored, Drama, Entertainer, Muscle, Rape]
+tags: [Old Releases,Censored, Drama, Entertainer, Muscle, (tag-censored)]
 maker: [SOD Create]
 actress: [ Nanami Tina]
 ---

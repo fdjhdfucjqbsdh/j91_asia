@@ -5,7 +5,7 @@ title: CAWD-002 Newly Appointed Female Teacher Sakura Momoko Who Is Committed To
 url: /v/cawd002pl
 date: 2019-12-12T00:00:00Z
 image: "cawd002pl.jpg"
-tags: [Old Releases,Censored,Bukkake, Deep Throating, Female teacher, Gangbang, Rape ]
+tags: [Old Releases,Censored,Bukkake, Deep Throating, Female teacher, Gangbang, (tag-censored) ]
 maker: [Kawaii]
 actress: [Sakura Moko ]
 ---

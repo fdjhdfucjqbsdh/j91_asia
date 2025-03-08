@@ -5,7 +5,7 @@ title: MIMK-009 Crimson x Moody's Collaboration Work Female Undercover Investiga
 url: /was/mimk009pl
 date: 2020-09-24T06:50:00Z
 image: "mimk009pl.jpg"
-tags: [Old Releases,Censored, Creampie, Solowork, Rape, Abuse, Digital Mosaic, Female Investigator, Original Collaboration, Long Boots	]
+tags: [Old Releases,Censored, Creampie, Solowork, (tag-censored), Abuse, Digital Mosaic, Female Investigator, Original Collaboration, Long Boots	]
 maker: [MOODYZ]
 actress: [ Oohashi Miku ]
 ---

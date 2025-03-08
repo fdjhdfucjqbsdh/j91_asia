@@ -5,7 +5,7 @@ title: CMN-245 S-class Super-masochistic Woman, The Cruel Flower Slave, Yuuhi Na
 url: /v/cmn245pl
 date: 2024-10-05T01:03:00Z
 image: "cmn245pl.jpg"
-tags: [Censored, SM, Anal, Solowork, Enema, Torture, 4HR+, Actress Best	]
+tags: [Censored, SM, Anal, Solowork, Enema, (tag-censored), 4HR+, Actress Best	]
 maker: [ CineMagic  ]
 actress: [ Kuroki Ikumi ]
 ---

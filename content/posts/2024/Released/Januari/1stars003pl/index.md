@@ -5,7 +5,7 @@ title: STARS-003 Takeda Yume Collapses Like A Newly Born Fawn All Day Super Pist
 url: /was/1stars003pl
 date: 2020-02-25T20:01:00Z
 image: "1stars003pl.jpg"
-tags: [Old Releases,Censored, abuse, Deep Throating, Rape, School Girls, Training]
+tags: [Old Releases,Censored, abuse, Deep Throating, (tag-censored), School Girls, Training]
 maker: [ SOD Create]
 actress: [ Ichiki Mahiro ]
 ---

@@ -5,7 +5,7 @@ title: IPX-533 A beautiful swimmer who keeps getting fucked in a circle of despa
 url: /was/ipx533pl
 date: 2020-09-25T01:00:00Z
 image: "ipx533pl.jpg"
-tags: [Old Releases,Censored, Digital Mosaic, Drama, Female teacher, Rape, School Swimsuit, Solowork]
+tags: [Old Releases,Censored, Digital Mosaic, Drama, Female teacher, (tag-censored), School Swimsuit, Solowork]
 maker: [ IDEA POCKET]
 actress: [Miyazono Kotone ]
 ---

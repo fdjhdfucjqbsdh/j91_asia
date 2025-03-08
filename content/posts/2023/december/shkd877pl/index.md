@@ -5,7 +5,7 @@ title: SHKD-877 Solo Rape Mania Marunouchi Duty Beauty Receptionist Edition Saih
 url: /was/shkd877pl
 date: 2019-12-12T00:03:00Z
 image: "shkd877pl.jpg"
-tags: [Old Releases,Censored,Documentary, OL, Rape ]
+tags: [Old Releases,Censored,Documentary, OL, (tag-censored) ]
 maker: [Attackers]
 actress: [ Natsume Iroha]
 ---

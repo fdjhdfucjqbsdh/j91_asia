@@ -5,7 +5,7 @@ title: RBD-943 Chaste Female College Student Abyss Sex Slave 2
 url: /was/rbd943pl
 date: 2019-12-14T03:00:00Z
 image: "rbd943pl.jpg"
-tags: [Old Releases,Censored, Anal, Female College Student, Lesbian, Rape, Training]
+tags: [Old Releases,Censored, Anal, Female College Student, Lesbian, (tag-censored), Training]
 maker: [Attackers]
 actress: [ Hazuki Moe, Konishi Marie]
 ---

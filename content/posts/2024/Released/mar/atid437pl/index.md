@@ -5,7 +5,7 @@ title: ATID-437 When I talked to her part-time colleague, Mr. Kawakami, about th
 url: /was/atid437pl
 date: 2020-09-25T01:00:00Z
 image: "atid437pl.jpg"
-tags: [Old Releases,Censored, Rape, Solowork, Waitress]
+tags: [Old Releases,Censored, (tag-censored), Solowork, Waitress]
 maker: [ Attackers]
 actress: [ Shida Yukina]
 ---

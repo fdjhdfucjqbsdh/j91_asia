@@ -5,7 +5,7 @@ title: SHKD-881 My Daughter's Best Friend Who Has Been Watching Since Childhood 
 url: /was/shkd881pl
 date: 2019-12-14T03:00:00Z
 image: "shkd881pl.jpg"
-tags: [Old Releases,Censored, Drama, OL, Rape, Training]
+tags: [Old Releases,Censored, Drama, OL, (tag-censored), Training]
 maker: [Attackers]
 actress: [ Yuuki Nono]
 ---

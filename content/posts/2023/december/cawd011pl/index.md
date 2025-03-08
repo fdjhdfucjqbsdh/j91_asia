@@ -5,7 +5,7 @@ title: CAWD-011 Restraint Les × Gangbang Busty New Female Teacher Ito Maiyuki W
 url: /v/cawd011pl
 date: 2019-12-12T00:00:00Z
 image: "cawd011pl.jpg"
-tags: [Old Releases,Censored, Big tits, Creampie, Female teacher, Gangbang, Rape]
+tags: [Old Releases,Censored, Big tits, Creampie, Female teacher, Gangbang, (tag-censored)]
 maker: [Kawaii]
 actress: [ Itou Mayuki]
 ---

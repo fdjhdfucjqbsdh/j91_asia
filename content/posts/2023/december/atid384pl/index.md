@@ -5,7 +5,7 @@ title: ATID-384 The Days Of Rape Began When Men Dressed Up As A Childhood Friend
 url: /was/atid384pl
 date: 2019-12-19T00:00:00Z
 image: "atid384pl.jpg"
-tags: [Old Releases,Censored, Big tits, Drama, Rape]
+tags: [Old Releases,Censored, Big tits, Drama, (tag-censored)]
 maker: [Attackers]
 actress: [Fukada Eimi ]
 ---

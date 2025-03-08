@@ -5,7 +5,7 @@ title: SSNI-766 Uniform Pretty Devil Wheel ● Le ● P The School Idol Is Commi
 url: /was/ssni766pl
 date: 2020-04-25T04:00:00Z
 image: "ssni766pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Humiliation, Rape, Risky Mosaic, Slender, Solowork, Uniform]
+tags: [Old Releases,Censored, abuse, Beautiful Girl, Humiliation, (tag-censored), Risky Mosaic, Slender, Solowork, Uniform]
 maker: [S1 NO.1 STYLE]
 actress: [ Yoshioka Hiyori]
 ---

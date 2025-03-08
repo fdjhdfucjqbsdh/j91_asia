@@ -5,7 +5,7 @@ title: SAME-107 She Is Raped Every Day By An Old Man Who Is Her Mother's New Hus
 url: /v/same107pl
 date: 2024-05-03T01:50:00Z
 image: "same107pl.jpg"
-tags: [Censored, Solowork, Rape, Drama, Cuckold, Adopted Daughter	]
+tags: [Censored, Solowork, (tag-censored), Drama, Cuckold, Adopted Daughter	]
 maker: [Attackers]
 actress: [ Shiraishi Momo ]
 ---

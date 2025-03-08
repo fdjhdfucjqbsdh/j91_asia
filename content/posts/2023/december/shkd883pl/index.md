@@ -5,7 +5,7 @@ title: SHKD-883 Tsuyoshi Akari Who Commits Her Son's Virginity
 url: /was/shkd883pl
 date: 2019-12-19T00:00:00Z
 image: "shkd883pl.jpg"
-tags: [Old Releases,Censored,Cuckold, Drama, Female College Student, Rape, virgin ]
+tags: [Old Releases,Censored,Cuckold, Drama, Female College Student, (tag-censored), virgin ]
 maker: [Attackers]
 actress: [ Akari Tsumugi]
 ---

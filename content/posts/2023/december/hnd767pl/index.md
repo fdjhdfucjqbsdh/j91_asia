@@ -5,7 +5,7 @@ title: HND-767 Even If You Run Away Or Run Away, You Will Get Fucked On All Four
 url: /was/hnd767pl
 date: 2019-12-20T00:00:00Z
 image: "hnd767pl.jpg"
-tags: [Old Releases,Censored, Creampie, Gangbang, Huge Butt, Rape, Uniform]
+tags: [Old Releases,Censored, Creampie, Gangbang, Huge Butt, (tag-censored), Uniform]
 maker: [Honnaka]
 actress: [ Neo Akari]
 ---

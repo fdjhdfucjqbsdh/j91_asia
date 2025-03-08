@@ -5,7 +5,7 @@ title: ADN-231 Forgive You ... My 3 Ayaka Arai Fucked By My Husband's Old Friend
 url: /was/adn231pl
 date: 2019-12-19T00:00:00Z
 image: "adn231pl.jpg"
-tags: [Old Releases,Censored,abuse, Cuckold, Drama, Married Woman, Rape ]
+tags: [Old Releases,Censored,abuse, Cuckold, Drama, Married Woman, (tag-censored) ]
 maker: [Attackers]
 actress: [Arai Yuuka ]
 ---
