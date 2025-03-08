@@ -40,13 +40,13 @@
 
 <title>
  {{- if .IsHome -}}
-   Home | {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
+   Home | {{ .Site.Title | replaceRE "(?i)(abused|asphyxia|behead|bleed|blood|child|children|choke|choking|decapitation|drugged|forced|hidden cam|kid|kill|leaked|loli|l.o.l.i|murder|rape|shota|snuff|strangle|torture)" "****" }}
  {{- else if .Params.hide_site_title -}}
-   {{ .Page.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
+   {{ .Page.Title | replaceRE "(?i)(abused|asphyxia|behead|bleed|blood|child|children|choke|choking|decapitation|drugged|forced|hidden cam|kid|kill|leaked|loli|l.o.l.i|murder|rape|shota|snuff|strangle|torture)" "****" }}
  {{- else if .Page.Title -}}
-   {{ .Page.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }} | {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
+   {{ .Page.Title | replaceRE "(?i)(abused|asphyxia|behead|bleed|blood|child|children|choke|choking|decapitation|drugged|forced|hidden cam|kid|kill|leaked|loli|l.o.l.i|murder|rape|shota|snuff|strangle|torture)" "****" }} | {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
  {{- else -}}
-   {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
+   {{ .Site.Title | replaceRE "(?i)(abused|asphyxia|behead|bleed|blood|child|children|choke|choking|decapitation|drugged|forced|hidden cam|kid|kill|leaked|loli|l.o.l.i|murder|rape|shota|snuff|strangle|torture)" "****" }}
  {{- end -}}
 </title> 
 {{ $sass := resources.Get "scss/style.scss" }}
