@@ -1,0 +1,7 @@
+{{ $title := . }}
+{{ $badwords := slice "fuck" "Rape" "Forced" "violence" "abuse" "drugs" }}
+{{ range $badwords }}
+    {{ $title = replaceRE (printf "(?i)%s" .) "****" $title }}
+{{ end }}
+{{ return $title }}
+
