@@ -3,7 +3,7 @@ author: j91
 title: SAME-078 This Is The Story Of My Cousin Aki, Who Grew Up Beautiful And Confined To My Dirty Room, Where She Became A Shut-in And A NEET. Moko Sakura
 date: 2023-09-29T00:50:00Z
 image: "same078pl.jpg"
-tags: [Censored,OL,Solowork,Abuse,Drama	]
+tags: [Censored,OL,Solowork,(tag-censored),Drama	]
 maker: [Attackers]
 actress: [Sakura Moko ]
 ---

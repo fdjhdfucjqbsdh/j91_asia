@@ -5,7 +5,7 @@ title: SSNI-856 Minami, a molester decoy investigator who kept being raped by a 
 url: /was/ssni856pl
 date: 2020-09-24T06:00:00Z
 image: "ssni856pl.jpg"
-tags: [Old Releases,Censored, abuse, Female investigator, (tag-censored), Risky Mosaic, Solowork, Squirting]
+tags: [Old Releases,Censored, (tag-censored), Female investigator, (tag-censored), Risky Mosaic, Solowork, Squirting]
 maker: [S1 NO.1 STYLE]
 actress: [ Kojima Minami]
 ---

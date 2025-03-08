@@ -5,7 +5,7 @@ title: PRED-234 Female Announcer Fell Into Filthy-Justice's Heart Is Broken Into
 url: /was/pred234pl
 date: 2020-05-25T13:00:00Z
 image: "pred234pl.jpg"
-tags: [Old Releases,Censored, abuse, Anchorwoman, Bukkake, Creampie, Digital Mosaic, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Anchorwoman, Bukkake, Creampie, Digital Mosaic, Solowork]
 maker: [Premium]
 actress: [ Takeuchi Yuuki]
 ---

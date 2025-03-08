@@ -5,7 +5,7 @@ title: RBD-994 Slave Island Special Edition Kanna Misaki
 url: /was/rbd994pl
 date: 2020-11-25T01:00:00Z
 image: "rbd994pl.jpg"
-tags: [Old Releases,Censored, SM, Solowork, Married Woman, Abuse, Cuckold	]
+tags: [Old Releases,Censored, SM, Solowork, Married Woman, (tag-censored), Cuckold	]
 maker: [ Attackers  ]
 actress: [ Misaki Kanna ]
 ---

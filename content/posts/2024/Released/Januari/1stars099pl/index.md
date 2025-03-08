@@ -5,7 +5,7 @@ title: STARS-099 Hinata Koizumi Summer, Sweaty Juice Covered
 url: /was/1stars099pl
 date: 2020-04-25T13:00:00Z
 image: "1stars099pl.jpg"
-tags: [Old Releases,Censored, abuse, Molester, Sweat]
+tags: [Old Releases,Censored, (tag-censored), Molester, Sweat]
 maker: [SOD Create]
 actress: [Koizumi Hinata ]
 ---

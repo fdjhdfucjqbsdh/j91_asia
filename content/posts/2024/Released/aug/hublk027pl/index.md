@@ -5,7 +5,7 @@ title: HUBLK-027 Brainwashing And Rape Class, Hellish Brainwashing Classroom Whe
 url: /v/hublk027pl
 date: 2024-08-09T01:15:00Z
 image: "hublk027pl.jpg"
-tags: [Censored, School Girls, School Stuff, Abuse, Evil, Spanking	]
+tags: [Censored, School Girls, School Stuff, (tag-censored), Evil, Spanking	]
 maker: [Hunter]
 actress: [ ]
 ---

@@ -5,7 +5,7 @@ title: PRTD-025 A Bunny Girl In Sudden Despair Deep Throating, Wheel ●, Creamp
 url: /was/prtd025pl
 date: 2020-01-25T10:00:00Z
 image: "prtd025pl.jpg"
-tags: [Old Releases,Censored, Blow, Creampie, Solowork, Beautiful Girl, Abuse, Bunny Girl, Digital Mosaic	]
+tags: [Old Releases,Censored, Blow, Creampie, Solowork, Beautiful Girl, (tag-censored), Bunny Girl, Digital Mosaic	]
 maker: [Premium]
 actress: [Mochizuki Arare]
 ---

@@ -5,7 +5,7 @@ title: ATID-393 Ice Woman Collapses, Goes Crazy For Anal
 url: /was/atid393pl
 date: 2020-01-25T06:00:00Z
 image: "atid393pl.jpg"
-tags: [Old Releases,Censored, Anal, Abuse, Other	]
+tags: [Old Releases,Censored, Anal, (tag-censored), Other	]
 maker: [Attackers]
 actress: [ Kano Hana , Akase Shouko]
 ---

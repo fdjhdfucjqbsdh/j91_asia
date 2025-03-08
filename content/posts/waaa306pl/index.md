@@ -3,7 +3,7 @@ author: j91
 title: WAAA-306 A Country Girl Who Ran Away From Home From Tohoku Is Matched With Aphrodisiac Confinement Rape, And The Sexy Meat Urinal That Convulses Is Creampied And Fucked. Living In Aomori Ai-chan
 date: 2023-09-29T00:45:00Z
 image: "waaa306pl.jpg"
-tags: [Censored,3P, 4P,Nasty, Hardcore,Abuse,Drug,Confinement	]
+tags: [Censored,3P, 4P,Nasty, Hardcore,(tag-censored),Drug,Confinement	]
 maker: [WANZ FACTORY]
 actress: [Nonose Ai ]
 ---

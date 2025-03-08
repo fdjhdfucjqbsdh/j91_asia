@@ -5,7 +5,7 @@ title: GMA-054 Bondage Training Wife - Masochist Tendencies And Self-bondage Mas
 url: /v/gma054pl
 date: 2023-12-09T02:30:00Z
 image: "gma054pl.jpg"
-tags: [Censored,SM,Solowork,Shibari,Abuse,Mature Woman	 ]
+tags: [Censored,SM,Solowork,Shibari,(tag-censored),Mature Woman	 ]
 maker: [Global Media Annex   ]
 actress: [ Shiokawa Uni ]
 ---

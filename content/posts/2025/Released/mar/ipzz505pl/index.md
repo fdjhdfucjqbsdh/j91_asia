@@ -5,7 +5,7 @@ title: IPZZ-505 A 2-day, 1-night Hellish Date. A Woman Who Wants To Do It Even I
 url: /v/ipzz505pl
 date: 2025-03-06T16:50:00Z
 image: "ipzz505pl.jpg"
-tags: [Censored, Solowork, Abuse, Drama, Date, Subordinates - Colleagues	]
+tags: [Censored, Solowork, (tag-censored), Drama, Date, Subordinates - Colleagues	]
 maker: [IDEA POCKET]
 actress: [ Sakura Wakana ]
 ---

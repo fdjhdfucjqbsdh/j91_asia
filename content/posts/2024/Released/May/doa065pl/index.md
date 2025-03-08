@@ -5,7 +5,7 @@ title: DOA-065 A Genuine Masochistic Woman. A Woman Who Works At A Famous Tradin
 url: /v/doa065pl
 date: 2024-05-25T01:20:00Z
 image: "doa065pl.jpg"
-tags: [Censored, Shibari, Abuse, Evil, Submissive Woman	]
+tags: [Censored, Shibari, (tag-censored), Evil, Submissive Woman	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ Ohana Non ]
 ---

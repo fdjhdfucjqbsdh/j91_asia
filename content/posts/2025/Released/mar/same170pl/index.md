@@ -5,7 +5,7 @@ title: SAME-170 During The Summer Camp, Teacher Shiramine Miu Was Forced To Sati
 url: /v/same170pl
 date: 2025-02-27T16:40:00Z
 image: "same170pl.jpg"
-tags: [Censored, Creampie, Solowork, Female Teacher, Big Tits, Abuse, Promiscuity	]
+tags: [Censored, Creampie, Solowork, Female Teacher, Big Tits, (tag-censored), Promiscuity	]
 maker: [Attackers]
 actress: [ Shiromine Miu ]
 ---

@@ -5,7 +5,7 @@ title: RBK-093 Female Doctor Sakura, The Chart Of Obedience Tina Nanami
 url: /v/rbk093pl
 date: 2024-05-31T01:45:00Z
 image: "rbk093pl.jpg"
-tags: [Censored, Solowork, Humiliation, Female Doctor, Abuse, Drama	]
+tags: [Censored, Solowork, Humiliation, Female Doctor, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Nanami Tina ]
 ---

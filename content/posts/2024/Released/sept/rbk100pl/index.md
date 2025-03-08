@@ -5,7 +5,7 @@ title: RBK-100 Flowers And Ropes, Yura Kudo's First Bondage Work
 url: /v/rbk100pl
 date: 2024-09-27T01:40:00Z
 image: "rbk100pl.jpg"
-tags: [Censored, Solowork, Bride, Young Wife, Shibari, Abuse, Drama	]
+tags: [Censored, Solowork, Bride, Young Wife, Shibari, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

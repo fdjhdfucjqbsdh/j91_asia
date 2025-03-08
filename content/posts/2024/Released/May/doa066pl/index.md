@@ -5,7 +5,7 @@ title: DOA-066 Material Rape Crime
 url: /v/doa066pl
 date: 2024-05-25T01:20:00Z
 image: "doa066pl.jpg"
-tags: [Censored, Creampie, Shibari, Abuse, Drug	]
+tags: [Censored, Creampie, Shibari, (tag-censored), Drug	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

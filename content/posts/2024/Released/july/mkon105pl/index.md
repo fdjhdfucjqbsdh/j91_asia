@@ -5,7 +5,7 @@ title: MKON-105 My Beloved Girlfriend Was Brainwashed By The Leader Of A Cult An
 url: /v/mkon105pl
 date: 2024-07-20T01:54:00Z
 image: "mkon105pl.jpg"
-tags: [Censored, Creampie, Solowork, Abuse, Cuckold	]
+tags: [Censored, Creampie, Solowork, (tag-censored), Cuckold	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Aoi Mirei ]
 ---

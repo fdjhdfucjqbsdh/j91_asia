@@ -5,7 +5,7 @@ title: URE-009 Original work by Yuki Mitarai! ! A live-action version of the muc
 url: /was/ure009pl
 date: 2020-09-25T00:30:00Z
 image: "ure009pl.jpg"
-tags: [Old Releases,Censored, Married Woman, Abuse, Mature Woman, Drug, Digital Mosaic, Cuckold, Original Collaboration	]
+tags: [Old Releases,Censored, Married Woman, (tag-censored), Mature Woman, Drug, Digital Mosaic, Cuckold, Original Collaboration	]
 maker: [ Madonna  ]
 actress: [ Shouda Chisato, Houjou Maki ,Hiiragi Kaede, Tsutsui Marika, Fujishita Rika, Tateoka Anna]
 ---

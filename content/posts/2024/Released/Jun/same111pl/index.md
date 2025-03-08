@@ -5,7 +5,7 @@ title: SAME-111 Being Fucked Like A Bitch In Front Of My Daughter Kaho Tamaki Ri
 url: /v/same111pl
 date: 2024-05-31T01:45:00Z
 image: "same111pl.jpg"
-tags: [Censored, Abuse, Mother, Drama, Adopted Daughter	]
+tags: [Censored, (tag-censored), Mother, Drama, Adopted Daughter	]
 maker: [Attackers]
 actress: [ Isumi Rion ,Tamashiro Kaho ]
 ---

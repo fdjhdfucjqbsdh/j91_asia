@@ -5,7 +5,7 @@ title: GMA-074 Bondage Training Wife Global Media Annex 5th Anniversary Special 
 url: /v/gma074pl
 date: 2024-12-07T01:20:00Z
 image: "gma074pl.jpg"
-tags: [Censored, SM, Married Woman, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Married Woman, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Kawakami Yuu ,Kobayakawa Reiko ]
 ---

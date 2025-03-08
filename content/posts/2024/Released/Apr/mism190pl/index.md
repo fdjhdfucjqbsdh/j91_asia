@@ -5,7 +5,7 @@ title: MISM-190 Rookie Throat Boko X Death Irama
 url: /was/mism190pl
 date: 2020-12-25T06:00:00Z
 image: "mism190pl.jpg"
-tags: [Old Releases,Censored, abuse, Deep Throating, Older sister, Promiscuity]
+tags: [Old Releases,Censored, (tag-censored), Deep Throating, Older sister, Promiscuity]
 maker: [ Emumusume Lab]
 actress: [Nanamiya Yuria ]
 ---

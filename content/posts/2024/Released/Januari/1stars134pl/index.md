@@ -5,7 +5,7 @@ title: STARS-134 A New Instructor, Mahiro Yui, Who Was Forced To See Through A T
 url: /was/1stars134pl
 date: 2020-05-25T11:00:00Z
 image: "1stars134pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, (tag-censored), School Swimsuit]
+tags: [Old Releases,Censored, (tag-censored), Drama, (tag-censored), School Swimsuit]
 maker: [SOD Create]
 actress: [ Tadai Mahiro]
 ---

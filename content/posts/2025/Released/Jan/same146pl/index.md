@@ -5,7 +5,7 @@ title: SAME-146 Father And Daughter's Forbidden Sexual Intercourse Recorded Vide
 url: /v/same146pl
 date: 2025-01-03T01:40:00Z
 image: "same146pl.jpg"
-tags: [Censored, Solowork, Beautiful Girl, Abuse, Slender, Incest, Drama	]
+tags: [Censored, Solowork, Beautiful Girl, (tag-censored), Slender, Incest, Drama	]
 maker: [Attackers]
 actress: [ Itsuha ]
 ---

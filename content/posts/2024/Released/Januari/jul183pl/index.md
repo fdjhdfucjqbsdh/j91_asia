@@ -5,7 +5,7 @@ title: JUL-183 I'm So Squid That I Want To Die For A Man I Don't Want To Embrace
 url: /was/jul183pl
 date: 2020-04-25T21:00:00Z
 image: "jul183pl.jpg"
-tags: [Old Releases,Censored, abuse, Humiliation, Married Woman, Mature Woman, Slender]
+tags: [Old Releases,Censored, (tag-censored), Humiliation, Married Woman, Mature Woman, Slender]
 maker: [Madonna]
 actress: [ Kawai Rana]
 ---

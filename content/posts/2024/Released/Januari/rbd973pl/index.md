@@ -5,7 +5,7 @@ title: RBD-973 A Record Of Several Days For A Middle-aged Father To Watch A Beau
 url: /was/rbd973pl
 date: 2020-05-25T08:00:00Z
 image: "rbd973pl.jpg"
-tags: [Old Releases,Censored,abuse, Drama, Solowork, Uniform, Urination ]
+tags: [Old Releases,Censored,(tag-censored), Drama, Solowork, Uniform, Urination ]
 maker: [Attackers]
 actress: [Kuruki Rei ]
 ---

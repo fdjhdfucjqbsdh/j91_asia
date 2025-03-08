@@ -5,7 +5,7 @@ title: RBD-957 Guy ● Female Investigator Mako Oda Who Fell Into Soap
 url: /was/rbd957pl
 date: 2020-02-25T06:00:00Z
 image: "rbd957pl.jpg"
-tags: [Old Releases,Censored, Solowork, Prostitutes, Abuse, Female Investigator, Soapland	]
+tags: [Old Releases,Censored, Solowork, Prostitutes, (tag-censored), Female Investigator, Soapland	]
 maker: [Attackers]
 actress: [Oda Mako  ]
 ---

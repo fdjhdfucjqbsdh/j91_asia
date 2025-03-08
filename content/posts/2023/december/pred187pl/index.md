@@ -5,7 +5,7 @@ title: PRED-187 Refreshing Female Announcer Climax Climax Portio Development Mas
 url: /was/pred187pl
 date: 2019-12-13T02:00:00Z
 image: "pred187pl.jpg"
-tags: [Old Releases,Censored, abuse, Anchorwoman, Beauty Shop, Squirting, Training]
+tags: [Old Releases,Censored, (tag-censored), Anchorwoman, Beauty Shop, Squirting, Training]
 maker: [Premium]
 actress: [Takeuchi Yuuki]
 ---

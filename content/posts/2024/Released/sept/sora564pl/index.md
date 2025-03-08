@@ -5,7 +5,7 @@ title: SORA-564 Live-action Version, The Student Council President Is A Genuine 
 url: /v/sora564pl
 date: 2024-09-28T01:52:00Z
 image: "sora564pl.jpg"
-tags: [Censored, Creampie, Solowork, Outdoors, Humiliation, School Girls, Abuse	]
+tags: [Censored, Creampie, Solowork, Outdoors, Humiliation, School Girls, (tag-censored)	]
 maker: [ Yama To Sora  ]
 actress: [ Tenma Yui ]
 ---

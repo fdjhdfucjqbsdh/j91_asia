@@ -5,7 +5,7 @@ title: WANZ-934 A Bud And Two People Ejaculation Unlimited Sexual Intercourse Wi
 url: /was/wanz934pl
 date: 2020-03-25T14:00:00Z
 image: "wanz934pl.jpg"
-tags: [Old Releases,Censored, abuse, Creampie, Shaved, Slender]
+tags: [Old Releases,Censored, (tag-censored), Creampie, Shaved, Slender]
 maker: [WANZ FACTORY]
 actress: [ Tsubomi]
 ---

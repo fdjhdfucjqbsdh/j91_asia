@@ -5,7 +5,7 @@ title: RBK-101 Chastity Belt Woman 35 Yura Kudo
 url: /v/rbk101pl
 date: 2024-11-29T01:40:00Z
 image: "rbk101pl.jpg"
-tags: [Censored, Solowork, Humiliation, Female Teacher, Abuse, Female College Student	]
+tags: [Censored, Solowork, Humiliation, Female Teacher, (tag-censored), Female College Student	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

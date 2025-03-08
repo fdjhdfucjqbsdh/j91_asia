@@ -5,7 +5,7 @@ title: ATID-615 Unhappiness Follows Me Wherever I Go. What Wrong Thing Have I Do
 url: /v/atid615pl
 date: 2024-11-01T01:40:00Z
 image: "atid615pl.jpg"
-tags: [Censored, Solowork, Abuse, Drama, Adopted Daughter	]
+tags: [Censored, Solowork, (tag-censored), Drama, Adopted Daughter	]
 maker: [Attackers]
 actress: [ Otori Miyu ]
 ---

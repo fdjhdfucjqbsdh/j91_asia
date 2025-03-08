@@ -5,7 +5,7 @@ title: ATID-397 Office Lady's Wet Pantyhose Yu Shinoda
 url: /was/atid397pl
 date: 2020-02-25T06:00:00Z
 image: "atid397pl.jpg"
-tags: [Old Releases,Censored,abuse, OL, Pantyhose ]
+tags: [Old Releases,Censored,(tag-censored), OL, Pantyhose ]
 maker: [Attackers]
 actress: [ Shinoda Yuu]
 ---

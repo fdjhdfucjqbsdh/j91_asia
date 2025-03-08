@@ -5,7 +5,7 @@ title: SSNI-704 "This Girl, My Celebrity Wife Is Afraid.
 url: /was/ssni704pl
 date: 2020-02-25T03:30:00Z
 image: "ssni704pl.jpg"
-tags: [Old Releases,Censored, abuse, Deep Throating, Married Woman]
+tags: [Old Releases,Censored, (tag-censored), Deep Throating, Married Woman]
 maker: [S1 NO.1 STYLE]
 actress: [Aoi Rena, Aoi Tsukasa ]
 ---

@@ -5,7 +5,7 @@ title: RBD-958 Sacrifice Cage Momoka Kato
 url: /was/rbd958pl
 date: 2020-02-25T06:00:00Z
 image: "rbd958pl.jpg"
-tags: [Old Releases,Censored, Solowork, Miss, Abuse	]
+tags: [Old Releases,Censored, Solowork, Miss, (tag-censored)	]
 maker: [Attackers]
 actress: [Katou Momoka ]
 ---

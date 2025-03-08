@@ -5,7 +5,7 @@ title: SSPD-175 Female Investigator Shoko Horiguchi, The Sad Sisters, At The End
 url: /v/sspd175pl
 date: 2024-08-02T01:50:00Z
 image: "sspd175pl.jpg"
-tags: [Censored, Abuse, Sister, Drama, Fighting Action, Female Investigator	]
+tags: [Censored, (tag-censored), Sister, Drama, Fighting Action, Female Investigator	]
 maker: [Attackers]
 actress: [ Nanami Tina, Suzaki Miwa]
 ---

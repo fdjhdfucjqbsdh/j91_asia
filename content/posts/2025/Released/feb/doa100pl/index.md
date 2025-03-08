@@ -5,7 +5,7 @@ title: DOA-100 Ruka Inaba Bondage Training Special
 url: /v/doa100pl
 date: 2025-02-21T16:22:00Z
 image: "doa100pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Shibari, Abuse	]
+tags: [Censored, Creampie, Solowork, Big Tits, Shibari, (tag-censored)	]
 maker: [ Black Dog - Mousozoku]
 actress: [ Inaba Ruka ]
 ---

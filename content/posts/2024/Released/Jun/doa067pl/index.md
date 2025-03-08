@@ -5,7 +5,7 @@ title: DOA-067 Deep Throating With A Big Dick!
 url: /v/doa067pl
 date: 2024-06-22T01:20:00Z
 image: "doa067pl.jpg"
-tags: [Censored, Shibari, Abuse, Deep Throating, Huge Cock	]
+tags: [Censored, Shibari, (tag-censored), Deep Throating, Huge Cock	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

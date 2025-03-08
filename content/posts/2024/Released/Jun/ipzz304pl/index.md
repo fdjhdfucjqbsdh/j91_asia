@@ -5,7 +5,7 @@ title: IPZZ-304 New Office Lady Nozomi Shirahama Is Forced To Be A Lingerie Mode
 url: /v/ipzz304pl
 date: 2024-06-07T01:50:00Z
 image: "ipzz304pl.jpg"
-tags: [Censored, OL, Solowork, Big Tits, Abuse, Lingerie	]
+tags: [Censored, OL, Solowork, Big Tits, (tag-censored), Lingerie	]
 maker: [IDEA POCKET]
 actress: [ Shirahama Nozomi ]
 ---

@@ -5,7 +5,7 @@ title: BXX-017 Bound And Tortured, Slave Market Feast, Rope Buttocks Tormenting 
 url: /v/bxx017pl
 date: 2025-02-22T01:00:00Z
 image: "bxx017pl.jpg"
-tags: [Censored, Best, Omnibus, Shibari, Abuse, 4HR+	]
+tags: [Censored, Best, Omnibus, Shibari, (tag-censored), 4HR+	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ ]
 ---

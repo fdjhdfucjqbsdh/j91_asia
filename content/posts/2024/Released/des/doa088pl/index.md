@@ -5,7 +5,7 @@ title: DOA-088 Mizuki Yayoi Bondage Training Special
 url: /v/doa088pl
 date: 2024-12-21T01:15:00Z
 image: "doa088pl.jpg"
-tags: [Censored, Solowork, Shibari, Abuse, Evil	]
+tags: [Censored, Solowork, Shibari, (tag-censored), Evil	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ Yayoi Mizuki ]
 ---

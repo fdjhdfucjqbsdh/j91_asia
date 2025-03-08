@@ -5,7 +5,7 @@ title: SSNI-624 A Record That Continued Committing The Return Boss Who Left The 
 url: /was/ssni624pl
 date: 2019-12-14T02:00:00Z
 image: "ssni624pl.jpg"
-tags: [Old Releases,Censored,abuse, Confinement, OL, Pantyhose, Risky Mosaic, Tall ]
+tags: [Old Releases,Censored,(tag-censored), Confinement, OL, Pantyhose, Risky Mosaic, Tall ]
 maker: [S1 NO.1 STYLE]
 actress: [Hoshimiya Ichika ]
 ---

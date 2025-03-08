@@ -5,7 +5,7 @@ title: RBK-097 Embraced By The Rope... Mei Satsuki
 url: /v/rbk097pl
 date: 2024-11-01T01:39:00Z
 image: "rbk097pl.jpg"
-tags: [Censored, Solowork, Shibari, Abuse, Drama, Cuckold	]
+tags: [Censored, Solowork, Shibari, (tag-censored), Drama, Cuckold	]
 maker: [Attackers]
 actress: [ Satsuki Mei ]
 ---

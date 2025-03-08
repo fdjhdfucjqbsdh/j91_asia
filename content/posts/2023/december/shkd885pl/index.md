@@ -5,7 +5,7 @@ title: SHKD-885 Investigator 2 Female Asami Nagase
 url: /was/shkd885pl
 date: 2020-01-25T06:00:00Z
 image: "shkd885pl.jpg"
-tags: [Old Releases,Censored, abuse, Female investigator]
+tags: [Old Releases,Censored, (tag-censored), Female investigator]
 maker: [Attackers]
 actress: [ Nagase Mami]
 ---

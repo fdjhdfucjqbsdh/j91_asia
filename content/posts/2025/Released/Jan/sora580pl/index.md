@@ -5,7 +5,7 @@ title: SORA-580 Lynching The World, A Masochistic Office Lady Falls Into A Choki
 url: /v/sora580pl
 date: 2025-01-04T01:55:00Z
 image: "sora580pl.jpg"
-tags: [Censored, OL, Solowork, Outdoors, Abuse, Cruel Expression, Submissive Woman	]
+tags: [Censored, OL, Solowork, Outdoors, (tag-censored), Cruel Expression, Submissive Woman	]
 maker: [ Yama To Sora  ]
 actress: [ Kisaragi Riisa ]
 ---

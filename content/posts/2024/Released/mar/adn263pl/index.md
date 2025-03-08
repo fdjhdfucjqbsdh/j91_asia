@@ -5,7 +5,7 @@ title: ADN-263 Female Teacher Toy Plan Hikari Ninomiya
 url: /was/adn263pl
 date: 2020-09-25T01:00:00Z
 image: "adn263pl.jpg"
-tags: [Old Releases,Censored, Solowork, Female Teacher, Beautiful Girl, Abuse, Drama	]
+tags: [Old Releases,Censored, Solowork, Female Teacher, Beautiful Girl, (tag-censored), Drama	]
 maker: [ Attackers  ]
 actress: [ Ninomiya Hikari ]
 ---

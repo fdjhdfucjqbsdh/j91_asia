@@ -5,7 +5,7 @@ title: JUQ-644 After School Obedience ~ A Dirty Priest Who Enjoys The Shame Of B
 url: /v/juq644pl
 date: 2024-04-05T01:45:00Z
 image: "juq644pl.jpg"
-tags: [Censored, Solowork, Humiliation, Female Teacher, Married Woman, Abuse, Mature Woman	]
+tags: [Censored, Solowork, Humiliation, Female Teacher, Married Woman, (tag-censored), Mature Woman	]
 maker: [Madonna]
 actress: [ Houjou Maki]
 ---

@@ -5,7 +5,7 @@ title: AVSA-342 It's Your Fault For Going Out Dressed Like That. You Kidnapped A
 url: /v/avsa342pl
 date: 2024-10-19T01:20:00Z
 image: "avsa342pl.jpg"
-tags: [Censored, Solowork, Abuse, Confinement	]
+tags: [Censored, Solowork, (tag-censored), Confinement	]
 maker: [ Avs  ]
 actress: [ Shiina Eru ]
 ---

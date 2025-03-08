@@ -5,7 +5,7 @@ title: SORA-550 When I Saw My Co-worker Who Knelt Down On The Ground To Apologiz
 url: /v/sora550pl
 date: 2024-08-03T01:50:00Z
 image: "sora550pl.jpg"
-tags: [Censored, OL, Creampie, Solowork, Abuse, Drama	]
+tags: [Censored, OL, Creampie, Solowork, (tag-censored), Drama	]
 maker: [ Yama To Sora  ]
 actress: [ Iioka Kanako]
 ---

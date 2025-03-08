@@ -5,7 +5,7 @@ title: SAME-145 The Ultimate Punishment For A Cocky Hostess Who Only Thinks Of M
 url: /v/same145pl
 date: 2025-01-31T01:40:00Z
 image: "same145pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, Abuse, Confinement	]
+tags: [Censored, Creampie, Solowork, Big Tits, Prostitutes, (tag-censored), Confinement	]
 maker: [Attackers]
 actress: [ Haruhi Moka ]
 ---

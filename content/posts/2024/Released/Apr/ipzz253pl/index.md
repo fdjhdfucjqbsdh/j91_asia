@@ -5,7 +5,7 @@ title: IPZZ-253 A Female Teacher With Beautiful Thighs And Beautiful Legs Who Be
 url: /v/ipzz253pl
 date: 2024-04-05T01:50:00Z
 image: "ipzz253pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Pantyhose, Abuse	]
+tags: [Censored, Solowork, Female Teacher, Pantyhose, (tag-censored)	]
 maker: [IDEA POCKET]
 actress: [ Sakura Wakana ]
 ---

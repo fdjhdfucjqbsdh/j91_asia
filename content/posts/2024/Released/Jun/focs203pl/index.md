@@ -5,7 +5,7 @@ title: FOCS-203 A Record Of An Innocent College Girl Falling Into A Sex Club. Th
 url: /v/focs203pl
 date: 2024-06-21T01:20:00Z
 image: "focs203pl.jpg"
-tags: [Censored, Solowork, Abuse, Promiscuity, Cuckold, Drinking Party, Rolling Back Eyes - Fainting	]
+tags: [Censored, Solowork, (tag-censored), Promiscuity, Cuckold, Drinking Party, Rolling Back Eyes - Fainting	]
 maker: [Abc- Mousou Zoku]
 actress: [ Misaki Oto ]
 ---

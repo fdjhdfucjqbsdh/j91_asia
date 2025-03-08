@@ -5,7 +5,7 @@ title: AEGE-042 Big-breasted Young Wife Kept As A Pet, 7 Days When It Was So Har
 url: /v/aege042pl
 date: 2024-12-25T15:15:00Z
 image: "aege042pl.jpg"
-tags: [Censored, Restraint, Solowork, Humiliation, Big Tits, Married Woman, Electric Massager, Shibari, Abuse, Confinement, Submissive Woman	]
+tags: [Censored, Restraint, Solowork, Humiliation, Big Tits, Married Woman, Electric Massager, Shibari, (tag-censored), Confinement, Submissive Woman	]
 maker: [ AEGEAN  ]
 actress: [ Asakura Kokona ]
 ---

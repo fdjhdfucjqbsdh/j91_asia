@@ -5,7 +5,7 @@ title: ADN-605 Please Forgive Me... Embracing My Husband's Best Friend 2 Yura Ku
 url: /v/adn605pl
 date: 2024-08-30T01:50:00Z
 image: "adn605pl.jpg"
-tags: [Censored, Solowork, Bride, Young Wife, Affair, Abuse, Drama, Cuckold	]
+tags: [Censored, Solowork, Bride, Young Wife, Affair, (tag-censored), Drama, Cuckold	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

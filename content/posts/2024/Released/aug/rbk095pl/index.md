@@ -5,7 +5,7 @@ title: RBK-095 The Senior At My Company That I Had Always Admired Was Secretly W
 url: /v/rbk095pl
 date: 2024-08-30T01:50:00Z
 image: "rbk095pl.jpg"
-tags: [Censored, OL, Solowork, Shibari, Abuse, Drama	]
+tags: [Censored, OL, Solowork, Shibari, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Wakamiya Hono ]
 ---

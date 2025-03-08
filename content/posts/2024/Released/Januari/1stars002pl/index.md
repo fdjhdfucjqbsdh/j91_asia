@@ -5,7 +5,7 @@ title: STARS-002 Enomoto Misaki Nozawa Hot Spring Trip
 url: /was/1stars002pl
 date: 2020-02-25T20:01:00Z
 image: "1stars002pl.jpg"
-tags: [Old Releases,Censored, abuse, Hot Spring, Restraint]
+tags: [Old Releases,Censored, (tag-censored), Hot Spring, Restraint]
 maker: [ SOD Create]
 actress: [ Enomoto Misaki]
 ---

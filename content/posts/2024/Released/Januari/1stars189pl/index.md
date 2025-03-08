@@ -5,7 +5,7 @@ title: STARS-189 Brainwashing Contract A Proud And High-breasted Beautiful Femal
 url: /was/1stars189pl
 date: 2020-06-25T11:00:00Z
 image: "1stars189pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Hypnosis]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Hypnosis]
 maker: [SOD Create]
 actress: [Nishino Shou]
 ---

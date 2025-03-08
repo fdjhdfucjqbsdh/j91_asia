@@ -5,7 +5,7 @@ title: YMDD-411 Collector, My 7-day Training Record Of My Downfall - Kui Sunao
 url: /v/ymdd411pl
 date: 2024-09-28T01:50:00Z
 image: "ymdd411pl.jpg"
-tags: [Censored, Restraint, Solowork, Voyeur, Married Woman, Abuse	]
+tags: [Censored, Restraint, Solowork, Voyeur, Married Woman, (tag-censored)	]
 maker: [ Momotarou Eizou Shuppan  ]
 actress: [ Kokonoi Sunao ]
 ---

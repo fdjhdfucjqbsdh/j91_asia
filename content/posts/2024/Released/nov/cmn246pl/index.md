@@ -5,7 +5,7 @@ title: CMN-246 Cinemagic Nipple Torture Persistent Collection 12
 url: /v/cmn246pl
 date: 2024-11-09T01:00:00Z
 image: "cmn246pl.jpg"
-tags: [Censored, SM, Best, Omnibus, Shibari, Abuse, Busty Fetish	]
+tags: [Censored, SM, Best, Omnibus, Shibari, (tag-censored), Busty Fetish	]
 maker: [ CineMagic  ]
 actress: [ ]
 ---

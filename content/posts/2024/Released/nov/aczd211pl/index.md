@@ -5,7 +5,7 @@ title: ACZD-211 Disposable Diaper Wetting Experience
 url: /v/aczd211pl
 date: 2024-11-07T15:00:00Z
 image: "aczd211pl.jpg"
-tags: [Censored, Humiliation, Abuse, Documentary, Urination, Butt, School Uniform, BBW, Huge Butt	]
+tags: [Censored, Humiliation, (tag-censored), Documentary, Urination, Butt, School Uniform, BBW, Huge Butt	]
 maker: [ Sanwa Shuppan  ]
 actress: [ ]
 ---

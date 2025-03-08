@@ -5,7 +5,7 @@ title: DOA-101 Married Woman Slave Market Asuka Kirishima Fumino Ishikawa Miori 
 url: /v/doa101pl
 date: 2025-02-21T16:22:00Z
 image: "doa101pl.jpg"
-tags: [Censored, Creampie, Married Woman, Shibari, Abuse	]
+tags: [Censored, Creampie, Married Woman, Shibari, (tag-censored)	]
 maker: [ Black Dog - Mousozoku]
 actress: [ Akimoto Miori ,Ishikawa Fumino ,Kirishima Asuka ]
 ---

@@ -5,7 +5,7 @@ title: MDYD-632 Father-in-law, please stop. Nanako Mori ~Beautiful busty wife ra
 url: /was/mdyd632pl
 date: 2020-10-25T00:00:00Z
 image: "mdyd632pl.jpg"
-tags: [Old Releases,Censored, Big Tits, Abuse, Digital Mosaic	]
+tags: [Old Releases,Censored, Big Tits, (tag-censored), Digital Mosaic	]
 maker: [ Tameike Goro-  ]
 actress: [ Mori Nanako ]
 ---

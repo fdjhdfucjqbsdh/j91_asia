@@ -5,7 +5,7 @@ title: SAME-152 A Well-developed Female Manager Has Intimate, Sweaty, Seed-plant
 url: /v/same152pl
 date: 2025-02-28T01:40:00Z
 image: "same152pl.jpg"
-tags: [Censored, Creampie, Solowork, School Girls, Big Tits, Abuse, Sweat	]
+tags: [Censored, Creampie, Solowork, School Girls, Big Tits, (tag-censored), Sweat	]
 maker: [Attackers]
 actress: [ Shishido Riho ]
 ---

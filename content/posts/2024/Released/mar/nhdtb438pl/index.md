@@ -5,7 +5,7 @@ title: NHDTB-438 Soft-bodied woman 2 who is tied up with a 180° crotch split an
 url: /was/nhdtb438pl
 date: 2020-09-24T00:00:00Z
 image: "nhdtb438pl.jpg"
-tags: [Old Releases,Censored, Humiliation, Planning, Abuse, Toy, Flexible	]
+tags: [Old Releases,Censored, Humiliation, Planning, (tag-censored), Toy, Flexible	]
 maker: [ Natural High  ]
 actress: [ Kurata Mao, Suzuya Ichigo ,Misora Hana ]
 ---

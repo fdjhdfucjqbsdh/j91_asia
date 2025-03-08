@@ -5,7 +5,7 @@ title: JUL-291 On the seventh day of being raped by my girlfriend's husband's bo
 url: /was/jul291pl
 date: 2020-08-25T15:15:00Z
 image: "jul291pl.jpg"
-tags: [Old Releases,Censored, abuse, Cuckold, Digital Mosaic, Married Woman, Mature Woman, Slender, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Cuckold, Digital Mosaic, Married Woman, Mature Woman, Slender, Solowork]
 maker: [Madonna]
 actress: [Kijima Airi]
 ---

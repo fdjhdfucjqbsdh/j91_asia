@@ -5,7 +5,7 @@ title: WANZ-940 Elevator Emergency Stop, Closed Room Panic
 url: /was/wanz940pl
 date: 2020-04-25T18:00:00Z
 image: "wanz940pl.jpg"
-tags: [Old Releases,Censored, Creampie, Solowork, School Girls, Abuse, Evil, Sweat	]
+tags: [Old Releases,Censored, Creampie, Solowork, School Girls, (tag-censored), Evil, Sweat	]
 maker: [WANZ FACTORY]
 actress: [ Shiina Sora ]
 ---

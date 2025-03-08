@@ -5,7 +5,7 @@ title: ATID-387 Even Though The Childhood Friend Who Helped Me Who Was Being Bul
 url: /was/atid387pl
 date: 2019-12-19T00:00:00Z
 image: "atid387pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Gangbang, (tag-censored)]
+tags: [Old Releases,Censored, (tag-censored), Drama, Gangbang, (tag-censored)]
 maker: [Attackers]
 actress: [ Yuuki Nono]
 ---

@@ -5,7 +5,7 @@ title: ALOG-018 Let's Date With A Shy Girl♪ A Plain, Perverted Girlfriend Who 
 url: /v/alog018pl
 date: 2025-02-26T15:22:00Z
 image: "alog018pl.jpg"
-tags: [Censored, Creampie, Girl, Outdoors, Humiliation, Abuse	]
+tags: [Censored, Creampie, Girl, Outdoors, Humiliation, (tag-censored)	]
 maker: [ First Star  ]
 actress: [ ]
 ---

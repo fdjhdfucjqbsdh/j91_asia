@@ -5,7 +5,7 @@ title: SONE-228 A Female Teacher Who Became Addicted To Train Molestation Ayaka 
 url: /v/sone228pl
 date: 2024-06-21T01:55:00Z
 image: "sone228pl.jpg"
-tags: [Censored, Blow, Solowork, Female Teacher, Nasty, Hardcore, Abuse, Slender	]
+tags: [Censored, Blow, Solowork, Female Teacher, Nasty, Hardcore, (tag-censored), Slender	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kawakita Saika ]
 ---

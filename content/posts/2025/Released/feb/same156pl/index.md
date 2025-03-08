@@ -5,7 +5,7 @@ title: SAME-156 Kaoru Yasui, The Undercover Investigator Who Fell For The Aphrod
 url: /v/same156pl
 date: 2025-01-31T01:40:00Z
 image: "same156pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Abuse, Female Investigator	]
+tags: [Censored, Creampie, Solowork, Big Tits, (tag-censored), Female Investigator	]
 maker: [Attackers]
 actress: [ Yasui Kaoru ]
 ---

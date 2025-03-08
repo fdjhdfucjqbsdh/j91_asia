@@ -5,7 +5,7 @@ title: RBD-969 The Pregnancy Of The Married Wife Who Became A Prey L***d Hell Ka
 url: /was/rbd969pl
 date: 2020-04-25T06:00:00Z
 image: "rbd969pl.jpg"
-tags: [Old Releases,Censored, abuse, Confinement, Married Woman, Squirting, Urination]
+tags: [Old Releases,Censored, (tag-censored), Confinement, Married Woman, Squirting, Urination]
 maker: [Attackers]
 actress: [ Mifune Karen]
 ---

@@ -5,7 +5,7 @@ title: DOA-075 Back Slave Market 4 Hours 15 People Chapter 2
 url: /v/doa075pl
 date: 2024-09-21T01:00:00Z
 image: "doa075pl.jpg"
-tags: [Censored, Best, Omnibus, Abuse, 4HR+	]
+tags: [Censored, Best, Omnibus, (tag-censored), 4HR+	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

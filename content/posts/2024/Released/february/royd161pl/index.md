@@ -5,7 +5,7 @@ title: ROYD-161 On A Business Trip, I Shared A Room With My Overbearing, Power-h
 url: /v/royd161pl
 date: 2024-02-23T01:30:00Z
 image: "royd161pl.jpg"
-tags: [Censored, OL, Blow, Solowork, Abuse, Digital Mosaic, Back	]
+tags: [Censored, OL, Blow, Solowork, (tag-censored), Digital Mosaic, Back	]
 maker: [ROYAL]
 actress: [ Iioka Kanako]
 ---

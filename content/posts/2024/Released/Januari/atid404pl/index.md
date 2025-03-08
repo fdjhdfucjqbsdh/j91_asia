@@ -5,7 +5,7 @@ title: ATID-404 Undercover Investigator The Lost Rule Yuka Arai
 url: /was/atid404pl
 date: 2020-03-25T07:00:00Z
 image: "atid404pl.jpg"
-tags: [Old Releases,Censored, abuse, Female investigator]
+tags: [Old Releases,Censored, (tag-censored), Female investigator]
 maker: [Attackers]
 actress: [ Arai Yuuka]
 ---

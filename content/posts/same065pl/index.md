@@ -3,7 +3,7 @@ author: j91.asia
 title: SAME-065 Special Investigator Code Name MIO I Will Never Lose
 date: 2023-06-30
 image: "same065pl.jpg"
-tags: [Censored, Solowork, Abuse, Female Investigator]
+tags: [Censored, Solowork, (tag-censored), Female Investigator]
 maker: [Attackers]
 actress: [Yurizono Miori]
 ---

@@ -5,7 +5,7 @@ title: HUNTC-028 A Runaway Girl Who Just Moved To Tokyo Stays In The Room And Th
 url: /v/huntc028pl
 date: 2024-02-09T01:20:00Z
 image: "huntc028pl.jpg"
-tags: [Censored, Blow, 3P, 4P, Cowgirl, Abuse, 4HR+, Back	]
+tags: [Censored, Blow, 3P, 4P, Cowgirl, (tag-censored), 4HR+, Back	]
 maker: [Hunter]
 actress: [ Yura Kana, Ichii Yuka, Igarashi Mizuki ]
 ---

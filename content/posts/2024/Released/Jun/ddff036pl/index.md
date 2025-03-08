@@ -5,7 +5,7 @@ title: DDFF-036 Throat Rape Interview Haruki Kanae
 url: /v/ddff036pl
 date: 2024-06-15T01:20:00Z
 image: "ddff036pl.jpg"
-tags: [Censored, Restraint, Solowork, Abuse, Deep Throating, Piss Drinking, Vomit	]
+tags: [Censored, Restraint, Solowork, (tag-censored), Deep Throating, Piss Drinking, Vomit	]
 maker: [ Dogma  ]
 actress: [ Kaname Haruki ]
 ---

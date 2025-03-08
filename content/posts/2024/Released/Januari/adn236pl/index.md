@@ -5,7 +5,7 @@ title: ADN-236 Darling Please Forgive Me ... I Am Just Trying To Get Pregnant.
 url: /was/adn236pl
 date: 2020-02-25T06:00:00Z
 image: "adn236pl.jpg"
-tags: [Old Releases,Censored, abuse, Cuckold, Drama, Married Woman]
+tags: [Old Releases,Censored, (tag-censored), Cuckold, Drama, Married Woman]
 maker: [Attackers]
 actress: [ Kawakita Haruna]
 ---

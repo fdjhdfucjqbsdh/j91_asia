@@ -5,7 +5,7 @@ title: ADN-277 I couldn't stand the defenseless body of my childhood friend who 
 url: /was/adn277pl
 date: 2020-12-25T01:00:00Z
 image: "adn277pl.jpg"
-tags: [Old Releases,Censored, abuse, Cuckold, Drama, Married Woman, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Cuckold, Drama, Married Woman, Solowork]
 maker: [ Attackers]
 actress: [ Akari Tsumugi]
 ---

@@ -5,7 +5,7 @@ title: DVAJ-642 ``I Left A Used Napkin In The Toilet Two Weeks Ago, So Today Is 
 url: /v/dvaj642pl
 date: 2024-02-10T01:54:00Z
 image: "dvaj642pl.jpg"
-tags: [Censored, Creampie, Solowork, School Girls, Abuse, Evil	]
+tags: [Censored, Creampie, Solowork, School Girls, (tag-censored), Evil	]
 maker: [ Alice Japan  ]
 actress: [ Nizumi Maika]
 ---

@@ -5,7 +5,7 @@ title: GMA-073 Bondage Training Wife A Young Wife Is Cuckolded At A Hot Spring I
 url: /v/gma073pl
 date: 2024-11-09T01:20:00Z
 image: "gma073pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Nogi Ayame ]
 ---

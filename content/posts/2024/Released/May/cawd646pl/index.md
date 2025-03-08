@@ -5,7 +5,7 @@ title: CAWD-646 She Was Made To Model In An Extreme Swimsuit That Was Embarrassi
 url: /v/cawd646pl
 date: 2024-05-03T01:25:00Z
 image: "cawd646pl.jpg"
-tags: [Censored, Creampie, Solowork, Affair, School Swimsuit, Abuse, Drama	]
+tags: [Censored, Creampie, Solowork, Affair, School Swimsuit, (tag-censored), Drama	]
 maker: [Kawaii]
 actress: [ Itou Mayuki ]
 ---

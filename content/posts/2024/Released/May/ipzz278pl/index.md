@@ -5,7 +5,7 @@ title: IPZZ-278 My Favorite Teacher Was Raped By Delinquents. Suzuno Uto
 url: /v/ipzz278pl
 date: 2024-05-10T01:43:00Z
 image: "ipzz278pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Beautiful Girl, Facials, Abuse	]
+tags: [Censored, Solowork, Female Teacher, Beautiful Girl, Facials, (tag-censored)	]
 maker: [IDEA POCKET]
 actress: [ Suzuno Uto ]
 ---

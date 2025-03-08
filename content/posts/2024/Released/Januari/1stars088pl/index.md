@@ -5,7 +5,7 @@ title: STARS-088 The Chasing Cowgirl Who Doesn't Stop Even If The Virgin Of Unre
 url: /was/1stars088pl
 date: 2020-04-25T13:00:00Z
 image: "1stars088pl.jpg"
-tags: [Old Releases,Censored,abuse, Big tits, Cowgirl, Slut ]
+tags: [Old Releases,Censored,(tag-censored), Big tits, Cowgirl, Slut ]
 maker: [SOD Create]
 actress: [ Sakura Mana]
 ---

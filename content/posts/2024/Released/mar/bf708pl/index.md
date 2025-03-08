@@ -5,7 +5,7 @@ title: BF-708 A Beautiful And Sensitive Secretary Whose Secret Is Kept By The Pr
 url: /v/bf708pl
 date: 2024-03-29T01:29:00Z
 image: "bf708pl.jpg"
-tags: [Censored, Creampie, Solowork, Big Tits, Abuse, Secretary	]
+tags: [Censored, Creampie, Solowork, Big Tits, (tag-censored), Secretary	]
 maker: [Befree]
 actress: [ Sano Yuma ]
 ---

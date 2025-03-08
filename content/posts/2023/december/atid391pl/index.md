@@ -5,7 +5,7 @@ title: ATID-391 New Life Insurance Lady Who Became The Target Of Group Bullying 
 url: /was/atid391pl
 date: 2020-01-25T06:00:00Z
 image: "atid391pl.jpg"
-tags: [Old Releases,Censored,abuse, Lesbian, OL ]
+tags: [Old Releases,Censored,(tag-censored), Lesbian, OL ]
 maker: [Attackers]
 actress: [ Kawana Minori, Mayuzumi Yui, Mizuki Nao, Ootsuki Hibiki, Shouda Chisato]
 ---

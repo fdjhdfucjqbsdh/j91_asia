@@ -5,7 +5,7 @@ title: SHKD-902 "Mizuki Is A Girl Who Has Just Moved To Tokyo This Spring, So Wh
 url: /was/shkd902pl
 date: 2020-08-25T12:30:00Z
 image: "shkd902pl.jpg"
-tags: [Old Releases,Censored, abuse, Female College Student, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Female College Student, Solowork]
 maker: [Attackers]
 actress: [Yayoi Mizuki]
 ---

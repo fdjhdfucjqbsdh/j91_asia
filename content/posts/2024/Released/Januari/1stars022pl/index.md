@@ -5,7 +5,7 @@ title: STARS-022 Yuki Ogura Celebrates Girls Attending School On A Crowded Train
 url: /was/1stars022pl
 date: 2020-02-25T20:03:00Z
 image: "1stars022pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Molester]
+tags: [Old Releases,Censored, (tag-censored), Drama, Molester]
 maker: [ SOD Create]
 actress: [ Ogura Yuna]
 ---

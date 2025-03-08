@@ -5,7 +5,7 @@ title: SDMF-013 'Hankou with my real daughter'. But my daughter doesn't care abo
 url: /was/sdmf013pl
 date: 2020-08-25T12:15:00Z
 image: "sdmf013pl.jpg"
-tags: [Old Releases,Censored, abuse, Doll, Drama, Incest, School Girls, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Doll, Drama, Incest, School Girls, Solowork]
 maker: [SOD Create]
 actress: [Kanon Urara]
 ---

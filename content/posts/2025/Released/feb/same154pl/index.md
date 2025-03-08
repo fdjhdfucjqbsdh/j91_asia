@@ -5,7 +5,7 @@ title: SAME-154 A Middle-aged Man At The Bottom Takes Revenge On His Newlywed Wi
 url: /v/same154pl
 date: 2025-01-31T01:40:00Z
 image: "same154pl.jpg"
-tags: [Censored, OL, Solowork, Married Woman, Abuse, Drama, Cuckold	]
+tags: [Censored, OL, Solowork, Married Woman, (tag-censored), Drama, Cuckold	]
 maker: [Attackers]
 actress: [ Nagasaki Yukine ]
 ---

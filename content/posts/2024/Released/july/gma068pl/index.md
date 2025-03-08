@@ -5,7 +5,7 @@ title: GMA-068 Bondage Training Wife The Fate Of A Wife Forced To Live With Her 
 url: /v/gma068pl
 date: 2024-07-06T01:20:00Z
 image: "gma068pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Kuroki Ayumi ]
 ---

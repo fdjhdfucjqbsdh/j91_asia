@@ -5,7 +5,7 @@ title: PRTD-027 My Husband Was Hijacked From The Mansion For A Month, And I, As 
 url: /was/prtd027pl
 date: 2020-05-25T13:00:00Z
 image: "prtd027pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Creampie, Digital Mosaic, Maid, Slender, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Creampie, Digital Mosaic, Maid, Slender, Solowork]
 maker: [Premium]
 actress: [Matsumoto Ichika]
 ---

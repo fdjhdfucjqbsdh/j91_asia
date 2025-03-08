@@ -5,7 +5,7 @@ title: DOA-070 Kana Morisawa Bondage Training Special
 url: /v/doa070pl
 date: 2024-07-20T01:20:00Z
 image: "doa070pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Submissive Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Submissive Woman	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ Iioka Kanako ]
 ---

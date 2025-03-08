@@ -5,7 +5,7 @@ title: GVH-122 No.1 Bunny Girl's Worst Shame in History 3 Mio Kimishima
 url: /was/gvh122pl
 date: 2020-09-25T01:00:00Z
 image: "gvh122pl.jpg"
-tags: [Old Releases,Censored, 3P, 4P, Solowork, Big Tits, Abuse, Bunny Girl	]
+tags: [Old Releases,Censored, 3P, 4P, Solowork, Big Tits, (tag-censored), Bunny Girl	]
 maker: [ Glory Quest  ]
 actress: [ Kimijima Mio ]
 ---

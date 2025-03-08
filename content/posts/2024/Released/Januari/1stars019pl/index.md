@@ -5,7 +5,7 @@ title: STARS-019 * Furukawa Iori SNS Lesbian Popular Influencers Broke Happy Day
 url: /was/1stars019pl
 date: 2020-02-25T20:02:00Z
 image: "1stars019pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, (tag-censored)]
+tags: [Old Releases,Censored, (tag-censored), Drama, (tag-censored)]
 maker: [ SOD Create]
 actress: [ Kogawa Iori]
 ---

@@ -5,7 +5,7 @@ title: SORA-501 This Is The Whole Story Of How My Wife, Who Endured It Even Afte
 url: /v/sora501pl
 date: 2023-12-16T02:50:00Z
 image: "sora501pl.jpg"
-tags: [Censored, Creampie,Solowork,Outdoors,Married Woman,Abuse,Cuckold	]
+tags: [Censored, Creampie,Solowork,Outdoors,Married Woman,(tag-censored),Cuckold	]
 maker: [ Yama To Sora  ]
 actress: [ Mita Sakura ]
 ---

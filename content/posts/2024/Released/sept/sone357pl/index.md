@@ -5,7 +5,7 @@ title: SONE-357 How To Scold A Cheeky And Negligent Part-time Worker Effectively
 url: /v/sone357pl
 date: 2024-09-20T01:55:00Z
 image: "sone357pl.jpg"
-tags: [Censored, Restraint, Solowork, Pantyhose, Nasty, Hardcore, Squirting, Abuse, Drama	]
+tags: [Censored, Restraint, Solowork, Pantyhose, Nasty, Hardcore, Squirting, (tag-censored), Drama	]
 maker: [S1 NO.1 STYLE]
 actress: [ Kaede Fuua ]
 ---

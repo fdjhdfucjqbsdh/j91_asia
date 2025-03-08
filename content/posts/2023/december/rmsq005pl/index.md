@@ -5,7 +5,7 @@ title: RMSQ-005 Finest Honey Meat Goddess Torture Will I Be Allowed To Go This F
 url: /v/rmsq005pl
 date: 2023-12-26T16:15:00Z
 image: "rmsq005pl.jpg"
-tags: [Censored, (tag-censored), Shibari, Abuse, 4HR+, Cervix, Acme · Orgasm	]
+tags: [Censored, (tag-censored), Shibari, (tag-censored), 4HR+, Cervix, Acme · Orgasm	]
 maker: [MERCURY (Mercury)]
 actress: [ ]
 ---

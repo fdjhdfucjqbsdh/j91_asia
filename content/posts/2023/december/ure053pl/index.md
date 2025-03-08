@@ -5,7 +5,7 @@ title: URE-053 Mito Kana's 2nd Anniversary Commemoration The Hard Fuck Work Is L
 url: /was/ure053pl
 date: 2019-12-21T03:00:00Z
 image: "ure053pl.jpg"
-tags: [Old Releases,Censored, 4HR+, abuse, Married Woman, Mature Woman, Original Collaboration, Training]
+tags: [Old Releases,Censored, 4HR+, (tag-censored), Married Woman, Mature Woman, Original Collaboration, Training]
 maker: [Madonna]
 actress: [ Kobayakawa Reiko, Mito Kana]
 ---

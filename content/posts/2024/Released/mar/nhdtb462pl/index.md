@@ -5,7 +5,7 @@ title: NHDTB-462 Beer Garden Slut
 url: /was/nhdtb462pl
 date: 2020-11-25T04:30:00Z
 image: "nhdtb462pl.jpg"
-tags: [Old Releases,Censored, abuse, Facials, Humiliation, Outdoors, Squirting]
+tags: [Old Releases,Censored, (tag-censored), Facials, Humiliation, Outdoors, Squirting]
 maker: [ Natural High  ]
 actress: [ Kurata Mao, Tsuno Miho, Akemi Kou, Hanamiya Rei]
 ---

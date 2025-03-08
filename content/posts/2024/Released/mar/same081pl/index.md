@@ -5,7 +5,7 @@ title: SAME-081 The Female Manager Of The Baseball Team Is Forced To Perform Sex
 url: /v/same081pl
 date: 2024-03-01T01:45:00Z
 image: "same081pl.jpg"
-tags: [Censored, Solowork, Abuse, Drama, Club Activities - Manager	]
+tags: [Censored, Solowork, (tag-censored), Drama, Club Activities - Manager	]
 maker: [Attackers]
 actress: [ Kashiwagi Konatsu ]
 ---

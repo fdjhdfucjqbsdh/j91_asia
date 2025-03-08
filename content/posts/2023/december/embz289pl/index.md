@@ -5,7 +5,7 @@ title: EMBZ-289 [Housewife's Naughty Life Experience] True Story! A Real Woman's
 url: /v/embz289pl
 date: 2023-12-30T01:50:00Z
 image: "embz289pl.jpg"
-tags: [Censored, Creampie, Solowork, Abuse, Mature Woman	]
+tags: [Censored, Creampie, Solowork, (tag-censored), Mature Woman	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Mogami Sayuki]
 ---

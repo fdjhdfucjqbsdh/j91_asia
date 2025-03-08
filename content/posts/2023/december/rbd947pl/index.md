@@ -5,7 +5,7 @@ title: RBD-947 Daughter Confinement Training Prisoner's Meat Toy Hikari Ninomiya
 url: /was/rbd947pl
 date: 2019-12-14T03:00:00Z
 image: "rbd947pl.jpg"
-tags: [Old Releases,Censored,abuse, Confinement, Miss, (tag-censored), Training ]
+tags: [Old Releases,Censored,(tag-censored), Confinement, Miss, (tag-censored), Training ]
 maker: [Attackers]
 actress: [Ninomiya Hikari ]
 ---

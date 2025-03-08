@@ -5,7 +5,7 @@ title: JUQ-635 Bondage, Bondage, Release, And Forbidden; Awakening Of Masochism 
 url: /v/juq635pl
 date: 2024-04-05T01:45:00Z
 image: "juq635pl.jpg"
-tags: [Censored, 3P, 4P, Solowork, Married Woman, Shibari, Abuse, Mature Woman	]
+tags: [Censored, 3P, 4P, Solowork, Married Woman, Shibari, (tag-censored), Mature Woman	]
 maker: [Madonna]
 actress: [ Ichino Aoi ]
 ---

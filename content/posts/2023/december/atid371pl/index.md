@@ -5,7 +5,7 @@ title: ATID-371 I Can't Speak 14 My Face Behind My Fiance Yuka Arai
 url: /was/atid371pl
 date: 2019-12-12T00:03:00Z
 image: "atid371pl.jpg"
-tags: [Old Releases,Censored,OL,Solowork,Abuse,Drama	 ]
+tags: [Old Releases,Censored,OL,Solowork,(tag-censored),Drama	 ]
 maker: [Attackers]
 actress: [Arai Yuuka  ]
 ---

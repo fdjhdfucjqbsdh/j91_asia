@@ -5,7 +5,7 @@ title: MIAA-266 Sudden Urination At J ○ Idol Photo Session! Immediately Saddle
 url: /was/miaa266pl
 date: 2020-05-25T07:00:00Z
 image: "miaa266pl.jpg"
-tags: [Old Releases,Censored, abuse, Digital Mosaic, Promiscuity, School Girls, Solowork, Squirting, Urination]
+tags: [Old Releases,Censored, (tag-censored), Digital Mosaic, Promiscuity, School Girls, Solowork, Squirting, Urination]
 maker: [MOODYZ]
 actress: [Nagase Yui ]
 ---

@@ -5,7 +5,7 @@ title: GMA-077 Bondage Training Wife, The Father-in-law She Met At Her Wedding R
 url: /v/gma077pl
 date: 2025-03-07T16:22:00Z
 image: "gma077pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Sakura Mahiru ]
 ---

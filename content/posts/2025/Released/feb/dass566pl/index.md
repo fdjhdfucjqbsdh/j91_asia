@@ -5,7 +5,7 @@ title: DASS-566 Undercover Investigator, Mary Tachibana, A Noble Woman Who Resis
 url: /v/dass566pl
 date: 2025-02-20T16:40:00Z
 image: "dass566pl.jpg"
-tags: [Censored, Creampie, Solowork, Abuse, Confinement, Female Investigator	]
+tags: [Censored, Creampie, Solowork, (tag-censored), Confinement, Female Investigator	]
 maker: [Das !]
 actress: [ Tachibana Mary ]
 ---

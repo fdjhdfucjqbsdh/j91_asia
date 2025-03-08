@@ -5,7 +5,7 @@ title: IPZZ-301 Wanting To Become Friends With A Girl Working Late At Night At A
 url: /v/ipzz301pl
 date: 2024-06-07T01:50:00Z
 image: "ipzz301pl.jpg"
-tags: [Censored, Restraint, Solowork, Beautiful Girl, Abuse, Confinement	]
+tags: [Censored, Restraint, Solowork, Beautiful Girl, (tag-censored), Confinement	]
 maker: [IDEA POCKET]
 actress: [ Sasaki Saki ]
 ---

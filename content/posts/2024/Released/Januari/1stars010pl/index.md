@@ -5,7 +5,7 @@ title: STARS-010 A Forbidden Outflow Video That The Kiritani Festival Was Made A
 url: /was/1stars010pl
 date: 2020-02-25T20:01:00Z
 image: "1stars010pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Molester, User Submission]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Molester, User Submission]
 maker: [ SOD Create]
 actress: [ Kiritani Matsuri]
 ---

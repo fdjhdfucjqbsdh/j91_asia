@@ -5,7 +5,7 @@ title: RBK-096 Female Investigator Haruka's Final Mission Yuina Taki
 url: /v/rbk096pl
 date: 2024-09-27T01:40:00Z
 image: "rbk096pl.jpg"
-tags: [Censored, Solowork, Abuse, Tall, Drama, Female Investigator	]
+tags: [Censored, Solowork, (tag-censored), Tall, Drama, Female Investigator	]
 maker: [Attackers]
 actress: [ Taki Yuina ]
 ---

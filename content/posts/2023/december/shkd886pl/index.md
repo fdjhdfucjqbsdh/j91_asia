@@ -5,7 +5,7 @@ title: SHKD-886 Conceived Educational Apprentice Wet Swimsuit Hikari Ninomiya
 url: /was/shkd886pl
 date: 2020-01-25T06:00:00Z
 image: "shkd886pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Female College Student, Female teacher, School Swimsuit]
+tags: [Old Releases,Censored, (tag-censored), Drama, Female College Student, Female teacher, School Swimsuit]
 maker: [Attackers]
 actress: [ Ninomiya Hikari]
 ---

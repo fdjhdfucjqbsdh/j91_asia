@@ -5,7 +5,7 @@ title: SAME-130 No, My Father Will Notice... Yukine Nakazaki
 url: /v/same130pl
 date: 2024-08-30T01:50:00Z
 image: "same130pl.jpg"
-tags: [Censored, Solowork, Humiliation, Abuse, Drama, Secretary	]
+tags: [Censored, Solowork, Humiliation, (tag-censored), Drama, Secretary	]
 maker: [Attackers]
 actress: [ Nagasaki Yukine ]
 ---

@@ -5,7 +5,7 @@ title: JUL-001 Dear Wife, I Hope You’re Enjoying The Shame Of Getting Fucked D
 url: /was/jul001pl
 date: 2019-12-12T01:00:00Z
 image: "jul001pl.jpg"
-tags: [Old Releases,Censored, abuse, breasts, Married Woman, Mature Woman, Various Professions]
+tags: [Old Releases,Censored, (tag-censored), breasts, Married Woman, Mature Woman, Various Professions]
 maker: [Madonna]
 actress: [ Mito Kana]
 ---

@@ -5,7 +5,7 @@ title: NHDTB-450 Squirting Climax Orgasm Slut Neat Glasses Woman SP
 url: /was/nhdtb450pl
 date: 2020-10-25T23:00:00Z
 image: "nhdtb450pl.jpg"
-tags: [Old Releases,Censored, Humiliation, Finger Fuck, Squirting, Abuse, Female College Student	]
+tags: [Old Releases,Censored, Humiliation, Finger Fuck, Squirting, (tag-censored), Female College Student	]
 maker: [ Natural High  ]
 actress: [ Arimura Nozomi, Minasuki Hikaru, Tomii Miho ]
 ---

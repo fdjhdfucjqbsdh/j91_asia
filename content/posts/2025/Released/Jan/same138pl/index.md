@@ -5,7 +5,7 @@ title: SAME-138 Disgraceful Student Teacher Rie Miyagi
 url: /v/same138pl
 date: 2025-01-03T01:40:00Z
 image: "same138pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Abuse, Female College Student, Cuckold	]
+tags: [Censored, Solowork, Female Teacher, (tag-censored), Female College Student, Cuckold	]
 maker: [Attackers]
 actress: [ Miyagi Rie ]
 ---

@@ -5,7 +5,7 @@ title: SONE-073 The Beautiful Swimmer Was Prepared With A Swimsuit That Was So B
 url: /v/sone073pl
 date: 2024-06-07T01:55:00Z
 image: "sone073pl.jpg"
-tags: [Censored, Solowork, Voyeur, Nasty, Hardcore, School Swimsuit, Abuse, Slender	]
+tags: [Censored, Solowork, Voyeur, Nasty, Hardcore, School Swimsuit, (tag-censored), Slender	]
 maker: [S1 NO.1 STYLE]
 actress: [ Nanatsumori Riri ]
 ---

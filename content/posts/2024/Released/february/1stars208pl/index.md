@@ -5,7 +5,7 @@ title: STARS-208 I Had My Seniors At DQN Commit A Teacher I Hate And Love. Ogura
 url: /was/1stars208pl
 date: 2020-07-25T00:00:00Z
 image: "1stars208pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Deep Throating, Drama, Female teacher]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Deep Throating, Drama, Female teacher]
 maker: [SOD Create]
 actress: [Ogura Yuna]
 ---

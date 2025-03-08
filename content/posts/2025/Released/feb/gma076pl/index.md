@@ -5,7 +5,7 @@ title: GMA-076 Bondage Training Wife, A Beautiful Wife Who Was Sold Into Debt An
 url: /v/gma076pl
 date: 2025-02-07T16:22:00Z
 image: "gma076pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Kudou Akane ]
 ---

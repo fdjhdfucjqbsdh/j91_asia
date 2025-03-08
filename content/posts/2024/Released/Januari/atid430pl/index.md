@@ -5,7 +5,7 @@ title: ATID-430 The Female Manager Of The Baseball Club Is Forced To Have Sex Wi
 url: /was/atid430pl
 date: 2020-06-25T09:00:00Z
 image: "atid430pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Drama, Solowork, Uniform]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Drama, Solowork, Uniform]
 maker: [Attackers]
 actress: [Koizumi Hinata]
 ---

@@ -5,7 +5,7 @@ title: RBD-999 Since she joined the company as a new graduate, her subordinate, 
 url: /was/rbd999pl
 date: 2020-12-25T01:00:00Z
 image: "rbd999pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Drama, OL, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Drama, OL, Solowork]
 maker: [ Attackers]
 actress: [ Koizumi Hinata]
 ---

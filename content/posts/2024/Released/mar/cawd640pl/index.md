@@ -5,7 +5,7 @@ title: CAWD-640 Just Because I Look Like A Popular Loli Idol, I Accepted A Life 
 url: /v/cawd640pl
 date: 2024-03-29T01:35:00Z
 image: "cawd640pl.jpg"
-tags: [Censored, Creampie, Solowork, School Girls, Abuse, Drama, Entertainer	]
+tags: [Censored, Creampie, Solowork, School Girls, (tag-censored), Drama, Entertainer	]
 maker: [Kawaii]
 actress: [ Hinata Natsu ]
 ---

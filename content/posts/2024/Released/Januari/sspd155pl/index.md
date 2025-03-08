@@ -5,7 +5,7 @@ title: SSPD-155 Dr. Saeko's Obscene Mistake Saeko Matsushita
 url: /was/sspd155pl
 date: 2020-02-25T06:00:00Z
 image: "sspd155pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Female Doctor, Kiss]
+tags: [Old Releases,Censored, (tag-censored), Drama, Female Doctor, Kiss]
 maker: [Attackers]
 actress: [Matsushita Saeko ]
 ---

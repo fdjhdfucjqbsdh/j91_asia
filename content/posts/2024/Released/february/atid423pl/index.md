@@ -5,7 +5,7 @@ title: ATID-423 Sho Aoyama That I Cannot Show To Students
 url: /was/atid423pl
 date: 2020-08-25T12:30:00Z
 image: "atid423pl.jpg"
-tags: [Old Releases,Censored, abuse, Female teacher, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Female teacher, Solowork]
 maker: [Attackers]
 actress: [Aoyama Shou]
 ---

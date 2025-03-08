@@ -5,7 +5,7 @@ title: RBD-940 Woman Slave Castle Gaiden Made Into A Human Toilet
 url: /was/rbd940pl
 date: 2019-12-12T00:03:00Z
 image: "rbd940pl.jpg"
-tags: [Old Releases,Censored,Lesbian,Miss,Training,Abuse,Deep Throating	 ]
+tags: [Old Releases,Censored,Lesbian,Miss,Training,(tag-censored),Deep Throating	 ]
 maker: [Attackers]
 actress: [ Kobayakawa Reiko, Aino Momona]
 ---

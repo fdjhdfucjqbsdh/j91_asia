@@ -5,7 +5,7 @@ title: HZGD-162 Big Tits Wife Uraraka Rei Gets TATOOed and Trained in Confinemen
 url: /was/hzgd162pl
 date: 2020-08-25T15:40:00Z
 image: "hzgd162pl.jpg"
-tags: [Old Releases,Censored, abuse, Confinement, Creampie, Drama, Married Woman, Slut, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Confinement, Creampie, Drama, Married Woman, Slut, Solowork]
 maker: [Hitodzuma Hanazono Gekijou]
 actress: [Uraraka Rei]
 ---

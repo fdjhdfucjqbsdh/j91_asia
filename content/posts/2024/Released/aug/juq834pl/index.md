@@ -5,7 +5,7 @@ title: JUQ-834 Madonna Exclusive 2nd Anniversary Kanna Fuji Bondage Released!! A
 url: /v/juq834pl
 date: 2024-08-09T01:45:00Z
 image: "juq834pl.jpg"
-tags: [Censored, SM, Solowork, Married Woman, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Married Woman, Shibari, (tag-censored), Mature Woman	]
 maker: [Madonna]
 actress: [ Fuji Kanna ]
 ---

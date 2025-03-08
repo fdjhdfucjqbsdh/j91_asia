@@ -5,7 +5,7 @@ title: RBD-950 Married Wife Who Fell Into Soap For Her Husband
 url: /was/rbd950pl
 date: 2019-12-19T00:00:00Z
 image: "rbd950pl.jpg"
-tags: [Old Releases,Censored,abuse, Drama, Married Woman, Prostitutes, Soapland ]
+tags: [Old Releases,Censored,(tag-censored), Drama, Married Woman, Prostitutes, Soapland ]
 maker: [Attackers]
 actress: [ Natsume Iroha]
 ---

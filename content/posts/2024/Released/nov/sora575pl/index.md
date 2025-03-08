@@ -5,7 +5,7 @@ title: SORA-575 Reform Lynching, Reiwa Gal's Personal Grudge, Outdoor Punishment
 url: /v/sora575pl
 date: 2024-11-30T01:50:00Z
 image: "sora575pl.jpg"
-tags: [Censored, Solowork, Squirting, Bukkake, Abuse, Submissive Woman	]
+tags: [Censored, Solowork, Squirting, Bukkake, (tag-censored), Submissive Woman	]
 maker: [ Yama To Sora  ]
 actress: [ Suzumiya Haruka]
 ---

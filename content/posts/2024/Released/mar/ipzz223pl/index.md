@@ -5,7 +5,7 @@ title: IPZZ-223 "It was a mistake to participate alone..." A female college stud
 url: /v/ipzz223pl
 date: 2024-03-08T01:50:00Z
 image: "ipzz223pl.jpg"
-tags: [Censored, Solowork, Beautiful Girl, Abuse, Slender, Cuckold	]
+tags: [Censored, Solowork, Beautiful Girl, (tag-censored), Slender, Cuckold	]
 maker: [IDEA POCKET]
 actress: [ Furukawa Honoka]
 ---

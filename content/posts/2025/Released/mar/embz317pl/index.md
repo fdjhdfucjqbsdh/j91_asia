@@ -5,7 +5,7 @@ title: EMBZ-317 [Housewife's Naughty Real Experience] True Story! Real Women's S
 url: /v/embz317pl
 date: 2025-03-01T01:22:00Z
 image: "embz317pl.jpg"
-tags: [Censored, Creampie, Solowork, Humiliation, Married Woman, Abuse, Cuckold	]
+tags: [Censored, Creampie, Solowork, Humiliation, Married Woman, (tag-censored), Cuckold	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Chihaya Maria ]
 ---

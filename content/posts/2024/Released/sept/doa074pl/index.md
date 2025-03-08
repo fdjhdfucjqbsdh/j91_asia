@@ -5,7 +5,7 @@ title: DOA-074 Yui Hatano Bondage Training Special
 url: /v/doa074pl
 date: 2024-09-21T01:20:00Z
 image: "doa074pl.jpg"
-tags: [Censored, Restraint, Solowork, Shibari, Abuse, Submissive Woman	]
+tags: [Censored, Restraint, Solowork, Shibari, (tag-censored), Submissive Woman	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ Hatano Yui ]
 ---

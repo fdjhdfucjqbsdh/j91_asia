@@ -5,7 +5,7 @@ title: JUL-123 The Second Transfer To Dengeki! ! The First Full-scale Ryo ● Wo
 url: /was/jul123pl
 date: 2020-02-25T17:00:00Z
 image: "jul123pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Humiliation, Married Woman, Mature Woman]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Humiliation, Married Woman, Mature Woman]
 maker: [Madonna]
 actress: [ Aimi Rika]
 ---

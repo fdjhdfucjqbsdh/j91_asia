@@ -5,7 +5,7 @@ title: SAME-115 Escapee Yura Kudo
 url: /v/same115pl
 date: 2024-06-28T01:40:00Z
 image: "same115pl.jpg"
-tags: [Censored, OL, Solowork, Abuse, Drama	]
+tags: [Censored, OL, Solowork, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

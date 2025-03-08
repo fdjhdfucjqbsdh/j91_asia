@@ -5,7 +5,7 @@ title: DOA-085 Shaved And Raised, Shaving The Pubic Hair Of Four Beautiful Women
 url: /v/doa085pl
 date: 2024-11-23T01:20:00Z
 image: "doa085pl.jpg"
-tags: [Censored, Restraint, Humiliation, Abuse, Shaved, Close Up	]
+tags: [Censored, Restraint, Humiliation, (tag-censored), Shaved, Close Up	]
 maker: [ Black Dog - Mousozoku]
 actress: [ ]
 ---

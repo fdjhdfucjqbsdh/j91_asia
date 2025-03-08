@@ -5,7 +5,7 @@ title: RBD-967 Daughter Sisters Reiji's Engraving Shiori Kuraki Minori Henan
 url: /was/rbd967pl
 date: 2020-04-25T06:00:00Z
 image: "rbd967pl.jpg"
-tags: [Old Releases,Censored,abuse, Drama, Lesbian, Miss ]
+tags: [Old Releases,Censored,(tag-censored), Drama, Lesbian, Miss ]
 maker: [Attackers]
 actress: [ Kawana Minori, Kuraki Shiori]
 ---

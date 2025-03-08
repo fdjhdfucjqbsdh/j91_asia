@@ -5,7 +5,7 @@ title: REAL-740 Married Woman NTR Video Letter Spreading Threatening Creampie FU
 url: /was/real740pl
 date: 2020-09-24T00:00:00Z
 image: "real740pl.jpg"
-tags: [Old Releases,Censored, abuse, Creampie, Cuckold, Evil, Married Woman]
+tags: [Old Releases,Censored, (tag-censored), Creampie, Cuckold, Evil, Married Woman]
 maker: [ K.M.Produce]
 actress: [ Kanade Jiyuu, Kawana Misuzu, Usagi Aika]
 ---

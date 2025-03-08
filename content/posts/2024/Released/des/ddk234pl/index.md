@@ -5,7 +5,7 @@ title: DDK-234 Forest Of Desire, I Found A Lost Naked Girl In The Forest And I C
 url: /v/ddk234pl
 date: 2024-12-14T01:46:00Z
 image: "ddk234pl.jpg"
-tags: [Censored, Creampie, Solowork, Outdoors, Beautiful Girl, Abuse, Mini	]
+tags: [Censored, Creampie, Solowork, Outdoors, Beautiful Girl, (tag-censored), Mini	]
 maker: [ Dogma  ]
 actress: [ Yura Kana ]
 ---

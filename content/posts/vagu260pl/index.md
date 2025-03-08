@@ -3,7 +3,7 @@ author: j91
 title: VAGU-260 Shameful Mannequin Wife ~Husband Betrayed By Subordinates, Wife Betrayed By Husband~ Saki Oishi
 date: 2023-09-22T00:20:00Z
 image: "vagu260pl.jpg"
-tags: [Censored,Creampie,Solowork,Married Woman,Abuse,Mature Woman,Doll	]
+tags: [Censored,Creampie,Solowork,Married Woman,(tag-censored),Mature Woman,Doll	]
 maker: [Venus]
 actress: [	Ooishi Saki ]
 ---

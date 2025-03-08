@@ -5,7 +5,7 @@ title: ADN-662 A Female Teacher, Ayane Natsume, Is Forced To Teach In A Microski
 url: /v/adn662pl
 date: 2025-01-31T01:40:00Z
 image: "adn662pl.jpg"
-tags: [Censored, Blow, Creampie, Solowork, Female Teacher, Abuse	]
+tags: [Censored, Blow, Creampie, Solowork, Female Teacher, (tag-censored)	]
 maker: [Attackers]
 actress: [ Natsume Iroha ]
 ---

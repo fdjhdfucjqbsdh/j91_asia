@@ -5,7 +5,7 @@ title: SORA-586 Forced Drug Addiction, Kidnapping A Student With Big Breasts And
 url: /v/sora586pl
 date: 2025-02-01T01:50:00Z
 image: "sora586pl.jpg"
-tags: [Censored, Solowork, School Girls, Big Tits, Abuse, Drug	]
+tags: [Censored, Solowork, School Girls, Big Tits, (tag-censored), Drug	]
 maker: [ Yama To Sora  ]
 actress: [ Otowa Amu ]
 ---

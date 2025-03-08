@@ -5,7 +5,7 @@ title: SONE-165 While On A Business Trip, I Unexpectedly Ended Up Sharing A Room
 url: /v/sone165pl
 date: 2024-04-05T01:55:00Z
 image: "sone165pl.jpg"
-tags: [Censored, OL, Solowork, Nasty, Hardcore, Breasts, Abuse, Drama	]
+tags: [Censored, OL, Solowork, Nasty, Hardcore, Breasts, (tag-censored), Drama	]
 maker: [S1 NO.1 STYLE]
 actress: [ Murakami Yuuka ]
 ---

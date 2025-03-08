@@ -3,7 +3,7 @@ author: j91
 title: ATID-570 Anal First Ban! ! A Female Investigator Falls Into Anal Violence. Amu Kuroki
 date: 2023-09-01T00:50:00Z
 image: "atid570pl.jpg"
-tags: [Censored,Anal,Solowork,Abuse,Female Investigator	 ]
+tags: [Censored,Anal,Solowork,(tag-censored),Female Investigator	 ]
 maker: [Attackers  ]
 actress: [Kuroki Aimu ]
 ---

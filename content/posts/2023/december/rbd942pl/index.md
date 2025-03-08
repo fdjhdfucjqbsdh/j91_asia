@@ -5,7 +5,7 @@ title: RBD-942 Ban!Black Fuck ... Black Desires ... Real Village Henan
 url: /was/rbd942pl
 date: 2019-12-12T00:03:00Z
 image: "rbd942pl.jpg"
-tags: [Old Releases,Censored, abuse, Black Actor, Miss, Training ]
+tags: [Old Releases,Censored, (tag-censored), Black Actor, Miss, Training ]
 maker: [Attackers]
 actress: [ Kawana Minori]
 ---

@@ -5,7 +5,7 @@ title: ATID-409 Shameful Education Apprentice 17 Komeme Himeno
 url: /was/atid409pl
 date: 2020-04-25T06:00:00Z
 image: "atid409pl.jpg"
-tags: [Old Releases,Censored, abuse, Female College Student, Female teacher]
+tags: [Old Releases,Censored, (tag-censored), Female College Student, Female teacher]
 maker: [Attackers]
 actress: [Himeno Kotome ]
 ---

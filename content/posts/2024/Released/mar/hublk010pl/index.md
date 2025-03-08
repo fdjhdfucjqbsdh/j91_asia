@@ -5,7 +5,7 @@ title: HUBLK-010 Group Chasing Rape 2 I chased a new student who came to the clu
 url: /v/hublk010pl
 date: 2024-03-08T01:17:00Z
 image: "hublk010pl.jpg"
-tags: [Censored, 3P, 4P, Abuse, Deep Throating, Drug, Drinking Party	]
+tags: [Censored, 3P, 4P, (tag-censored), Deep Throating, Drug, Drinking Party	]
 maker: [Hunter]
 actress: [ Ichijou Mio, Takeuchi Natsuki, Suzuka Kurumi, Arisu Mai ]
 ---

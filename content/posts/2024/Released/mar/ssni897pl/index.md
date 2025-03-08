@@ -5,7 +5,7 @@ title: SSNI-897 A slender and petite female employee was forced to ride a horse 
 url: /was/ssni897pl
 date: 2020-10-25T04:00:00Z
 image: "ssni897pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Cuckold, OL, Risky Mosaic, Slender, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Cuckold, OL, Risky Mosaic, Slender, Solowork]
 maker: [ S1 NO.1 STYLE]
 actress: [ Maki Izuna]
 ---

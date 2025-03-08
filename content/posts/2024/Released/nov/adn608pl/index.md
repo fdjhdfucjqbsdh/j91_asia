@@ -5,7 +5,7 @@ title: ADN-608 A Girl Struggling To Make Ends Meet Becomes A Plaything For The O
 url: /v/adn608pl
 date: 2024-11-01T01:40:00Z
 image: "adn608pl.jpg"
-tags: [Censored, Solowork, Uniform, Beautiful Girl, Abuse, Entertainer	]
+tags: [Censored, Solowork, Uniform, Beautiful Girl, (tag-censored), Entertainer	]
 maker: [Attackers]
 actress: [ Mochizuki Tsubomi ]
 ---

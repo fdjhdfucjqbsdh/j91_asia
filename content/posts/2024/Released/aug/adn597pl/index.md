@@ -5,7 +5,7 @@ title: ADN-597 Married Woman Sold To The Yakuza, Tsubaki Sannomiya
 url: /v/adn597pl
 date: 2024-08-30T01:50:00Z
 image: "adn597pl.jpg"
-tags: [Censored, Solowork, Big Tits, Married Woman, Abuse, Drama, Cuckold	]
+tags: [Censored, Solowork, Big Tits, Married Woman, (tag-censored), Drama, Cuckold	]
 maker: [Attackers]
 actress: [ Sannomiya Tsubaki ]
 ---

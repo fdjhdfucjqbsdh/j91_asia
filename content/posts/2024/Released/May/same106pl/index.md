@@ -5,7 +5,7 @@ title: SAME-106 Newly Married Teacher Shizuka Is Forced To Act As A Sex Toy For 
 url: /v/same106pl
 date: 2024-05-03T01:50:00Z
 image: "same106pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Married Woman, Abuse, Cuckold	]
+tags: [Censored, Solowork, Female Teacher, Married Woman, (tag-censored), Cuckold	]
 maker: [Attackers]
 actress: [ Itsuha ]
 ---

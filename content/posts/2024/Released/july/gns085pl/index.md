@@ -5,7 +5,7 @@ title: GNS-085 Receptionist Ling●! The Upper Body Is At Work, The Lower Body I
 url: /v/gns085pl
 date: 2024-07-10T01:10:00Z
 image: "gns085pl.jpg"
-tags: [Censored, OL, Creampie, Humiliation, Abuse, 4HR+, Evil	]
+tags: [Censored, OL, Creampie, Humiliation, (tag-censored), 4HR+, Evil	]
 maker: [Goonies ]
 actress: [ ]
 ---

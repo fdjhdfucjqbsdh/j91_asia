@@ -5,7 +5,7 @@ title: RBD-998 Married Woman Confinement Training Captive Meat Toy Kana Yua
 url: /was/rbd998pl
 date: 2020-12-25T01:00:00Z
 image: "rbd998pl.jpg"
-tags: [Old Releases,Censored, abuse, Confinement, Married Woman, Solowork, Squirting]
+tags: [Old Releases,Censored, (tag-censored), Confinement, Married Woman, Solowork, Squirting]
 maker: [ Attackers]
 actress: [ Yume Kana]
 ---

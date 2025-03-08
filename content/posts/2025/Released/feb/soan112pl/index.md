@@ -5,7 +5,7 @@ title: SOAN-112 100m Shithole 1000m Dash, Track And Field Girls Anal Hunting, 3-
 url: /v/soan112pl
 date: 2025-02-01T01:22:00Z
 image: "soan112pl.jpg"
-tags: [Censored, 3P, 4P, School Girls, Abuse, Foreign Objects	]
+tags: [Censored, 3P, 4P, School Girls, (tag-censored), Foreign Objects	]
 maker: [ Yama To Sora  ]
 actress: [ Igawa Arisa ]
 ---

@@ -5,7 +5,7 @@ title: DOA-099 Slash! 4 Beautiful Women Are Violated
 url: /v/doa099pl
 date: 2025-02-21T16:22:00Z
 image: "doa099pl.jpg"
-tags: [Censored, Humiliation, Abuse, Confinement, Evil	]
+tags: [Censored, Humiliation, (tag-censored), Confinement, Evil	]
 maker: [ Black Dog - Mousozoku]
 actress: [ ]
 ---

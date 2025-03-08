@@ -5,7 +5,7 @@ title: RBK-102 Undercover Investigator Haruka, False Obedience By Ruu Tokutaka
 url: /v/rbk102pl
 date: 2024-11-29T01:40:00Z
 image: "rbk102pl.jpg"
-tags: [Censored, Creampie, Solowork, Abuse, Drama, Female Investigator	]
+tags: [Censored, Creampie, Solowork, (tag-censored), Drama, Female Investigator	]
 maker: [Attackers]
 actress: [ Totsuka Ruu ]
 ---

@@ -5,7 +5,7 @@ title: ADN-559 School Ryo - Obscene Training - Two Weeks Of Sex That Cannot Be W
 url: /v/adn559pl
 date: 2024-05-03T01:50:00Z
 image: "adn559pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Abuse, Slender, Drama	]
+tags: [Censored, Solowork, Female Teacher, (tag-censored), Slender, Drama	]
 maker: [Attackers]
 actress: [ Kuramoto Sumire ]
 ---

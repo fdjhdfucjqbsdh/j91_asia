@@ -5,7 +5,7 @@ title: ATID-418 A Beautiful Girl Who Came To Tokyo From The Countryside Is Licke
 url: /was/atid418pl
 date: 2020-05-25T08:00:00Z
 image: "atid418pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Big tits, Drama, Solowork, Sweat]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Big tits, Drama, Solowork, Sweat]
 maker: [Attackers]
 actress: [Koizumi Hinata ]
 ---

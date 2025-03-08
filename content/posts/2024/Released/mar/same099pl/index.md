@@ -5,7 +5,7 @@ title: SAME-099 You Can Have Sex With This Teacher For 1000 Yen (lol) Saya Endo
 url: /v/same099pl
 date: 2024-03-01T01:45:00Z
 image: "same099pl.jpg"
-tags: [Censored, Solowork, Female Teacher, Abuse, Drama	]
+tags: [Censored, Solowork, Female Teacher, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Endou Saya ]
 ---

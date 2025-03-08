@@ -5,7 +5,7 @@ title: SORA-570 Medication Breeding Big Tits Precocious Dirty Old Man's Dick Fal
 url: /v/sora570pl
 date: 2024-11-02T01:50:00Z
 image: "sora570pl.jpg"
-tags: [Censored, Creampie, Solowork, Outdoors, Big Tits, Abuse, Submissive Woman	]
+tags: [Censored, Creampie, Solowork, Outdoors, Big Tits, (tag-censored), Submissive Woman	]
 maker: [ Yama To Sora  ]
 actress: [ Kokonoi Sunao ]
 ---

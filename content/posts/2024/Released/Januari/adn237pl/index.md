@@ -5,7 +5,7 @@ title: ADN-237 On The Day Of The University Entrance Examination, I Was Violated
 url: /was/adn237pl
 date: 2020-02-25T06:00:00Z
 image: "adn237pl.jpg"
-tags: [Old Releases,Censored,abuse, Female College Student, Uniform ]
+tags: [Old Releases,Censored,(tag-censored), Female College Student, Uniform ]
 maker: [Attackers]
 actress: [Himeno Kotome ]
 ---

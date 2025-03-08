@@ -5,7 +5,7 @@ title: RCT-823 Female teacher exposed by students Hitomi Tachibana student editi
 url: /was/rct823pl
 date: 2020-08-25T23:45:00Z
 image: "rct823pl.jpg"
-tags: [Old Releases,Censored, Humiliation,Female Teacher,Planning,School Stuff,Abuse,Original Collaboration	]
+tags: [Old Releases,Censored, Humiliation,Female Teacher,Planning,School Stuff,(tag-censored),Original Collaboration	]
 maker: [ Rocket  ]
 actress: [ Kobayakawa Reiko, Kawagoe Yui]
 ---

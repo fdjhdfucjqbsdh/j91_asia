@@ -5,7 +5,7 @@ title: IPX-467 It Is A Crime Committed To Middle-aged Men In Uniform Mania. Firs
 url: /was/ipx467pl
 date: 2020-04-25T08:00:00Z
 image: "ipx467pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Digital Mosaic, Solowork, Uniform]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Digital Mosaic, Solowork, Uniform]
 maker: [IDEA POCKET]
 actress: [ Monami Rin]
 ---

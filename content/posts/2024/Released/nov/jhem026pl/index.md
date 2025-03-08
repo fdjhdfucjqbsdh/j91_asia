@@ -5,7 +5,7 @@ title: JHEM-026 A Closed Room Training Pleasure Story. A Daughter Trained In Bon
 url: /v/jhem026pl
 date: 2024-11-02T01:00:00Z
 image: "jhem026pl.jpg"
-tags: [Censored, Best, Omnibus, Shibari, Abuse, Mature Woman, Multiple Story	]
+tags: [Censored, Best, Omnibus, Shibari, (tag-censored), Mature Woman, Multiple Story	]
 maker: [ Jukujo Honpo- Emmanuelle  ]
 actress: [ ]
 ---

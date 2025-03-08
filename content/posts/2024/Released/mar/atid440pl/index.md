@@ -5,7 +5,7 @@ title: ATID-440 I Was Embarrassed To Be Squid By That Worst Man ... Nanami Misak
 url: /was/atid440pl
 date: 2020-10-25T03:00:00Z
 image: "atid440pl.jpg"
-tags: [Old Releases,Censored, abuse, Cuckold, Drama, Older sister, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Cuckold, Drama, Older sister, Solowork]
 maker: [ Attackers]
 actress: [ Misaki Nanami]
 ---

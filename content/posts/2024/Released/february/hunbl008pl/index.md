@@ -5,7 +5,7 @@ title: HUNBL-008 ● Sanctions On Cheeky Female Employees Of The Parent Company 
 url: /was/hunbl008pl
 date: 2020-08-25T04:00:00Z
 image: "hunbl008pl.jpg"
-tags: [Old Releases,Censored, OL, Creampie, Abuse, Evil	]
+tags: [Old Releases,Censored, OL, Creampie, (tag-censored), Evil	]
 maker: [Hunter]
 actress: [Kasagi Ichika, Takasaka Airi, Obinata Aki, Minami Saya, Toujou Yuki]
 ---

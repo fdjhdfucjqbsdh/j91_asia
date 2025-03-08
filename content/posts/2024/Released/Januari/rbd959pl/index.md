@@ -5,7 +5,7 @@ title: RBD-959 Insane Clinical Experiment Squirting Iki Hell Of A Female Researc
 url: /was/rbd959pl
 date: 2020-02-25T06:00:00Z
 image: "rbd959pl.jpg"
-tags: [Old Releases,Censored, abuse, Female Doctor, Squirting]
+tags: [Old Releases,Censored, (tag-censored), Female Doctor, Squirting]
 maker: [Attackers]
 actress: [ Iioka Kanako]
 ---

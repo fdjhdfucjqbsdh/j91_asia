@@ -5,7 +5,7 @@ title: DETK-001 Fragile, A Sexual Sacrificial Tool For The Scum Maika Hizumi
 url: /v/detk001pl
 date: 2025-01-18T01:20:00Z
 image: "detk001pl.jpg"
-tags: [Censored, Solowork, Abuse, Bloomers, Drama, Evil, Adopted Daughter	]
+tags: [Censored, Solowork, (tag-censored), Bloomers, Drama, Evil, Adopted Daughter	]
 maker: [ Dogma  ]
 actress: [ Nizumi Maika]
 ---

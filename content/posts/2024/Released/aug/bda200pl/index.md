@@ -5,7 +5,7 @@ title: BDA-200 Bound And Tortured Awakening, A Female Investigator Bound And Vio
 url: /v/bda200pl
 date: 2024-08-24T01:20:00Z
 image: "bda200pl.jpg"
-tags: [Censored, Solowork, (tag-censored), Shibari, Abuse, Female Investigator	]
+tags: [Censored, Solowork, (tag-censored), Shibari, (tag-censored), Female Investigator	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ Takeuchi Natsuki ]
 ---

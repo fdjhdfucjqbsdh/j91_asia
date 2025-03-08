@@ -5,7 +5,7 @@ title: HUNBL-009 100 Hours Confinement At Home Irama Pickled
 url: /was/hunbl009pl
 date: 2020-08-25T04:00:00Z
 image: "hunbl009pl.jpg"
-tags: [Old Releases,Censored, Restraint, Abuse, Deep Throating, Confinement, Evil	]
+tags: [Old Releases,Censored, Restraint, (tag-censored), Deep Throating, Confinement, Evil	]
 maker: [Hunter]
 actress: [Ooura Manami, Yamamoto Renka, Kisaragi Natsuki ]
 ---

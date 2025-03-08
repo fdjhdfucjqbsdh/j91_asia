@@ -3,7 +3,7 @@ author: j91
 title: SAME-067 A Female Employee Who Has Just Come To Tokyo Is Soon Violently Raped. Sakuramoko
 date: 2023-07-28T00:40:00Z
 image: "same067pl.jpg"
-tags: [Censored, OL,Solowork,Abuse,Drama	]
+tags: [Censored, OL,Solowork,(tag-censored),Drama	]
 maker: [Attackers]
 actress: [Sakura Moko ]
 ---

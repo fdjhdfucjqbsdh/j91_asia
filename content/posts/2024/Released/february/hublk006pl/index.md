@@ -5,7 +5,7 @@ title: HUBLK-006 A Plain Timid Girl Who Shared A Room With A Bimbo Gal On A Scho
 url: /v/hublk006pl
 date: 2024-02-09T01:20:00Z
 image: "hublk006pl.jpg"
-tags: [Censored, Abuse, Deep Throating, Bloomers, Drug, Drinking Party	]
+tags: [Censored, (tag-censored), Deep Throating, Bloomers, Drug, Drinking Party	]
 maker: [Hunter]
 actress: [ ]
 ---

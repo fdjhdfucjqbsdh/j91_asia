@@ -5,7 +5,7 @@ title: RBD-956 Ryo ● Training 4 Destiny Body Service Kono Sakino
 url: /was/rbd956pl
 date: 2020-01-25T06:00:00Z
 image: "rbd956pl.jpg"
-tags: [Old Releases,Censored, abuse, OL]
+tags: [Old Releases,Censored, (tag-censored), OL]
 maker: [Attackers]
 actress: [ Sakino Koharu]
 ---

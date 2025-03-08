@@ -5,7 +5,7 @@ title: STARS-196 Memories Of Addictive Girlfriend Mahiro Yui
 url: /was/1stars196pl
 date: 2020-07-25T00:00:00Z
 image: "1stars196pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Blow, Drama]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Blow, Drama]
 maker: [SOD Create]
 actress: [Tadai Mahiro]
 ---

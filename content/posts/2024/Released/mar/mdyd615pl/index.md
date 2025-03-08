@@ -5,7 +5,7 @@ title: MDYD-615 Sister-in-law Torture and Torture ~Beautiful Slut~ Nanako Mori
 url: /was/mdyd615pl
 date: 2020-09-24T04:50:00Z
 image: "mdyd615pl.jpg"
-tags: [Old Releases,Censored, Training, Abuse, Gangbang, Mature Woman, Digital Mosaic	]
+tags: [Old Releases,Censored, Training, (tag-censored), Gangbang, Mature Woman, Digital Mosaic	]
 maker: [Tameike Goro-]
 actress: [ Mori Nanako ]
 ---

@@ -5,7 +5,7 @@ title: USAG-063 A Schoolgirl Gets Her Nipples Developed By The Manager Of A Used
 url: /v/usag063pl
 date: 2024-07-20T01:28:00Z
 image: "usag063pl.jpg"
-tags: [Censored, School Girls, Breasts, Abuse, Toy, Submissive Woman	]
+tags: [Censored, School Girls, Breasts, (tag-censored), Toy, Submissive Woman	]
 maker: [Usagi - Mousozoku  ]
 actress: [ ]
 ---

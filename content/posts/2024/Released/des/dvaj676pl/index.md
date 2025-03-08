@@ -5,7 +5,7 @@ title: DVAJ-676 A Rainy Summer Training Camp Where A Female Track And Field Club
 url: /v/dvaj676pl
 date: 2024-12-07T01:50:00Z
 image: "dvaj676pl.jpg"
-tags: [Censored, Solowork, Outdoors, Abuse, Bloomers, Sport	]
+tags: [Censored, Solowork, Outdoors, (tag-censored), Bloomers, Sport	]
 maker: [ Alice Japan  ]
 actress: [ Shiraishi Momo ]
 ---

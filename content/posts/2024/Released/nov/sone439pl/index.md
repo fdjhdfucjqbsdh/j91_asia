@@ -5,7 +5,7 @@ title: SONE-439 My Kind And Proud Tall Girlfriend Was Seduced By The Swimming Cl
 url: /v/sone439pl
 date: 2024-11-08T01:55:00Z
 image: "sone439pl.jpg"
-tags: [Censored, Solowork, School Swimsuit, Abuse, Tall, Leg Fetish, Cuckold	]
+tags: [Censored, Solowork, School Swimsuit, (tag-censored), Tall, Leg Fetish, Cuckold	]
 maker: [S1 NO.1 STYLE]
 actress: [ Ashitaba Mitsuha ]
 ---

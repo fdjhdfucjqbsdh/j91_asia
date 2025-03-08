@@ -5,7 +5,7 @@ title: RBD-977 Continue To Be Confined Until Armpit Grows Maria Nagai
 url: /was/rbd977pl
 date: 2020-06-25T09:00:00Z
 image: "rbd977pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Confinement, Huge Butt, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Confinement, Huge Butt, Solowork]
 maker: [Attackers]
 actress: [Kashiwagi Kurumi]
 ---

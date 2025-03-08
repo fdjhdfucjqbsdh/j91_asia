@@ -5,7 +5,7 @@ title: STARS-026 Sakura Mana Fugitive Crime
 url: /was/1stars026pl
 date: 2020-02-25T20:03:00Z
 image: "1stars026pl.jpg"
-tags: [Old Releases,Censored, abuse, Bride, Drama, Married Woman, Young wife]
+tags: [Old Releases,Censored, (tag-censored), Bride, Drama, Married Woman, Young wife]
 maker: [ SOD Create]
 actress: [ Sakura Mana]
 ---

@@ -5,7 +5,7 @@ title: SAME-092 I Can't Make A Sound, The Climax Of An Obedient Nurse, Serino Or
 url: /v/same092pl
 date: 2024-02-02T01:50:00Z
 image: "same092pl.jpg"
-tags: [Censored, Solowork, Pantyhose, Abuse, Nurse, Drama	]
+tags: [Censored, Solowork, Pantyhose, (tag-censored), Nurse, Drama	]
 maker: [Attackers]
 actress: [ Orimoto Serino ]
 ---

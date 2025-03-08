@@ -5,7 +5,7 @@ title: RBD-953 Compensation For Pride Shinryukan Rui Hizuki, Harumi Sagawa
 url: /was/rbd953pl
 date: 2020-01-25T06:00:00Z
 image: "rbd953pl.jpg"
-tags: [Old Releases,Censored, abuse, Lesbian, Miss]
+tags: [Old Releases,Censored, (tag-censored), Lesbian, Miss]
 maker: [Attackers]
 actress: [Hitzuki Rui, Sagawa Harumi ]
 ---

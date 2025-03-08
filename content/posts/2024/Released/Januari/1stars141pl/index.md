@@ -5,7 +5,7 @@ title: STARS-141 Bonded Honjo Rin
 url: /was/1stars141pl
 date: 2020-05-25T11:00:00Z
 image: "1stars141pl.jpg"
-tags: [Old Releases,Censored, abuse, Creampie, Restraint, SM]
+tags: [Old Releases,Censored, (tag-censored), Creampie, Restraint, SM]
 maker: [SOD Create]
 actress: [Honjou Suzu ]
 ---

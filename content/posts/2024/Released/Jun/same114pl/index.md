@@ -5,7 +5,7 @@ title: SAME-114 Hotel Woman, I Was Asked To Provide Lewd Service, Miho Tono
 url: /v/same114pl
 date: 2024-06-28T01:40:00Z
 image: "same114pl.jpg"
-tags: [Censored, Solowork, Humiliation, Abuse, Drama	]
+tags: [Censored, Solowork, Humiliation, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Tsuno Miho]
 ---

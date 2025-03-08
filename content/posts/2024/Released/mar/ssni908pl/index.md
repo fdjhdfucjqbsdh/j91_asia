@@ -5,7 +5,7 @@ title: SSNI-908 Hotaru Nogi, a molester decoy investigator who kept being raped 
 url: /was/ssni908pl
 date: 2020-11-25T03:55:00Z
 image: "ssni908pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Female investigator, Restraint, Risky Mosaic, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Female investigator, Restraint, Risky Mosaic, Solowork]
 maker: [ S1 NO.1 STYLE]
 actress: [ Nogi Hotaru]
 ---

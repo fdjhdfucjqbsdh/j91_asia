@@ -5,7 +5,7 @@ title: WANZ-973 A night when I was alone with my sexually harassing boss, whom I
 url: /was/wanz973pl
 date: 2020-08-25T15:00:00Z
 image: "wanz973pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Blu-ray, breasts, OL, Solowork, Titty fuck]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Blu-ray, breasts, OL, Solowork, Titty fuck]
 maker: [WANZ FACTORY]
 actress: [Julia]
 ---

@@ -5,7 +5,7 @@ title: GMA-070 Bondage Training Wife, To Pay Off The Debts Of Her Alcoholic, Une
 url: /v/gma070pl
 date: 2024-08-10T01:20:00Z
 image: "gma070pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Shinomiya Nene ]
 ---

@@ -5,7 +5,7 @@ title: IPZZ-233 ≪Sacrifice for Debt Repayment≫ Confinement for 300 Days to a
 url: /v/ipzz233pl
 date: 2024-03-08T01:50:00Z
 image: "ipzz233pl.jpg"
-tags: [Censored, Solowork, Big Tits, Abuse, Cuckold, Kiss	]
+tags: [Censored, Solowork, Big Tits, (tag-censored), Cuckold, Kiss	]
 maker: [IDEA POCKET]
 actress: [ Nanjou Sayaka ]
 ---

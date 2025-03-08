@@ -5,7 +5,7 @@ title: SSNI-816 "This Girl Is Cheeky, Isn't It?" Recorded VTR Minami Kojima Who 
 url: /was/ssni816pl
 date: 2020-08-25T08:00:00Z
 image: "ssni816pl.jpg"
-tags: [Old Releases,Censored, abuse, Risky Mosaic, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Risky Mosaic, Solowork]
 maker: [S1 NO.1 STYLE]
 actress: [Kojima Minami]
 ---

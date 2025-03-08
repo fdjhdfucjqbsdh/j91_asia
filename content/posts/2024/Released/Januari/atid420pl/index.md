@@ -5,7 +5,7 @@ title: ATID-420 "Teacher, I Don't Want To Go Home ..." An Impure Sexual Intercou
 url: /was/atid420pl
 date: 2020-05-25T08:00:00Z
 image: "atid420pl.jpg"
-tags: [Old Releases,Censored, abuse, Drama, Solowork, Uniform]
+tags: [Old Releases,Censored, (tag-censored), Drama, Solowork, Uniform]
 maker: [Attackers]
 actress: [ Matsumoto Ichika]
 ---

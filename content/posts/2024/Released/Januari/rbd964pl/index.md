@@ -5,7 +5,7 @@ title: RBD-964 Ryo ● Training 5 Female College Student Training Internship Hin
 url: /was/rbd964pl
 date: 2020-03-25T07:00:00Z
 image: "rbd964pl.jpg"
-tags: [Old Releases,Censored, OL, Solowork, Abuse, Female College Student	]
+tags: [Old Releases,Censored, OL, Solowork, (tag-censored), Female College Student	]
 maker: [Attackers]
 actress: [ Koizumi Hinata ]
 ---

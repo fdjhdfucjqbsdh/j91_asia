@@ -5,7 +5,7 @@ title: DOA-094 A Proud And Beautiful Female Investigator In A Desperate Situatio
 url: /v/doa094pl
 date: 2025-01-25T01:20:00Z
 image: "doa094pl.jpg"
-tags: [Censored, Abuse, Evil, Female Investigator	]
+tags: [Censored, (tag-censored), Evil, Female Investigator	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

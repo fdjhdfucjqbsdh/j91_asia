@@ -5,7 +5,7 @@ title: ATID-410 Reunion With Former Student Who Loved. I Can't Control Myself ..
 url: /was/atid410pl
 date: 2020-04-25T06:00:00Z
 image: "atid410pl.jpg"
-tags: [Old Releases,Censored,abuse, Drama, Female College Student, Uniform ]
+tags: [Old Releases,Censored,(tag-censored), Drama, Female College Student, Uniform ]
 maker: [Attackers]
 actress: [ Yuuki Nono]
 ---

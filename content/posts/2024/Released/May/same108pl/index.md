@@ -5,7 +5,7 @@ title: SAME-108 A Female Manager Who Was Repeatedly Raped During A Summer Traini
 url: /v/same108pl
 date: 2024-05-03T01:50:00Z
 image: "same108pl.jpg"
-tags: [Censored, Solowork, School Girls, Big Tits, Abuse	]
+tags: [Censored, Solowork, School Girls, Big Tits, (tag-censored)	]
 maker: [Attackers]
 actress: [ Oguri Miyu ]
 ---

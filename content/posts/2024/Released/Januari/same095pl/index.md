@@ -5,7 +5,7 @@ title: SAME-095 A Female Employee Who Has Just Moved To Tokyo Is Soon Violently 
 url: /v/same095pl
 date: 2024-02-02T01:50:00Z
 image: "same095pl.jpg"
-tags: [Censored, OL, Solowork, Abuse, Drama	]
+tags: [Censored, OL, Solowork, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

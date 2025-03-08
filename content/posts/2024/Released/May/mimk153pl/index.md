@@ -5,7 +5,7 @@ title: MIMK-153 Surrender To Chara Man! An Irritated Female Manager Is Threatene
 url: /v/mimk153pl
 date: 2024-05-03T01:57:00Z
 image: "mimk153pl.jpg"
-tags: [Censored, Creampie, Big Tits, Abuse, Promiscuity, Original Collaboration	]
+tags: [Censored, Creampie, Big Tits, (tag-censored), Promiscuity, Original Collaboration	]
 maker: [MOODYZ]
 actress: [ Yayoi Mizuki ,Igarashi Mizuki ]
 ---

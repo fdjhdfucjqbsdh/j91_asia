@@ -5,7 +5,7 @@ title: MUDR-269 Ever Since That Day... A Beautiful Girl In Uniform Is Tied Up An
 url: /v/mudr269pl
 date: 2024-08-16T01:10:00Z
 image: "mudr269pl.jpg"
-tags: [Censored, SM, Creampie, Solowork, School Girls, Shibari, Abuse, Urination	]
+tags: [Censored, SM, Creampie, Solowork, School Girls, Shibari, (tag-censored), Urination	]
 maker: [Muku]
 actress: [ Hinata Hikage ]
 ---

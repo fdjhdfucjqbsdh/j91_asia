@@ -5,7 +5,7 @@ title: SHKD-914 Female President's Moist Pantyhose Yuri Honma
 url: /was/shkd914pl
 date: 2020-11-25T01:00:00Z
 image: "shkd914pl.jpg"
-tags: [Old Releases,Censored, abuse, Pantyhose, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Pantyhose, Solowork]
 maker: [ Attackers]
 actress: [ Honma Yuri]
 ---

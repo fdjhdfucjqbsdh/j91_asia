@@ -5,7 +5,7 @@ title: JUQ-711 A Chance Reunion With A Sexually Harassing Teacher From My School
 url: /v/juq711pl
 date: 2024-05-24T01:50:00Z
 image: "juq711pl.jpg"
-tags: [Censored, Solowork, Married Woman, Breasts, Prostitutes, Abuse, Mature Woman	]
+tags: [Censored, Solowork, Married Woman, Breasts, Prostitutes, (tag-censored), Mature Woman	]
 maker: [Madonna]
 actress: [ Satsuki Fumino ]
 ---

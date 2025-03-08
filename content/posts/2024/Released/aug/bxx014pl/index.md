@@ -5,7 +5,7 @@ title: BXX-014 Crotch Rope Training Compilation 02, Hemp Rope Digging Into The C
 url: /v/bxx014pl
 date: 2024-08-24T01:01:00Z
 image: "bxx014pl.jpg"
-tags: [Censored, Humiliation, Shibari, Abuse, Submissive Woman	]
+tags: [Censored, Humiliation, Shibari, (tag-censored), Submissive Woman	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ ]
 ---

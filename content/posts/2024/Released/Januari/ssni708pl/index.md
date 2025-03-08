@@ -5,7 +5,7 @@ title: SSNI-708 At A Five-star Hotel, Aimed At By Senior Citizens. ● A Luxurio
 url: /was/ssni708pl
 date: 2020-02-25T03:30:00Z
 image: "ssni708pl.jpg"
-tags: [Old Releases,Censored, abuse, Pantyhose, Tall]
+tags: [Old Releases,Censored, (tag-censored), Pantyhose, Tall]
 maker: [S1 NO.1 STYLE]
 actress: [ Hoshimiya Ichika]
 ---

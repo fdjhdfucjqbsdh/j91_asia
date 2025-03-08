@@ -5,7 +5,7 @@ title: JUE-015 Kunoichi - A Female Ninja Who Burns With Revenge, Captured And Fa
 url: /v/jue015pl
 date: 2023-12-23T01:45:00Z
 image: "jue015pl.jpg"
-tags: [Censored, Solowork,Abuse,Mature Woman,Drama,Historical Play,Female Ninja	]
+tags: [Censored, Solowork,(tag-censored),Mature Woman,Drama,Historical Play,Female Ninja	]
 maker: [Global Media Entertainment   ]
 actress: [ Iori Ryouko ]
 ---

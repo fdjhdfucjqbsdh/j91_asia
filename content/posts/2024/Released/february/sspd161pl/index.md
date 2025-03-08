@@ -5,7 +5,7 @@ title: SSPD-161 After Having Sex With My Husband On The Day Of Ovulation, I Was 
 url: /was/sspd161pl
 date: 2020-08-25T12:30:00Z
 image: "sspd161pl.jpg"
-tags: [Old Releases,Censored, abuse, Creampie, Drama, Married Woman, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Creampie, Drama, Married Woman, Solowork]
 maker: [Attackers]
 actress: [Natsume Iroha]
 ---

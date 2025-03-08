@@ -5,7 +5,7 @@ title: SORA-543 When I Saw My Co-worker Who Knelt Down On The Ground To Apologiz
 url: /v/sora543pl
 date: 2024-06-29T01:55:00Z
 image: "sora543pl.jpg"
-tags: [Censored, OL, Creampie, Solowork, Abuse, Drama	]
+tags: [Censored, OL, Creampie, Solowork, (tag-censored), Drama	]
 maker: [ Yama To Sora  ]
 actress: [ Miyanishi Hikaru ]
 ---

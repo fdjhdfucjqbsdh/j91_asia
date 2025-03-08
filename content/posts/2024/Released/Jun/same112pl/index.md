@@ -5,7 +5,7 @@ title: SAME-112 A Female College Student Was Kidnapped And Confined By A Random 
 url: /v/same112pl
 date: 2024-05-31T01:45:00Z
 image: "same112pl.jpg"
-tags: [Censored, Solowork, Abuse, Female College Student, Confinement	]
+tags: [Censored, Solowork, (tag-censored), Female College Student, Confinement	]
 maker: [Attackers]
 actress: [ Shiraishi Momo ]
 ---

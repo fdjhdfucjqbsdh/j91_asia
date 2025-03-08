@@ -5,7 +5,7 @@ title: RBD-962 Beautiful Meat Exiles Shiori Kuraki
 url: /was/rbd962pl
 date: 2020-03-25T07:00:00Z
 image: "rbd962pl.jpg"
-tags: [Old Releases,Censored, Solowork, Abuse, Drama	]
+tags: [Old Releases,Censored, Solowork, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Kuraki Shiori ]
 ---

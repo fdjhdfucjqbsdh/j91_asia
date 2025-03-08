@@ -5,7 +5,7 @@ title: RBK-112 Tears Of A Slave, The Stolen Tomorrow, The Day I Became A Doll. Y
 url: /v/rbk112pl
 date: 2025-02-28T01:40:00Z
 image: "rbk112pl.jpg"
-tags: [Censored, Creampie, Solowork, Abuse, Drama, Confinement	]
+tags: [Censored, Creampie, Solowork, (tag-censored), Drama, Confinement	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

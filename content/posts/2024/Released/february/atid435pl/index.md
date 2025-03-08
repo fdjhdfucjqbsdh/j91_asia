@@ -5,7 +5,7 @@ title: ATID-435 Sister Training New Dad Insults Us Every Day... Kanna Shiraishi 
 url: /was/atid435pl
 date: 2020-08-25T12:30:00Z
 image: "atid435pl.jpg"
-tags: [Old Releases,Censored, abuse, Creampie, Drama, Uniform]
+tags: [Old Releases,Censored, (tag-censored), Creampie, Drama, Uniform]
 maker: [Attackers]
 actress: [Kuruki Rei, Shiraishi Kanna]
 ---

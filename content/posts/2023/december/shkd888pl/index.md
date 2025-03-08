@@ -5,7 +5,7 @@ title: SHKD-888 This Woman Is Cheeky, So Let's Do It. Popular Cafe Clerk Strong 
 url: /was/shkd888pl
 date: 2020-01-25T06:00:00Z
 image: "shkd888pl.jpg"
-tags: [Old Releases,Censored, abuse, Waitress]
+tags: [Old Releases,Censored, (tag-censored), Waitress]
 maker: [Attackers]
 actress: [Mochizuki Arare]
 ---

@@ -5,7 +5,7 @@ title: SHKD-894 In The Case Of A Female College Student Mika Niiyama Koharu Saku
 url: /was/shkd894pl
 date: 2020-02-25T06:00:00Z
 image: "shkd894pl.jpg"
-tags: [Old Releases,Censored, abuse, Female College Student, Slender]
+tags: [Old Releases,Censored, (tag-censored), Female College Student, Slender]
 maker: [Attackers]
 actress: [Sakino Koharu ]
 ---

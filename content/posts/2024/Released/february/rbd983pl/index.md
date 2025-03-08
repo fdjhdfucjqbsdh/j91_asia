@@ -5,7 +5,7 @@ title: RBD-983 I Was Fit For Anal. I Can't Get Out Anymore... Yuki Nanao
 url: /was/rbd983pl
 date: 2020-08-25T12:30:00Z
 image: "rbd983pl.jpg"
-tags: [Old Releases,Censored, abuse, Anal, OL, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Anal, OL, Solowork]
 maker: [Attackers]
 actress: [Nanao Yuki]
 ---

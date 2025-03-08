@@ -5,7 +5,7 @@ title: SORA-569 Live-action Version, The Student Council President Is A Genuine 
 url: /v/sora569pl
 date: 2024-11-02T01:50:00Z
 image: "sora569pl.jpg"
-tags: [Censored, Creampie, Solowork, Outdoors, Humiliation, School Girls, Abuse	]
+tags: [Censored, Creampie, Solowork, Outdoors, Humiliation, School Girls, (tag-censored)	]
 maker: [ Yama To Sora  ]
 actress: [ Shiraishi Momo ]
 ---

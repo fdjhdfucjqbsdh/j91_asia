@@ -5,7 +5,7 @@ title: JUL-203 My Neighbor's Daughter Who Has Been Watching Me For A Long Time G
 url: /was/jul203pl
 date: 2020-04-25T21:00:00Z
 image: "jul203pl.jpg"
-tags: [Old Releases,Censored, abuse, Bride, Confinement, Married Woman, Slender, Young wife]
+tags: [Old Releases,Censored, (tag-censored), Bride, Confinement, Married Woman, Slender, Young wife]
 maker: [Madonna]
 actress: [ Matsumoto Ichika]
 ---

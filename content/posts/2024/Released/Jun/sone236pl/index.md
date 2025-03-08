@@ -5,7 +5,7 @@ title: SONE-236 A Popular Beautiful Athlete Falls Prey To A Competitive Swimsuit
 url: /v/sone236pl
 date: 2024-06-21T01:55:00Z
 image: "sone236pl.jpg"
-tags: [Censored, Solowork, Nasty, Hardcore, School Swimsuit, Abuse, Busty Fetish, Athlete	]
+tags: [Censored, Solowork, Nasty, Hardcore, School Swimsuit, (tag-censored), Busty Fetish, Athlete	]
 maker: [S1 NO.1 STYLE]
 actress: [ Hongou Ai ]
 ---

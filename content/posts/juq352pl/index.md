@@ -3,7 +3,7 @@ author: j91
 title: JUQ-352 I Will Do Anything, Please Forgive Me... A Shoplifting Wife-The Price Of Repeated Mistakes Is Shameful Compliant Physical Service- Rio Kuriyama
 date: 2023-08-18T00:50:00Z
 image: "juq352pl.jpg"
-tags: [Censored,Solowork,Humiliation,Married Woman,Affair,Abuse,Mature Woman	 ]
+tags: [Censored,Solowork,Humiliation,Married Woman,Affair,(tag-censored),Mature Woman	 ]
 maker: [Madonna]
 actress: [Kuriyama Rio]
 ---

@@ -5,7 +5,7 @@ title: SORA-567 I Can't Tell Anyone... Young Lady Training, Beautiful Girl Raise
 url: /v/sora567pl
 date: 2024-11-02T01:50:00Z
 image: "sora567pl.jpg"
-tags: [Censored, SM, Creampie, Solowork, School Girls, Shibari, Abuse	]
+tags: [Censored, SM, Creampie, Solowork, School Girls, Shibari, (tag-censored)	]
 maker: [ Yama To Sora  ]
 actress: [ Mikumo Sora ]
 ---

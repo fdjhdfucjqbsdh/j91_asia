@@ -5,7 +5,7 @@ title: GMA-055 Bondage Training Wife A Young Wife Of A Contract Employee Who Is 
 url: /v/gma055pl
 date: 2023-12-09T02:30:00Z
 image: "gma055pl.jpg"
-tags: [Censored, SM,Solowork,Shibari,Abuse,Mature Woman	]
+tags: [Censored, SM,Solowork,Shibari,(tag-censored),Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [Fujii Leila  ]
 ---

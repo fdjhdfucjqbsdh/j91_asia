@@ -5,7 +5,7 @@ title: DVAJ-479 Yuu Kiriyama, a female employee who is constantly harassed by he
 url: /was/dvaj479sopl
 date: 2020-10-25T23:00:00Z
 image: "dvaj479sopl.jpg"
-tags: [Old Releases,Censored, OL, Solowork, Breasts, Glasses, Abuse	]
+tags: [Old Releases,Censored, OL, Solowork, Breasts, Glasses, (tag-censored)	]
 maker: [ Alice Japan  ]
 actress: [ Kirika Yuuri ]
 ---

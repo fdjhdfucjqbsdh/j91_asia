@@ -5,7 +5,7 @@ title: BDA-207 New Undercover Female Investigator Hamabe Shioriho
 url: /v/bda207pl
 date: 2024-12-21T01:20:00Z
 image: "bda207pl.jpg"
-tags: [Censored, Restraint, Solowork, Big Tits, Abuse, Confinement, Female Investigator	]
+tags: [Censored, Restraint, Solowork, Big Tits, (tag-censored), Confinement, Female Investigator	]
 maker: [ Bermuda - Mousouzoku  ]
 actress: [ Hamabe Kaho ]
 ---

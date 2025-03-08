@@ -5,7 +5,7 @@ title: SORA-508 Male Student Who Has No Place In The Classroom Commits Sexual Ac
 url: /v/sora508pl
 date: 2024-01-13T01:55:00Z
 image: "sora508pl.jpg"
-tags: [Censored, Creampie, Solowork, Outdoors, Female Teacher, Abuse, Drama	]
+tags: [Censored, Creampie, Solowork, Outdoors, Female Teacher, (tag-censored), Drama	]
 maker: [ Yama To Sora  ]
 actress: [ Misaki Sakura ]
 ---

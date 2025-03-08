@@ -3,7 +3,7 @@ author: j91
 title: SAME-070 Am Being Raped Every Day By My Mother's Remarried Partner. Emma Futaba
 date: 2023-07-28T00:40:00Z
 image: "same070pl.jpg"
-tags: [Censored, Solowork,Abuse,Female College Student,Adopted Daughter	]
+tags: [Censored, Solowork,(tag-censored),Female College Student,Adopted Daughter	]
 maker: [Attackers]
 actress: [Futaba Ema ]
 ---

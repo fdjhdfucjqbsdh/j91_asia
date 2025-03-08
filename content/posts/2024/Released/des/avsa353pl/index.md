@@ -5,7 +5,7 @@ title: AVSA-353 It's Your Fault For Going Out Dressed Like That. You Kidnapped A
 url: /v/avsa353pl
 date: 2024-12-21T01:20:00Z
 image: "avsa353pl.jpg"
-tags: [Censored, Restraint, Solowork, Abuse, Confinement, Evil	]
+tags: [Censored, Restraint, Solowork, (tag-censored), Confinement, Evil	]
 maker: [ Avs  ]
 actress: [ Saikai Shion ]
 ---

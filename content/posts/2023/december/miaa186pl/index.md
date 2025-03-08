@@ -5,7 +5,7 @@ title: MIAA-186 Position Reversal! The Guy Who Was Bullying Me Is Now The Target
 url: /was/miaa186pl
 date: 2019-12-14T04:00:00Z
 image: "miaa186pl.jpg"
-tags: [Old Releases,Censored, abuse, Childhood Friend, Confinement, Deep Throating, School Girls]
+tags: [Old Releases,Censored, (tag-censored), Childhood Friend, Confinement, Deep Throating, School Girls]
 maker: [MOODYZ]
 actress: [ Nagase Yui]
 ---

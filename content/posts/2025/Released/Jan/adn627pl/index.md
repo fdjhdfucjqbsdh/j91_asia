@@ -5,7 +5,7 @@ title: ADN-627 Violated In Front Of Her Husband - Wet Pride - Murasaki Fujisaki
 url: /v/adn627pl
 date: 2025-01-03T01:40:00Z
 image: "adn627pl.jpg"
-tags: [Censored, Solowork, Married Woman, Affair, Abuse, Drama, Cuckold	]
+tags: [Censored, Solowork, Married Woman, Affair, (tag-censored), Drama, Cuckold	]
 maker: [Attackers]
 actress: [ Fujisaku Akane]
 ---

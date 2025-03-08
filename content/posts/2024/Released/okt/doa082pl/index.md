@@ -5,7 +5,7 @@ title: DOA-082 Seriously! The Shaved Woman Really Shaved Her Head For Her AV Deb
 url: /v/doa082pl
 date: 2024-10-19T01:15:00Z
 image: "doa082pl.jpg"
-tags: [Censored, Other Fetish, Amateur, Abuse, Slender, Tits	]
+tags: [Censored, Other Fetish, Amateur, (tag-censored), Slender, Tits	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

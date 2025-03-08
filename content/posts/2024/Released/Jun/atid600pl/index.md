@@ -5,7 +5,7 @@ title: ATID-600 A Female College Student Who Was Completely Defeated After Being
 url: /v/atid600pl
 date: 2024-05-31T01:45:00Z
 image: "atid600pl.jpg"
-tags: [Censored, Solowork, Big Tits, Beautiful Girl, Abuse, Drama	]
+tags: [Censored, Solowork, Big Tits, Beautiful Girl, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Oguri Miyu ]
 ---

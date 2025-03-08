@@ -5,7 +5,7 @@ title: ROYD-225 A Big-breasted Gal Who Looks Down On Us Is Turned Into A Human T
 url: /v/royd225pl
 date: 2025-02-20T16:35:00Z
 image: "royd225pl.jpg"
-tags: [Censored, 3P, 4P, Solowork, Cowgirl, Abuse, Deep Throating, Back	]
+tags: [Censored, 3P, 4P, Solowork, Cowgirl, (tag-censored), Deep Throating, Back	]
 maker: [ROYAL]
 actress: [ Haruhi Moka ]
 ---

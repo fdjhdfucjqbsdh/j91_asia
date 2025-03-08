@@ -5,7 +5,7 @@ title: GMA-069 Bondage Training Wife A Busty Young Wife Who Works Hard To Train 
 url: /v/gma069pl
 date: 2024-07-06T01:20:00Z
 image: "gma069pl.jpg"
-tags: [Censored, SM, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, SM, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Global Media Annex  ]
 actress: [ Houshou Mei ]
 ---

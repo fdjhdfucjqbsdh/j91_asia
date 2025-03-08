@@ -5,7 +5,7 @@ title: SSNI-809 Woman Of Secret Investigator-Aphrodisiac Fallen Torture That Is 
 url: /was/ssni809pl
 date: 2020-06-25T04:00:00Z
 image: "ssni809pl.jpg"
-tags: [Old Releases,Censored, abuse, Entertainer, Female investigator, Restraint, Risky Mosaic, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Entertainer, Female investigator, Restraint, Risky Mosaic, Solowork]
 maker: [S1 NO.1 STYLE]
 actress: [Hinata Marin ]
 ---

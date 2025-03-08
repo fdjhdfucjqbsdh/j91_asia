@@ -5,7 +5,7 @@ title: RBD-968 Kana Morisawa Keeps Being Confined Until The Side Hair Grows
 url: /was/rbd968pl
 date: 2020-04-25T06:00:00Z
 image: "rbd968pl.jpg"
-tags: [Old Releases,Censored, abuse, Confinement, Drama, Married Woman]
+tags: [Old Releases,Censored, (tag-censored), Confinement, Drama, Married Woman]
 maker: [Attackers]
 actress: [Iioka Kanako ]
 ---

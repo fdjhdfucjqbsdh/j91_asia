@@ -5,7 +5,7 @@ title: ADN-602 I, An Ex-offender, Violently Violated That Well-behaved Girl.
 url: /v/adn602pl
 date: 2024-11-01T01:40:00Z
 image: "adn602pl.jpg"
-tags: [Censored, OL, Solowork, Abuse, Drama, Love	]
+tags: [Censored, OL, Solowork, (tag-censored), Drama, Love	]
 maker: [Attackers]
 actress: [ Totsuka Ruu ]
 ---

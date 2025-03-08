@@ -5,7 +5,7 @@ title: MIAA-244 There Was A Shade Girl Who Could Not Say Anything Even Though It
 url: /was/miaa244pl
 date: 2020-03-25T08:00:00Z
 image: "miaa244pl.jpg"
-tags: [Old Releases,Censored,abuse, Mini, School Girls ]
+tags: [Old Releases,Censored,(tag-censored), Mini, School Girls ]
 maker: [MOODYZ]
 actress: [ Matsumoto Ichika]
 ---

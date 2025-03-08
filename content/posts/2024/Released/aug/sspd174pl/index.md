@@ -5,7 +5,7 @@ title: SSPD-174 Miyazawa Chiharu's Retirement Work, Female Teacher Rape, After S
 url: /v/sspd174pl
 date: 2024-08-30T01:50:00Z
 image: "sspd174pl.jpg"
-tags: [Censored, Female Teacher, Abuse, Drama	]
+tags: [Censored, Female Teacher, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Miyazawa Chiharu ,Suzune Kyouka ]
 ---

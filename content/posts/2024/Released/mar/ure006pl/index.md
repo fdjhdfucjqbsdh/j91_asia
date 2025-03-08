@@ -5,7 +5,7 @@ title: URE-006 Hirohisa Onikubo's original work, the genius of humiliation! ! Ma
 url: /was/ure006pl
 date: 2020-09-25T00:30:00Z
 image: "ure006pl.jpg"
-tags: [Old Releases,Censored, Anal, Married Woman, Training, Abuse, Mature Woman, Digital Mosaic, Cuckold, Original Collaboration	]
+tags: [Old Releases,Censored, Anal, Married Woman, Training, (tag-censored), Mature Woman, Digital Mosaic, Cuckold, Original Collaboration	]
 maker: [ Madonna  ]
 actress: [ Yuuki Misa, Asagiri Akari]
 ---

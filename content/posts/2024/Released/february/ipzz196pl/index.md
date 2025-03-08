@@ -5,7 +5,7 @@ title: IPZZ-196 To Debut...to Sell...Idol Rape Ring Of Obedience● Kana Momonog
 url: /v/ipzz196pl
 date: 2024-02-09T01:53:00Z
 image: "ipzz196pl.jpg"
-tags: [Censored, Blow, Solowork, Beautiful Girl, Nasty, Hardcore, Abuse	]
+tags: [Censored, Blow, Solowork, Beautiful Girl, Nasty, Hardcore, (tag-censored)	]
 maker: [IDEA POCKET]
 actress: [ Momonogi Kana]
 ---

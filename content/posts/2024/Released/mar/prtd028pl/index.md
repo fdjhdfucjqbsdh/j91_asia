@@ -5,7 +5,7 @@ title: PRTD-028 Beautiful investigator Ellie Akira Ellie is fucked by the weakes
 url: /was/prtd028pl
 date: 2020-09-25T03:00:00Z
 image: "prtd028pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Creampie, Digital Mosaic, Female investigator, Gangbang, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Creampie, Digital Mosaic, Female investigator, Gangbang, Solowork]
 maker: [ Premium]
 actress: [ Akira Eri]
 ---

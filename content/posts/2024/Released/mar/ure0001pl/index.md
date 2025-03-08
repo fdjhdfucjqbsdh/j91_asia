@@ -5,7 +5,7 @@ title: URE-001 Chinese Original Work Slavery Contract ~ Beautiful Prisoner Enter
 url: /was/ure0001pl
 date: 2020-09-24T06:45:00Z
 image: "ure0001pl.jpg"
-tags: [Old Releases,Censored, abuse, Digital Mosaic, Lesbian, Mature Woman, Original Collaboration, Training]
+tags: [Old Releases,Censored, (tag-censored), Digital Mosaic, Lesbian, Mature Woman, Original Collaboration, Training]
 maker: [Madonna]
 actress: [ Inoue Masami, Kawakami Yuu]
 ---

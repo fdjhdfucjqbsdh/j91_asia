@@ -5,7 +5,7 @@ title: IPZZ-203 A Hard-hitting Customer Who Fell In Love With A Popular Soapland
 url: /v/ipzz203pl
 date: 2024-02-09T01:53:00Z
 image: "ipzz203pl.jpg"
-tags: [Censored, Solowork, Abuse, Drama, Confinement, Soapland	]
+tags: [Censored, Solowork, (tag-censored), Drama, Confinement, Soapland	]
 maker: [IDEA POCKET]
 actress: [ Asahi Rio ]
 ---

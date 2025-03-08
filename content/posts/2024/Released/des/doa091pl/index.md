@@ -5,7 +5,7 @@ title: DOA-091 Doujin AV Big Breasted Masochist Cosplayer Is Tied Up And Made To
 url: /v/doa091pl
 date: 2024-12-21T01:15:00Z
 image: "doa091pl.jpg"
-tags: [Censored, Cosplay, Creampie, Shibari, Abuse	]
+tags: [Censored, Cosplay, Creampie, Shibari, (tag-censored)	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

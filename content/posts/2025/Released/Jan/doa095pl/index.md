@@ -5,7 +5,7 @@ title: DOA-095 Hojo Maki Bondage Training Special
 url: /v/doa095pl
 date: 2025-01-25T01:20:00Z
 image: "doa095pl.jpg"
-tags: [Censored, Solowork, Shibari, Abuse, Mature Woman	]
+tags: [Censored, Solowork, Shibari, (tag-censored), Mature Woman	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ Houjou Maki ]
 ---

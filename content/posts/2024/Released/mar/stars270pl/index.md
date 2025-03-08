@@ -5,7 +5,7 @@ title: STARS-270 A senior female investigator who came to save me is a slut, but
 url: /was/stars270pl
 date: 2020-09-25T01:00:00Z
 image: "stars270pl.jpg"
-tags: [Old Releases,Censored, abuse, Female investigator, Fighting Action, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Female investigator, Fighting Action, Solowork]
 maker: [ SOD Create]
 actress: [ Kogawa Iori]
 ---

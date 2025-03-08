@@ -5,7 +5,7 @@ title: MIDE-686 Highest Class Slave Auction Shoko Takahashi
 url: /was/mide686pl
 date: 2019-12-12T00:04:00Z
 image: "mide686pl.jpg"
-tags: [Old Releases,Censored, abuse, Big tits, Restraint, Training]
+tags: [Old Releases,Censored, (tag-censored), Big tits, Restraint, Training]
 maker: [MOODYZ]
 actress: [ Takahashi Shouko]
 ---

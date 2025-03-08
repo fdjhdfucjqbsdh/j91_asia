@@ -5,7 +5,7 @@ title: ROYD-189 If You're An Assistant Director At An AV Production Company, It'
 url: /v/royd189pl
 date: 2024-07-19T01:30:00Z
 image: "royd189pl.jpg"
-tags: [Censored, 3P, 4P, Solowork, Cowgirl, Abuse, Slender, Subordinates - Colleagues	]
+tags: [Censored, 3P, 4P, Solowork, Cowgirl, (tag-censored), Slender, Subordinates - Colleagues	]
 maker: [ROYAL]
 actress: [ Tsukinoe Sui ]
 ---

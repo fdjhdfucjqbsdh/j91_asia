@@ -3,7 +3,7 @@ author: j91
 title: ATID-572 Pantyhose President's Secretary Natsuki Takeuchi Gets Fucked Up To Anal
 date: 2023-09-01T00:50:00Z
 image: "atid572pl.jpg"
-tags: [Censored,Anal,Solowork,Abuse,Secretary	 ]
+tags: [Censored,Anal,Solowork,(tag-censored),Secretary	 ]
 maker: [Attackers  ]
 actress: [Takeuchi Natsuki]
 ---

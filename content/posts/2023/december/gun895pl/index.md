@@ -4,7 +4,7 @@ title: GUN-895 Inappropriate Pretend Peeing Nana Kisaki
 url: /v/gun895pl
 date: 2023-12-20T16:15:00Z
 image: "gun895pl.jpg"
-tags: [Censored, Sailor Suit, Solowork, Outdoors, Beautiful Girl, Abuse, Tits	]
+tags: [Censored, Sailor Suit, Solowork, Outdoors, Beautiful Girl, (tag-censored), Tits	]
 maker: [RADIX  ]
 actress: [Kisaki Nana ]
 ---

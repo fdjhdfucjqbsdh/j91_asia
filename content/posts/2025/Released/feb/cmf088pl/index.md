@@ -5,7 +5,7 @@ title: CMF-088 Celebrity Wife Falls Into Dirty Hell 2 Yuri Hanai
 url: /v/cmf088pl
 date: 2025-02-21T16:11:00Z
 image: "cmf088pl.jpg"
-tags: [Censored, SM, Solowork, Married Woman, Breasts, Shibari, Abuse	]
+tags: [Censored, SM, Solowork, Married Woman, Breasts, Shibari, (tag-censored)	]
 maker: [ CineMagic  ]
 actress: [ Hanai Yuri ]
 ---

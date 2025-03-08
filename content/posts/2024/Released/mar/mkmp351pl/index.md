@@ -5,7 +5,7 @@ title: MKMP-351 Bondage Lifting M Awakening Iori Nanase
 url: /was/mkmp351pl
 date: 2020-09-24T00:00:00Z
 image: "mkmp351pl.jpg"
-tags: [Old Releases,Censored, Creampie, Solowork, Big Tits, Shibari, Abuse	]
+tags: [Old Releases,Censored, Creampie, Solowork, Big Tits, Shibari, (tag-censored)	]
 maker: [ K.M.Produce  ]
 actress: [ Nanase Iori ]
 ---

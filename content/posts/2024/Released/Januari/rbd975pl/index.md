@@ -5,7 +5,7 @@ title: RBD-975 He-colored Stage Training Days Akari Niimura
 url: /was/rbd975pl
 date: 2020-06-25T09:00:00Z
 image: "rbd975pl.jpg"
-tags: [Old Releases,Censored, abuse, Anal, SM, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Anal, SM, Solowork]
 maker: [Attackers]
 actress: [Aramura Akari]
 ---

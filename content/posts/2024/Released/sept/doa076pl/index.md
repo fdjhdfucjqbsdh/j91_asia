@@ -5,7 +5,7 @@ title: DOA-076 Married Woman Slave Market
 url: /v/doa076pl
 date: 2024-09-21T01:20:00Z
 image: "doa076pl.jpg"
-tags: [Censored, Married Woman, Shibari, Abuse, Mature Woman	]
+tags: [Censored, Married Woman, Shibari, (tag-censored), Mature Woman	]
 maker: [ Black Dog - Mousozoku  ]
 actress: [ ]
 ---

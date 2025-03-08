@@ -5,7 +5,7 @@ title: MIDE-776 The 32-year-old Abstinent Woman Was Strongly Vulnerable To The D
 url: /was/mide776pl
 date: 2020-05-25T07:00:00Z
 image: "mide776pl.jpg"
-tags: [Old Releases,Censored, abuse, Digital Mosaic, Nun, Restraint, Solowork]
+tags: [Old Releases,Censored, (tag-censored), Digital Mosaic, Nun, Restraint, Solowork]
 maker: [MOODYZ]
 actress: [Tsubomi ]
 ---

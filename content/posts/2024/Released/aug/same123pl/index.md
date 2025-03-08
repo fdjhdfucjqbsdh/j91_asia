@@ -5,7 +5,7 @@ title: SAME-123 Schoolgirl In Uniform Confined And Violated By A Group Of Beasts
 url: /v/same123pl
 date: 2024-08-02T01:50:00Z
 image: "same123pl.jpg"
-tags: [Censored, Solowork, Uniform, Abuse, Drama, Confinement	]
+tags: [Censored, Solowork, Uniform, (tag-censored), Drama, Confinement	]
 maker: [Attackers]
 actress: [ Kudou Yura ]
 ---

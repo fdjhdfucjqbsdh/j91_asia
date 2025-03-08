@@ -5,7 +5,7 @@ title: URE-008 Original work Asuka Uta x Starring Madonna's exclusive actress Ti
 url: /was/ure008pl
 date: 2020-09-25T00:30:00Z
 image: "ure008pl.jpg"
-tags: [Old Releases,Censored, Solowork, Married Woman, Training, Abuse, Mature Woman, Digital Mosaic, Cuckold, Original Collaboration	]
+tags: [Old Releases,Censored, Solowork, Married Woman, Training, (tag-censored), Mature Woman, Digital Mosaic, Cuckold, Original Collaboration	]
 maker: [ Madonna  ]
 actress: [ Serizawa Tsumugi, Shiraki Yuuko ]
 ---

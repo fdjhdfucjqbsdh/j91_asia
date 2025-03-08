@@ -3,7 +3,7 @@ author: j91
 title: ADN-498 Dad, I'm Sorry. Please Forgive Me For Growing Up To Be Lewd... Yura Kudo
 date: 2023-09-29T00:50:00Z
 image: "adn498pl.jpg"
-tags: [Censored,Solowork,Uniform,Abuse,Drama	]
+tags: [Censored,Solowork,Uniform,(tag-censored),Drama	]
 maker: [Attackers]
 actress: [Kudou Yura ]
 ---

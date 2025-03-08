@@ -5,7 +5,7 @@ title: SAME-105 A Wife's Lewd Secret That She Cannot Tell Her Husband; Only The 
 url: /v/same105pl
 date: 2024-05-03T01:50:00Z
 image: "same105pl.jpg"
-tags: [Censored, Married Woman, Abuse, Drama	]
+tags: [Censored, Married Woman, (tag-censored), Drama	]
 maker: [Attackers]
 actress: [ Iwasa Mei ,Ichiba Reika ,Nishino Emi ]
 ---

@@ -5,7 +5,7 @@ title: RBD-981 I Fell In Love With Her Passing By Every Day, And I Had To Commit
 url: /was/rbd981pl
 date: 2020-07-25T15:00:00Z
 image: "rbd981pl.jpg"
-tags: [Old Releases,Censored, abuse, Beautiful Girl, Confinement, Drama, (tag-censored), Solowork]
+tags: [Old Releases,Censored, (tag-censored), Beautiful Girl, Confinement, Drama, (tag-censored), Solowork]
 maker: [Attackers]
 actress: [Koizumi Hinata]
 ---
