@@ -48,8 +48,8 @@
   <section class="post__content">
     <div>
       <article>
-	      <p><b> {{ .Title }} </b></p>
-          {{ .Content | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
+	      <p><b> {{ .Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }} </b></p>
+        {{ .Content }}
       </article>
     </div>
   </section>
