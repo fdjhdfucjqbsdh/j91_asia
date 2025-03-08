@@ -14,7 +14,7 @@
 
 <div class="content">
     {{ $image := .Resources.GetMatch .Params.image }}
-<img id="myImg" src="{{ $image.RelPermalink }}" alt="{{ .Title | truncate 20 }}" style="width:100%;max-width:250px">
+<img id="myImg" src="{{ $image.RelPermalink }}" alt="{{ .Title | truncate 15 }}" style="width:100%;max-width:250px">
   <div class="text">
 <p><b>Published</b>: <time datetime="{{ .Date }}">{{ .Date.Format "2006/01/02" }}</time></p>
 <hr>
@@ -49,7 +49,7 @@
     <div>
       <article>
 	      <p><b> {{ .Title }} </b></p>
-          {{ .Content }}
+          {{ .Content | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
       </article>
     </div>
   </section>

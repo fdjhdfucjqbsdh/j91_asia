@@ -3,11 +3,11 @@
     <div class="article__header">
 {{ $image := .Resources.GetMatch .Params.image }}
 {{ $small := $image.Resize "350x q85 Box" }}
-<img class="article__image" loading="lazy" src="{{ $small.RelPermalink }}" alt="{{ .Title | truncate 20 }}" >
+<img class="article__image" loading="lazy" src="{{ $small.RelPermalink }}" alt="{{ .Title | truncate 15 }}" >
     </div>
     <div class="article__text">
       <div class="truncated" title="{{ .Title }}">
-      <h3 class="article__title">{{ .Title | safeHTML | truncate 80 }}</h3></div>
+      <h3 class="article__title">{{ .Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" | truncate 80 }}</h3></div>
     </div>
   </a>
   <footer class="article__footer">

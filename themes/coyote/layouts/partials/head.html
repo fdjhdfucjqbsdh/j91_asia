@@ -40,13 +40,13 @@
 
 <title>
  {{- if .IsHome -}}
-   Home | {{ .Site.Title }}
+   Home | {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
  {{- else if .Params.hide_site_title -}}
-   {{ .Page.Title }}
+   {{ .Page.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
  {{- else if .Page.Title -}}
-   {{ .Page.Title }} | {{ .Site.Title }}
+   {{ .Page.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }} | {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
  {{- else -}}
-   {{ .Site.Title }}
+   {{ .Site.Title | replaceRE "(?i)(fuck|rape|forced|violence|abuse|drugs)" "****" }}
  {{- end -}}
 </title> 
 {{ $sass := resources.Get "scss/style.scss" }}
