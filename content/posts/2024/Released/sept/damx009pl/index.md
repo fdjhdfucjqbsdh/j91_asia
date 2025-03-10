@@ -6,7 +6,7 @@ url: /v/damx009pl
 date: 2024-09-21T00:55:00Z
 image: "damx009pl.jpg"
 tags: [Censored, Voyeur, Big Tits, Squirting, Massage, Instructor	]
-maker: [Dama-chan.  ]
+maker: [Dama-chan]
 actress: [ ]
 ---
 
