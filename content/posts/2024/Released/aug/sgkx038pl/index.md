@@ -6,7 +6,7 @@ url: /v/sgkx038pl
 date: 2024-08-24T00:30:00Z
 image: "sgkx038pl.jpg"
 tags: [Censored, Cosplay, Creampie, Gal, Big Tits, Squirting	]
-maker: [Hame-chan.  ]
+maker: [Hame-chan]
 actress: [ ]
 ---
 
