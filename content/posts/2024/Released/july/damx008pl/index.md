@@ -6,7 +6,7 @@ url: /v/damx008pl
 date: 2024-07-20T00:00:00Z
 image: "damx008pl.jpg"
 tags: [Censored, Beauty Shop, Voyeur, Big Tits, Squirting, Massage, 4HR+	]
-maker: [Dama-chan.  ]
+maker: [Dama-chan]
 actress: [ ]
 ---
 
