@@ -6,7 +6,7 @@ url: /v/sgkx040pl
 date: 2025-02-14T15:22:00Z
 image: "sgkx040pl.jpg"
 tags: [Censored, Cosplay, Creampie, Amateur, Gal, Big Tits, Beautiful Girl, Squirting, Slender, Shaved, Leg Fetish	]
-maker: [Hame-chan.  ]
+maker: [Hame-chan]
 actress: [ ]
 ---
 
