@@ -36,7 +36,7 @@ input.addEventListener('keyup', (e) => {
     for (let i in items) {
       itemList += `<div class="resultItem">`
         + `<div class="resultItem__body">`
-        + `<h3 class="resultItem__title"><a href="${items[i].item.permalink}">${items[i].item.title.replace(/fuck|rape|forced|violence|abuse|drugs/gi, '****')}</a></h3>`
+        + `<h3 class="resultItem__title"><a href="${items[i].item.permalink}">${truncate(items[i].item.title, 50)}</a></h3>`
         + `<div class="resultItem__footer">${items[i].item.date}</div><hr style="border-top: 3px solid LightGray;">`
         + `</div>`
         + `</div>`

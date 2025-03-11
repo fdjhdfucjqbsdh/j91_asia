@@ -1,18 +1,15 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- $badwords := slice "abused" "abuse" "asphyxia" "behead" "bleed" "blood" "child" "children" "choke" "choking" "decapitation" "drugged" "forced" "hidden cam" "kid" "kill" "leaked" "loli" "l.o.l.i" "murder" "rape" "shota" "snuff" "strangle" "torture" -}} 
+{{- $badwords := slice "abused" "asphyxia" "behead" "bleed" "blood" "child" "children" "choke" "choking" "decapitation" "drugged" "forced" "hidden cam" "kid" "kill" "leaked" "loli" "l.o.l.i" "murder" "rape" "shota" "snuff" "strangle" "torture" -}} 
 {{- range site.RegularPages -}}
-    {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
-        {{- $title := .Title | htmlUnescape -}}
-        {{- $content := .Plain | htmlUnescape -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) -}}
+        {{- $title := .Title -}}
+        {{- $content := .Plain -}}
         {{- range $badwords -}}
             {{- $title = replaceRE (printf "(?i)%s" .) "****" $title -}}
             {{- $content = replaceRE (printf "(?i)%s" .) "****" $content -}}
         {{- end -}}
-
-        {{- $shortTitle := truncate 50 $title -}}
-
         {{- $.Scratch.Add "index" (dict 
-            "title" $shortTitle 
+            "title" $title 
             "content" $content 
             "permalink" .Permalink 
             "summary" .Summary 
