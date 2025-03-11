@@ -2,7 +2,7 @@
 {{- $badwords := slice "abused" "asphyxia" "behead" "bleed" "blood" "child" "children" "choke" "choking" "decapitation" "drugged" "forced" "hidden cam" "kid" "kill" "leaked" "loli" "l.o.l.i" "murder" "rape" "shota" "snuff" "strangle" "torture" -}} 
 
 {{- range site.RegularPages -}}
-    {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
+    {{- if and (not .Params.searchHidden) (ne .Type "archive) (ne .Layout "search") -}}
         {{- $title := .Title -}}
         {{- $content := .Plain -}}
         
