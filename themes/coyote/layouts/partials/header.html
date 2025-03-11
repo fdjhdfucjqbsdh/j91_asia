@@ -1,37 +1,50 @@
-  <header class="header" id="header">
-   <nav class="navbar container">
-     <a href="/" class="brand"><img src="/j91-logo.png" alt="Javsubs91" width="120"></a>
-      <div class="burger" id="burger">
-         <span class="burger-line"></span>
-         <span class="burger-line"></span>
-         <span class="burger-line"></span>
-      </div>
-      <span class="overlay"></span>
-      <div class="menu" id="menu">
-         <ul class="menu-inner">
-            <li class="menu-item"><a class="menu-link" href="/"><h3>Home</h3></a></li>
-            <li class="menu-item"><a class="menu-link" href="/tags/censored/"><h3>Censored</h3></a></li>
-            <li class="menu-item"><a class="menu-link" href="/tags/uncensored/"><h3>Uncensored</h3></a></li>
-            <li class="menu-item"><a class="menu-link" href="https://ch.j91.asia/tags/chinese-subtitle/"><h3>Chinese Sub</h3></a></li>
-            <li class="menu-item"><a class="menu-link" href="/tags/upcoming-releases/"><h3>Upcoming Releases</h3></a></li>
-         </ul>
-      </div>
-        <a href="{{ "search" | absURL }}">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"
-            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="11" cy="11" r="8"></circle>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-          </svg>
-        </a>
-      </nav>
+<header class="header" id="header">
+  <nav class="navbar container">
+    <a href="/" class="brand"><img src="/j91-logo.png" alt="Javsubs91" width="120"></a>
+    <div class="burger" id="burger">
+      <span class="burger-line"></span>
+      <span class="burger-line"></span>
+      <span class="burger-line"></span>
+    </div>
+    <span class="overlay"></span>
+    <div class="menu" id="menu">
+      <ul class="menu-inner">
+        <li class="menu-item"><a class="menu-link" href="/"><h3>Home</h3></a></li>
+        <li class="menu-item"><a class="menu-link" href="/tags/censored/"><h3>Censored</h3></a></li>
+        <li class="menu-item"><a class="menu-link" href="/tags/uncensored/"><h3>Uncensored</h3></a></li>
+        <li class="menu-item"><a class="menu-link" href="https://ch.j91.asia/tags/chinese-subtitle/"><h3>Chinese Sub</h3></a></li>
+        <li class="menu-item"><a class="menu-link" href="/tags/upcoming-releases/"><h3>Upcoming Releases</h3></a></li>
+      </ul>
+    </div>
+    
+    <!-- Search Icon -->
+    <div class="search-toggle" id="search-toggle">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </div>
+  </nav>
+
+  <!-- Search Form (Initially Hidden) -->
+  <div class="search-block" id="search-block">
+    <form action="https://search.j91.asia/search.php" method="GET">
+      <input type="text" name="q" placeholder="Search..." required>
+      <button type="submit">Search</button>
+      <span class="search-cancel" id="search-cancel">&#10006;</span>
+    </form>
+  </div>
 </header>
 
-
-        <script id="rendered-js" >
+<script>
 // Open and Close Navbar Menu
 const navbarMenu = document.getElementById("menu");
 const burgerMenu = document.getElementById("burger");
 const bgOverlay = document.querySelector(".overlay");
+const searchToggle = document.getElementById("search-toggle");
+const searchBlock = document.getElementById("search-block");
+const searchCancel = document.getElementById("search-cancel");
 
 if (burgerMenu && bgOverlay) {
   burgerMenu.addEventListener("click", () => {
@@ -53,11 +66,7 @@ document.querySelectorAll(".menu-link").forEach(link => {
   });
 });
 
-// Open and Close Search Bar Toggle
-const searchBlock = document.querySelector(".search-block");
-const searchToggle = document.querySelector(".search-toggle");
-const searchCancel = document.querySelector(".search-cancel");
-
+// Open and Close Search Form
 if (searchToggle && searchCancel) {
   searchToggle.addEventListener("click", () => {
     searchBlock.classList.add("is-active");
@@ -67,6 +76,25 @@ if (searchToggle && searchCancel) {
     searchBlock.classList.remove("is-active");
   });
 }
-//# sourceURL=pen.js
-    </script>
+</script>
+
+<style>
+.search-block {
+  display: none;
+  position: fixed;
+  top: 50px;
+  right: 20px;
+  background: white;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.search-block.is-active {
+  display: block;
+}
+.search-cancel {
+  cursor: pointer;
+  margin-left: 10px;
+}
+</style>
+
 <br><br>
