@@ -12,11 +12,13 @@
         {{- end -}}
 
         {{- $image := "" -}}
-        {{- with .Resources.GetMatch "featured*" -}}
-            {{- $image = .Resize "350x q85 Box" | relURL -}}
-        {{- else if .Params.image -}}
-            {{- $image = .Params.image | absURL -}}
-        {{- end -}}
+        {{- with .Resources.GetMatch "featured*" }}
+            {{- $image = .Resize "350x q85 Box" | relURL }}
+        {{- else }}
+            {{- with .Params.image }}
+                {{- $image = . | absURL }}
+            {{- end }}
+        {{- end }}
 
         {{- $.Scratch.Add "index" (dict 
             "title" ($title | jsonify) 
@@ -24,7 +26,8 @@
             "permalink" (.Permalink | jsonify) 
             "summary" (.Summary | jsonify) 
             "date" (.Date.Format "2006/01/02") 
-            "image" ($image | jsonify)) -}}
+            "image" ($image | jsonify)) 
+        -}}
     {{- end -}}
 {{- end -}}
 
