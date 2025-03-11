@@ -25,7 +25,7 @@
             "content" ($content | jsonify) 
             "permalink" (.Permalink | jsonify) 
             "summary" (.Summary | jsonify) 
-            "date" (.Date.Format "2006/01/02") 
+            "date" (.Date.Format "2006/01/02" | jsonify) 
             "image" ($image | jsonify)) 
         -}}
     {{- end -}}
