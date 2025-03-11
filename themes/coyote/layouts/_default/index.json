@@ -2,8 +2,8 @@
 {{- $badwords := slice "abused" "abuse" "asphyxia" "behead" "bleed" "blood" "child" "children" "choke" "choking" "decapitation" "drugged" "forced" "hidden cam" "kid" "kill" "leaked" "loli" "l.o.l.i" "murder" "rape" "shota" "snuff" "strangle" "torture" -}} 
 {{- range site.RegularPages -}}
     {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
-        {{- $title := .Title -}}
-        {{- $content := .Plain -}}
+        {{- $title := .Title | safeHTML -}}
+        {{- $content := .Plain | safeHTML -}}
         {{- range $badwords -}}
             {{- $title = replaceRE (printf "(?i)%s" .) "****" $title -}}
             {{- $content = replaceRE (printf "(?i)%s" .) "****" $content -}}
