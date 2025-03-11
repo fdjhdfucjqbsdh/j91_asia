@@ -1,9 +1,11 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- $badwords := slice "abused" "asphyxia" "behead" "bleed" "blood" "child" "children" "choke" "choking" "decapitation" "drugged" "forced" "hidden cam" "kid" "kill" "leaked" "loli" "l.o.l.i" "murder" "rape" "shota" "snuff" "strangle" "torture" -}} 
+
 {{- range site.RegularPages -}}
-    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
         {{- $title := .Title -}}
         {{- $content := .Plain -}}
+        
         {{- range $badwords -}}
             {{- $title = replaceRE (printf "(?i)%s" .) "****" $title -}}
             {{- $content = replaceRE (printf "(?i)%s" .) "****" $content -}}
@@ -12,17 +14,18 @@
         {{- $image := "" -}}
         {{- with .Resources.GetMatch "featured*" -}}
             {{- $image = .Resize "350x q85 Box" | relURL -}}
-        {{- else -}}
+        {{- else if .Params.image -}}
             {{- $image = .Params.image | absURL -}}
         {{- end -}}
 
         {{- $.Scratch.Add "index" (dict 
-            "title" $title 
-            "content" $content 
-            "permalink" .Permalink 
-            "summary" .Summary 
+            "title" ($title | jsonify) 
+            "content" ($content | jsonify) 
+            "permalink" (.Permalink | jsonify) 
+            "summary" (.Summary | jsonify) 
             "date" (.Date.Format "2006/01/02") 
-            "image" $image) -}}
+            "image" ($image | jsonify)) -}}
     {{- end -}}
 {{- end -}}
+
 {{- $.Scratch.Get "index" | jsonify -}}
