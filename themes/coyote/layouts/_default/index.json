@@ -8,14 +8,21 @@
             {{- $title = replaceRE (printf "(?i)%s" .) "****" $title -}}
             {{- $content = replaceRE (printf "(?i)%s" .) "****" $content -}}
         {{- end -}}
+
+        {{- $image := "" -}}
+        {{- with .Resources.GetMatch "featured*" -}}
+            {{- $image = .Resize "350x q85 Box" | relURL -}}
+        {{- else -}}
+            {{- $image = .Params.image | absURL -}}
+        {{- end -}}
+
         {{- $.Scratch.Add "index" (dict 
             "title" $title 
             "content" $content 
             "permalink" .Permalink 
             "summary" .Summary 
             "date" (.Date.Format "2006/01/02") 
-            "image" ((print .Permalink .Params.image) | absURL)) -}}
+            "image" $image) -}}
     {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
-
