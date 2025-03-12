@@ -1,6 +1,16 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify --enableGitInfo --logLevel info"
+command = """
+echo "==== CPU INFO ===="
+lscpu | grep "Model name"
+echo "==== vCPU ===="
+nproc
+echo "==== RAM INFO ===="
+free -h
+echo "==== DISK SPACE ===="
+df -h --total | grep total
+hugo --gc --minify --enableGitInfo --logLevel info
+"""
 
 [context.production.environment]
 HUGO_VERSION = "0.115.0"
