@@ -3,9 +3,9 @@ author: j91
 title: MIKR-009 The Beautiful Girl's Slender Big-breasted Body Is So Big That It Seems Like My Panties Are Going To Tear... She'll Make You Cum With Her Licking Technique, Hand Technique, And The Best Pussy Ever! A High-class Rejuvenating Men's Massage Parlor, Fuyumi Shiraiwa
 
 url: /v/mikr009pl
-date: 0000-03-14T01:55:00Z
+date: 2025-03-13T16:55:00Z
 image: "mikr009pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Beauty Shop, Big Tits, Prostitutes, Slender	]
+tags: [Censored, Blow, Solowork, Beauty Shop, Big Tits, Prostitutes, Slender	]
 maker: [MOODYZ]
 actress: [ Shiraiwa Tomo ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shiraiwa Tomo ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="WQB4WOo2q0SAkR">
     <a href="javascript:;">
         <img src="/v/mikr009pl/mikr009pl.jpg" width="WIDTH" height="HEIGHT" alt="mikr009pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shiraiwa Tomo ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mikr009pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shiraiwa Tomo ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mikr009pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

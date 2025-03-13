@@ -3,9 +3,9 @@ author: j91
 title: EBWH-200 A Busty Female Teacher Who Was Transferred To A Remote Island Is Forced To Teach In A Perverted Swimsuit That Excites The Students And Is Raped With Her Amazing Body Exposed.
 
 url: /v/ebwh200pl
-date: 0000-03-14T01:25:00Z
+date: 2025-03-13T16:25:00Z
 image: "ebwh200pl.jpg"
-tags: [Upcoming releases, Solowork, Female Teacher, Big Tits, School Swimsuit, Drama	]
+tags: [Censored, Solowork, Female Teacher, Big Tits, School Swimsuit, Drama	]
 maker: [E-body]
 actress: [ Kiyomiya Toa ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kiyomiya Toa ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="jgYqv11yqVILmR">
     <a href="javascript:;">
         <img src="/v/ebwh200pl/ebwh200pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh200pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kiyomiya Toa ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh200pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kiyomiya Toa ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh200pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

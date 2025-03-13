@@ -3,9 +3,9 @@ author: j91
 title: MEYD-988 High-spec Rookie Futaba Otani (33 Years Old) AV Appearance. Sweat, Cum, Saliva... Body Fluids Leaking Hard SEX Special!!
 
 url: /v/meyd988pl
-date: 0000-03-14T01:40:00Z
+date: 2025-03-13T16:40:00Z
 image: "meyd988pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Debut Production, Squirting, Mature Woman, Sweat	]
+tags: [Censored, Creampie, Solowork, Debut Production, Squirting, Mature Woman, Sweat	]
 maker: [Tameike Goro-]
 actress: [ Ootani Futaba ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ootani Futaba ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bvwlWzpoXOTK96">
     <a href="javascript:;">
         <img src="/v/meyd988pl/meyd988pl.jpg" width="WIDTH" height="HEIGHT" alt="meyd988pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ootani Futaba ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/meyd988pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ootani Futaba ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/meyd988pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

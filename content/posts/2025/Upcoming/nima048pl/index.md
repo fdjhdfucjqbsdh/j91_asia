@@ -3,9 +3,9 @@ author: j91
 title: NIMA-048 I'm Buried In My Student's Melon Boobs! Live-action Version! The K-cup Girl, Yuria Yoshine
 
 url: /v/nima048pl
-date: 0000-03-14T01:30:00Z
+date: 2025-03-13T16:30:00Z
 image: "nima048pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Big Tits, Titty Fuck, Ultra-Huge Tits, Original Collaboration	]
+tags: [Censored, Creampie, Solowork, School Girls, Big Tits, Titty Fuck, Ultra-Huge Tits, Original Collaboration	]
 maker: [Fitch]
 actress: [ Yoshine Yuria ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yoshine Yuria ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Y6Vdaew0vzIv984">
     <a href="javascript:;">
         <img src="/v/nima048pl/nima048pl.jpg" width="WIDTH" height="HEIGHT" alt="nima048pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/nima048pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yoshine Yuria ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/nima048pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

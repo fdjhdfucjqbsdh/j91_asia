@@ -3,9 +3,9 @@ author: j91
 title: EBWH-202 Alice Nanase, Who Has A Total Of About 1 Million Followers, Replies To DMs (direct Messages) Sent To Her SNS Accounts, Aiming For A Chance, And Makes An Appointment! She Makes Amateurs Realize How Amazing AV Actresses Are With Her Slutty Techniques, Focusing On Cowgirl Position!
 
 url: /v/ebwh202pl
-date: 0000-03-14T01:25:00Z
+date: 2025-03-13T16:25:00Z
 image: "ebwh202pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Cowgirl, Slut, Nampa	]
+tags: [Censored, Blow, Solowork, Cowgirl, Slut, Nampa	]
 maker: [E-body]
 actress: [ Nanase Arisu ]
 ---
@@ -13,13 +13,13 @@ actress: [ Nanase Arisu ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JWQ4vVeqPqUjqzV">
     <a href="javascript:;">
         <img src="/v/ebwh202pl/ebwh202pl.jpg" width="WIDTH" height="HEIGHT" alt="ebwh202pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Nanase Arisu ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ebwh202pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Nanase Arisu ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ebwh202pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

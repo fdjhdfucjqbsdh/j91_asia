@@ -3,9 +3,9 @@ author: j91
 title: MIAB-407 During A School Trip, The Girls Noticed My Erect Nipples And Surrounded Me, Kneading And Squeezing My Nipples! Twitching! Rubbing! Squeezing! I Was Teased And Ejaculated At The Same Time For Two Days And One Night. Waka Misono Ena Satsuki
 
 url: /v/miab407pl
-date: 0000-03-14T01:55:00Z
+date: 2025-03-13T16:55:00Z
 image: "miab407pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Uniform, Slut	]
+tags: [Censored, Blow, Creampie, Uniform, Slut	]
 maker: [MOODYZ]
 actress: [ Misono Waka, Satsuki Ena ]
 ---
@@ -13,13 +13,13 @@ actress: [ Misono Waka, Satsuki Ena ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9v0L1Q0bXWTa8xR">
     <a href="javascript:;">
         <img src="/v/miab407pl/miab407pl.jpg" width="WIDTH" height="HEIGHT" alt="miab407pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Misono Waka, Satsuki Ena ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/miab407pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Misono Waka, Satsuki Ena ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/miab407pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
