@@ -3,9 +3,9 @@ author: j91
 title: KAM-240 Her Frustrated Body Is Aching, And This Carnal Beauty And Busty Wife Is Having An Affair With The Men Next Door To Her Apartment. She Gets All Wild While Her Husband Is Away On A Business Trip. Sui Usami
 
 url: /v/kam240pl
-date: 0000-03-14T01:10:00Z
+date: 2025-03-13T16:10:00Z
 image: "kam240pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Affair, Documentary	]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Affair, Documentary	]
 maker: [Karuma]
 actress: [ Usami Sui ]
 ---
@@ -13,13 +13,13 @@ actress: [ Usami Sui ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Jv1lV7zWeoUjwmO">
     <a href="javascript:;">
         <img src="/v/kam240pl/kam240pl.jpg" width="WIDTH" height="HEIGHT" alt="kam240pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Usami Sui ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/kam240pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Usami Sui ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/kam240pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

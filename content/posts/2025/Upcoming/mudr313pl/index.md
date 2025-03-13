@@ -3,9 +3,9 @@ author: j91
 title: MUDR-313 Two-stage NTR. By Using Her Boyfriend's Weakness, She Is Forced To Give Him A Sex Tape Of Her. They All Use The Sex Tape To Rape Her. She Was Sold To The Man She Loved, And Was Seduced. Riho Shirahashi
 
 url: /v/mudr313pl
-date: 0000-03-14T01:15:00Z
+date: 2025-03-13T16:15:00Z
 image: "mudr313pl.jpg"
-tags: [Upcoming releases, Cosplay, Creampie, 3P, 4P, Solowork, Big Tits, Couple	]
+tags: [Censored, Cosplay, Creampie, 3P, 4P, Solowork, Big Tits, Couple	]
 maker: [Muku]
 actress: [ Shirahashi Riho ]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirahashi Riho ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3kOpj9l781HaZy">
     <a href="javascript:;">
         <img src="/v/mudr313pl/mudr313pl.jpg" width="WIDTH" height="HEIGHT" alt="mudr313pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirahashi Riho ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mudr313pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirahashi Riho ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mudr313pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
