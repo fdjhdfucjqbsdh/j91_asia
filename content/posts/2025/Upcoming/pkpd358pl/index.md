@@ -3,9 +3,9 @@ author: j91
 title: PKPD-358 Half Inside, Half Outside, Half Girlfriend Kotone Toa Kotone
 
 url: /v/pkpd358pl
-date: 0000-03-15T01:22:00Z
+date: 2025-03-14T16:22:00Z
 image: "pkpd358pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Beautiful Girl, Breasts, Slender	]
+tags: [Censored, Creampie, Solowork, POV, Beautiful Girl, Breasts, Slender	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Fuyue Kotone ]
 ---
@@ -13,13 +13,13 @@ actress: [ Fuyue Kotone ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="b1rGg2RymrIPvGo">
     <a href="javascript:;">
         <img src="/v/pkpd358pl/pkpd358pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd358pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Fuyue Kotone ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd358pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Fuyue Kotone ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd358pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

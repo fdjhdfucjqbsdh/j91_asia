@@ -3,9 +3,9 @@ author: j91
 title: TKD-055 Mao Hamasaki, The Proprietress Who Shakes Her Ass And Begs For Raw Vaginal Creampie
 
 url: /v/tkd055pl
-date: 0000-03-15T01:50:00Z
+date: 2025-03-14T16:50:00Z
 image: "tkd055pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Mature Woman, Landlady, Hostess, Kimono, Mourning	]
+tags: [Censored, Creampie, Solowork, Big Tits, Mature Woman, Landlady, Hostess, Kimono, Mourning	]
 maker: [ Ruby  ]
 actress: [ Hamasaki Mao ]
 ---
@@ -13,13 +13,13 @@ actress: [ Hamasaki Mao ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="YPRvWPmzBkTv0rj">
     <a href="javascript:;">
         <img src="/v/tkd055pl/tkd055pl.jpg" width="WIDTH" height="HEIGHT" alt="tkd055pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/tkd055pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hamasaki Mao ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/tkd055pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

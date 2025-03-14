@@ -3,9 +3,9 @@ author: j91
 title: DDOB-138 Handjob By A Dick-loving Bitch Mom Forty-eight Ayaka Tomoda
 
 url: /v/ddob138pl
-date: 0000-03-15T01:51:00Z
+date: 2025-03-14T16:51:00Z
 image: "ddob138pl.jpg"
-tags: [Upcoming releases, Handjob, Solowork, Other Fetish, Dirty Words, Subjectivity, Mature Woman	]
+tags: [Censored, Handjob, Solowork, Other Fetish, Dirty Words, Subjectivity, Mature Woman	]
 maker: [ Dogma  ]
 actress: [ Tomoda Ayaka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Tomoda Ayaka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="MemYBZgGpRImR6k">
     <a href="javascript:;">
         <img src="/v/ddob138pl/ddob138pl.jpg" width="WIDTH" height="HEIGHT" alt="ddob138pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ddob138pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tomoda Ayaka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ddob138pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

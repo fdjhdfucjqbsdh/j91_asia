@@ -3,9 +3,9 @@ author: j91
 title: MKON-112 She Was A Pure Girl Who Hadn't Had Sex Yet, But The Tennis Coach Found Out About Her Weakness And Used Her As A Convenient Sex Toy. Sarara Uruki
 
 url: /v/mkon112pl
-date: 0000-03-15T01:50:00Z
+date: 2025-03-14T16:50:00Z
 image: "mkon112pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Uniform, School Girls, Cuckold, Sport	]
+tags: [Censored, Creampie, Solowork, Uniform, School Girls, Cuckold, Sport	]
 maker: [ Kaguya Hime Pt - Mousozoku  ]
 actress: [ Uruki Sara]
 ---
@@ -13,13 +13,13 @@ actress: [ Uruki Sara]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OAWBayljvoIZOP4">
     <a href="javascript:;">
         <img src="/v/mkon112pl/mkon112pl.jpg" width="WIDTH" height="HEIGHT" alt="mkon112pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Uruki Sara]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkon112pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Uruki Sara]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkon112pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

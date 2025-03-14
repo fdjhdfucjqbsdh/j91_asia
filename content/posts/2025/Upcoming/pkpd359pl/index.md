@@ -3,9 +3,9 @@ author: j91
 title: PKPD-359 An Easy Job That Only Requires Vaginal Cum Shots. A JD Who Earns Money By Vaginal Cum Shots. Shuuka, 21 Years Old. Shuuka Katayose.
 
 url: /v/pkpd359pl
-date: 0000-03-15T01:22:00Z
+date: 2025-03-14T16:22:00Z
 image: "pkpd359pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, POV, Beautiful Girl, Breasts, Female College Student	]
+tags: [Censored, Creampie, Solowork, POV, Beautiful Girl, Breasts, Female College Student	]
 maker: [ Pakopakodan To Yukaina Nakamatachi  ]
 actress: [ Katayose Shuuka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Katayose Shuuka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="lw9jp1OvYBI7eBm">
     <a href="javascript:;">
         <img src="/v/pkpd359pl/pkpd359pl.jpg" width="WIDTH" height="HEIGHT" alt="pkpd359pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Katayose Shuuka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/pkpd359pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Katayose Shuuka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/pkpd359pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

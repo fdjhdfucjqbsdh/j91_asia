@@ -3,9 +3,9 @@ author: j91
 title: SQTE-601 I Want To Bully A Perverse Sexual Fetish And Erect M-man. Sakura Kurumi
 
 url: /v/sqte601pl
-date: 0000-03-15T01:55:00Z
+date: 2025-03-14T16:55:00Z
 image: "sqte601pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Solowork, Beautiful Girl, Submissive Men	]
+tags: [Censored, Blow, Creampie, Solowork, Beautiful Girl, Submissive Men	]
 maker: [ S-cute  ]
 actress: [ Kurumi Sakura ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kurumi Sakura ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="olLYGm8rKKhJ4Xv">
     <a href="javascript:;">
         <img src="/v/sqte601pl/sqte601pl.jpg" width="WIDTH" height="HEIGHT" alt="sqte601pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sqte601pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kurumi Sakura ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sqte601pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: DETK-002 Devil Girl Yura Kana
 
 url: /v/detk002pl
-date: 0000-03-15T01:50:00Z
+date: 2025-03-14T16:50:00Z
 image: "detk002pl.jpg"
-tags: [Upcoming releases, Solowork, Beautiful Girl, Slut, School Swimsuit, Mini, Drama	]
+tags: [Censored, Solowork, Beautiful Girl, Slut, School Swimsuit, Mini, Drama	]
 maker: [ Dogma  ]
 actress: [ Yura Kana ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yura Kana ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zX87YeDY1RIo6L">
     <a href="javascript:;">
         <img src="/v/detk002pl/detk002pl.jpg" width="WIDTH" height="HEIGHT" alt="detk002pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yura Kana ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/detk002pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yura Kana ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/detk002pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
