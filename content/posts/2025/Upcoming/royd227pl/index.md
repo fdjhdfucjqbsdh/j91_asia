@@ -3,9 +3,9 @@ author: j91
 title: ROYD-227 When I Woke Up In The Morning, I Found My Fellow Female Co-worker In Her Underwear In Her Room! She's Always Being Rude And Rude To Me, But I've Been Relying On Her... Hina Nitori
 
 url: /v/royd227pl
-date: 0000-03-21T01:35:00Z
+date: 2025-03-20T16:35:00Z
 image: "royd227pl.jpg"
-tags: [Upcoming releases, OL, Creampie, Solowork, Big Tits, Titty Fuck, Subordinates / Colleagues]
+tags: [Censored, OL, Creampie, Solowork, Big Tits, Titty Fuck, Subordinates / Colleagues]
 Maker: [ROYAL]
 actress: [Nitori Hina]
 ---
@@ -13,13 +13,13 @@ actress: [Nitori Hina]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="lAM0wlZWR4Coa1">
     <a href="javascript:;">
         <img src="/v/royd227pl/royd227pl.jpg" width="WIDTH" height="HEIGHT" alt="royd227pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Nitori Hina]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd227pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Nitori Hina]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd227pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

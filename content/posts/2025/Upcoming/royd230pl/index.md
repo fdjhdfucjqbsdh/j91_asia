@@ -3,9 +3,9 @@ author: j91
 title: ROYD-230 Is It Okay To Pay Rent With Pussy?! A Sudden Erotic Cohabitation With A Defenseless Runaway Girl!? A Slutty Girl In A Uniform Who Will Milk You With Her Sweet Cowgirl Position From Morning Till Night Has Come To Stay With Me. Anzu Koko
 
 url: /v/royd230pl
-date: 0000-03-21T01:35:00Z
+date: 2025-03-20T16:35:00Z
 image: "royd230pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, School Girls, Underwear, Slender, School Uniform]
+tags: [Censored, Creampie, Solowork, School Girls, Underwear, Slender, School Uniform]
 Maker: [ROYAL]
 actress: [An Coco]
 ---
@@ -13,13 +13,13 @@ actress: [An Coco]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9qO6Owy4O0h6jO">
     <a href="javascript:;">
         <img src="/v/royd230pl/royd230pl.jpg" width="WIDTH" height="HEIGHT" alt="royd230pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [An Coco]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/royd230pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [An Coco]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/royd230pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

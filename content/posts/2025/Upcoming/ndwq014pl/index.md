@@ -3,9 +3,9 @@ author: j91
 title: NDWQ-014 Deep Throat Demonic Training Mucous Membrane Adultery Edition Mitsuki Izumi
 
 url: /v/ndwq014pl
-date: 0000-03-21T01:09:00Z
+date: 2025-03-20T16:09:00Z
 image: "ndwq014pl.jpg"
-tags: [Upcoming releases, Solowork, Nasty, Hardcore, Facials, Cum, Shibari, Deep Throating]
+tags: [Censored, Solowork, Nasty, Hardcore, Facials, Cum, Shibari, Deep Throating]
 Maker: [Toyohiko]
 actress: [Izumi Mitsuki]
 ---
@@ -13,13 +13,13 @@ actress: [Izumi Mitsuki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="XP36dl8o9KiD64w">
     <a href="javascript:;">
         <img src="/v/ndwq014pl/ndwq014pl.jpg" width="WIDTH" height="HEIGHT" alt="ndwq014pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Izumi Mitsuki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ndwq014pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Izumi Mitsuki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ndwq014pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: HUNTC-271 [New Sensation Men's Massage] Men's Massage Where You Can Hear The Inner Voice Of The Men's Massage Girl! 2 If You Rub Me Like That, I'll Want To Have Sex... Don't Make Me Wait So Long (inner Voice)
 
 url: /v/huntc271pl
-date: 0000-03-21T01:10:00Z
+date: 2025-03-20T16:10:00Z
 image: "huntc271pl.jpg"
-tags: [Upcoming releases, Blow, Creampie, Uniform, Nasty, Hardcore, Massage	]
+tags: [Censored, Blow, Creampie, Uniform, Nasty, Hardcore, Massage	]
 maker: [Hunter]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DM7dwqWAJ7hdbV">
     <a href="javascript:;">
         <img src="/v/huntc271pl/huntc271pl.jpg" width="WIDTH" height="HEIGHT" alt="huntc271pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/huntc271pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/huntc271pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

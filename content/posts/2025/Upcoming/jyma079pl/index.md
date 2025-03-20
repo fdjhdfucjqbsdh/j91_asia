@@ -3,9 +3,9 @@ author: j91
 title: JYMA-079 Frustrated Big-breasted Wife Eats Dicks As Much As She Wants. Sexual Desire Monster, Voluptuous Body, Obscene Masochistic Wife, M-slut, Lewd Wife, Cums Like Crazy, Reo Fujisawa
 
 url: /v/jyma079pl
-date: 0000-03-21T01:17:00Z
+date: 2025-03-20T16:17:00Z
 image: "jyma079pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Big Tits, Married Woman, Documentary, BBW]
+tags: [Censored, Creampie, Solowork, Big Tits, Married Woman, Documentary, BBW]
 Maker: [Tsukuzuku Onna Wa Tsurai Yo]
 actress: [Fujisawa Rio]
 
@@ -14,13 +14,13 @@ actress: [Fujisawa Rio]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="laO8LolG80F7JKe">
     <a href="javascript:;">
         <img src="/v/jyma079pl/jyma079pl.jpg" width="WIDTH" height="HEIGHT" alt="jyma079pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -34,7 +34,7 @@ actress: [Fujisawa Rio]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jyma079pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [Fujisawa Rio]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jyma079pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
