@@ -1,21 +1,21 @@
 ---
 author: j91
-title: MDTE-058 Active AI Track And Field Club Regular Candidate Sayaka Fujinoki Private Training With Coach After School
+title: MBRBA-129 Naked Beauty/Yuka Murakami
 
-url: /v/mdte058pl
+url: /v/mbrba129pl
 date: 2025-03-20T16:08:00Z
-image: "mdte058pl.jpg"
-tags: [Censored, Blow,Creampie,Solowork,Beautiful Girl,Club Activities - Manager,Athlete	]
-maker: [K.M.Produce]
-actress: [Fujinoki Sayaka]
+image: "mbrba129pl.jpg"
+tags: [Censored, Solowork,Image Video,Entertainer	]
+maker: [Spice Visual]
+actress: [Murakami Yuuka]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="ApDLmrBkbKIXk02">
+<div class="video" data-videoid="dr67vRZxQWfkpBQ">
     <a href="javascript:;">
-        <img src="/v/mdte058pl/mdte058pl.jpg" width="WIDTH" height="HEIGHT" alt="mdte058pl.mp4" loading="lazy">
+        <img src="/v/mbrba129pl/mbrba129pl.jpg" width="WIDTH" height="HEIGHT" alt="mbrba129pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [Fujinoki Sayaka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/mdte058pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mbrba129pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Fujinoki Sayaka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/mdte058pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mbrba129pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
