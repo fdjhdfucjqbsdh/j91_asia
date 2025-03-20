@@ -3,9 +3,9 @@ author: j91
 title: DASS-607 Marina Ikeda, A Personal Trainer Who Seduces Me With Her Penis, Leading Me To The Pleasure Of A Female Penis Despite Having A Wife
 
 url: /v/dass607pl
-date: 0000-03-21T01:01:00Z
+date: 2025-03-20T16:01:00Z
 image: "dass607pl.jpg"
-tags: [Upcoming releases, Transsexual, Solowork, Slut, Cuckold, Athlete	]
+tags: [Censored, Transsexual, Solowork, Slut, Cuckold, Athlete	]
 maker: [Das !]
 actress: [ Ikeda Marina ]
 ---
@@ -13,13 +13,13 @@ actress: [ Ikeda Marina ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="gjJVK4bQXDFxb2">
     <a href="javascript:;">
         <img src="/v/dass607pl/dass607pl.jpg" width="WIDTH" height="HEIGHT" alt="dass607pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ikeda Marina ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass607pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ikeda Marina ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass607pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

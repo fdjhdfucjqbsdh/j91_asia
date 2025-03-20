@@ -3,9 +3,9 @@ author: j91
 title: HMN-669 She Went Out Drinking With Her Trusted Childhood Friend, But Missed The Last Train And Had No Choice But To Go To A Love Hotel... She Was Carried Away And Had Sex, And Her Chemistry With His Insatiable Cock Was So Good That She Cheated On Him And Came Inside Him Multiple Times Throughout The Night. Three Childhood Friends Missed The Last Train NTR Mitani Akane
 
 url: /v/hmn669pl
-date: 0000-03-21T01:45:00Z
+date: 2025-03-20T16:45:00Z
 image: "hmn669pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Cuckold, Childhood Friend, Acme · Orgasm, Drinking Party	]
+tags: [Censored, Creampie, Solowork, Cuckold, Childhood Friend, Acme · Orgasm, Drinking Party	]
 maker: [Honnaka]
 actress: [ Mitani Akari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Mitani Akari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="4wmL07yBlqUKgx3">
     <a href="javascript:;">
         <img src="/v/hmn669pl/hmn669pl.jpg" width="WIDTH" height="HEIGHT" alt="hmn669pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/hmn669pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Mitani Akari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/hmn669pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

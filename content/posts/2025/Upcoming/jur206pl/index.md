@@ -3,9 +3,9 @@ author: j91
 title: JUR-206 Carried Away By Her Sweet Whispers, I Became Addicted To Sex With Married Women, Staying At Home With Them Until I Had To Repeat A Year Of College... Minami Kojima
 
 url: /v/jur206pl
-date: 0000-03-21T01:50:00Z
+date: 2025-03-20T16:50:00Z
 image: "jur206pl.jpg"
-tags: [Upcoming releases, Creampie, Solowork, Dirty Words, Married Woman, Slender, Mature Woman	]
+tags: [Censored, Creampie, Solowork, Dirty Words, Married Woman, Slender, Mature Woman	]
 maker: [Madonna]
 actress: [ Kojima Minami ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kojima Minami ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="vl4jBGD8gZf43G8">
     <a href="javascript:;">
         <img src="/v/jur206pl/jur206pl.jpg" width="WIDTH" height="HEIGHT" alt="jur206pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kojima Minami ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jur206pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kojima Minami ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jur206pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

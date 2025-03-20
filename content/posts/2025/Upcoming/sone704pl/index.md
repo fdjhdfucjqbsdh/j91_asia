@@ -3,9 +3,9 @@ author: j91
 title: SONE-704 Diamond Newcomer NO.1 STYLE College Gravure Idol Nozomi Araki Makes Her AV Debut
 
 url: /v/sone704pl
-date: 0000-03-21T01:55:00Z
+date: 2025-03-20T16:55:00Z
 image: "sone704pl.jpg"
-tags: [Upcoming releases, Solowork, POV, Debut Production, Beautiful Girl, Entertainer]
+tags: [Censored, Solowork, POV, Debut Production, Beautiful Girl, Entertainer]
 Maker: [S1 NO.1 STYLE]
 actress: [Araki Noa]
 
@@ -14,13 +14,13 @@ actress: [Araki Noa]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="JJeYW3vRV0fjkLm">
     <a href="javascript:;">
         <img src="/v/sone704pl/sone704pl.jpg" width="WIDTH" height="HEIGHT" alt="sone704pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -34,7 +34,7 @@ actress: [Araki Noa]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone704pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ actress: [Araki Noa]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone704pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

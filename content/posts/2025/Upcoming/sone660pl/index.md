@@ -3,9 +3,9 @@ author: j91
 title: SONE-660 2600cc Of Squirting And Cumming! Innocent College Girl's Erotic Awakening. First Big Peeing And Convulsions Special. Ruka Itoi
 
 url: /v/sone660pl
-date: 0000-03-21T01:55:00Z
+date: 2025-03-20T16:55:00Z
 image: "sone660pl.jpg"
-tags: [Upcoming releases, Restraint, Solowork, Nasty, Hardcore, Squirting, Female College Student, Acme · Orgasm]
+tags: [Censored, Restraint, Solowork, Nasty, Hardcore, Squirting, Female College Student, Acme · Orgasm]
 Maker: [S1 NO.1 STYLE]
 actress: [Itoi Ruka]
 ---
@@ -13,13 +13,13 @@ actress: [Itoi Ruka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="reYpW7MaY9ty60">
     <a href="javascript:;">
         <img src="/v/sone660pl/sone660pl.jpg" width="WIDTH" height="HEIGHT" alt="sone660pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Itoi Ruka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone660pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Itoi Ruka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone660pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

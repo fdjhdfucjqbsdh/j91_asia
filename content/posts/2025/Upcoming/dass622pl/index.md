@@ -3,9 +3,9 @@ author: j91
 title: DASS-622 Naturally Beautiful Transsexual. Renka Yuzuki
 
 url: /v/dass622pl
-date: 0000-03-21T01:01:00Z
+date: 2025-03-20T16:01:00Z
 image: "dass622pl.jpg"
-tags: [Upcoming releases, Transsexual, Blow, Handjob, Solowork, Debut Production	]
+tags: [Censored, Transsexual, Blow, Handjob, Solowork, Debut Production	]
 maker: [Das !]
 actress: [ Yuki Renka ]
 ---
@@ -13,13 +13,13 @@ actress: [ Yuki Renka ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="RyqxK8a9gJTXQv">
     <a href="javascript:;">
         <img src="/v/dass622pl/dass622pl.jpg" width="WIDTH" height="HEIGHT" alt="dass622pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Yuki Renka ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass622pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Yuki Renka ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass622pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

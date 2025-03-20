@@ -3,9 +3,9 @@ author: j91
 title: DASS-614 Aphrodisiac Is Given And She Sweats And Becomes Horny! She Naturally Pisses Herself With Her Legs Spread Wide! Sensitive Hot Yoga Class With Trembling Convulsions Rio Kuriyama
 
 url: /v/dass614pl
-date: 0000-03-21T01:40:00Z
+date: 2025-03-20T16:40:00Z
 image: "dass614pl.jpg"
-tags: [Upcoming releases, Solowork, Nasty, Hardcore, Squirting, Slender, Sweat, Yoga	]
+tags: [Censored, Solowork, Nasty, Hardcore, Squirting, Slender, Sweat, Yoga	]
 maker: [Das !]
 actress: [ Kuriyama Rio ]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuriyama Rio ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="9p4OdZkK0GialmG">
     <a href="javascript:;">
         <img src="/v/dass614pl/dass614pl.jpg" width="WIDTH" height="HEIGHT" alt="dass614pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuriyama Rio ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/dass614pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuriyama Rio ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/dass614pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

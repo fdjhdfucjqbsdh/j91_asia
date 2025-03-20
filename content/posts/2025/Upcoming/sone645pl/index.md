@@ -3,9 +3,9 @@ author: j91
 title: SONE-645 "If You Ask Asano From The Brass Band, She'll Let You Do It!" The Best Adolescence With A Submissive Slut In Class Kokoro Asano
 
 url: /v/sone645pl
-date: 0000-03-21T01:55:00Z
+date: 2025-03-20T16:55:00Z
 image: "sone645pl.jpg"
-tags: [Upcoming releases, Blow, Solowork, Uniform, Beautiful Girl, Cowgirl, Club Activities - Manager]
+tags: [Censored, Blow, Solowork, Uniform, Beautiful Girl, Cowgirl, Club Activities - Manager]
 Maker: [S1 NO.1 STYLE]
 actress: [Asano Kokoro]
 ---
@@ -13,13 +13,13 @@ actress: [Asano Kokoro]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="BBOWZLol08cyo88">
     <a href="javascript:;">
         <img src="/v/sone645pl/sone645pl.jpg" width="WIDTH" height="HEIGHT" alt="sone645pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [Asano Kokoro]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sone645pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [Asano Kokoro]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sone645pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
