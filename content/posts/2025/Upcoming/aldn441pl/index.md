@@ -3,9 +3,9 @@ author: j91
 title: ALDN-441 Mother-in-law, You're So Much Better Than My Wife... Satsuki Kuriyama
 
 url: /v/aldn441pl
-date: 0000-03-22T01:50:00Z
+date: 2025-03-21T16:50:00Z
 image: "aldn441pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Big Tits,Married Woman,Incest,Mature Woman]
+tags: [Censored, Creampie,Solowork,Big Tits,Married Woman,Incest,Mature Woman]
 maker: [ Takara Eizou]
 actress: [ Kuriyama Satsuki]
 ---
@@ -13,13 +13,13 @@ actress: [ Kuriyama Satsuki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="LJgbjQOWXOURVW2">
     <a href="javascript:;">
         <img src="/v/aldn441pl/aldn441pl.jpg" width="WIDTH" height="HEIGHT" alt="aldn441pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kuriyama Satsuki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aldn441pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kuriyama Satsuki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aldn441pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

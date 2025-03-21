@@ -3,9 +3,9 @@ author: j91
 title: MKMP-622 Swallowing NTR My Wife's Best Friend Came To Live With Us After Her Divorce And Continued To Swallow Our Semen, Feeling Lonely And Guilty. Himari Aizuki
 
 url: /v/mkmp622pl
-date: 0000-03-22T01:55:00Z
+date: 2025-03-21T16:55:00Z
 image: "mkmp622pl.jpg"
-tags: [Upcoming releases, Blow,Solowork,Big Tits,Beautiful Girl,Cum,Affair	]
+tags: [Censored, Blow,Solowork,Big Tits,Beautiful Girl,Cum,Affair	]
 maker: [ K.M.Produce  ]
 actress: [ Aizuki Himari ]
 ---
@@ -13,13 +13,13 @@ actress: [ Aizuki Himari ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="9Oqe41WvAKc68e">
     <a href="javascript:;">
         <img src="/v/mkmp622pl/mkmp622pl.jpg" width="WIDTH" height="HEIGHT" alt="mkmp622pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Aizuki Himari ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mkmp622pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Aizuki Himari ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mkmp622pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

@@ -3,9 +3,9 @@ author: j91
 title: JUBE-027 Revolving Woman - I Haven't Finished Paying My Bills Yet, So Today I'll Become Someone's Sex Pot - Mai Onodera
 
 url: /v/jube027pl
-date: 0000-03-22T01:22:00Z
+date: 2025-03-21T16:22:00Z
 image: "jube027pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Slender,Female College Student,School Uniform,Mini	]
+tags: [Censored, Creampie,Solowork,Slender,Female College Student,School Uniform,Mini	]
 maker: [ JUMP BEYOND  ]
 actress: [ Onodera Mai ]
 ---
@@ -13,13 +13,13 @@ actress: [ Onodera Mai ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="r2QBAxrlzRuGKV">
     <a href="javascript:;">
         <img src="/v/jube027pl/jube027pl.jpg" width="WIDTH" height="HEIGHT" alt="jube027pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Onodera Mai ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jube027pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Onodera Mai ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jube027pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

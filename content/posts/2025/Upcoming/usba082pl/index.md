@@ -3,9 +3,9 @@ author: j91
 title: USBA-082 Aphrodisiac Oil Makes This Horny Lesbian Slut Unstoppable
 
 url: /v/usba082pl
-date: 0000-03-22T01:22:00Z
+date: 2025-03-21T16:22:00Z
 image: "usba082pl.jpg"
-tags: [Upcoming releases, Lesbian,Big Tits,Slut,Breasts,Lesbian Kiss	]
+tags: [Censored, Lesbian,Big Tits,Slut,Breasts,Lesbian Kiss	]
 maker: [ Avs  ]
 actress: [ Tsubaki Rika ,Mizukawa Jun]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsubaki Rika ,Mizukawa Jun]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="6oGgw9lZAyC9agX">
     <a href="javascript:;">
         <img src="/v/usba082pl/usba082pl.jpg" width="WIDTH" height="HEIGHT" alt="usba082pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsubaki Rika ,Mizukawa Jun]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/usba082pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsubaki Rika ,Mizukawa Jun]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/usba082pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
