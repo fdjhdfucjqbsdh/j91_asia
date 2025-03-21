@@ -1,21 +1,21 @@
 ---
 author: j91
-title: SCPX-524 I Mistook Her For My Girlfriend And Ended Up Cumming Inside Her Mother!
+title: KSAT-092 "There's No Escape!" A Female Student Who Gave Up Resistance
 
-url: /v/scpx524pl
-date: 2025-03-21T16:50:00Z
-image: "scpx524pl.jpg"
-tags: [Censored, Blow,Creampie,Married Woman,4HR+,Mature Woman,Impromptu Sex	]
-maker: [ K.M.Produce  ]
+url: /v/ksat092pl
+date: 2025-03-21T16:00:00Z
+image: "ksat092pl.jpg"
+tags: [Censored, Humiliation,School Girls,4HR+,School Uniform	]
+maker: [Kensha No Shokutaku- Mousozoku  ]
 actress: [ ]
 ---
 
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="8qDobg3xm0uMgR">
+<div class="video" data-videoid="bzAMo0PRmDhPp2v">
     <a href="javascript:;">
-        <img src="/v/scpx524pl/scpx524pl.jpg" width="WIDTH" height="HEIGHT" alt="scpx524pl.mp4" loading="lazy">
+        <img src="/v/ksat092pl/ksat092pl.jpg" width="WIDTH" height="HEIGHT" alt="ksat092pl.mp4" loading="lazy">
     </a>
 </div>
 
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="/v/scpx524pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksat092pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="/v/scpx524pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksat092pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
