@@ -3,7 +3,7 @@ author: j91
 title: START-273 [Room Barrier] Sodstar Collaboration Special! ~Welcome To My Very Own Lewd Swimming School! ~Two Beautiful Coaches With Outstanding Styles Are Washed And Dominated As My Personal Obedient Pets, Honjo Suzu And Kamiki Rei
 
 url: /v/start273vpl
-date: 2025-03-24T16:11:00Z
+date: 2025-03-24T16:22:00Z
 image: "start273vpl.jpg"
 tags: [Censored, Creampie, Nasty&Hardcore, School Swimsuit]
 maker: [SOD Create]

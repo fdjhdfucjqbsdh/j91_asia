@@ -3,7 +3,7 @@ author: j91
 title: START-307 A New Female Announcer, Koi, Who Is A Neat And Tidy Girl By Day, Helps Me Practice My Voice While I’m Working Overtime At Night. She Whispers Extremely Vulgar And Pure Dirty Words In My Ear And Comforts Me With Her Finger Techniques And Nipple Licking That Gently Embraces Me. Nagisa Koi, My Divine Classmate
 
 url: /v/start307pl
-date: 2025-03-24T16:11:00Z
+date: 2025-03-24T16:22:00Z
 image: "start307pl.jpg"
 tags: [Censored, Anchorwoman, Couple, Dirty Words, OL, Older Sister, Solowork]
 maker: [SOD Create]
