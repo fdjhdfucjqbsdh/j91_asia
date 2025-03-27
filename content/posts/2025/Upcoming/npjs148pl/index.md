@@ -3,9 +3,9 @@ author: j91
 title: NPJS-148 [Private Shoot] Ahegu Big-breasted Wife. A Secret Account Big-breasted Wife Who Applied For A Private Shoot To Earn Money To Give To Her Host. "Depending On The Amount, I'll Even Do It Raw..." Once The Shoot Begins, She Becomes A Pervert And Loses Her Reason And Becomes Immersed In Sex. [Sold With Permission] Married Woman, Ms. H
 
 url: /v/npjs148pl
-date: 0000-03-28T01:09:00Z
+date: 2025-03-27T16:09:00Z
 image: "npjs148pl.jpg"
-tags: [Upcoming releases, Blow,Amateur,Big Tits,Married Woman,POV	]
+tags: [Censored, Blow,Amateur,Big Tits,Married Woman,POV	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="0RBWk0qlyMFbrkr">
     <a href="javascript:;">
         <img src="/v/npjs148pl/npjs148pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs148pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs148pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs148pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

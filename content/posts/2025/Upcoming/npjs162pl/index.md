@@ -3,9 +3,9 @@ author: j91
 title: NPJS-162 \OL's Secret Day Off/ A Hot Married Woman. 8 Secret Meetings With An Active OL She Found On SNS!?
 
 url: /v/npjs162pl
-date: 0000-03-28T01:09:00Z
+date: 2025-03-27T16:09:00Z
 image: "npjs162pl.jpg"
-tags: [Upcoming releases, OL,Blow,Older Sister,Amateur,POV	]
+tags: [Censored, OL,Blow,Older Sister,Amateur,POV	]
 maker: [Nampa JAPAN]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="bgwXBRgjxvTQ38">
     <a href="javascript:;">
         <img src="/v/npjs162pl/npjs162pl.jpg" width="WIDTH" height="HEIGHT" alt="npjs162pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/npjs162pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/npjs162pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

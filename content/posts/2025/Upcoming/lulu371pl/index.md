@@ -3,9 +3,9 @@ author: j91
 title: LULU-371 During Overtime, A New Graduate With Fair Skin And Beautiful Breasts, Shizuka, Is Forced To Be An Underwear Model In The Office With Only Two People And Cannot Stand The Sticky Nipple Harassment Of Her Middle-aged Boss, Who She Dislikes, And Is Made To Humiliate Her Nipples.
 
 url: /v/lulu371pl
-date: 0000-03-28T01:25:00Z
+date: 2025-03-27T16:25:00Z
 image: "lulu371pl.jpg"
-tags: [Upcoming releases, OL,Creampie,Solowork,Breasts,Lingerie	]
+tags: [Censored, OL,Creampie,Solowork,Breasts,Lingerie	]
 maker: [LUNATICS]
 actress: [ Shizuka]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="Zr13MGa2w3fqpoV">
     <a href="javascript:;">
         <img src="/v/lulu371pl/lulu371pl.jpg" width="WIDTH" height="HEIGHT" alt="lulu371pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/lulu371pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/lulu371pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

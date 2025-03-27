@@ -3,9 +3,9 @@ author: j91
 title: JJDA-059 Teacher Reiko From Class 2, A Beautiful And Intelligent Female Teacher Whose Ripe Charm Makes Me Get An Erection Despite My Age... Reiko Kobayakawa
 
 url: /v/jjda059pl
-date: 0000-03-28T01:21:00Z
+date: 2025-03-27T16:21:00Z
 image: "jjda059pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Female Teacher,Big Tits,Affair,Mature Woman	]
+tags: [Censored, Creampie,Solowork,Female Teacher,Big Tits,Affair,Mature Woman	]
 maker: [Jukujo Daigaku- Jukujo Manji]
 actress: [ Kobayakawa Reiko]
 ---
@@ -13,13 +13,13 @@ actress: [ Kobayakawa Reiko]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="j7K1pjwgrxCzzzb">
     <a href="javascript:;">
         <img src="/v/jjda059pl/jjda059pl.jpg" width="WIDTH" height="HEIGHT" alt="jjda059pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kobayakawa Reiko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/jjda059pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kobayakawa Reiko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/jjda059pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
