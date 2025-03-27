@@ -3,9 +3,9 @@ author: j91
 title: FOCS-242 Suddenly Soaked By A Sudden Downpour, The Raw And Voluptuous H-cup Of My Senior Makes Me Lose My Mind And I Get Pounded Hard In This Sex Scene With Yuika Onozaka
 
 url: /v/focs242pl
-date: 0000-03-28T01:20:00Z
+date: 2025-03-27T16:20:00Z
 image: "focs242pl.jpg"
-tags: [Upcoming releases, OL,Creampie,Solowork,Big Tits,Business Attire,Subordinates - Colleagues	]
+tags: [Censored, OL,Creampie,Solowork,Big Tits,Business Attire,Subordinates - Colleagues	]
 maker: [Abc- Mousou Zoku]
 actress: [ Onosaka Yuika]
 ---
@@ -13,13 +13,13 @@ actress: [ Onosaka Yuika]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="3pYVvoj9qwHDAP">
     <a href="javascript:;">
         <img src="/v/focs242pl/focs242pl.jpg" width="WIDTH" height="HEIGHT" alt="focs242pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Onosaka Yuika]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/focs242pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Onosaka Yuika]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/focs242pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

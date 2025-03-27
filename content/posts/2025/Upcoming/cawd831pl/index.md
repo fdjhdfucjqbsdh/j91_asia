@@ -3,9 +3,9 @@ author: j91
 title: CAWD-831 If You Get Drunk, You'll Get Laid 99.9% Of The Time... A Video Of A G-girl Beauty Caught On Camera During A Professional Baseball Broadcast, Squirting To Win The Championship, Her Face Covered In Semen, And A Massive Creampie Orgasm And Crazy Orgy. A Home Drinking Sex Video.
 
 url: /v/cawd831pl
-date: 0000-03-28T01:50:00Z
+date: 2025-03-27T16:50:00Z
 image: "cawd831pl.jpg"
-tags: [Upcoming releases, Creampie,3P, 4P,POV,Beautiful Girl,Slender	]
+tags: [Censored, Creampie,3P, 4P,POV,Beautiful Girl,Slender	]
 maker: [Kawaii]
 actress: [ ]
 ---
@@ -13,13 +13,13 @@ actress: [ ]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="P7dplGr4vLh0aL9">
     <a href="javascript:;">
         <img src="/v/cawd831pl/cawd831pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd831pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ ]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd831pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ ]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd831pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

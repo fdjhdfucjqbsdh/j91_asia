@@ -3,9 +3,9 @@ author: j91
 title: ADN-669 Please Forgive Me... Brother-in-law's Carnal Desires 3 Ran Kamiki
 
 url: /v/adn669pl
-date: 0000-03-28T01:40:00Z
+date: 2025-03-27T16:40:00Z
 image: "adn669pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Bride, Young Wife,Affair,Drama,Cuckold	]
+tags: [Censored, Creampie,Solowork,Bride, Young Wife,Affair,Drama,Cuckold	]
 maker: [Attackers]
 actress: [ Kamiki Ran]
 ---
@@ -13,13 +13,13 @@ actress: [ Kamiki Ran]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="eqB42zP3zPhjqg">
     <a href="javascript:;">
         <img src="/v/adn669pl/adn669pl.jpg" width="WIDTH" height="HEIGHT" alt="adn669pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kamiki Ran]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/adn669pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kamiki Ran]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/adn669pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

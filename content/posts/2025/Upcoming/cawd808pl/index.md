@@ -3,9 +3,9 @@ author: j91
 title: CAWD-808 Mayuki Ito Infiltrates A Women-only Brothel!! She's Mesmerized By The Amazing Fingering Technique That Specializes In Satisfying Women. Even Though It's Not Allowed To Have Sex, She Can't Help But Do It In This Private Hidden Camera Video.
 
 url: /v/cawd808pl
-date: 0000-03-28T01:50:00Z
+date: 2025-03-27T16:50:00Z
 image: "cawd808pl.jpg"
-tags: [Upcoming releases, Solowork,Voyeur,Big Tits,POV,Massage,Documentary	]
+tags: [Censored, Solowork,Voyeur,Big Tits,POV,Massage,Documentary	]
 maker: [Kawaii]
 actress: [ Itou Mayuki]
 ---
@@ -13,13 +13,13 @@ actress: [ Itou Mayuki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="olDPA6yBXVUJwW2">
     <a href="javascript:;">
         <img src="/v/cawd808pl/cawd808pl.jpg" width="WIDTH" height="HEIGHT" alt="cawd808pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itou Mayuki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/cawd808pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itou Mayuki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/cawd808pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

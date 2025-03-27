@@ -3,9 +3,9 @@ author: j91
 title: ATID-616 Was Forced To Work As A Soapland Girl Because Of My Brother's Debt, And Was Humiliated Until I Was Satisfied. Manami Oura
 
 url: /v/atid616pl
-date: 0000-03-28T01:40:00Z
+date: 2025-03-27T16:40:00Z
 image: "atid616pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Older Sister,Abuse,Drama,Soapland	]
+tags: [Censored, Creampie,Solowork,Older Sister,Abuse,Drama,Soapland	]
 maker: [Attackers]
 actress: [ Ooura Manami]
 ---
@@ -13,13 +13,13 @@ actress: [ Ooura Manami]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="yP4moZmA2bHeX7">
     <a href="javascript:;">
         <img src="/v/atid616pl/atid616pl.jpg" width="WIDTH" height="HEIGHT" alt="atid616pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Ooura Manami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/atid616pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Ooura Manami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/atid616pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

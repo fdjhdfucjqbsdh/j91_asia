@@ -3,9 +3,9 @@ author: j91
 title: WAAA-507 Bodily Fluids Dripping Drowning Holy Water Salon! Soaking Wet! Drink All The Pee, Saliva, And Jet Tide Tsukinoe Sui
 
 url: /v/waaa507pl
-date: 0000-03-28T01:45:00Z
+date: 2025-03-27T16:45:00Z
 image: "waaa507pl.jpg"
-tags: [Upcoming releases, Solowork,Squirting,Urination,Kiss,Sweat,Acme · Orgasm	]
+tags: [Censored, Solowork,Squirting,Urination,Kiss,Sweat,Acme · Orgasm	]
 maker: [WANZ FACTORY]
 actress: [ Tsukinoe Sui]
 ---
@@ -13,13 +13,13 @@ actress: [ Tsukinoe Sui]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="aoWQ1QB7ZRCx1zo">
     <a href="javascript:;">
         <img src="/v/waaa507pl/waaa507pl.jpg" width="WIDTH" height="HEIGHT" alt="waaa507pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Tsukinoe Sui]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/waaa507pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Tsukinoe Sui]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/waaa507pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

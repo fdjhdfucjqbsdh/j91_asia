@@ -3,9 +3,9 @@ author: j91
 title: BOBB-433 Introducing The Popular L-cup Fudol With A Waiting List! Thoroughly Enjoy The Huge Breasts Of A Hokkaido Girl Raised In The Northern Land! Boin "Shiroyuki Mizuki" Box
 
 url: /v/bobb433pl
-date: 0000-03-28T01:20:00Z
+date: 2025-03-27T16:20:00Z
 image: "bobb433pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Big Tits,Beautiful Girl,Busty Fetish,Ultra-Huge Tits	]
+tags: [Censored, Creampie,Solowork,Big Tits,Beautiful Girl,Busty Fetish,Ultra-Huge Tits	]
 maker: [Abc- Mousou Zoku]
 actress: [ Shirayuki Mizuki]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirayuki Mizuki]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="DobJYGA7rlck71Z">
     <a href="javascript:;">
         <img src="/v/bobb433pl/bobb433pl.jpg" width="WIDTH" height="HEIGHT" alt="bobb433pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirayuki Mizuki]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/bobb433pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirayuki Mizuki]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/bobb433pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

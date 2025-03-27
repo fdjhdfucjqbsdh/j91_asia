@@ -3,9 +3,9 @@ author: j91
 title: JUNY-149 A Famous Kobe Store Where Reservations Are Hard To Get, And Even Though She Is Still Active, She Has Become A Legend. A Natural Plump, Divine I-cup Soapland Girl Who Will Heal You To The Core Of Your Body And Mind Makes Her AV Debut! Minato Sakuragi
 
 url: /v/juny149pl
-date: 0000-03-28T01:35:00Z
+date: 2025-03-27T16:35:00Z
 image: "juny149pl.jpg"
-tags: [Upcoming releases, Solowork,Big Tits,Titty Fuck,Debut Production,Prostitutes,Huge Butt	]
+tags: [Censored, Solowork,Big Tits,Titty Fuck,Debut Production,Prostitutes,Huge Butt	]
 maker: [Fitch]
 actress: [ Sakuragi Minato]
 ---
@@ -13,13 +13,13 @@ actress: [ Sakuragi Minato]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link.html">
+<div class="video" data-videoid="P9aKJvwbgWi07O4">
     <a href="javascript:;">
         <img src="/v/juny149pl/juny149pl.jpg" width="WIDTH" height="HEIGHT" alt="juny149pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Sakuragi Minato]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/juny149pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Sakuragi Minato]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/juny149pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
