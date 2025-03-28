@@ -3,9 +3,9 @@ author: j91
 title: FWTR-018 "Your Mom Is Too Sexy!" 50-year-old Mother Yoshii Miki Captivates Her Son's Friend With Her Defenseless, Plump, Busty Body
 
 url: /v/fwtr018pl
-date: 0000-03-29T01:22:00Z
+date: 2025-03-28T16:22:00Z
 image: "fwtr018pl.jpg"
-tags: [Upcoming releases, Solowork,Masturbation,Big Tits,Married Woman,Mature Woman,Cuckold	]
+tags: [Censored, Solowork,Masturbation,Big Tits,Married Woman,Mature Woman,Cuckold	]
 maker: [ Fuwatoro Jukujo - Emanuel  ]
 actress: [ Isawa Ryouko]
 ---
@@ -13,13 +13,13 @@ actress: [ Isawa Ryouko]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="pzJ0vvdg78trykK">
     <a href="javascript:;">
         <img src="/v/fwtr018pl/fwtr018pl.jpg" width="WIDTH" height="HEIGHT" alt="fwtr018pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Isawa Ryouko]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fwtr018pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Isawa Ryouko]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fwtr018pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
