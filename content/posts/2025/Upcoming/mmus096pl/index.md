@@ -3,9 +3,9 @@ author: j91
 title: MMUS-096 Little Devil Provocative Beautiful Girl Yuna Hinano
 
 url: /v/mmus096pl
-date: 0000-03-29T01:50:00Z
+date: 2025-03-28T16:50:00Z
 image: "mmus096pl.jpg"
-tags: [Upcoming releases, Solowork,Underwear,Dirty Words	]
+tags: [Censored, Solowork,Underwear,Dirty Words	]
 maker: [ Marrion]
 actress: [ Hinano Yuna]
 ---
@@ -13,13 +13,13 @@ actress: [ Hinano Yuna]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="6BdpYQzDOMI9YMx">
     <a href="javascript:;">
         <img src="/v/mmus096pl/mmus096pl.jpg" width="WIDTH" height="HEIGHT" alt="mmus096pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Hinano Yuna]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/mmus096pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Hinano Yuna]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/mmus096pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

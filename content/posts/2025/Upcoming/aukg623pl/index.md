@@ -3,9 +3,9 @@ author: j91
 title: AUKG-623 Lesbian Best Friends, From Friends To Couple... The Sweet Life Of Two Girls
 
 url: /v/aukg623pl
-date: 0000-03-29T01:01:00Z
+date: 2025-03-28T16:01:00Z
 image: "aukg623pl.jpg"
-tags: [Upcoming releases, Lesbian,Older Sister,Breasts,Slender,Drama	]
+tags: [Censored, Lesbian,Older Sister,Breasts,Slender,Drama	]
 maker: [ U & K]
 actress: [ Itou Meru, Kirika Yuuri]
 ---
@@ -13,13 +13,13 @@ actress: [ Itou Meru, Kirika Yuuri]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="OAWewWVD0MfZyrG">
     <a href="javascript:;">
         <img src="/v/aukg623pl/aukg623pl.jpg" width="WIDTH" height="HEIGHT" alt="aukg623pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Itou Meru, Kirika Yuuri]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/aukg623pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Itou Meru, Kirika Yuuri]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/aukg623pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

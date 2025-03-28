@@ -3,9 +3,9 @@ author: j91
 title: FJIN-069 Too Much Hip-shaking Strap-on Male Squirting Female Orgasm FUCK!! Men Who Fell Into Female Status After Being Anally Violated By A Cheeky Nurse Shirasaki Mirei
 
 url: /v/fjin069pl
-date: 0000-03-29T01:50:00Z
+date: 2025-03-28T16:50:00Z
 image: "fjin069pl.jpg"
-tags: [Upcoming releases, Solowork,Slut,Nurse,Submissive Men,Male Squirting	]
+tags: [Censored, Solowork,Slut,Nurse,Submissive Men,Male Squirting	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Shirasaki Mirei]
 ---
@@ -13,13 +13,13 @@ actress: [ Shirasaki Mirei]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="wdVZV7epLaUxpl">
     <a href="javascript:;">
         <img src="/v/fjin069pl/fjin069pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin069pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shirasaki Mirei]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fjin069pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shirasaki Mirei]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fjin069pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

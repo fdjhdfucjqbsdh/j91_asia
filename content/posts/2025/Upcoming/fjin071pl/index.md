@@ -3,9 +3,9 @@ author: j91
 title: FJIN-071 Amateur Swallowing File 001 A Neat Wife Living In A Boring Suburb Is A Cheated Wife Who Is Healed By The Semen Of An Unemployed Man... A Big Dick Blowjob, Oral Sex, Cum Swallowing, 1 Night 2 Day Throat Fucking Trip Igarashi Seika
 
 url: /v/fjin071pl
-date: 0000-03-29T01:50:00Z
+date: 2025-03-28T16:50:00Z
 image: "fjin071pl.jpg"
-tags: [Upcoming releases, Blow,Solowork,Married Woman,Cum,Cuckold,Travel	]
+tags: [Censored, Blow,Solowork,Married Woman,Cum,Cuckold,Travel	]
 maker: [ FunCity - Mousozoku  ]
 actress: [ Igarashi Kiyoka]
 ---
@@ -13,13 +13,13 @@ actress: [ Igarashi Kiyoka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="kpZ4x8WPKJhPOx">
     <a href="javascript:;">
         <img src="/v/fjin071pl/fjin071pl.jpg" width="WIDTH" height="HEIGHT" alt="fjin071pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Igarashi Kiyoka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/fjin071pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Igarashi Kiyoka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/fjin071pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

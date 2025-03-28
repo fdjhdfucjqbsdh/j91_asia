@@ -3,9 +3,9 @@ author: j91
 title: EMBZ-320 **The Fragrant Steamy Soles Of A Ripe Amateur Wife Akagi Honami
 
 url: /v/embz320pl
-date: 0000-03-29T01:22:00Z
+date: 2025-03-28T16:22:00Z
 image: "embz320pl.jpg"
-tags: [Upcoming releases, Solowork,Humiliation,Pantyhose,Other Fetish,Mature Woman,Leg Fetish	]
+tags: [Censored, Solowork,Humiliation,Pantyhose,Other Fetish,Mature Woman,Leg Fetish	]
 maker: [ Juku Onna Juku - Emmanuelle  ]
 actress: [ Akagi Honami]
 ---
@@ -13,13 +13,13 @@ actress: [ Akagi Honami]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="vYwa6evDAkT4Rv7">
     <a href="javascript:;">
         <img src="/v/embz320pl/embz320pl.jpg" width="WIDTH" height="HEIGHT" alt="embz320pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Akagi Honami]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/embz320pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Akagi Honami]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/embz320pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

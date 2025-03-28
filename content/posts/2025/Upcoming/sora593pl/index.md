@@ -3,9 +3,9 @@ author: j91
 title: SORA-593 Forced Drug Addicted I Kidnapped The Neat And Clean JD Who Insulted Me! I Slapped Her, Choked Her, And She Overdosed, Moaned, Rolled Her Eyes, And Her Beautiful Face Collapsed! Shizuka
 
 url: /v/sora593pl
-date: 0000-03-29T01:50:00Z
+date: 2025-03-28T16:50:00Z
 image: "sora593pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Abuse,Female College Student,Drug	]
+tags: [Censored, Creampie,Solowork,Abuse,Female College Student,Drug	]
 maker: [ Yama To Sora]
 actress: [ Shizuka]
 ---
@@ -13,13 +13,13 @@ actress: [ Shizuka]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="Zr1vzxLbb1Fqpr8">
     <a href="javascript:;">
         <img src="/v/sora593pl/sora593pl.jpg" width="WIDTH" height="HEIGHT" alt="sora593pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Shizuka]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/sora593pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Shizuka]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/sora593pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

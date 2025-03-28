@@ -3,9 +3,9 @@ author: j91
 title: XVSR-804 Close-up French Kissing Schoolgirl And Teacher's Raw Creampie Sex Kashiwagi Konatsu
 
 url: /v/xvsr804pl
-date: 0000-03-29T01:55:00Z
+date: 2025-03-28T16:55:00Z
 image: "xvsr804pl.jpg"
-tags: [Upcoming releases, Blow,Creampie,Solowork,School Girls,Big Tits,Kiss	]
+tags: [Censored, Blow,Creampie,Solowork,School Girls,Big Tits,Kiss	]
 maker: [ MAX-A ]
 actress: [ Kashiwagi Konatsu]
 ---
@@ -13,13 +13,13 @@ actress: [ Kashiwagi Konatsu]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="zD0pBbBRZeHYZjd">
     <a href="javascript:;">
         <img src="/v/xvsr804pl/xvsr804pl.jpg" width="WIDTH" height="HEIGHT" alt="xvsr804pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kashiwagi Konatsu]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/xvsr804pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kashiwagi Konatsu]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/xvsr804pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>

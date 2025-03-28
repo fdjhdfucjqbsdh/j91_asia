@@ -3,9 +3,9 @@ author: j91
 title: KSBJ-370 My Fiance's Father Was My Former "dad"... Mai Hanagari
 
 url: /v/ksbj370pl
-date: 0000-03-29T01:50:00Z
+date: 2025-03-28T16:50:00Z
 image: "ksbj370pl.jpg"
-tags: [Upcoming releases, Creampie,Solowork,Married Woman,Breasts,Bride, Young Wife,Drama	]
+tags: [Censored, Creampie,Solowork,Married Woman,Breasts,Bride, Young Wife,Drama	]
 maker: [ KSB Kikaku - Emmanuelle  ]
 actress: [ Kagari Mai]
 ---
@@ -13,13 +13,13 @@ actress: [ Kagari Mai]
 
 {{< rawhtml >}}
 
-<div class="video" data-videoid="pending_link_2.html">
+<div class="video" data-videoid="ewY19QdLBAcYdOV">
     <a href="javascript:;">
         <img src="/v/ksbj370pl/ksbj370pl.jpg" width="WIDTH" height="HEIGHT" alt="ksbj370pl.mp4" loading="lazy">
     </a>
 </div>
 
-<script type="text/javascript" src="https://j91.asia/asset/on-demand-pend.js"></script>
+<script type="text/javascript" src="https://j91.asia/asset/on-demand-st.js"></script>
 
 <br>
   <link rel="stylesheet" href="https://j91.asia/asset/bs5.css">
@@ -33,7 +33,7 @@ actress: [ Kagari Mai]
       <div class="card card-body">
 	      	      <br>
 <div class="buttons">  
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
+<p><a href="/v/ksbj370pl/st.html" target="_blank"><button class="btn-hover color-3"><i class="fa fa-download"></i> ST</button></a></p></div>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ actress: [ Kagari Mai]
       <div class="card card-body">
 	      <br>
 <div class="buttons">
-<p><a href="https://j91.asia/pending_link_2.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
+<p><a href="/v/ksbj370pl/sw.html" target="_blank"><button class="btn-hover color-2"><i class="fa fa-download"></i> SW</button></a></p></div>
 <br><br>
       </div>
     </div>
